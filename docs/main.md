@@ -18,6 +18,12 @@ feel free to add any missing group or conference.
 To propose a change, just click the pencil icon
 in the top left hand corner.
 
+
+### Technical bit {-}
+
+The html files for this document live in the `docs/` directory of the [repository](https://github.com/jumpingrivers/meetingsR/). Travis
+creates the html files from the `.Rmd` files and commits them to the `docs/` directory.
+
 <!--chapter:end:index.Rmd-->
 
 ---
