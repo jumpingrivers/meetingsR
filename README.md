@@ -5,4 +5,7 @@ This site attempts to list R conferences and local useR groups. Please
 feel free to add any missing group or conference. 
 
 To propose a change, just click the pencil icon
-in the top left hand corner.
+in the top left hand corner of the [web](https://jumpingrivers.github.io/meetingsR/) 
+version.
+
+
