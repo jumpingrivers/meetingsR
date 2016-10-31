@@ -82,7 +82,7 @@ knit: "bookdown::preview_chapter"
   
 #### Iowa {-}
 
-  * Des Moines: [Central Iowa R Users Group](http://www.meetup.com/Central-Iowa-R-User-Group/)[Central Iowa R Users Group]
+  * Des Moines: [Central Iowa R Users Group](http://www.meetup.com/Central-Iowa-R-User-Group/)
 
 #### Kansas {-}
 
