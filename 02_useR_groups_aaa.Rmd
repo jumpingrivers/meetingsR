@@ -1,0 +1,14 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+# R User Groups
+
+UseR groups are listed by contintent then by country. Where appropriate, useR groups are 
+divided within country, e.g. in the USA, by state & in the United Kingdom, by member country.
+
+The suggested format for listing a group is
+
+  * Town name: [Group name & link](http://www.example.com/); [\@Twitter_handle](http://www.example.com/)
+
+This lists was originally compiled using the information from the [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.

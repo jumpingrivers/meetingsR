@@ -1,0 +1,17 @@
+bookdown::gitbook:
+  css: [css/style.css,style.css] #A hacky fix to make it work with chapter preview
+  config:
+    toc:
+      collapse: subsection
+      before: |
+        <li><a href="./">R Conferences and Meetings</a></li>
+      after: |
+        <li><a href="http://www.jumpingrivers.com">Jumping Rivers</a></li>
+    edit:
+      link: https://github.com/jumpingrivers/meetingsR/edit/master/%s
+      text: "Edit"
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  keep_tex: yes
+

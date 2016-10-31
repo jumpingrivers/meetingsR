@@ -1,0 +1,203 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+## North America
+
+### Canada 
+  
+  * Edmonton: [Edmonton R User Group](https://alberta.collegiatelink.net/organization/erug)
+  * Montréal: [Montreal R User Group](http://www.meetup.com/Montreal-R-User-Group/)
+  * Ottawa: [Ottawa Gatineau R Users Group](https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa)
+  * Ottawa: [R Helpdesk](http://www.meetup.com/R-Helpdesk/)
+  * Québec: [Plein-R](http://www.coactivate.org/projects/plein-r/project-home) (en Français)
+  * Sherbrooke: [R Users Group de Sherbrooke](http://www.meetup.com/R-Users-Group-de-Sherbrooke/)
+  * Toronto: [Greater Toronto Area (GTA) R User's Group](http://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group)
+  * Toronto: [R Matlab Users](http://www.meetup.com/R-Matlab-Users/)
+  * Vancouver: [Vancouver R Users Group](http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/)
+  * Victoria: [Victoria Data Science / R User Group](http://www.meetup.com/Victoria-Data-Scientists/)
+  
+### United States of America
+
+#### Alabama {-} 
+
+  * Birmingham: [BiRmingham R Meetup](http://www.meetup.com/Bi-R-mingham-R-Meetup/)
+
+#### Arkansas {-}  
+  
+  * Bentonville: [Bentonville R User Group](http://www.meetup.com/Bentonville-R-User-Group/)
+  
+#### Arizona {-}
+
+  * Phoenix: [Phoenix R Programmers](http://rphx.wordpress.com/)
+
+#### California {-}
+
+  * Berkeley: [The Berkeley R Language Beginner Study Group](http://www.meetup.com/r-enthusiasts/)
+  * Chico: [Chico R Users Group](http://www.meetup.com/Chico-R-Users-Group/)
+  * Davis: [Davis R Users' Group](http://www.noamross.net/davis-r-users-group.html)
+  * Los Angeles: [Los Angeles Area R Users Group](http://www.meetup.com/LAarea-R-usergroup/)
+  * Monterey: [Group of R Users in the Monterey Peninsula](https://groups.google.com/forum/#%21forum/monterey-grumps)
+  * Orange County: [OCRUG](http://www.meetup.com/OC-RUG) 
+  * Pasadena: [Research Methods and Analytics (R is a main topic)](http://www.meetup.com/Research-Methods-and-Analytics/)
+  * San Diego: [San Diego R Users Group](http://www.meetup.com/San-Diego-R-users-group)
+  * San Francisco / Bay Area: [BARUG](http://www.meetup.com/R-Users/)
+  * Santa Barbara: [Santa Barbara R Users](http://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/)
+  * Whittier: [R Project for Statistical Computing Meetup](http://www.meetup.com/R-Project-for-Statistical-Computing-Meetup/)
+  
+#### Colorado {-}
+
+  * Denver: [Denver R User Group](http://www.meetup.com/DenverRUG/)
+
+#### Connecticut {-}
+
+  * New Haven: [Connecticut R Users Group](http://www.meetup.com/Conneticut-R-Users-Group/)
+
+#### Washington DC {-}
+
+  * Washington: (http://www.meetup.com/stats-prog-dc/)Statistical Programming DC]
+  
+#### Florida {-} 
+
+  * Gainsesville: [R Users Group, Gainesville](http://www.meetup.com/R-Users-Group-Gainesville-FL/)
+  * Miami and Fort Lauderdale: [South Florida useR Group](http://www.meetup.com/South-Florida-useR-Group-R-Programming-Language/)
+  
+#### Georgia {-}
+
+  * Atlanta: [Atlanta R User's Group](http://www.meetup.com/R-Users-Atlanta/)
+
+#### Hawaii {-}  
+
+  * Honolulu: [Honolulu R Users Group](http://www.meetup.com/Honolulu-R-Users-Group/)
+ 
+#### Illinois {-}
+
+  * Chicago: [Chicago R Users Group](http://www.meetup.com/ChicagoRUG/)
+  * Chicago: [Chicago North West Suburbs R user group](http://www.meetup.com/Chicago-North-West-Suburbs-R-user-group/)
+
+#### Indiana {-}
+
+  * Indianapolis: [Indy useR Group](http://www.meetup.com/Indy-useR-Group/)
+  * Notre Dame: [Michiana R Users Group](http://www.meetup.com/Chicago-North-West-Suburbs-R-user-group/)
+  
+#### Iowa {-}
+
+  * Des Moines: [Central Iowa R Users Group](http://www.meetup.com/Central-Iowa-R-User-Group/)[Central Iowa R Users Group]
+
+#### Kansas {-}
+
+  * Kansas City: [Kansas City R Users Group](http://groupspaces.com/KCRUsersGroup/)
+
+#### Massachusetts {-}
+
+  * Boston: [Greater Boston useR Group](http://www.meetup.com/Boston-useR/)
+  * Northampton: [Western Mass Data Science, Stats, and R](http://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/)
+
+#### Michigan {-}
+
+  * Ann Arbor: [Ann Arbor R User Group](http://www.meetup.com/Ann-Arbor-R-User-Group/)
+  * Detroit: [Detroit useR Group](http://www.meetup.com/Detroit-useR-Group-R-Programming-Language/)
+  * Lansing: [Lansing Area R Users Group](http://www.meetup.com/Lansing-Area-R-Users-Group/)
+
+#### Minnesota {-}
+
+  * Minneapolis and St. Paul: [Twin Cities R User Group](http://www.meetup.com/twincitiesrug/)
+
+#### Missouri {-}
+
+  * Kansas City: [Kansas City R Users Group](http://www.meetup.com/Kansas-City-R-Users-Group/)
+  * Saint Louis: [Saint Louis R User Group](http://www.meetup.com/Saint-Louis-RUG/)
+
+#### Montana {-}
+
+  * Bozeman: [Bozeman Area R useR Group](http://www.meetup.com/bozeman-user-group-r-programming-language/)
+
+#### Nevada {-}
+
+  * Las Vegas: [Las Vegas R Users Group](http://www.meetup.com/Las-Vegas-R-Users-Group/)
+  * Reno: [Reno R Users](http://www.meetup.com/Reno-R-Users/)
+
+#### New Jersey {-}
+
+  * Morristown: [Morris Data Science](http://www.meetup.com/Morris-Data-Science/)
+  * Newark: [NewJerseyR](http://newjerseyr.org/)
+  * Princeton: Central New Jersey R User Group (contact rees@reesmorrison.com)
+  * Trenton: [TRU](http://www.meetup.com/TRUgroup/)
+
+#### New Hampshire {-}
+
+  * Durham: [NH UserRs](http://nhusers.com/)
+
+#### New York {-}
+
+  * Albany: [Albany R Users Group](http://www.meetup.com/Albany-R-Users-Group/)
+  * New York: [New York Open Statistical Programming Meetup](http://www.meetup.com/nyhackr/)
+  * New York: [New York R User Group](http://www.meetup.com/New-York-R-Users-Group/)
+  * New York: [Columbia R Statistical Programming Group](http://groups.google.com/group/columbiaR)
+  * New York, Rochester: [Rochester R Users Group Meetup](http://www.meetup.com/Rochester-R-Users-Group-Meetup/)
+  
+#### North Carolina {-}
+
+  * Charlotte: [Charlotte R Users Group](http://www.meetup.com/Charlotte-R-Users-Group/)
+  * Raleigh-Durham: [Raleigh-Durham-Chapel Hill R Users Group](http://www.meetup.com/Triangle-useR/)
+  * Winston Salem: [Winston-Salem R Users Group](http://www.meetup.com/Winston-Salem-R-Users-Group/files/)
+
+#### Ohio {-}
+
+  * Cincinnati/Dayton: [CinDay RUG](http://www.meetup.com/CinDay-RUG/)
+  * Cleveland: [Cleveland UseR Group](http://www.meetup.com/Cleveland-useR-Group/)
+  * Columbus: [Columbus useR Group](http://www.meetup.com/Columbus-useR-Group/events/174539852/)
+
+#### Oregon {-}
+
+  * Portland: [Portland R User Group](http://www.meetup.com/portland-r-user-group)
+
+#### Pennsylvania {-}
+
+  * Bensalem: [R<-gang: R Programming & Statistical Computing Meetup](http://www.meetup.com/R-Helpdesk/)
+  * Philadelphia: [Philadelphia UseR Group](http://phillyr.ning.com/)
+  * Pittsburgh: [Pittsburgh useR Group](http://www.meetup.com/Pittsburgh-useR-Group/)
+  * University Park: [Penn State R User's Group](https://www.facebook.com/groups/WeRPennStateRUsersGroup)
+
+#### Rhode Island {-}
+
+  * Providence: [Narragansette Bay Area R Users](http://www.meetup.com/Narragansett-Bay-Area-R-Users/)
+
+#### Tennessee {-}
+
+  * Kingsport: [Tri-Cities R User Group](https://www.facebook.com/groups/658774270929644/)
+  * Knoxville: [KRUG](http://www.meetup.com/Knoxville-R-Users-Group)
+  * Memphis, TN: [Memphis R Users Group](http://www.meetup.com/Memphis-R-Users-Group/)
+  * Nashville, TN: [Nashville R user Group](http://www.meetup.com/Nashville-R-Users-Group/)
+
+#### Texas {-}
+
+  * Austin: [Austin R User Group](http://www.meetup.com/Austin-R-User-Group/)
+  * Dallas: [Dallas R Users Group](http://www.meetup.com/Dallas-R-Users-Group/)
+  * Houston: [Houston R Users Group](http://www.meetup.com/houstonr/)
+  * Lubbock: [LubbockR Users Group](http://www.meetup.com/lubbockR-Meetup/)
+  * San Antonio: [Alamo City R Users Group](http://www.meetup.com/Alamo-City-R-Users-Group/)
+
+#### Vermont {-}
+
+  * Burlington: [Burlington R Users](http://www.meetup.com/Burlington-R-Users/members/)
+
+#### Virginia {-} 
+
+  * Charlottesville: [UVa R Users Group](http://www.meetup.com/UVa-R-Users-Group/)
+  * Norfolk:[757 R Users Group](http://www.meetup.com/757-R-Users-Group/)
+
+#### Wisconsin {-}
+
+  * Madison: [Madison Area R Users Group](http://groups.google.com/group/maduser)
+  * Milwaukee: The [Milwaukee Chapter of the ASA](http://www.amstat.org/chapters/milwaukee/)
+  * Milwaukee: [Milwaukee R Meetup](http://www.meetup.com/Milwaukee-R-Meetup/)
+
+#### Utah {-}
+
+  * Salt Lake City: [University of Utah R Users Group](https://sites.google.com/site/utahrug/)
+
+#### Washington {-}
+
+  * Seattle: [Seattle UseR Group](http://www.meetup.com/Seattle-useR/)
+  * Spokane: [Inland Northwest R user Group](http://inrug.github.io/)

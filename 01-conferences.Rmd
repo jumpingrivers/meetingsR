@@ -1,0 +1,19 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+# Conferences {#conferences}
+
+The format for listing a conference is:
+
+  * Month: [Conference name & link](http://www.example.com). Town, Country. Twitter name.
+
+## 2017 {-}
+
+  * January: [rstudio:conf](https://www.rstudio.com/conference/). Kissmmee, USA.  
+  * July: UseR! 2017. Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels)
+
+## 2016 {-}
+
+  * July: [UseR! 2016](http://user2016.org/), Stanford, USA.
+  * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.

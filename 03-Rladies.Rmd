@@ -1,0 +1,34 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+# R-Ladies Groups
+
+## Australia
+
+  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/)
+  
+## France
+
+  * Paris: [Paris](https://www.meetup.com/rladies-paris/R-Ladies)
+  
+## Spain
+
+  * Madrid: [Madrid](https://www.meetup.com/rladies-mad/R-Ladies)
+
+## Turkey
+
+  * Turkey, Istanbul: [R-Ladies Istanbul](https://www.meetup.com/R-Ladies-Istanbul/)
+
+## United Kingdom
+
+  * London: [R-Ladies London](https://www.meetup.com/rladies-london/)
+
+## United States of America
+
+  * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
+  * San Francisco: [R-Ladies SF](http://www.meetup.com/R-ladies-SF/)
+  * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
+  * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/)
+  * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
+  * Minneapolis, MN: [R ladies - Twin Cities](http://www.meetup.com/RLadiesTC/)

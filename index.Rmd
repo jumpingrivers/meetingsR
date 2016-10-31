@@ -1,0 +1,19 @@
+--- 
+title: "A list of R conferences and meetings"
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+documentclass: book
+link-citations: yes
+twitter-handle: riversjumping
+description: "A list of R conferences and meetings."
+github-repo: jumpingrivers/meetingsR
+url: 'https\://jumpingrivers.github.io/meetingsR/'
+---
+
+# Overview {-}
+
+This site attempts to list R conferences and local useR groups. Please 
+feel free to add any missing group or conference. 
+
+To propose a change, just click the pencil icon
+in the top left hand corner.
