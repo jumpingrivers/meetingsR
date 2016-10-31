@@ -1,7 +1,5 @@
 --- 
 title: "A list of R conferences and meetings"
-author: ["Colin Gillespie"]
-date: "2016-10-30"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site
 documentclass: book
@@ -14,6 +12,12 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 # Overview {-}
 
+This site attempts to list R conferences and local useR groups. Please 
+feel free to add any missing group or conference. 
+
+To propose a change, just click the pencil icon
+in the top left hand corner.
+
 <!--chapter:end:index.Rmd-->
 
 ---
@@ -22,12 +26,16 @@ knit: "bookdown::preview_chapter"
 
 # Conferences {#conferences}
 
-## 2017
+The format for listing a conference is:
+
+  * Month: [Conference name & link](http://www.example.com). Town, Country. Twitter name.
+
+## 2017 {-}
 
   * January: [rstudio:conf](https://www.rstudio.com/conference/). Kissmmee, USA.  
   * July: UseR! 2017. Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels)
 
-## 2016
+## 2016 {-}
 
   * July: [UseR! 2016](http://user2016.org/), Stanford, USA.
   * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.
@@ -37,7 +45,78 @@ knit: "bookdown::preview_chapter"
 ---
 knit: "bookdown::preview_chapter"
 ---
+
 # R User Groups
+
+UseR groups are listed by contintent then by country. Where appropriate, useR groups are 
+divided within country, e.g. in the USA, by state & in the United Kingdom, by member country.
+
+The suggested format for listing a group is
+
+  * Town name: [Group name & link](http://www.example.com/); [\@Twitter_handle](http://www.example.com/)
+
+This lists was originally compiled using the information from the [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.
+
+<!--chapter:end:02_useR_groups_aaa.Rmd-->
+
+---
+knit: "bookdown::preview_chapter"
+---
+
+## Middle East & Africa
+
+### Benin
+
+  * Cotonou: [Cotonou R Users Group Meetup](http://www.meetup.com/Victoria-Data-Scientists/)
+
+### Egypt
+
+  * Cairo: [Cairo Bioinformatics Group](http://www.meetup.com/Cairo-Bioinformatics-Group/)
+  * Cairo: [Cairo R Users Group](http://www.meetup.com/Cairo-R-Users-Group/)
+
+### Ghana
+
+  * Accra: [Accra R Users Group](http://www.meetup.com/StatsRbourg/)
+
+### Israel
+
+  * Tel Aviv: [Israel R User Group](http://groups.google.com/group/israel-r-user-group)
+
+### Kenya
+
+  * Nairobi: [R Users Group Kenya RUGK](http://www.meetup.com/Napoli-R-User-Group/)
+  
+### Morocco
+
+  * Casablanca: [Casablanca R Users Group](http://www.meetup.com/Casablanca-R-Users-Group/)
+
+### Nigeria
+
+  * Lagos: [Lagos R Users Group](http://www.meetup.com/Lagos-R-Users-Group/)
+
+### Nieria
+
+  * Offa: [Offa R Users Group](http://www.meetup.com/FEDPOFA-R-Users-Group/)
+
+### Senegal
+
+  * Dakar: [DRUG](http://www.meetup.com/DakaR-R-User-Group/)
+
+### South Africa
+
+  * Cape Town: [Cape R Users Group](https://caperuser.wordpress.com/)
+  * Durban: [Durban R Users Group](http://www.meetup.com/Durban-R-Users-Group/)
+  * Johannesburg: [Jo'burg R Users Group](http://www.meetup.com/Joburg-R-Users-Group)
+
+### Tanzania
+
+  * Dar es Salaam: [Dar es Salaam R Users Group](http://www.meetup.com/DarEs-Salaam-R-users/)
+
+### Uganda
+
+  * Kampala: [Kampala R Users Group](http://www.meetup.com/Kampala-R-Users-Group/)
+
+<!--chapter:end:02_useR_groups_africa.Rmd-->
 
 ## Asia
 
@@ -107,6 +186,7 @@ knit: "bookdown::preview_chapter"
 <!--chapter:end:02_useR_groups_asia.Rmd-->
 
 ## Europe
+
 ### Austria
 
   * Vienna: [Vienna<-R](http://www.meetup.com/ViennaR/)
@@ -228,17 +308,17 @@ knit: "bookdown::preview_chapter"
   * Sevilla: [R users](https://sevillarusers.wordpress.com/Sevilla)
 
 
-## Sweden
+### Sweden
   * Stockholm: [StockholmR](http://www.meetup.com/StockholmR/)
 
-## Switzerland
+### Switzerland
   * Basel: [BaselR](http://www.baselr.org/)
   * Geneva: [GenevaR](http://www.geneva-r.org/)
   * Zurich: [Zurich R](http://www.meetup.com/Zurich-R-User-Group/) User Group
 
-## UK
+### UK
 
-### England {-}
+#### England {-}
 
   * Birmingham: [BRUM](http://www.meetup.com/BirminghamR/)
   * Cambridge: [CambR](http://www.cambr.org.uk/)
@@ -249,23 +329,23 @@ knit: "bookdown::preview_chapter"
   * Nottingham: [Nottingham](http://www.meetup.com/NottinghamR-Nottingham-R-Users-Group/) R User group
   * Sheffield: [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/)
 
-### Northern Ireland {-}
+#### Northern Ireland {-}
 
   * Belfast: [Belfast R Users](http://brusers.tumblr.com/)
 
-### Scotland {-}
+#### Scotland {-}
   * Edinburgh: [Edinbr](edinbr.org); [\@edinb_r](https://twitter.com/edinb_r)
   * Inverness: [InveRness](https://www.facebook.com/InveRness-R-User-Group-195100587522377/)
 
-### Wales {-}
+#### Wales {-}
   * Cardiff): [Cardiff](http://www.meetup.com/Cardiff-R-User-Group/) R User Group
   * Swansea: [Swansea](https://sites.google.com/site/swanseauniversityrusergroup/home) University R User Group
   
   
-## Turkey
+### Turkey
   * Ankara: [Turkish Community](http://www.meetup.com/Turkish-Community-of-R/) of R
 
-## Ukraine
+### Ukraine
   * Kyiv: [Kyiv useR! Group](http://www.meetup.com/Kyiv-useR-Group/)
 
 <!--chapter:end:02_useR_groups_europe.Rmd-->
@@ -333,7 +413,239 @@ knit: "bookdown::preview_chapter"
 knit: "bookdown::preview_chapter"
 ---
 
-### South America
+## North America
+
+### Canada 
+  
+  * Edmonton: [Edmonton R User Group](https://alberta.collegiatelink.net/organization/erug)
+  * Montréal: [Montreal R User Group](http://www.meetup.com/Montreal-R-User-Group/)
+  * Ottawa: [Ottawa Gatineau R Users Group](https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa)
+  * Ottawa: [R Helpdesk](http://www.meetup.com/R-Helpdesk/)
+  * Québec: [Plein-R](http://www.coactivate.org/projects/plein-r/project-home) (en Français)
+  * Sherbrooke: [R Users Group de Sherbrooke](http://www.meetup.com/R-Users-Group-de-Sherbrooke/)
+  * Toronto: [Greater Toronto Area (GTA) R User's Group](http://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group)
+  * Toronto: [R Matlab Users](http://www.meetup.com/R-Matlab-Users/)
+  * Vancouver: [Vancouver R Users Group](http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/)
+  * Victoria: [Victoria Data Science / R User Group](http://www.meetup.com/Victoria-Data-Scientists/)
+  
+### United States of America
+
+#### Alabama {-} 
+
+  * Birmingham: [BiRmingham R Meetup](http://www.meetup.com/Bi-R-mingham-R-Meetup/)
+
+#### Arkansas {-}  
+  
+  * Bentonville: [Bentonville R User Group](http://www.meetup.com/Bentonville-R-User-Group/)
+  
+#### Arizona {-}
+
+  * Phoenix: [Phoenix R Programmers](http://rphx.wordpress.com/)
+
+#### California {-}
+
+  * Berkeley: [The Berkeley R Language Beginner Study Group](http://www.meetup.com/r-enthusiasts/)
+  * Chico: [Chico R Users Group](http://www.meetup.com/Chico-R-Users-Group/)
+  * Davis: [Davis R Users' Group](http://www.noamross.net/davis-r-users-group.html)
+  * Los Angeles: [Los Angeles Area R Users Group](http://www.meetup.com/LAarea-R-usergroup/)
+  * Monterey: [Group of R Users in the Monterey Peninsula](https://groups.google.com/forum/#%21forum/monterey-grumps)
+  * Orange County: [OCRUG](http://www.meetup.com/OC-RUG) 
+  * Pasadena: [Research Methods and Analytics (R is a main topic)](http://www.meetup.com/Research-Methods-and-Analytics/)
+  * San Diego: [San Diego R Users Group](http://www.meetup.com/San-Diego-R-users-group)
+  * San Francisco / Bay Area: [BARUG](http://www.meetup.com/R-Users/)
+  * Santa Barbara: [Santa Barbara R Users](http://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/)
+  * Whittier: [R Project for Statistical Computing Meetup](http://www.meetup.com/R-Project-for-Statistical-Computing-Meetup/)
+  
+#### Colorado {-}
+
+  * Denver: [Denver R User Group](http://www.meetup.com/DenverRUG/)
+
+#### Connecticut {-}
+
+  * New Haven: [Connecticut R Users Group](http://www.meetup.com/Conneticut-R-Users-Group/)
+
+#### Washington DC {-}
+
+  * Washington: (http://www.meetup.com/stats-prog-dc/)Statistical Programming DC]
+  
+#### Florida {-} 
+
+  * Gainsesville: [R Users Group, Gainesville](http://www.meetup.com/R-Users-Group-Gainesville-FL/)
+  * Miami and Fort Lauderdale: [South Florida useR Group](http://www.meetup.com/South-Florida-useR-Group-R-Programming-Language/)
+  
+#### Georgia {-}
+
+  * Atlanta: [Atlanta R User's Group](http://www.meetup.com/R-Users-Atlanta/)
+
+#### Hawaii {-}  
+
+  * Honolulu: [Honolulu R Users Group](http://www.meetup.com/Honolulu-R-Users-Group/)
+ 
+#### Illinois {-}
+
+  * Chicago: [Chicago R Users Group](http://www.meetup.com/ChicagoRUG/)
+  * Chicago: [Chicago North West Suburbs R user group](http://www.meetup.com/Chicago-North-West-Suburbs-R-user-group/)
+
+#### Indiana {-}
+
+  * Indianapolis: [Indy useR Group](http://www.meetup.com/Indy-useR-Group/)
+  * Notre Dame: [Michiana R Users Group](http://www.meetup.com/Chicago-North-West-Suburbs-R-user-group/)
+  
+#### Iowa {-}
+
+  * Des Moines: [Central Iowa R Users Group](http://www.meetup.com/Central-Iowa-R-User-Group/)[Central Iowa R Users Group]
+
+#### Kansas {-}
+
+  * Kansas City: [Kansas City R Users Group](http://groupspaces.com/KCRUsersGroup/)
+
+#### Massachusetts {-}
+
+  * Boston: [Greater Boston useR Group](http://www.meetup.com/Boston-useR/)
+  * Northampton: [Western Mass Data Science, Stats, and R](http://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/)
+
+#### Michigan {-}
+
+  * Ann Arbor: [Ann Arbor R User Group](http://www.meetup.com/Ann-Arbor-R-User-Group/)
+  * Detroit: [Detroit useR Group](http://www.meetup.com/Detroit-useR-Group-R-Programming-Language/)
+  * Lansing: [Lansing Area R Users Group](http://www.meetup.com/Lansing-Area-R-Users-Group/)
+
+#### Minnesota {-}
+
+  * Minneapolis and St. Paul: [Twin Cities R User Group](http://www.meetup.com/twincitiesrug/)
+
+#### Missouri {-}
+
+  * Kansas City: [Kansas City R Users Group](http://www.meetup.com/Kansas-City-R-Users-Group/)
+  * Saint Louis: [Saint Louis R User Group](http://www.meetup.com/Saint-Louis-RUG/)
+
+#### Montana {-}
+
+  * Bozeman: [Bozeman Area R useR Group](http://www.meetup.com/bozeman-user-group-r-programming-language/)
+
+#### Nevada {-}
+
+  * Las Vegas: [Las Vegas R Users Group](http://www.meetup.com/Las-Vegas-R-Users-Group/)
+  * Reno: [Reno R Users](http://www.meetup.com/Reno-R-Users/)
+
+#### New Jersey {-}
+
+  * Morristown: [Morris Data Science](http://www.meetup.com/Morris-Data-Science/)
+  * Newark: [NewJerseyR](http://newjerseyr.org/)
+  * Princeton: Central New Jersey R User Group (contact rees@reesmorrison.com)
+  * Trenton: [TRU](http://www.meetup.com/TRUgroup/)
+
+#### New Hampshire {-}
+
+  * Durham: [NH UserRs](http://nhusers.com/)
+
+#### New York {-}
+
+  * Albany: [Albany R Users Group](http://www.meetup.com/Albany-R-Users-Group/)
+  * New York: [New York Open Statistical Programming Meetup](http://www.meetup.com/nyhackr/)
+  * New York: [New York R User Group](http://www.meetup.com/New-York-R-Users-Group/)
+  * New York: [Columbia R Statistical Programming Group](http://groups.google.com/group/columbiaR)
+  * New York, Rochester: [Rochester R Users Group Meetup](http://www.meetup.com/Rochester-R-Users-Group-Meetup/)
+  
+#### North Carolina {-}
+
+  * Charlotte: [Charlotte R Users Group](http://www.meetup.com/Charlotte-R-Users-Group/)
+  * Raleigh-Durham: [Raleigh-Durham-Chapel Hill R Users Group](http://www.meetup.com/Triangle-useR/)
+  * Winston Salem: [Winston-Salem R Users Group](http://www.meetup.com/Winston-Salem-R-Users-Group/files/)
+
+#### Ohio {-}
+
+  * Cincinnati/Dayton: [CinDay RUG](http://www.meetup.com/CinDay-RUG/)
+  * Cleveland: [Cleveland UseR Group](http://www.meetup.com/Cleveland-useR-Group/)
+  * Columbus: [Columbus useR Group](http://www.meetup.com/Columbus-useR-Group/events/174539852/)
+
+#### Oregon {-}
+
+  * Portland: [Portland R User Group](http://www.meetup.com/portland-r-user-group)
+
+#### Pennsylvania {-}
+
+  * Bensalem: [R<-gang: R Programming & Statistical Computing Meetup](http://www.meetup.com/R-Helpdesk/)
+  * Philadelphia: [Philadelphia UseR Group](http://phillyr.ning.com/)
+  * Pittsburgh: [Pittsburgh useR Group](http://www.meetup.com/Pittsburgh-useR-Group/)
+  * University Park: [Penn State R User's Group](https://www.facebook.com/groups/WeRPennStateRUsersGroup)
+
+#### Rhode Island {-}
+
+  * Providence: [Narragansette Bay Area R Users](http://www.meetup.com/Narragansett-Bay-Area-R-Users/)
+
+#### Tennessee {-}
+
+  * Kingsport: [Tri-Cities R User Group](https://www.facebook.com/groups/658774270929644/)
+  * Knoxville: [KRUG](http://www.meetup.com/Knoxville-R-Users-Group)
+  * Memphis, TN: [Memphis R Users Group](http://www.meetup.com/Memphis-R-Users-Group/)
+  * Nashville, TN: [Nashville R user Group](http://www.meetup.com/Nashville-R-Users-Group/)
+
+#### Texas {-}
+
+  * Austin: [Austin R User Group](http://www.meetup.com/Austin-R-User-Group/)
+  * Dallas: [Dallas R Users Group](http://www.meetup.com/Dallas-R-Users-Group/)
+  * Houston: [Houston R Users Group](http://www.meetup.com/houstonr/)
+  * Lubbock: [LubbockR Users Group](http://www.meetup.com/lubbockR-Meetup/)
+  * San Antonio: [Alamo City R Users Group](http://www.meetup.com/Alamo-City-R-Users-Group/)
+
+#### Vermont {-}
+
+  * Burlington: [Burlington R Users](http://www.meetup.com/Burlington-R-Users/members/)
+
+#### Virginia {-} 
+
+  * Charlottesville: [UVa R Users Group](http://www.meetup.com/UVa-R-Users-Group/)
+  * Norfolk:[757 R Users Group](http://www.meetup.com/757-R-Users-Group/)
+
+#### Wisconsin {-}
+
+  * Madison: [Madison Area R Users Group](http://groups.google.com/group/maduser)
+  * Milwaukee: The [Milwaukee Chapter of the ASA](http://www.amstat.org/chapters/milwaukee/)
+  * Milwaukee: [Milwaukee R Meetup](http://www.meetup.com/Milwaukee-R-Meetup/)
+
+#### Utah {-}
+
+  * Salt Lake City: [University of Utah R Users Group](https://sites.google.com/site/utahrug/)
+
+#### Washington {-}
+
+  * Seattle: [Seattle UseR Group](http://www.meetup.com/Seattle-useR/)
+  * Spokane: [Inland Northwest R user Group](http://inrug.github.io/)
+
+<!--chapter:end:02_useR_groups_north_america.Rmd-->
+
+---
+knit: "bookdown::preview_chapter"
+---
+
+## Oceania
+
+### Australia
+
+  * Adelaide: [Adelaide R-users Group](http://www.meetup.com/Adelaide-R-users-group/)
+  * Brisbane: [BrisRUG](http://www.meetup.com/Brisbane-R-User-Group-BrisRUG/)
+  * Brisbane: [BURGr](http://www.meetup.com/Brisbane-Users-of-R-Group-BURGr/)
+  * Canberra: [CANRUG](http://www.meetup.com/Canberra-R-Users-Group/)
+  * Hobart: [HRUG](http://www.meetup.com/Hobart-R-Users-Group/)
+  * Melbourne: [MelbURN](http://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/)
+  * Perth: [MURUG](https://murugperth.wordpress.com/)
+  * Perth: [WARG](http://www.meetup.com/Western-Australia-R-Group-WARG/)
+  * Sydney: [SURF](http://www.meetup.com/R-Users-Sydney/)
+
+### New Zealand
+
+  * Auckland: [AKLRUG](http://www.meetup.com/Auckland-R-Users-Group-AKLRUG)
+  * Wellington: [WRUG](http://www.meetup.com/Wellington-R-Users-Group-WRUG/events/141249592/?a=ea1_grp&rv=ea1&_af_eid=141249592&_af=event)
+
+
+<!--chapter:end:02_useR_groups_oceania.Rmd-->
+
+---
+knit: "bookdown::preview_chapter"
+---
+
+## South America
 
 ### Argentia
 
@@ -389,7 +701,36 @@ knit: "bookdown::preview_chapter"
 knit: "bookdown::preview_chapter"
 ---
 
-# Introduction {#introduction}
+# R-Ladies Groups
+
+## Australia
+
+  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/)
+  
+## France
+
+  * Paris: [Paris](https://www.meetup.com/rladies-paris/R-Ladies)
+  
+## Spain
+
+  * Madrid: [Madrid](https://www.meetup.com/rladies-mad/R-Ladies)
+
+## Turkey
+
+  * Turkey, Istanbul: [R-Ladies Istanbul](https://www.meetup.com/R-Ladies-Istanbul/)
+
+## United Kingdom
+
+  * London: [R-Ladies London](https://www.meetup.com/rladies-london/)
+
+## United States of America
+
+  * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
+  * San Francisco: [R-Ladies SF](http://www.meetup.com/R-ladies-SF/)
+  * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
+  * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/)
+  * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
+  * Minneapolis, MN: [R ladies - Twin Cities](http://www.meetup.com/RLadiesTC/)
 
 <!--chapter:end:03-Rladies.Rmd-->
 

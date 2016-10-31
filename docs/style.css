@@ -1,3 +1,17 @@
+h2 {
+  margin: 0 0 0 0 !important;
+  padding: 0 0 0 0  !important;
+}
+
+h3 {
+  margin: 0 0 0 0 !important;
+  padding: 0 0 0 0  !important;
+}
+
+
+
+
+
 .book .book-header h1 {
   opacity: 1;
   text-align: left;
@@ -142,19 +156,4 @@
 #TOC .has-sub ul li:last-child > a,
 #TOC .has-sub ul li.last > a {
   border-bottom: 0;
-}
-.rmdnote, .rmdtip, .rmdwarning {
-  padding: 1em 1em 1em 4em;
-  margin-bottom: 10px;
-  background: #f5f5f5 5px center/3em no-repeat;
-} 
-
-.rmdnote {
-  background-image: url("images/note.png");
-}
-.rmdtip {
-  background-image: url("images/tip.png");
-}
-.rmdwarning {
-  background-image: url("images/warning.png");
 }
