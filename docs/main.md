@@ -459,6 +459,7 @@ knit: "bookdown::preview_chapter"
   * Orange County: [OCRUG](http://www.meetup.com/OC-RUG) 
   * Pasadena: [Research Methods and Analytics (R is a main topic)](http://www.meetup.com/Research-Methods-and-Analytics/)
   * San Diego: [San Diego R Users Group](http://www.meetup.com/San-Diego-R-users-group)
+  * San Diego: [University of California San Diego / Scripps Institution of Oceanography R Users Group](https://siomail.ucsd.edu/mailman/listinfo/r-users)
   * San Francisco / Bay Area: [BARUG](http://www.meetup.com/R-Users/)
   * Santa Barbara: [Santa Barbara R Users](http://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/)
   * Whittier: [R Project for Statistical Computing Meetup](http://www.meetup.com/R-Project-for-Statistical-Computing-Meetup/)
