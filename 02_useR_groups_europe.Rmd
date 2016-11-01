@@ -117,8 +117,9 @@
 
   * Barcelona: [RUGBCN](http://rugbcn.wordpress.com/)
   * Madrid: [Grupo de Interés Local de Madrid](http://madrid.r-es.org/)
-  * Madrid: [R Hispano](http://r-es.org/Grupo+de+Inter%C3%A9s+Local+de+Madrid+-+GIL+MadridComunidad)
-  * Sevilla: [R users](https://sevillarusers.wordpress.com/Sevilla)
+  * Madrid: [R Hispano](http://r-es.org/)
+  * Sevilla: [R users](https://sevillarusers.wordpress.com/)
+  * Valencia: [R users](https://valenciarusers.wordpress.com/)
 
 
 ### Sweden
