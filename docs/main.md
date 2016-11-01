@@ -310,8 +310,9 @@ knit: "bookdown::preview_chapter"
 
   * Barcelona: [RUGBCN](http://rugbcn.wordpress.com/)
   * Madrid: [Grupo de Interés Local de Madrid](http://madrid.r-es.org/)
-  * Madrid: [R Hispano](http://r-es.org/Grupo+de+Inter%C3%A9s+Local+de+Madrid+-+GIL+MadridComunidad)
-  * Sevilla: [R users](https://sevillarusers.wordpress.com/Sevilla)
+  * Madrid: [R Hispano](http://r-es.org/)
+  * Sevilla: [R users](https://sevillarusers.wordpress.com/)
+  * Valencia: [R users](https://valenciarusers.wordpress.com/)
 
 
 ### Sweden
@@ -719,7 +720,8 @@ knit: "bookdown::preview_chapter"
   
 ## Spain
 
-  * Madrid: [Madrid](https://www.meetup.com/rladies-mad/R-Ladies); [\@RLadies](https://twitter.com/RLadiesMAD)
+  * Madrid: [Madrid](https://www.meetup.com/rladies-madrid/R-Ladies); [\@RLadies](https://twitter.com/RLadiesMAD)
+  * Barcelona: [Madrid](http://www.meetup.com/es-ES/rladies-barcelona/); [\@RLadies](https://twitter.com/rladiesbcn)
 
 ## Turkey
 
