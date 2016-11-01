@@ -719,7 +719,7 @@ knit: "bookdown::preview_chapter"
   
 ## Spain
 
-  * Madrid: [Madrid](https://www.meetup.com/rladies-mad/R-Ladies)
+  * Madrid: [Madrid](https://www.meetup.com/rladies-mad/R-Ladies); [\@RLadies](https://twitter.com/RLadiesMAD)
 
 ## Turkey
 
