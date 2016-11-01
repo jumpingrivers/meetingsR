@@ -13,10 +13,10 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 # Overview {-}
 
 This site attempts to list R conferences and local useR groups. Please 
-feel free to add any missing group or conference. 
+feel free to add any missing group or conference. In particular, most of the associated 
+twitter names are missing.
 
-To propose a change, just click the pencil icon
-in the top left hand corner.
+To propose a change, just click the pencil icon in the top left hand corner.
 
 
 ### Technical bit {-}
