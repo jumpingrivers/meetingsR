@@ -149,10 +149,12 @@
   * Belfast: [Belfast R Users](http://brusers.tumblr.com/)
 
 #### Scotland {-}
+
   * Edinburgh: [Edinbr](http://edinbr.org); [\@edinb_r](https://twitter.com/edinb_r)
-  * Inverness: [InveRness](https://www.facebook.com/InveRness-R-User-Group-195100587522377/)
+  * Inverness: [InveRness](https://www.facebook.com/InveRness-R-User-Group-195100587522377/);[\@InvernessRug](https://twitter.com/InvernessRug)
 
 #### Wales {-}
+
   * Cardiff): [Cardiff](http://www.meetup.com/Cardiff-R-User-Group/) R User Group
   * Swansea: [Swansea](https://sites.google.com/site/swanseauniversityrusergroup/home) University R User Group
   
