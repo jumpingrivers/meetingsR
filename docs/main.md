@@ -631,7 +631,6 @@ knit: "bookdown::preview_chapter"
 
 ### Australia
 
-  * Adelaide: [Adelaide R-users Group](http://www.meetup.com/Adelaide-R-users-group/)
   * Brisbane: [BrisRUG](http://www.meetup.com/Brisbane-R-User-Group-BrisRUG/)
   * Brisbane: [BURGr](http://www.meetup.com/Brisbane-Users-of-R-Group-BURGr/)
   * Canberra: [CANRUG](http://www.meetup.com/Canberra-R-Users-Group/)
