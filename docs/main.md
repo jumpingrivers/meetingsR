@@ -341,7 +341,7 @@ knit: "bookdown::preview_chapter"
   * Belfast: [Belfast R Users](http://brusers.tumblr.com/)
 
 #### Scotland {-}
-  * Edinburgh: [Edinbr](edinbr.org); [\@edinb_r](https://twitter.com/edinb_r)
+  * Edinburgh: [Edinbr](http://edinbr.org); [\@edinb_r](https://twitter.com/edinb_r)
   * Inverness: [InveRness](https://www.facebook.com/InveRness-R-User-Group-195100587522377/)
 
 #### Wales {-}
