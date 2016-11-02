@@ -230,6 +230,7 @@ knit: "bookdown::preview_chapter"
   *  Berlin: [Berlin R Users Group](http://www.meetup.com/Berlin-R-Users-Group/ )
   *  Dresden: [R User Group Dresden](http://rusersdresden.wordpress.com/)
   *  Hamburg: [Hamburg R User Group](http://www.meetup.com/Hamburg-R-User-Group/)
+  *  Hannover: [Hannover R User Group](https://www.meetup.com/de-DE/Hannover-R-User-Group/) 
   *  Kassel: [Kasseler useR Group](http://www.meetup.com/Kassel-useR-Group/)
   *  Köln: [Köln R User Group](http://www.meetup.com/KoelnRUG/)
   *  Leipzig: [Leipzig R Statistical Computing](http://www.meetup.com/Leipzig-R-statistical-computing/)
