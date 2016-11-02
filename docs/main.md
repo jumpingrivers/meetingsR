@@ -392,10 +392,11 @@ knit: "bookdown::preview_chapter"
 ### Nigeria
 
   * Lagos: [Lagos R Users Group](http://www.meetup.com/Lagos-R-Users-Group/)
-
-### Nieria
-
   * Offa: [Offa R Users Group](http://www.meetup.com/FEDPOFA-R-Users-Group/)
+
+### Qatar
+
+  * Doha: [Doha R User Group](https://www.meetup.com/doha-rug)
 
 ### Senegal
 
