@@ -245,6 +245,9 @@ This lists was originally compiled using the information from the [Revolution An
 ### Serbia
 
   * Belgrade: [BelgradeR](http://www.meetup.com/BelgradeR/)
+  
+### Slovakia
+  * Bratislava: [R <- Slovakia](https://www.facebook.com/groups/931707906955080/)
 
 ### Slovenia
 
