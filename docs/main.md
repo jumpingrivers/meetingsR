@@ -65,65 +65,6 @@ This lists was originally compiled using the information from the [Revolution An
 
 <!--chapter:end:02_useR_groups_aaa.Rmd-->
 
----
-knit: "bookdown::preview_chapter"
----
-
-## Middle East & Africa
-
-### Benin
-
-  * Cotonou: [Cotonou R Users Group Meetup](http://www.meetup.com/Victoria-Data-Scientists/)
-
-### Egypt
-
-  * Cairo: [Cairo Bioinformatics Group](http://www.meetup.com/Cairo-Bioinformatics-Group/)
-  * Cairo: [Cairo R Users Group](http://www.meetup.com/Cairo-R-Users-Group/)
-
-### Ghana
-
-  * Accra: [Accra R Users Group](http://www.meetup.com/StatsRbourg/)
-
-### Israel
-
-  * Tel Aviv: [Israel R User Group](http://groups.google.com/group/israel-r-user-group)
-
-### Kenya
-
-  * Nairobi: [R Users Group Kenya RUGK](http://www.meetup.com/Napoli-R-User-Group/)
-  
-### Morocco
-
-  * Casablanca: [Casablanca R Users Group](http://www.meetup.com/Casablanca-R-Users-Group/)
-
-### Nigeria
-
-  * Lagos: [Lagos R Users Group](http://www.meetup.com/Lagos-R-Users-Group/)
-
-### Nieria
-
-  * Offa: [Offa R Users Group](http://www.meetup.com/FEDPOFA-R-Users-Group/)
-
-### Senegal
-
-  * Dakar: [DRUG](http://www.meetup.com/DakaR-R-User-Group/)
-
-### South Africa
-
-  * Cape Town: [Cape R Users Group](https://caperuser.wordpress.com/)
-  * Durban: [Durban R Users Group](http://www.meetup.com/Durban-R-Users-Group/)
-  * Johannesburg: [Jo'burg R Users Group](http://www.meetup.com/Joburg-R-Users-Group)
-
-### Tanzania
-
-  * Dar es Salaam: [Dar es Salaam R Users Group](http://www.meetup.com/DarEs-Salaam-R-users/)
-
-### Uganda
-
-  * Kampala: [Kampala R Users Group](http://www.meetup.com/Kampala-R-Users-Group/)
-
-<!--chapter:end:02_useR_groups_africa.Rmd-->
-
 ## Asia
 
 ### China
@@ -392,10 +333,11 @@ knit: "bookdown::preview_chapter"
 ### Nigeria
 
   * Lagos: [Lagos R Users Group](http://www.meetup.com/Lagos-R-Users-Group/)
-
-### Nieria
-
   * Offa: [Offa R Users Group](http://www.meetup.com/FEDPOFA-R-Users-Group/)
+
+### Qatar
+
+  * Doha: [Doha R User Group](https://www.meetup.com/doha-rug)
 
 ### Senegal
 
