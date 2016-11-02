@@ -225,7 +225,7 @@ This lists was originally compiled using the information from the [Revolution An
 
   * Cracow: [eRka](http://www.meetup.com/Spotkania-Entuzjastow-R-Cracow-R-Users-Group-Meetup/events/214840612/)
   * Warsaw/Wroclaw: [SER](http://smarterpoland.pl/SER/)
-  * Poznań: [Poznań R Users](http://thinking-in-r.blogspot.com/search/label/PAZUR)
+  * Poznań: [Poznań R Users](http://www.meetup.com/Poznan-R-User-Group-PAZUR/)
 
 ### Portugal
 
