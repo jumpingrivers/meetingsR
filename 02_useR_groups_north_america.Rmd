@@ -132,7 +132,7 @@ knit: "bookdown::preview_chapter"
 #### New York {-}
 
   * Albany: [Albany R Users Group](http://www.meetup.com/Albany-R-Users-Group/)
-  * New York: [New York Open Statistical Programming Meetup](http://www.meetup.com/nyhackr/)
+  * New York: [New York Open Statistical Programming Meetup](http://www.meetup.com/nyhackr/) (The New York R Meetup)
   * New York: [New York R User Group](http://www.meetup.com/New-York-R-Users-Group/)
   * New York: [Columbia R Statistical Programming Group](http://groups.google.com/group/columbiaR)
   * New York, Rochester: [Rochester R Users Group Meetup](http://www.meetup.com/Rochester-R-Users-Group-Meetup/)
