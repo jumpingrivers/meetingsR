@@ -2,11 +2,11 @@
 knit: "bookdown::preview_chapter"
 ---
 
-# Conferences {#conferences}
+# Events
 
-The format for listing a conference is:
+The format for listing an R event is:
 
-  * Month: [Conference name & link](http://www.example.com). Town, Country. Twitter name.
+  * Month: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
 ## 2017 {-}
 
