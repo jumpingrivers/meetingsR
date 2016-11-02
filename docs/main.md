@@ -276,7 +276,7 @@ This lists was originally compiled using the information from the [Revolution An
   * Manchester: [ManchesterR](http://www.rmanchester.org/)
   * Newcastle: [R North East](http://www.meetup.com/R-North-East/); [\@RstatsNE](https://twitter.com/RstatsNE)
   * Nottingham: [Nottingham](http://www.meetup.com/NottinghamR-Nottingham-R-Users-Group/) R User group
-  * Sheffield: [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/)
+  * Sheffield: [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/);[\@Sheffield_R_](https://twitter.com/Sheffield_R_)
 
 #### Northern Ireland {-}
 
