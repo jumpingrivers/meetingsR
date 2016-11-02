@@ -244,7 +244,7 @@ This lists was originally compiled using the information from the [Revolution An
 
 ### Serbia
 
-  * Belgrade: [taj R](http://savtajr.blogspot.com/Sav)
+  * Belgrade: [BelgradeR](http://www.meetup.com/BelgradeR/)
 
 ### Slovenia
 
