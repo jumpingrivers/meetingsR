@@ -45,7 +45,7 @@ The format for listing a conference is:
 
   * July: [UseR! 2016](http://user2016.org/), Stanford, USA.
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
-  * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.
+  * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
 
 <!--chapter:end:01-conferences.Rmd-->
 
