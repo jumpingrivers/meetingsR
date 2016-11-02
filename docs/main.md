@@ -180,6 +180,7 @@ This lists was originally compiled using the information from the [Revolution An
   *  Munich: [Applied R Munich](http://www.meetup.com/Applied-R-Munich)
   *  Munich: [Munich useR Group](http://www.meetup.com/munich-useR-group/)
   *  Nürnberg: [NürnbergR](https://www.xing.com/net/ruser-nuernberg/)
+  *  Osnabrück: [Osnabrück R und Data Science](https://www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science/)
   *  Wiesbaden: [Wiesbaden R Users Group](http://www.meetup.com/Wiesbaden-R-Users-Group)
   
 ### Greece
