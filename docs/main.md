@@ -40,6 +40,7 @@ The format for listing an R event is:
 
   * January: [rstudio:conf](https://www.rstudio.com/conference/). Kissmmee, USA.  
   * July: UseR! 2017. Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels)
+  * July: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/): Boston, USA.
 
 ## 2016 {-}
 
