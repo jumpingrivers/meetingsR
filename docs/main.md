@@ -30,11 +30,11 @@ creates the html files from the `.Rmd` files and commits them to the `docs/` dir
 knit: "bookdown::preview_chapter"
 ---
 
-# Conferences {#conferences}
+# Events
 
-The format for listing a conference is:
+The format for listing an R event is:
 
-  * Month: [Conference name & link](http://www.example.com). Town, Country. Twitter name.
+  * Month: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
 ## 2017 {-}
 
@@ -45,9 +45,9 @@ The format for listing a conference is:
 
   * July: [UseR! 2016](http://user2016.org/), Stanford, USA.
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
-  * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.
+  * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
 
-<!--chapter:end:01-conferences.Rmd-->
+<!--chapter:end:01-events.Rmd-->
 
 ---
 knit: "bookdown::preview_chapter"
