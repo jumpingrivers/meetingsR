@@ -18,6 +18,8 @@ twitter names are missing.
 
 To propose a change, just click the pencil icon in the top left hand corner.
 
+We also maintain a corresponding list of [Data Science](https://jumpingrivers.github.io/meetingsDS/) conferences and events.
+
 
 ### Technical bit {-}
 
