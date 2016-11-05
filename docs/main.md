@@ -582,6 +582,7 @@ knit: "bookdown::preview_chapter"
 
 #### Wisconsin {-}
 
+  * Madison: [Madison Area R Meetup](https://www.meetup.com/MadR-Madison-R-Programming-UseRs-Group/)
   * Madison: [Madison Area R Users Group](http://groups.google.com/group/maduser)
   * Milwaukee: The [Milwaukee Chapter of the ASA](http://www.amstat.org/chapters/milwaukee/)
   * Milwaukee: [Milwaukee R Meetup](http://www.meetup.com/Milwaukee-R-Meetup/)
