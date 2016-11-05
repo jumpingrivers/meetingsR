@@ -6,14 +6,29 @@ knit: "bookdown::preview_chapter"
 
 The format for listing an R event is:
 
-  * Month: [event name & link](http://www.example.com). Town, Country. Twitter name.
+  * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
 ## 2017 {-}
 
-  * January: [rstudio:conf](https://www.rstudio.com/conference/). Kissmmee, USA.  
+### January
+
+  * January: [rstudio:conf](https://www.rstudio.com/conference/). Kissmmee, USA.
+
+### February
+
+  * 16-18 February: [satRday](http://satrdays.org/capetown2017/). Cape Town, South Africa. [\@satRdays_org](https://twitter.com/satRdays_org)
+
+### April
+
   * April: [New York R Conference 2017](http://www.rstats.nyc), New York, NY
+
+### July
+
   * July: UseR! 2017. Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels)
   * July: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/): Boston, USA.  
+  
+### September
+
   * September: [EARL London 2017](https://earlconf.com/london/), London, UK.
 
 ## 2016 {-}
