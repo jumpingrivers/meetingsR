@@ -51,6 +51,10 @@ The format for listing an R event is:
 ### April
 
   * April: [New York R Conference 2017](http://www.rstats.nyc), New York, NY
+  
+### May
+
+  * May 19-20: [R/Finance 2017](http://www.rinfinance.com), Chicago, IL
 
 ### July
 
@@ -64,6 +68,7 @@ The format for listing an R event is:
 ## 2016 {-}
 
   * April: [New York R Conference 2016](http://www.rstats.nyc), New York, NY
+  * May: [R/Finance 2016](http://www.rinfinance.com), Chicago, IL
   * July: [UseR! 2016](http://user2016.org/), Stanford, USA.
   * September: [EARL London 2016](https://earlconf.com/london/), London, UK.
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
