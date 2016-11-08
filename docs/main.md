@@ -92,6 +92,10 @@ The suggested format for listing a group is
 
 This lists was originally compiled using the information from the [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.
 
+## Funding
+
+The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-program) provides funding for local useR groups.
+
 <!--chapter:end:02_useR_groups_aaa.Rmd-->
 
 ## Asia
