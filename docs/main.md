@@ -55,6 +55,7 @@ The format for listing an R event is:
 ### May
 
   * May 19-20: [R/Finance 2017](http://www.rinfinance.com), Chicago, IL
+  * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/), Université Laval, Québec, Canada
 
 ### July
 
