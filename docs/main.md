@@ -418,7 +418,14 @@ knit: "bookdown::preview_chapter"
   * Toronto: [R Matlab Users](http://www.meetup.com/R-Matlab-Users/)
   * Vancouver: [Vancouver R Users Group](http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/)
   * Victoria: [Victoria Data Science / R User Group](http://www.meetup.com/Victoria-Data-Scientists/)
-  
+
+### Mexico
+
+  *  Guadalajara: [Guadalajara R Users group Meetup](http://www.meetup.com/Macao-R-Learning-Meetup/)
+  *  Mexico City: [Mexico City Business Analytics Users Group](http://www.meetup.com/Mexico-City-Business-Analytics-Users/events/219135766/)
+  *  Mexico City: [The Mexico City R Users Group](http://www.meetup.com/Macao-R-Learning-Meetup/)
+  *  Tecate: [ecate BC Mexico R Users Group Meetup](http://www.meetup.com/Usuarios-de-R-Ecuador/)
+
 ### United States of America
 
 #### Alabama {-} 
@@ -671,13 +678,6 @@ knit: "bookdown::preview_chapter"
 ### Ecuador
 
   * Ecuador Quito: [Usuarios de R Ecuador](http://www.meetup.com/Usuarios-de-R-Ecuador/)
-
-### Mexico
-
-  *  Guadalajara: [Guadalajara R Users group Meetup](http://www.meetup.com/Macao-R-Learning-Meetup/)
-  *  Mexico City: [Mexico City Business Analytics Users Group](http://www.meetup.com/Mexico-City-Business-Analytics-Users/events/219135766/)
-  *  Mexico City: [The Mexico City R Users Group](http://www.meetup.com/Macao-R-Learning-Meetup/)
-  *  Tecate: [ecate BC Mexico R Users Group Meetup](http://www.meetup.com/Usuarios-de-R-Ecuador/)
 
 ### Nicaragua
 
