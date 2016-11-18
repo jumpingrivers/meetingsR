@@ -44,7 +44,7 @@ knit: "bookdown::preview_chapter"
 
 ### South Africa
 
-  * Cape Town: [Cape R Users Group](https://caperuser.wordpress.com/); [@CapeRUser](https://twitter.com/CapeRUser)
+  * Cape Town: [Cape R Users Group](https://caperuser.wordpress.com/); [\@CapeRUser](https://twitter.com/CapeRUser)
   * Durban: [Durban R Users Group](http://www.meetup.com/Durban-R-Users-Group/)
   * Johannesburg: [Jo'burg R Users Group](http://www.meetup.com/Joburg-R-Users-Group)
 
