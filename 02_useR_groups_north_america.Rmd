@@ -19,10 +19,10 @@ knit: "bookdown::preview_chapter"
 
 ### Mexico
 
-  *  Guadalajara: [Guadalajara R Users group Meetup](http://www.meetup.com/Macao-R-Learning-Meetup/)
+  *  Guadalajara: [Guadalajara R Users group Meetup](https://www.meetup.com/Guadalajara-R-Users-Group-Meetup/)
   *  Mexico City: [Mexico City Business Analytics Users Group](http://www.meetup.com/Mexico-City-Business-Analytics-Users/events/219135766/)
-  *  Mexico City: [The Mexico City R Users Group](http://www.meetup.com/Macao-R-Learning-Meetup/)
-  *  Tecate: [ecate BC Mexico R Users Group Meetup](http://www.meetup.com/Usuarios-de-R-Ecuador/)
+  *  Mexico City: [The Mexico City R Users Group](http://www.meetup.com/The-Mexico-City-R-Users-Group/)
+  *  Tecate: [ecate BC Mexico R Users Group Meetup](https://www.meetup.com/Tecate-BC-Mexico-R-Users-Group-Meetup/)
 
 ### United States of America
 
