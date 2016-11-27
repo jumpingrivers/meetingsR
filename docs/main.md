@@ -421,10 +421,10 @@ knit: "bookdown::preview_chapter"
 
 ### Mexico
 
-  *  Guadalajara: [Guadalajara R Users group Meetup](http://www.meetup.com/Macao-R-Learning-Meetup/)
+  *  Guadalajara: [Guadalajara R Users group Meetup](https://www.meetup.com/Guadalajara-R-Users-Group-Meetup/)
   *  Mexico City: [Mexico City Business Analytics Users Group](http://www.meetup.com/Mexico-City-Business-Analytics-Users/events/219135766/)
-  *  Mexico City: [The Mexico City R Users Group](http://www.meetup.com/Macao-R-Learning-Meetup/)
-  *  Tecate: [ecate BC Mexico R Users Group Meetup](http://www.meetup.com/Usuarios-de-R-Ecuador/)
+  *  Mexico City: [The Mexico City R Users Group](http://www.meetup.com/The-Mexico-City-R-Users-Group/)
+  *  Tecate: [ecate BC Mexico R Users Group Meetup](https://www.meetup.com/Tecate-BC-Mexico-R-Users-Group-Meetup/)
 
 ### United States of America
 
@@ -653,11 +653,11 @@ knit: "bookdown::preview_chapter"
 
 ### Brazil
 
+  * Brasilia: [Brasília UseR Meetup Linguagem de Programação "R"](http://www.meetup.com/Brasilia-UseR-Meetup/)
+  * Campinas: [Campinas R Users Meetup](http://www.meetup.com/Campinas-R-Users-Meetup/)
+  * Porto Alegre: [RStat](http://www.meetup.com/UseRS_/)
+  * São Paulo: [São Paulo R Users Group](http://www.meetup.com/useR-SP/)
   * Virtual: [R-br](http://leg.est.ufpr.br/doku.php/software:rbr)
-  *  Brasilia: [Brasília UseR Meetup Linguagem de Programação "R"](http://www.meetup.com/Brasilia-UseR-Meetup/)
-  *  Campinas: [Campinas R Users Meetup](http://www.meetup.com/Campinas-R-Users-Meetup/)
-  *  Porto Alegre: [RStat](http://www.meetup.com/RStat-RS-R-User-Group/)
-  *  São Paulo: [São Paulo R Users Group](http://www.meetup.com/useR-SP/)
 
 ### Chile
 
@@ -672,13 +672,6 @@ knit: "bookdown::preview_chapter"
 
   * Quesada: [San Carlos R Users Group](http://www.meetup.com/San-Carlos-R-User-Group/)
 
-### Dominican Republic
-
-  * Santo Domingo: [Santo Domingo R user Group](http://www.meetup.com/Santo-Domingo-R-useR-Group/)
-
-### Ecuador
-
-  * Ecuador Quito: [Usuarios de R Ecuador](http://www.meetup.com/Usuarios-de-R-Ecuador/)
 
 ### Nicaragua
 
@@ -686,7 +679,7 @@ knit: "bookdown::preview_chapter"
 
 ### Venezuela
 
-  * Venezuela Caracas: [R-usersVEN](http://www.meetup.com/R-usersVEN)
+  * Caracas: [R-usersVEN](http://www.meetup.com/R-usersVEN)
 
 <!--chapter:end:02_useR_groups_south_america.Rmd-->
 
