@@ -3,7 +3,7 @@
 ### China
 
   * Chengdu: [Chengdu R User's Group](http://www.meetup.com/Chengdu-R-Users-Group/events/218924116/)
-  * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/HKRUG)
+  * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/)
   * Macao: [R-Research](http://groupspaces.com/R-research/)
   * Xiamen: [XMU-R](http://www.meetup.com/RGROUP/)
 
@@ -19,7 +19,7 @@
   * Delhi: [Delhi R Users Group Meetup](http://www.meetup.com/Delhi-R-Users-Group-Meetup/)
   * Hyderabad: [R Users Group Hyderabad RUGH](http://www.meetup.com/R-Users-Group-Hyderabad/)
   * New Delhi: [New Delhi UseR Group](http://www.meetup.com/New-Delhi-R-UseR-Group/)
-  * Pune: [Pune R User Group](http://www.meetup.com/pune-r-user-group)
+  * Pune: [Pune R User Group](http://www.meetup.com/Pune-R-junkies-Meetup/)
 
 ### Japan
 

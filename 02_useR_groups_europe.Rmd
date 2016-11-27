@@ -10,12 +10,12 @@
 
 ### Czech Republic 
 
-  * Prague: [R Meetup Group](http://www.meetup.com/Prague-R-Meetup-Group/Prague)
+  * Prague: [R Meetup Group](http://www.meetup.com/Prague-R-Meetup-Group/)
 
 ### Denmark
 
   * Aarhus: [Rhus](http://www.meetup.com/Rhus-useR-group)
-  * Copenhagen: [useR Group](http://www.meetup.com/CopenhagenR-useR-Group/CopenhagenR)
+  * Copenhagen: [CopenhagenR](http://www.meetup.com/CopenhagenR-useR-Group/)
   
 ### Finland
 
@@ -26,7 +26,7 @@
   *  Lyon: [RLyon](http://www.meetup.com/R-Lyon/)
   *  Jouy-en-Josas: [R4Ciam](http://ciam.inra.fr/r4ciam/)
   *  Marseille: [R user group Aix-Marseille](http://www.meetup.com/R-user-group-Aix-Marseille/)
-  *  Montpellier: [Groupe des utilisateurs du logiciel R](http://forums.cirad.fr/logiciel-R/index.php)
+  *  Montpellier: [Groupe des utilisateurs du logiciel R](http://forums.cirad.fr/logiciel-R/)
   *  Paris: [Semin-R](http://www.mnhn.fr/semin-r/)
   *  Paris: [R Addicts Paris](http://www.meetup.com/rparis/events/124508332/)
   *  Paris: [R'n Blue](http://www.meetup.com/Rn-Blue/)
@@ -44,7 +44,6 @@
   *  Mannheim/Ludwigshafen/Heidelberg: [R User Group Rhein-Neckar](http://www.meetup.com/R-User-Group-Rhein-Neckar)
   *  Marburg: [Marburg R Local User Group](http://www.r-marburg.de/)
   *  Munich: [Applied R Munich](http://www.meetup.com/Applied-R-Munich)
-  *  Munich: [Munich useR Group](http://www.meetup.com/munich-useR-group/)
   *  Nürnberg: [NürnbergR](https://www.xing.com/net/ruser-nuernberg/)
   *  Osnabrück: [Osnabrück R und Data Science](https://www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science/)
   *  Wiesbaden: [Wiesbaden R Users Group](http://www.meetup.com/Wiesbaden-R-Users-Group)
@@ -144,7 +143,7 @@
   * Exeter: [Exeter](http://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
   * London: [LondonR](http://www.meetup.com/LondonR/)
   * Manchester: [ManchesterR](http://www.rmanchester.org/)
-  * Newcastle: [R North East](http://www.meetup.com/R-North-East/); [\@RstatsNE](https://twitter.com/RstatsNE)
+  * Newcastle: R North East; [\@RstatsNE](https://twitter.com/RstatsNE)
   * Nottingham: [Nottingham](http://www.meetup.com/NottinghamR-Nottingham-R-Users-Group/) R User group
   * Oxford: [R user group Oxford](https://r-oxford.github.io/); [\@rusersoxford](https://twitter.com/rusersoxford)
   * Sheffield: [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/);[\@Sheffield_R_](https://twitter.com/Sheffield_R_)

@@ -10,11 +10,11 @@ knit: "bookdown::preview_chapter"
   
 ## France
 
-  * Paris: [Paris](https://www.meetup.com/rladies-paris/R-Ladies)
+  * Paris: [Paris](http://www.meetup.com/rladies-paris/)
   
 ## Spain
 
-  * Madrid: [Madrid](https://www.meetup.com/rladies-madrid/R-Ladies); [\@RLadies](https://twitter.com/RLadiesMAD)
+  * Madrid: [Madrid](https://www.meetup.com/rladies-madrid); [\@RLadies](https://twitter.com/RLadiesMAD)
   * Barcelona: [Barcelona](http://www.meetup.com/es-ES/rladies-barcelona/); [\@RLadies](https://twitter.com/rladiesbcn)
 
 ## Turkey
@@ -28,7 +28,7 @@ knit: "bookdown::preview_chapter"
 ## United States of America
 
   * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
-  * San Francisco: [R-Ladies SF](http://www.meetup.com/R-ladies-SF/)
+  * San Francisco: [R-Ladies SF](http://www.meetup.com/rladies-san-francisco/)
   * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
   * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/)
   * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)

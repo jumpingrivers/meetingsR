@@ -9,11 +9,8 @@ knit: "bookdown::preview_chapter"
   * Edmonton: [Edmonton R User Group](https://alberta.collegiatelink.net/organization/erug)
   * Montréal: [Montreal R User Group](http://www.meetup.com/Montreal-R-User-Group/)
   * Ottawa: [Ottawa Gatineau R Users Group](https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa)
-  * Ottawa: [R Helpdesk](http://www.meetup.com/R-Helpdesk/)
   * Québec: [Plein-R](http://www.coactivate.org/projects/plein-r/project-home) (en Français)
-  * Sherbrooke: [R Users Group de Sherbrooke](http://www.meetup.com/R-Users-Group-de-Sherbrooke/)
   * Toronto: [Greater Toronto Area (GTA) R User's Group](http://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group)
-  * Toronto: [R Matlab Users](http://www.meetup.com/R-Matlab-Users/)
   * Vancouver: [Vancouver R Users Group](http://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/)
   * Victoria: [Victoria Data Science / R User Group](http://www.meetup.com/Victoria-Data-Scientists/)
 
@@ -30,10 +27,6 @@ knit: "bookdown::preview_chapter"
 
   * Birmingham: [BiRmingham R Meetup](http://www.meetup.com/Bi-R-mingham-R-Meetup/)
 
-#### Arkansas {-}  
-  
-  * Bentonville: [Bentonville R User Group](http://www.meetup.com/Bentonville-R-User-Group/)
-  
 #### Arizona {-}
 
   * Phoenix: [Phoenix R Programmers](http://rphx.wordpress.com/)
@@ -46,7 +39,6 @@ knit: "bookdown::preview_chapter"
   * Los Angeles: [Los Angeles Area R Users Group](http://www.meetup.com/LAarea-R-usergroup/)
   * Monterey: [Group of R Users in the Monterey Peninsula](https://groups.google.com/forum/#%21forum/monterey-grumps)
   * Orange County: [OCRUG](http://www.meetup.com/OC-RUG) 
-  * Pasadena: [Research Methods and Analytics (R is a main topic)](http://www.meetup.com/Research-Methods-and-Analytics/)
   * San Diego: [San Diego R Users Group](http://www.meetup.com/San-Diego-R-users-group)
   * San Diego: [University of California San Diego / Scripps Institution of Oceanography R Users Group](https://siomail.ucsd.edu/mailman/listinfo/r-users)
   * San Francisco / Bay Area: [BARUG](http://www.meetup.com/R-Users/)
@@ -63,13 +55,12 @@ knit: "bookdown::preview_chapter"
 
 #### Washington DC {-}
 
-  * Washington: (http://www.meetup.com/stats-prog-dc/)Statistical Programming DC]
+  * Washington: [Statistical Programming DC](http://www.meetup.com/stats-prog-dc/)
   
 #### Florida {-} 
 
   * Gainsesville: [R Users Group, Gainesville](http://www.meetup.com/R-Users-Group-Gainesville-FL/)
-  * Miami and Fort Lauderdale: [South Florida useR Group](http://www.meetup.com/South-Florida-useR-Group-R-Programming-Language/)
-  
+
 #### Georgia {-}
 
   * Atlanta: [Atlanta R User's Group](http://www.meetup.com/R-Users-Atlanta/)
@@ -127,14 +118,10 @@ knit: "bookdown::preview_chapter"
 
 #### New Jersey {-}
 
-  * Morristown: [Morris Data Science](http://www.meetup.com/Morris-Data-Science/)
   * Newark: [NewJerseyR](http://newjerseyr.org/)
   * Princeton: Central New Jersey R User Group (contact rees@reesmorrison.com)
   * Trenton: [TRU](http://www.meetup.com/TRUgroup/)
 
-#### New Hampshire {-}
-
-  * Durham: [NH UserRs](http://nhusers.com/)
 
 #### New York {-}
 
@@ -162,8 +149,6 @@ knit: "bookdown::preview_chapter"
 
 #### Pennsylvania {-}
 
-  * Bensalem: [R<-gang: R Programming & Statistical Computing Meetup](http://www.meetup.com/R-Helpdesk/)
-  * Philadelphia: [Philadelphia UseR Group](http://phillyr.ning.com/)
   * Pittsburgh: [Pittsburgh useR Group](http://www.meetup.com/Pittsburgh-useR-Group/)
   * University Park: [Penn State R User's Group](https://www.facebook.com/groups/WeRPennStateRUsersGroup)
 
