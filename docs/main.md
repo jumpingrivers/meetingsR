@@ -696,6 +696,7 @@ knit: "bookdown::preview_chapter"
 
 ## United States of America
 
+  * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/events/235936204/);[\@RLadiesAmes](https://twitter.com/RLadiesAmes)
   * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
   * San Francisco: [R-Ladies SF](http://www.meetup.com/rladies-san-francisco/)
   * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
