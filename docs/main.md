@@ -42,29 +42,33 @@ The format for listing an R event is:
 
 ### January
 
-  * January: [rstudio:conf](https://www.rstudio.com/conference/). Kissmmee, USA.
+  * January 11-14: [rstudio:conf](https://www.rstudio.com/conference/). Kissmmee, USA.
 
 ### February
 
-  * 16-18 February: [satRday](http://satrdays.org/capetown2017/). Cape Town, South Africa. [\@satRdays_org](https://twitter.com/satRdays_org)
+  * February 16-18: [satRday](http://satrdays.org/capetown2017/). Cape Town, South Africa. [\@satRdays_org](https://twitter.com/satRdays_org)
 
 ### April
 
-  * April: [New York R Conference 2017](http://www.rstats.nyc), New York, NY
+  * April: [New York R Conference 2017](http://www.rstats.nyc). New York, NY.
   
 ### May
 
-  * May 19-20: [R/Finance 2017](http://www.rinfinance.com), Chicago, IL
-  * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/), Université Laval, Québec, Canada
+  * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, IL.
+  * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Université Laval, Québec, Canada.
 
 ### July
 
-  * July: UseR! 2017. Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels)
-  * July: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/): Boston, USA.  
+  * July 4-7: UseR! 2017. Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels)
+  * July 27-28: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/). Boston, USA.
   
 ### September
 
-  * September: [EARL London 2017](https://earlconf.com/london/), London, UK.
+  * September 13-15: [EARL London 2017](https://earlconf.com/london/). London, UK.
+
+### November
+
+  * November 6-7: [New Challenges for Statistical Software - The Use of R in Official Statistics](http://www.r-project.ro/conference2017/). Bucharest, Romania.
 
 ## 2016 {-}
 
