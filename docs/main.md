@@ -262,6 +262,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Cracow: [eRka](http://www.meetup.com/Spotkania-Entuzjastow-R-Cracow-R-Users-Group-Meetup/events/214840612/)
   * Warsaw/Wroclaw: [SER](http://smarterpoland.pl/SER/)
   * Poznań: [Poznań R Users](http://www.meetup.com/Poznan-R-User-Group-PAZUR/)
+  * Rzeszów: [RRUG: Resovia R User Group](http://www.wais.kamil.rzeszow.pl/rusergroup-rzeszow/)
 
 ### Portugal
 
