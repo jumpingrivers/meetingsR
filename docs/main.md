@@ -95,7 +95,7 @@ The suggested format for listing a group is
 
   * Town name: [Group name & link](http://www.example.com/); [\@Twitter_handle](http://www.example.com/)
 
-This lists was originally compiled using the information from the [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.
+This list was originally compiled using the information from the [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.
 
 ## Funding
 
