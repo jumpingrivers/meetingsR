@@ -78,7 +78,8 @@ The format for listing an R event is:
   * September: [EARL London 2016](https://earlconf.com/london/), London, UK.
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
   * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
-  * November: [EARL Boston 2016](https://earlconf.com/boston/), Boston, USA
+  * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA
+  * December: [European Bioconductor Developers' Meeting](http://scicore.ch/events/eurobioc2016/). Basel, Switzerland.
 
 <!--chapter:end:01-events.Rmd-->
 
