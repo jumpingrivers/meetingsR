@@ -385,6 +385,10 @@ knit: "bookdown::preview_chapter"
 
   * Doha: [Doha R User Group](https://www.meetup.com/doha-rug)
 
+### Saudi Arabia
+
+  * Riyadh: [Riyadh](https://riyadhusergroup.wordpress.com/)
+
 ### Senegal
 
   * Dakar: [DRUG](http://www.meetup.com/DakaR-R-User-Group/)
