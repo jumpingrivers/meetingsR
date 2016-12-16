@@ -317,7 +317,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Exeter: [Exeter](http://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
   * London: [LondonR](http://www.meetup.com/LondonR/)
   * Manchester: [ManchesterR](http://www.rmanchester.org/)
-  * Newcastle: R North East; [\@RstatsNE](https://twitter.com/RstatsNE)
+  * Newcastle: [R North East](https://rnortheast.github.io/); [\@RstatsNE](https://twitter.com/RstatsNE)
   * Nottingham: [Nottingham](http://www.meetup.com/NottinghamR-Nottingham-R-Users-Group/) R User group
   * Oxford: [R user group Oxford](https://r-oxford.github.io/); [\@rusersoxford](https://twitter.com/rusersoxford)
   * Sheffield: [SheffieldR](http://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/);[\@Sheffield_R_](https://twitter.com/Sheffield_R_)
