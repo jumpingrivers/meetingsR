@@ -16,7 +16,7 @@ for(fname in files) {
   urls = str_extract(readLines(fname), url_pattern)
   urls = urls[!is.na(urls)]
   for(url in urls){
-#    message("Testing url: ", url)
+    message("Testing url: ", url)
     test_url = httr::GET(url)
     if(test_url$status_code != 200) {
       message("\t", url, " ", test_url$status_code)
