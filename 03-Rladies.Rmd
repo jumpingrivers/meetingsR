@@ -10,12 +10,12 @@ knit: "bookdown::preview_chapter"
   
 ## France
 
-  * Paris: [Paris](http://www.meetup.com/rladies-paris/)
+  * Paris: [Paris](https://www.meetup.com/rladies-paris/)
   
 ## Spain
 
   * Madrid: [Madrid](https://www.meetup.com/rladies-madrid); [\@RLadies](https://twitter.com/RLadiesMAD)
-  * Barcelona: [Barcelona](http://www.meetup.com/es-ES/rladies-barcelona/); [\@RLadies](https://twitter.com/rladiesbcn)
+  * Barcelona: [Barcelona](https://www.meetup.com/es-ES/rladies-barcelona/); [\@RLadies](https://twitter.com/rladiesbcn)
 
 ## Turkey
 
@@ -30,8 +30,8 @@ knit: "bookdown::preview_chapter"
 
   * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/events/235936204/);[\@RLadiesAmes](https://twitter.com/RLadiesAmes)
   * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
-  * San Francisco: [R-Ladies SF](http://www.meetup.com/rladies-san-francisco/)
+  * San Francisco: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/)
   * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
   * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/)
   * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
-  * Minneapolis, MN: [R ladies - Twin Cities](http://www.meetup.com/RLadiesTC/)
+  * Minneapolis, MN: [R ladies - Twin Cities](https://www.meetup.com/RLadiesTC/)

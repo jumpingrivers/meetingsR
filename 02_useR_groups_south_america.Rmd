@@ -10,24 +10,24 @@ knit: "bookdown::preview_chapter"
 
 ### Brazil
 
-  * Brasilia: [Brasília UseR Meetup Linguagem de Programação "R"](http://www.meetup.com/Brasilia-UseR-Meetup/)
-  * Campinas: [Campinas R Users Meetup](http://www.meetup.com/Campinas-R-Users-Meetup/)
-  * Porto Alegre: [RStat](http://www.meetup.com/UseRS_/)
-  * São Paulo: [São Paulo R Users Group](http://www.meetup.com/useR-SP/)
+  * Brasilia: [Brasília UseR Meetup Linguagem de Programação "R"](https://www.meetup.com/Brasilia-UseR-Meetup/)
+  * Campinas: [Campinas R Users Meetup](https://www.meetup.com/Campinas-R-Users-Meetup/)
+  * Porto Alegre: [RStat](https://www.meetup.com/UseRS_/)
+  * São Paulo: [São Paulo R Users Group](https://www.meetup.com/useR-SP/)
   * Virtual: [R-br](http://leg.est.ufpr.br/doku.php/software:rbr)
 
 ### Chile
 
-  * Santiago: [Grupo de Usuarios de R en Chile](http://www.meetup.com/useRchile/)
+  * Santiago: [Grupo de Usuarios de R en Chile](https://www.meetup.com/useRchile/)
 
 ### Colombia
 
-  * Bogota: [Bogotá R Users Group](http://www.meetup.com/it/Bogota-R-Users-Group/)
-  * Cali: [Cali R Users Group](http://www.meetup.com/R-Users-Group-Cali/)
+  * Bogota: [Bogotá R Users Group](https://www.meetup.com/it/Bogota-R-Users-Group/)
+  * Cali: [Cali R Users Group](https://www.meetup.com/R-Users-Group-Cali/)
 
 ### Costa Rica
 
-  * Quesada: [San Carlos R Users Group](http://www.meetup.com/San-Carlos-R-User-Group/)
+  * Quesada: [San Carlos R Users Group](https://www.meetup.com/San-Carlos-R-User-Group/)
 
 
 ### Nicaragua
@@ -36,4 +36,4 @@ knit: "bookdown::preview_chapter"
 
 ### Venezuela
 
-  * Caracas: [R-usersVEN](http://www.meetup.com/R-usersVEN)
+  * Caracas: [R-usersVEN](https://www.meetup.com/R-usersVEN)

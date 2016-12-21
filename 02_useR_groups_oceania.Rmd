@@ -7,16 +7,16 @@ knit: "bookdown::preview_chapter"
 ### Australia
 
   * Adelaide: [ARUG](https://www.meetup.com/Adelaide-R-Users/)
-  * Brisbane: [BURGr](http://www.meetup.com/Brisbane-Users-of-R-Group-BURGr/)
-  * Canberra: [CANRUG](http://www.meetup.com/Canberra-R-Users-Group/)
-  * Hobart: [HRUG](http://www.meetup.com/Hobart-R-Users-Group/)
-  * Melbourne: [MelbURN](http://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/)
+  * Brisbane: [BURGr](https://www.meetup.com/Brisbane-Users-of-R-Group-BURGr/)
+  * Canberra: [CANRUG](https://www.meetup.com/Canberra-R-Users-Group/)
+  * Hobart: [HRUG](https://www.meetup.com/Hobart-R-Users-Group/)
+  * Melbourne: [MelbURN](https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/)
   * Perth: [MURUG](https://murugperth.wordpress.com/)
-  * Perth: [WARG](http://www.meetup.com/Western-Australia-R-Group-WARG/)
-  * Sydney: [SURF](http://www.meetup.com/R-Users-Sydney/)
+  * Perth: [WARG](https://www.meetup.com/Western-Australia-R-Group-WARG/)
+  * Sydney: [SURF](https://www.meetup.com/R-Users-Sydney/)
 
 ### New Zealand
 
-  * Auckland: [AKLRUG](http://www.meetup.com/Auckland-R-Users-Group-AKLRUG)
-  * Wellington: [WRUG](http://www.meetup.com/Wellington-R-Users-Group-WRUG)
+  * Auckland: [AKLRUG](https://www.meetup.com/Auckland-R-Users-Group-AKLRUG)
+  * Wellington: [WRUG](https://www.meetup.com/Wellington-R-Users-Group-WRUG)
 

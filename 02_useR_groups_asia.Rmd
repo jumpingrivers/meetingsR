@@ -2,24 +2,24 @@
 
 ### China
 
-  * Chengdu: [Chengdu R User's Group](http://www.meetup.com/Chengdu-R-Users-Group/events/218924116/)
+  * Chengdu: [Chengdu R User's Group](https://www.meetup.com/Chengdu-R-Users-Group/events/218924116/)
   * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/)
   * Macao: [R-Research](http://groupspaces.com/R-research/)
-  * Xiamen: [XMU-R](http://www.meetup.com/RGROUP/)
+  * Xiamen: [XMU-R](https://www.meetup.com/RGROUP/)
 
 ### Macao
   
-  * Macao: [Macao R Language Beginners Study Group](http://www.meetup.com/Macao-R-Learning-Meetup/)
+  * Macao: [Macao R Language Beginners Study Group](https://www.meetup.com/Macao-R-Learning-Meetup/)
 
 ### India
 
-  * Bangalore: [Bangalore R Users - BRU](http://groups.google.com/group/brumail)
-  * Chennai: [R Users Group Chennai](http://www.meetup.com/R-Users-Group-Chennai/)
-  * Mumbai: [mumbai-r-user-group](http://www.meetup.com/mumbai-r-user-group/?scroll=true)
-  * Delhi: [Delhi R Users Group Meetup](http://www.meetup.com/Delhi-R-Users-Group-Meetup/)
-  * Hyderabad: [R Users Group Hyderabad RUGH](http://www.meetup.com/R-Users-Group-Hyderabad/)
-  * New Delhi: [New Delhi UseR Group](http://www.meetup.com/New-Delhi-R-UseR-Group/)
-  * Pune: [Pune R User Group](http://www.meetup.com/Pune-R-junkies-Meetup/)
+  * Bangalore: [Bangalore R Users - BRU](https://groups.google.com/group/brumail)
+  * Chennai: [R Users Group Chennai](https://www.meetup.com/R-Users-Group-Chennai/)
+  * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/?scroll=true)
+  * Delhi: [Delhi R Users Group Meetup](https://www.meetup.com/Delhi-R-Users-Group-Meetup/)
+  * Hyderabad: [R Users Group Hyderabad RUGH](https://www.meetup.com/R-Users-Group-Hyderabad/)
+  * New Delhi: [New Delhi UseR Group](https://www.meetup.com/New-Delhi-R-UseR-Group/)
+  * Pune: [Pune R User Group](https://www.meetup.com/Pune-R-junkies-Meetup/)
 
 ### Japan
 
@@ -30,7 +30,7 @@
 
 ### Malaysia
 
-  * Kuala Lumpur: [myRUG](http://www.meetup.com/MY-RUserGroup/)
+  * Kuala Lumpur: [myRUG](https://www.meetup.com/MY-RUserGroup/)
 
 ### Pakistan
 
@@ -38,12 +38,12 @@
 
 ### Philippines
 
-  * Cebu: [CRUG](http://www.meetup.com/Cebu-R-Users-Group-CRUG/)
-  * Manila: [R Users Group](http://www.meetup.com/R-Users-Group-Philippines/)
+  * Cebu: [CRUG](https://www.meetup.com/Cebu-R-Users-Group-CRUG/)
+  * Manila: [R Users Group](https://www.meetup.com/R-Users-Group-Philippines/)
 
 ### Singapore
 
-  * Singapore: [R User Group](http://www.meetup.com/R-Users-Group-Philippines/)
+  * Singapore: [R User Group](https://www.meetup.com/R-Users-Group-Philippines/)
 
 ### Sri Lanka
 
@@ -53,7 +53,7 @@
 
   * Kaohsiung: [Kaohsiung R Users](https://www.facebook.com/groups/Kaohsiung.R.Users/#_=_)
   * Taipei: [Chinese Academy of R Software CARS](https://sites.google.com/site/zhonghuarruantixuehui/)
-  * Taipei: [Taiwan UseR Group](http://www.meetup.com/Taiwan-useR-Group/)
+  * Taipei: [Taiwan UseR Group](https://www.meetup.com/Taiwan-useR-Group/)
 
 ### Thailand
 
@@ -61,4 +61,4 @@
 
 ### Viet Nam
 
-  * Ha Noi: [Ha Noi R Users Group Meetup](http://www.meetup.com/Ha-Noi-R-Users-Group-Meetup/)
+  * Ha Noi: [Ha Noi R Users Group Meetup](https://www.meetup.com/Ha-Noi-R-Users-Group-Meetup/)
