@@ -27,6 +27,9 @@ We also maintain a corresponding list of __[Data Science](https://jumpingrivers.
 The html files for this document live in the `docs/` directory of the [repository](https://github.com/jumpingrivers/meetingsR/). Travis
 creates the html files from the `.Rmd` files and commits them to the `docs/` directory.
 
+I've created a couple of [R scripts](https://github.com/jumpingrivers/meetingsR/tree/master/R) to help
+maintain this list. One checks the URL return code 200, the other counts the number of groups.
+
 ### Original source
 
 The original list of useR groups was compiled by David Smith at [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.
