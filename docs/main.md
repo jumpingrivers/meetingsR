@@ -15,7 +15,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __265__ R user groups and events.
+twitter names are missing. There are currently __266__ R user groups and events.
 
 To propose a change, just click the pencil icon in the top left hand corner.
 
@@ -68,6 +68,7 @@ The format for listing an R event is:
   
 ### June
 
+   * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/), San Francisco (USA
    * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris (France). 
    
 ### July
