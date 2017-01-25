@@ -30,6 +30,7 @@ The format for listing an R event is:
   
 ### June
 
+   * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/), San Francisco (USA
    * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris (France). 
    
 ### July
