@@ -1,5 +1,9 @@
 ## Asia
 
+### Bangladesh
+
+  * Bangladesh: [RXperts](https://rxperts.github.io/)
+
 ### China
 
   * Chengdu: [Chengdu R User's Group](https://www.meetup.com/Chengdu-R-Users-Group/events/218924116/)
@@ -24,6 +28,7 @@
 ### Japan
 
   * Chiba: [Kashiwa.R](http://www14.atwiki.jp/kashiwar/)
+  * Kobe: [Kobe.R](https://kobexr.doorkeeper.jp/)
   * Osaka: [Osaka.R](https://sites.google.com/site/osakarwiki/)
   * Tokyo: [Tokyo.R](https://groups.google.com/group/r-study-tokyo)
   * Tsukuba: [sukuba.R](http://wiki.livedoor.jp/syou6162/)
