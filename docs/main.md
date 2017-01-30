@@ -15,7 +15,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __266__ R user groups and events.
+twitter names are missing. There are currently __267__ R user groups and events.
 
 To propose a change, just click the pencil icon in the top left hand corner.
 
@@ -278,6 +278,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Warsaw: [SER - Warsaw R Users Group](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
   * Poznań: [Poznań R Users](https://www.meetup.com/Poznan-R-User-Group-PAZUR/)
   * Rzeszów: [RRUG: Resovia R User Group](http://www.wais.kamil.rzeszow.pl/rusergroup-rzeszow/)
+  * Wrocław: [STWUR - Wroclaw R Users Group](https://www.meetup.com/Wroclaw-R-Users-Group/)
 
 ### Portugal
 
