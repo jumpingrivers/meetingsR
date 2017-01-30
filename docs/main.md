@@ -116,8 +116,6 @@ This list was originally compiled using the information from the [Revolution Ana
 
 The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-program) provides funding for local useR groups.
 
-[Microsoft](http://msdsug.microsoft.com/user-group/) offers sponsorship for data science user groups, including R-foused groups.
-
 <!--chapter:end:02_useR_groups_aaa.Rmd-->
 
 ## Asia
