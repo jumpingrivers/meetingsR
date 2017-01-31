@@ -58,7 +58,7 @@ The format for listing an R event is:
 
 ### April
 
-  * April: [New York R Conference 2017](http://www.rstats.nyc). New York, NY.
+  * April 21-22: [New York R Conference 2017](http://www.rstats.nyc). New York, NY.
   
 ### May
 
