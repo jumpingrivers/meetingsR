@@ -330,7 +330,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
   * Birmingham: [BRUM](https://www.meetup.com/BirminghamR/)
   * Cambridge: [CambR](http://www.cambr.org.uk/)
-  * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug)
+  * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug); [\@WarwickRUG](https://twitter.com/WarwickRUG)
   * Exeter: [Exeter](https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
   * London: [LondonR](https://www.meetup.com/LondonR/)
   * Manchester: [ManchesterR](http://www.rmanchester.org/)
