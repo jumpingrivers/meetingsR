@@ -15,7 +15,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __283__ R user groups and events.
+twitter names are missing. There are currently __284__ R user groups and events.
 
 To propose a change, just click the pencil icon in the top left hand corner.
 
@@ -598,6 +598,7 @@ knit: "bookdown::preview_chapter"
 
   * Austin: [Austin R User Group](https://www.meetup.com/Austin-R-User-Group/)
   * Dallas: [Dallas R Users Group](https://www.meetup.com/Dallas-R-Users-Group/)
+  * Dallas: [rbtu: R belong to us!](https://www.meetup.com/rbtu-R-belong-to-us/)
   * Houston: [Houston R Users Group](https://www.meetup.com/houstonr/)
   * Lubbock: [LubbockR Users Group](https://www.meetup.com/lubbockR-Meetup/)
   * San Antonio: [Alamo City R Users Group](https://www.meetup.com/Alamo-City-R-Users-Group/)
