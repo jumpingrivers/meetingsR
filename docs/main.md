@@ -15,7 +15,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __282__ R user groups and events.
+twitter names are missing. There are currently __283__ R user groups and events.
 
 To propose a change, just click the pencil icon in the top left hand corner.
 
@@ -209,7 +209,8 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Helsinki: [Finnish Society for Bioinformatics](http://www.bioinf.fi/)
   * Helsinki: [R User Group Finland](https://www.meetup.com/R-User-Group-Finland/)
 
-### France 
+### France
+  * Brest: [DataScience Brest/](https://www.meetup.com/fr-FR/Data-Science-Brest/)
   *  Lyon: [RLyon](https://www.meetup.com/R-Lyon/)
   *  Jouy-en-Josas: [R4Ciam](http://ciam.inra.fr/r4ciam/)
   *  Marseille: [R user group Aix-Marseille](https://www.meetup.com/R-user-group-Aix-Marseille/)
