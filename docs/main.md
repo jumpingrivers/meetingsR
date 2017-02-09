@@ -210,7 +210,8 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Helsinki: [R User Group Finland](https://www.meetup.com/R-User-Group-Finland/)
 
 ### France
-  * Brest: [DataScience Brest/](https://www.meetup.com/fr-FR/Data-Science-Brest/)
+
+  *  Brest: [DataScience Brest](https://www.meetup.com/fr-FR/Data-Science-Brest/)
   *  Lyon: [RLyon](https://www.meetup.com/R-Lyon/)
   *  Jouy-en-Josas: [R4Ciam](http://ciam.inra.fr/r4ciam/)
   *  Marseille: [R user group Aix-Marseille](https://www.meetup.com/R-user-group-Aix-Marseille/)
@@ -316,8 +317,8 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Sevilla: [R users](https://sevillarusers.wordpress.com/)
   * Valencia: [R users](https://valenciarusers.wordpress.com/)
 
-
 ### Sweden
+
   * Stockholm: [StockholmR](https://www.meetup.com/StockholmR/)
 
 ### Switzerland
@@ -353,12 +354,13 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
   * Cardiff): [Cardiff](https://www.meetup.com/Cardiff-R-User-Group/) R User Group
   * Swansea: [Swansea](https://sites.google.com/site/swanseauniversityrusergroup/home) University R User Group
-  
-  
+
 ### Turkey
+
   * Ankara: [Turkish Community](https://www.meetup.com/Turkish-Community-of-R/) of R
 
 ### Ukraine
+
   * Kyiv: [Kyiv useR! Group](https://www.meetup.com/Kyiv-useR-Group/)
 
 <!--chapter:end:02_useR_groups_europe.Rmd-->
