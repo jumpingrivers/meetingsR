@@ -22,7 +22,8 @@
   * Helsinki: [Finnish Society for Bioinformatics](http://www.bioinf.fi/)
   * Helsinki: [R User Group Finland](https://www.meetup.com/R-User-Group-Finland/)
 
-### France 
+### France
+  * Brest: [DataScience Brest/](https://www.meetup.com/fr-FR/Data-Science-Brest/)
   *  Lyon: [RLyon](https://www.meetup.com/R-Lyon/)
   *  Jouy-en-Josas: [R4Ciam](http://ciam.inra.fr/r4ciam/)
   *  Marseille: [R user group Aix-Marseille](https://www.meetup.com/R-user-group-Aix-Marseille/)
