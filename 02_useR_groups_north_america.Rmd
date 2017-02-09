@@ -167,6 +167,7 @@ knit: "bookdown::preview_chapter"
 
   * Austin: [Austin R User Group](https://www.meetup.com/Austin-R-User-Group/)
   * Dallas: [Dallas R Users Group](https://www.meetup.com/Dallas-R-Users-Group/)
+  * Dallas: [rbtu: R belong to us!](https://www.meetup.com/rbtu-R-belong-to-us/)
   * Houston: [Houston R Users Group](https://www.meetup.com/houstonr/)
   * Lubbock: [LubbockR Users Group](https://www.meetup.com/lubbockR-Meetup/)
   * San Antonio: [Alamo City R Users Group](https://www.meetup.com/Alamo-City-R-Users-Group/)
