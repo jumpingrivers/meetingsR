@@ -11,18 +11,16 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 ---
 
 
-# Overview {-}
+# Overview
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __284__ R user groups and events.
-
+twitter names are missing. There are currently __284__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
-We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
+This list is maintained by [Jumping Rivers](www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
 
-
-### Technical bit {-}
+## Technical bit 
 
 The html files for this document live in the `docs/` directory of the [repository](https://github.com/jumpingrivers/meetingsR/). Travis
 creates the html files from the `.Rmd` files and commits them to the `docs/` directory.
@@ -30,7 +28,7 @@ creates the html files from the `.Rmd` files and commits them to the `docs/` dir
 I've created a couple of [R scripts](https://github.com/jumpingrivers/meetingsR/tree/master/R) to help
 maintain this list. One checks the URL return code 200, the other counts the number of groups.
 
-### Original source
+## Original source
 
 The original list of useR groups was compiled by David Smith at [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.
 
@@ -109,8 +107,6 @@ divided within country, e.g. in the USA, by state & in the United Kingdom, by me
 The suggested format for listing a group is
 
   * Town name: [Group name & link](http://www.example.com/); [\@Twitter_handle](http://www.example.com/)
-
-This list was originally compiled using the information from the [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.
 
 ## Funding
 
