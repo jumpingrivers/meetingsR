@@ -314,7 +314,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Barcelona: [RUGBCN](http://rugbcn.wordpress.com/)
   * Madrid: [Grupo de Interés Local de Madrid](http://madrid.r-es.org/)
   * Madrid: [R Hispano](http://r-es.org/)
-  * Sevilla: [R users](https://sevillarusers.wordpress.com/); [@_SevillaR](https://twitter.com/_SevillaR)
+  * Sevilla: [R users](https://sevillarusers.wordpress.com/); [\@_SevillaR](https://twitter.com/_SevillaR)
   * Valencia: [R users](https://valenciarusers.wordpress.com/)
 
 ### Sweden
