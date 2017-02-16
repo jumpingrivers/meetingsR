@@ -3,7 +3,7 @@ bookdown::gitbook:
   css: [css/style.css,style.css] #A hacky fix to make it work with chapter preview
   config:
     toc:
-      collapse: subsection
+      collapse: section
       before: |
         <li><a href="./">R Conferences and Meetings</a></li>
       after: |
@@ -15,4 +15,7 @@ bookdown::pdf_book:
   includes:
     in_header: preamble.tex
   keep_tex: yes
+
+
+
 
