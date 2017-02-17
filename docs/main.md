@@ -119,13 +119,11 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 ### China
 
   * Chengdu: [Chengdu R User's Group](https://www.meetup.com/Chengdu-R-Users-Group/events/218924116/)
-  * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/)
-  * Macao: [R-Research](http://groupspaces.com/R-research/)
   * Xiamen: [XMU-R](https://www.meetup.com/RGROUP/)
 
-### Macao
-  
-  * Macao: [Macao R Language Beginners Study Group](https://www.meetup.com/Macao-R-Learning-Meetup/)
+### Hong Kong
+
+  * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/)
 
 ### India
 
@@ -143,6 +141,11 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Osaka: [Osaka.R](https://sites.google.com/site/osakarwiki/)
   * Tokyo: [Tokyo.R](https://groups.google.com/group/r-study-tokyo)
   * Tsukuba: [sukuba.R](http://wiki.livedoor.jp/syou6162/)
+
+### Macau
+
+  * Macau: [R-Research](http://groupspaces.com/R-research/)
+  * Macau: [Macao R Language Beginners Study Group](https://www.meetup.com/Macao-R-Learning-Meetup/)
 
 ### Malaysia
 
