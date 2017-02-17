@@ -17,6 +17,10 @@ The format for listing an R event is:
 ### February
 
   * February 16-18: [satRday](http://satrdays.org/capetown2017/). Cape Town, South Africa. [\@satRdays_org](https://twitter.com/satRdays_org)
+  
+### March
+
+  * March 4: [#ODDZurich Hackathon](http://zurich-r-user-group.github.io/hackathon.html). Zurich, Switzerland. [@ZurichRUsers](https://twitter.com/ZurichRUsers)
 
 ### April
 
