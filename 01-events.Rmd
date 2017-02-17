@@ -20,7 +20,7 @@ The format for listing an R event is:
   
 ### March
 
-  * March 4: [#ODDZurich Hackathon](http://zurich-r-user-group.github.io/hackathon.html). Zurich, Switzerland. [@ZurichRUsers](https://twitter.com/ZurichRUsers)
+  * March 4: [#ODDZurich Hackathon](http://zurich-r-user-group.github.io/hackathon.html). Zurich, Switzerland. [\@ZurichRUsers](https://twitter.com/ZurichRUsers)
 
 ### April
 
