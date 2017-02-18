@@ -48,6 +48,11 @@
 
   * Singapore: [R User Group](https://www.meetup.com/R-Users-Group-Philippines/)
 
+### South Korea
+
+  * South Korea: [R Korea - Korean R Study Group](https://www.facebook.com/groups/krstudy/)
+  * South Korea: [R Korea - Korean R User Group](https://www.facebook.com/groups/KoreaRUsers/)
+
 ### Sri Lanka
 
   * Peradeniya: [R User Group](https://groups.google.com/forum/?hl=en#!forum/r-user-group---srilanka) 
