@@ -15,7 +15,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __285__ R user groups and events. 
+twitter names are missing. There are currently __287__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 This list is maintained by [Jumping Rivers](http://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
@@ -167,6 +167,11 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 ### Singapore
 
   * Singapore: [R User Group](https://www.meetup.com/R-Users-Group-Philippines/)
+
+### South Korea
+
+  * South Korea: [R Korea - Korean R Study Group](https://www.facebook.com/groups/krstudy/)
+  * South Korea: [R Korea - Korean R User Group](https://www.facebook.com/groups/KoreaRUsers/)
 
 ### Sri Lanka
 
