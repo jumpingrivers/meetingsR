@@ -15,7 +15,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __288__ R user groups and events. 
+twitter names are missing. There are currently __289__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 This list is maintained by [Jumping Rivers](http://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
@@ -471,6 +471,10 @@ knit: "bookdown::preview_chapter"
 
   * Phoenix: [Phoenix R Programmers](http://rphx.wordpress.com/)
 
+#### Arkansas {-}
+
+  * Little Rock: [Little Rock R User Group](https://www.meetup.com/Central-Arkansas-R-User-Group/)
+
 #### California {-}
 
   * Berkeley: [The Berkeley R Language Beginner Study Group](https://www.meetup.com/r-enthusiasts/)
@@ -561,7 +565,6 @@ knit: "bookdown::preview_chapter"
   * Newark: [NewJerseyR](http://newjerseyr.org/)
   * Princeton: Central New Jersey R User Group (contact rees@reesmorrison.com)
   * Trenton: [TRU](https://www.meetup.com/TRUgroup/)
-
 
 #### New York {-}
 
