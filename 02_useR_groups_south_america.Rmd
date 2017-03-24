@@ -33,6 +33,10 @@ knit: "bookdown::preview_chapter"
 ### Nicaragua
 
   * Managua: [Usuarios R Nicaragua](https://www.facebook.com/groups/usuariosrnicaragua/)
+  
+### Panama
+
+  * Panamá: [Panama R User's Group](https://www.meetup.com/Panama-R-Users-Group/)
 
 ### Venezuela
 
