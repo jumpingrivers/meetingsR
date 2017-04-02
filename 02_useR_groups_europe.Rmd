@@ -94,6 +94,7 @@
   * Warsaw: [SER - Warsaw R Users Group](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
   * Poznań: [Poznań R Users](https://www.meetup.com/Poznan-R-User-Group-PAZUR/)
   * Rzeszów: [RRUG: Resovia R User Group](http://www.wais.kamil.rzeszow.pl/rusergroup-rzeszow/)
+  * TriCity: [Trójmiejska Grupa Entuzjastów R](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/)
   * Wrocław: [STWUR - Wroclaw R Users Group](https://www.meetup.com/Wroclaw-R-Users-Group/)
 
 ### Portugal
