@@ -5,6 +5,7 @@ site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
 twitter-handle: riversjumping
+cover-image: logo.png
 description: "A list of R conferences and meetings."
 github-repo: jumpingrivers/meetingsR
 url: 'https\://jumpingrivers.github.io/meetingsR/'
@@ -234,7 +235,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 ### Germany 
 
   *  Berlin: [Berlin R Users Group](https://www.meetup.com/Berlin-R-Users-Group/ )
-  *  Bochum: [R Users Group Bochum/Ruhr](https://user.ruhr-uni-bochum.de/); [@useR_bochum](https://twitter.com/useR_bochum)
+  *  Bochum: [R Users Group Bochum/Ruhr](https://user.ruhr-uni-bochum.de/); [\@useR_bochum](https://twitter.com/useR_bochum)
   *  Dresden: [R User Group Dresden](http://rusersdresden.wordpress.com/)
   *  Hamburg: [Hamburg R User Group](https://www.meetup.com/Hamburg-R-User-Group/)
   *  Hannover: [Hannover R User Group](https://www.meetup.com/de-DE/Hannover-R-User-Group/) 
