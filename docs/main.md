@@ -15,7 +15,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __291__ R user groups and events. 
+twitter names are missing. There are currently __292__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 This list is maintained by [Jumping Rivers](http://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
@@ -56,18 +56,18 @@ The format for listing an R event is:
   
 ### March
 
-  * March 4: [#ODDZurich Hackathon](http://zurich-r-user-group.github.io/hackathon.html). Zurich, Switzerland. [\@ZurichRUsers](https://twitter.com/ZurichRUsers)
+  * March 4: [#ODDZurich Hackathon](http://zurich-r-user-group.github.io/hackathon.html). Zurich, Switzerland. [\@ZurichRUsers](https://twitter.com/ZurichRUsers).
   * March 24-25: [Women in Machine Learning & Data Science](http://www.wimldsdatadive.com/hackathons/2). New York, USA.
 
 ### April
 
-  * April 21-22: [New York R Conference 2017](http://www.rstats.nyc). New York, NY.
+  * April 21-22: [New York R Conference 2017](http://www.rstats.nyc). New York, USA.
   
 ### May
 
-  * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, IL.
+  * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, USA.
   * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Université Laval, Québec, Canada.
-  * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html), Los Angeles (USA)
+  * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html), Los Angeles, USA.
   
 ### June
 
@@ -75,7 +75,7 @@ The format for listing an R event is:
    * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris (France). 
    
 ### July
-
+  * July 3: [CascadiaRconf](https://cascadiarconf.com/). Portland, USA.
   * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels).
   * July 27-28: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/). Boston, USA.
   
@@ -89,13 +89,13 @@ The format for listing an R event is:
 
 ## 2016 {-}
 
-  * April: [New York R Conference 2016](http://www.rstats.nyc), New York, NY
-  * May: [R/Finance 2016](http://www.rinfinance.com), Chicago, IL
+  * April: [New York R Conference 2016](http://www.rstats.nyc), New York, NY.
+  * May: [R/Finance 2016](http://www.rinfinance.com), Chicago, IL.
   * July: [UseR! 2016](http://user2016.org/), Stanford, USA.
   * September: [EARL London 2016](https://earlconf.com/london/), London, UK.
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
   * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
-  * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA
+  * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA.
   * December: [European Bioconductor Developers' Meeting](http://scicore.ch/events/eurobioc2016/). Basel, Switzerland.
 
 <!--chapter:end:01-events.Rmd-->
