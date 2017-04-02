@@ -15,7 +15,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __292__ R user groups and events. 
+twitter names are missing. There are currently __293__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 This list is maintained by [Jumping Rivers](http://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
@@ -77,6 +77,7 @@ The format for listing an R event is:
 ### July
   * July 3: [CascadiaRconf](https://cascadiarconf.com/). Portland, USA.
   * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels).
+   * July 5: [Riot](http://riotworkshop.github.io/). Co-located with useR! 2017.
   * July 27-28: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/). Boston, USA.
   
 ### September
