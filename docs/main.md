@@ -11,18 +11,16 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 ---
 
 
-# Overview {-}
+# Overview
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __284__ R user groups and events.
-
+twitter names are missing. There are currently __293__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
-We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
+This list is maintained by [Jumping Rivers](http://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
 
-
-### Technical bit {-}
+## Technical bit 
 
 The html files for this document live in the `docs/` directory of the [repository](https://github.com/jumpingrivers/meetingsR/). Travis
 creates the html files from the `.Rmd` files and commits them to the `docs/` directory.
@@ -30,7 +28,7 @@ creates the html files from the `.Rmd` files and commits them to the `docs/` dir
 I've created a couple of [R scripts](https://github.com/jumpingrivers/meetingsR/tree/master/R) to help
 maintain this list. One checks the URL return code 200, the other counts the number of groups.
 
-### Original source
+## Original source
 
 The original list of useR groups was compiled by David Smith at [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.
 
@@ -55,25 +53,31 @@ The format for listing an R event is:
 ### February
 
   * February 16-18: [satRday](http://satrdays.org/capetown2017/). Cape Town, South Africa. [\@satRdays_org](https://twitter.com/satRdays_org)
+  
+### March
+
+  * March 4: [#ODDZurich Hackathon](http://zurich-r-user-group.github.io/hackathon.html). Zurich, Switzerland. [\@ZurichRUsers](https://twitter.com/ZurichRUsers).
+  * March 24-25: [Women in Machine Learning & Data Science](http://www.wimldsdatadive.com/hackathons/2). New York, USA.
 
 ### April
 
-  * April 21-22: [New York R Conference 2017](http://www.rstats.nyc). New York, NY.
+  * April 21-22: [New York R Conference 2017](http://www.rstats.nyc). New York, USA.
   
 ### May
 
-  * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, IL.
+  * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, USA.
   * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Université Laval, Québec, Canada.
-  * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html), Los Angeles (USA)
+  * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html), Los Angeles, USA.
   
 ### June
 
-   * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/), San Francisco (USA
+   * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/), San Francisco (USA).
    * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris (France). 
    
 ### July
-
-  * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels)
+  * July 3: [CascadiaRconf](https://cascadiarconf.com/). Portland, USA.
+  * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels).
+    * July 5: [Riot](http://riotworkshop.github.io/). Co-located with useR! 2017.
   * July 27-28: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/). Boston, USA.
   
 ### September
@@ -86,13 +90,13 @@ The format for listing an R event is:
 
 ## 2016 {-}
 
-  * April: [New York R Conference 2016](http://www.rstats.nyc), New York, NY
-  * May: [R/Finance 2016](http://www.rinfinance.com), Chicago, IL
+  * April: [New York R Conference 2016](http://www.rstats.nyc), New York, NY.
+  * May: [R/Finance 2016](http://www.rinfinance.com), Chicago, IL.
   * July: [UseR! 2016](http://user2016.org/), Stanford, USA.
   * September: [EARL London 2016](https://earlconf.com/london/), London, UK.
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
   * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
-  * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA
+  * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA.
   * December: [European Bioconductor Developers' Meeting](http://scicore.ch/events/eurobioc2016/). Basel, Switzerland.
 
 <!--chapter:end:01-events.Rmd-->
@@ -110,8 +114,6 @@ The suggested format for listing a group is
 
   * Town name: [Group name & link](http://www.example.com/); [\@Twitter_handle](http://www.example.com/)
 
-This list was originally compiled using the information from the [Revolution Analytics](http://blog.revolutionanalytics.com/local-r-groups.html) blog.
-
 ## Funding
 
 The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-program) provides funding for local useR groups.
@@ -123,13 +125,11 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 ### China
 
   * Chengdu: [Chengdu R User's Group](https://www.meetup.com/Chengdu-R-Users-Group/events/218924116/)
-  * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/)
-  * Macao: [R-Research](http://groupspaces.com/R-research/)
   * Xiamen: [XMU-R](https://www.meetup.com/RGROUP/)
 
-### Macao
-  
-  * Macao: [Macao R Language Beginners Study Group](https://www.meetup.com/Macao-R-Learning-Meetup/)
+### Hong Kong
+
+  * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/)
 
 ### India
 
@@ -148,6 +148,11 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Tokyo: [Tokyo.R](https://groups.google.com/group/r-study-tokyo)
   * Tsukuba: [sukuba.R](http://wiki.livedoor.jp/syou6162/)
 
+### Macau
+
+  * Macau: [R-Research](http://groupspaces.com/R-research/)
+  * Macau: [Macao R Language Beginners Study Group](https://www.meetup.com/Macao-R-Learning-Meetup/)
+
 ### Malaysia
 
   * Kuala Lumpur: [myRUG](https://www.meetup.com/MY-RUserGroup/)
@@ -164,6 +169,11 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 ### Singapore
 
   * Singapore: [R User Group](https://www.meetup.com/R-Users-Group-Philippines/)
+
+### South Korea
+
+  * South Korea: [R Korea - Korean R Study Group](https://www.facebook.com/groups/krstudy/)
+  * South Korea: [R Korea - Korean R User Group](https://www.facebook.com/groups/KoreaRUsers/)
 
 ### Sri Lanka
 
@@ -281,6 +291,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Warsaw: [SER - Warsaw R Users Group](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
   * Poznań: [Poznań R Users](https://www.meetup.com/Poznan-R-User-Group-PAZUR/)
   * Rzeszów: [RRUG: Resovia R User Group](http://www.wais.kamil.rzeszow.pl/rusergroup-rzeszow/)
+  * TriCity: [Trójmiejska Grupa Entuzjastów R](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/)
   * Wrocław: [STWUR - Wroclaw R Users Group](https://www.meetup.com/Wroclaw-R-Users-Group/)
 
 ### Portugal
@@ -462,6 +473,10 @@ knit: "bookdown::preview_chapter"
 
   * Phoenix: [Phoenix R Programmers](http://rphx.wordpress.com/)
 
+#### Arkansas {-}
+
+  * Little Rock: [Little Rock R User Group](https://www.meetup.com/Central-Arkansas-R-User-Group/)
+
 #### California {-}
 
   * Berkeley: [The Berkeley R Language Beginner Study Group](https://www.meetup.com/r-enthusiasts/)
@@ -552,7 +567,6 @@ knit: "bookdown::preview_chapter"
   * Newark: [NewJerseyR](http://newjerseyr.org/)
   * Princeton: Central New Jersey R User Group (contact rees@reesmorrison.com)
   * Trenton: [TRU](https://www.meetup.com/TRUgroup/)
-
 
 #### New York {-}
 
@@ -690,6 +704,10 @@ knit: "bookdown::preview_chapter"
 ### Nicaragua
 
   * Managua: [Usuarios R Nicaragua](https://www.facebook.com/groups/usuariosrnicaragua/)
+  
+### Panama
+
+  * Panamá: [Panama R User's Group](https://www.meetup.com/Panama-R-Users-Group/)
 
 ### Venezuela
 

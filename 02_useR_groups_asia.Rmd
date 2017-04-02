@@ -3,13 +3,11 @@
 ### China
 
   * Chengdu: [Chengdu R User's Group](https://www.meetup.com/Chengdu-R-Users-Group/events/218924116/)
-  * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/)
-  * Macao: [R-Research](http://groupspaces.com/R-research/)
   * Xiamen: [XMU-R](https://www.meetup.com/RGROUP/)
 
-### Macao
-  
-  * Macao: [Macao R Language Beginners Study Group](https://www.meetup.com/Macao-R-Learning-Meetup/)
+### Hong Kong
+
+  * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/)
 
 ### India
 
@@ -28,6 +26,11 @@
   * Tokyo: [Tokyo.R](https://groups.google.com/group/r-study-tokyo)
   * Tsukuba: [sukuba.R](http://wiki.livedoor.jp/syou6162/)
 
+### Macau
+
+  * Macau: [R-Research](http://groupspaces.com/R-research/)
+  * Macau: [Macao R Language Beginners Study Group](https://www.meetup.com/Macao-R-Learning-Meetup/)
+
 ### Malaysia
 
   * Kuala Lumpur: [myRUG](https://www.meetup.com/MY-RUserGroup/)
@@ -44,6 +47,11 @@
 ### Singapore
 
   * Singapore: [R User Group](https://www.meetup.com/R-Users-Group-Philippines/)
+
+### South Korea
+
+  * South Korea: [R Korea - Korean R Study Group](https://www.facebook.com/groups/krstudy/)
+  * South Korea: [R Korea - Korean R User Group](https://www.facebook.com/groups/KoreaRUsers/)
 
 ### Sri Lanka
 
