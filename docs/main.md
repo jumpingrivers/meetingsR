@@ -72,11 +72,12 @@ The format for listing an R event is:
   
 ### June
 
-   * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/), San Francisco (USA).
-   * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris (France). 
+  * June 3: [CascadiaRconf](https://cascadiarconf.com/). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf).
+  * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/), San Francisco, USA.
+   * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris, France. 
    
 ### July
-  * July 3: [CascadiaRconf](https://cascadiarconf.com/). Portland, USA.
+
   * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels).
     * July 5: [Riot](http://riotworkshop.github.io/). Co-located with useR! 2017.
   * July 27-28: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/). Boston, USA.
