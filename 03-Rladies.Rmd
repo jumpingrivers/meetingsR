@@ -73,5 +73,5 @@ gender diversity in the R community.
   * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
   * Minneapolis, MN: [R ladies - Twin Cities](https://www.meetup.com/RLadiesTC/)
   * Washington, DC: [R-Ladies DC](https://www.meetup.com/rladies-dc/)
-  * Hartford, CT: [R-Ladies Connecticut](https://www.meetup.com/rladies-connecticut/)
+  * Hartford, CT: [R-Ladies Connecticut](https://www.meetup.com/rladies-connecticut/). [\@RLadiesCT](https://twitter.com/RLadiesCT). 
   * Columbus, OH: [R-Ladies Columbus](https://www.meetup.com/RLadies-Columbus/)
