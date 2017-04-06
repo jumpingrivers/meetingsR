@@ -732,7 +732,7 @@ gender diversity in the R community.
 
 ## Australia
 
-  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/)
+  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/). [\@RLadiesAU](https://twitter.com/RLadiesAU).
   
 ## France
 
@@ -740,7 +740,7 @@ gender diversity in the R community.
   
 ## Germany
 
-  * Berlin: [R-Ladies Berlin](https://www.meetup.com/rladies-berlin/)
+  * Berlin: [R-Ladies Berlin](https://www.meetup.com/rladies-berlin/). [\@RLadiesBerlin](https://twitter.com/RLadiesBerlin).
   
 ## Georgia
  
@@ -786,7 +786,7 @@ gender diversity in the R community.
 
   * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/events/235936204/); [@RLadiesAmes](https://twitter.com/RLadiesAmes)
   * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
-  * San Francisco: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/)
+  * San Francisco: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/). [\@RLadiesSF](https://twitter.com/RLadiesSF).
   * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
   * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/)
   * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
