@@ -30,6 +30,7 @@ The format for listing an R event is:
 ### May
 
   * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, USA.
+  * May 22-26: [Course "Introduction to R"](http://www.transmittingscience.org/courses/statistics/introduction-r/). Barcelona, Spain.
   * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Université Laval, Québec, Canada.
   * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html), Los Angeles, USA.
   
@@ -37,7 +38,7 @@ The format for listing an R event is:
 
   * June 3: [CascadiaRconf](https://cascadiarconf.com/). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf).
   * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/), San Francisco, USA.
-   * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris, France. 
+  * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris, France. 
    
 ### July
 
