@@ -8,6 +8,12 @@ The format for listing an R event is:
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
+## 2018 {-}
+
+### July
+
+  * July 10-13: Brisbane, Australia.
+
 ## 2017 {-}
 
 ### January
