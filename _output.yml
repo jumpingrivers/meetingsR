@@ -7,7 +7,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">R Conferences and Meetings</a></li>
       after: |
-        <div class="div-wrapper"><a href="http://www.jumpingrivers.com"><img src = "logo.png" style="width:100px;"></a></div>
+        <div class="div-wrapper"><a href="https://www.jumpingrivers.com"><img src = "logo.png" style="width:100px;"></a></div>
     edit:
       link: https://github.com/jumpingrivers/meetingsR/edit/master/%s
       text: "Edit"
