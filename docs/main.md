@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __294__ R user groups and events. 
+twitter names are missing. There are currently __295__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 This list is maintained by [Jumping Rivers](http://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
@@ -350,6 +350,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 #### England {-}
 
   * Birmingham: [BRUM](https://www.meetup.com/BirminghamR/)
+  * Canterbury: [CanterburyR](https://www.meetup.com/Canterbury-R-Users-Group)
   * Cambridge: [CambR](http://www.cambr.org.uk/)
   * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug); [\@WarwickRUG](https://twitter.com/WarwickRUG)
   * Exeter: [Exeter](https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
