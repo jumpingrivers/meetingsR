@@ -402,7 +402,7 @@ knit: "bookdown::preview_chapter"
 
 ### Ghana
 
-  * Accra: [Accra R Users Group](https://www.meetup.com/StatsRbourg/)
+  * Accra: [Accra R Users Group](https://www.meetup.com/Accra-R-Users-Group/
 
 ### Israel
 
@@ -410,7 +410,7 @@ knit: "bookdown::preview_chapter"
 
 ### Kenya
 
-  * Nairobi: [R Users Group Kenya RUGK](https://www.meetup.com/Napoli-R-User-Group/)
+  * Nairobi: [R Users Group Kenya RUGK](https://www.meetup.com/Nairobi-R-Users-Group/)
   
 ### Morocco
 
