@@ -792,7 +792,7 @@ gender diversity in the R community.
 ## United Kingdom
 
   * London: [R-Ladies London](https://www.meetup.com/rladies-london/)
-  * Manchester: R Ladies Manchester; [@RLadiesManchest](https://twitter.com/RLadiesManchest)
+  * Manchester: R Ladies Manchester; [\@RLadiesManchest](https://twitter.com/RLadiesManchest)
 
 ## United States of America
 
