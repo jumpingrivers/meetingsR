@@ -49,7 +49,7 @@ The format for listing an R event is:
 
 ### July
 
-  * July 10-13: Brisbane, Australia.
+  * July 10-13: useR! 2018. Brisbane, Australia.
 
 ## 2017 {-}
 
@@ -72,7 +72,7 @@ The format for listing an R event is:
   
 ### May
 
-  * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, USA.
+  * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, USA. ([Recordings here](https://channel9.msdn.com/Events/RFinance/RFinance-2017))
   * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Université Laval, Québec, Canada.
   * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html), Los Angeles, USA.
   * May 28-Jun 2: [WOMBAT MeDaScIn 2017](http://www.datasciencemelbourne.com/medascin2017/), Melbourne, Australia
@@ -101,7 +101,7 @@ The format for listing an R event is:
 
   * April: [New York R Conference 2016](http://www.rstats.nyc), New York, NY.
   * May: [R/Finance 2016](http://www.rinfinance.com), Chicago, IL.
-  * July: [UseR! 2016](http://user2016.org/), Stanford, USA.
+  * July: [UseR! 2016](http://user2016.org/), Stanford, USA. ([Recordings here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016))
   * September: [EARL London 2016](https://earlconf.com/london/), London, UK.
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
   * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
