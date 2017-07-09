@@ -10,9 +10,11 @@ gender diversity in the R community.
 ## Argentina
 
   * Buenos Aires: [R-Ladies Buenos Aires](https://www.meetup.com/rladies-buenos-aires/)
+  * Santa Rosa: [R-Ladies Santa Rosa](https://www.meetup.com/rladies-santa-rosa/)
 
 ## Australia
 
+  * Adelaide: [R-Ladies Adelaide](https://www.meetup.com/rladies-adelaide/)
   * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/). [\@RLadiesAU](https://twitter.com/RLadiesAU).
 
 ## Brazil
@@ -26,6 +28,7 @@ gender diversity in the R community.
 ## Germany
 
   * Berlin: [R-Ladies Berlin](https://www.meetup.com/rladies-berlin/). [\@RLadiesBerlin](https://twitter.com/RLadiesBerlin).
+  * Munich: [R-Ladies Munich](https://www.meetup.com/rladies-munich)
   
 ## Georgia
  
@@ -47,6 +50,10 @@ gender diversity in the R community.
 
   * Lisbon: [R-Ladies Lisboa](https://www.meetup.com/R-Ladies-Lisboa/)
   
+## South Africa
+
+  * Cape Town: [R-Ladies Cape Town](https://www.meetup.com/R-Ladies-Cape-Town/)
+
 ## Spain
 
   * Madrid: [Madrid](https://www.meetup.com/rladies-madrid); [\@RLadiesMAD](https://twitter.com/RLadiesMAD)
@@ -69,13 +76,22 @@ gender diversity in the R community.
 
 ## United States of America
 
-  * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/events/235936204/); [\@RLadiesAmes](https://twitter.com/RLadiesAmes)
   * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
   * San Francisco: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/). [\@RLadiesSF](https://twitter.com/RLadiesSF).
+  * Miami, FL: [R-Ladies Miami](https://www.meetup.com/R-Ladies-Miami/)
+  * Orlando, FL: [R-Ladies Orlando](https://www.meetup.com/R-Ladies-Orlando/)
+  * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/); [\@RLadiesAmes](https://twitter.com/RLadiesAmes)
   * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
+  * Buffalo, NY: [R-Ladies Buffalo](https://www.meetup.com/RLadies-Buffalo/)
   * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/)
   * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
   * Minneapolis, MN: [R ladies - Twin Cities](https://www.meetup.com/RLadiesTC/)
   * Washington, DC: [R-Ladies DC](https://www.meetup.com/rladies-dc/)
   * Hartford, CT: [R-Ladies Connecticut](https://www.meetup.com/rladies-connecticut/). [\@RLadiesCT](https://twitter.com/RLadiesCT). 
   * Columbus, OH: [R-Ladies Columbus](https://www.meetup.com/RLadies-Columbus/)
+  * Nashville, TN: [R-Ladies Nashville](https://www.meetup.com/rladies-nashville/)
+  * Austin, TX: [R-Ladies Austin](https://meetup.com/rladies-austin)
+
+## Uruguay
+
+ * Montevideo: [R-Ladies Montevideo](https://www.meetup.com/rladies-montevideo/)
