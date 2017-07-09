@@ -72,7 +72,6 @@
   * Napoli: [NapoliR User Group](https://www.meetup.com/Napoli-R-User-Group/)
   * Padua: [Italy-RUG Rante](https://groups.google.com/group/rante)
   * Torino: [Torino R net](http://torinor.net/)
-  * Trento: [Trento R User's Group](https://www.meetup.com/Trento-R-Users-Group/)
 
 ### Luxembourg
 
@@ -91,10 +90,8 @@
 
 ### Poland
 
-  * Cracow: [eRka](https://www.meetup.com/Spotkania-Entuzjastow-R-Cracow-R-Users-Group-Meetup/events/214840612/)
   * Warsaw: [SER - Warsaw R Users Group](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
   * Poznań: [Poznań R Users](https://www.meetup.com/Poznan-R-User-Group-PAZUR/)
-  * Rzeszów: [RRUG: Resovia R User Group](http://www.wais.kamil.rzeszow.pl/rusergroup-rzeszow/)
   * TriCity: [Trójmiejska Grupa Entuzjastów R](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/)
   * Wrocław: [STWUR - Wroclaw R Users Group](https://www.meetup.com/Wroclaw-R-Users-Group/)
 

@@ -4,10 +4,6 @@ knit: "bookdown::preview_chapter"
 
 ## Middle East/ Africa
 
-### Benin
-
-  * Cotonou: [Cotonou R Users Group Meetup](https://www.meetup.com/Victoria-Data-Scientists/)
-
 ### Egypt
 
   * Cairo: [Cairo Bioinformatics Group](https://www.meetup.com/Cairo-Bioinformatics-Group/)

@@ -29,7 +29,6 @@
 ### Macau
 
   * Macau: [R-Research](http://groupspaces.com/R-research/)
-  * Macau: [Macao R Language Beginners Study Group](https://www.meetup.com/Macao-R-Learning-Meetup/)
 
 ### Malaysia
 
