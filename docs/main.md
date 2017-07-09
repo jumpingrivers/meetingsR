@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __298__ R user groups and events. 
+twitter names are missing. There are currently __302__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 This list is maintained by [Jumping Rivers](https://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
@@ -160,7 +160,6 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 ### Macau
 
   * Macau: [R-Research](http://groupspaces.com/R-research/)
-  * Macau: [Macao R Language Beginners Study Group](https://www.meetup.com/Macao-R-Learning-Meetup/)
 
 ### Malaysia
 
@@ -278,7 +277,6 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Napoli: [NapoliR User Group](https://www.meetup.com/Napoli-R-User-Group/)
   * Padua: [Italy-RUG Rante](https://groups.google.com/group/rante)
   * Torino: [Torino R net](http://torinor.net/)
-  * Trento: [Trento R User's Group](https://www.meetup.com/Trento-R-Users-Group/)
 
 ### Luxembourg
 
@@ -297,10 +295,8 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 ### Poland
 
-  * Cracow: [eRka](https://www.meetup.com/Spotkania-Entuzjastow-R-Cracow-R-Users-Group-Meetup/events/214840612/)
   * Warsaw: [SER - Warsaw R Users Group](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
   * Poznań: [Poznań R Users](https://www.meetup.com/Poznan-R-User-Group-PAZUR/)
-  * Rzeszów: [RRUG: Resovia R User Group](http://www.wais.kamil.rzeszow.pl/rusergroup-rzeszow/)
   * TriCity: [Trójmiejska Grupa Entuzjastów R](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/)
   * Wrocław: [STWUR - Wroclaw R Users Group](https://www.meetup.com/Wroclaw-R-Users-Group/)
 
@@ -393,10 +389,6 @@ knit: "bookdown::preview_chapter"
 
 ## Middle East/ Africa
 
-### Benin
-
-  * Cotonou: [Cotonou R Users Group Meetup](https://www.meetup.com/Victoria-Data-Scientists/)
-
 ### Egypt
 
   * Cairo: [Cairo Bioinformatics Group](https://www.meetup.com/Cairo-Bioinformatics-Group/)
@@ -465,7 +457,6 @@ knit: "bookdown::preview_chapter"
   * Québec: [Plein-R](http://www.coactivate.org/projects/plein-r/project-home) (en Français)
   * Toronto: [Greater Toronto Area (GTA) R User's Group](https://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group)
   * Vancouver: [Vancouver R Users Group](https://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/)
-  * Victoria: [Victoria Data Science / R User Group](https://www.meetup.com/Victoria-Data-Scientists/)
 
 ### Mexico
 
@@ -738,9 +729,11 @@ gender diversity in the R community.
 ## Argentina
 
   * Buenos Aires: [R-Ladies Buenos Aires](https://www.meetup.com/rladies-buenos-aires/)
+  * Santa Rosa: [R-Ladies Santa Rosa](https://www.meetup.com/rladies-santa-rosa/)
 
 ## Australia
 
+  * Adelaide: [R-Ladies Adelaide](https://www.meetup.com/rladies-adelaide/)
   * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/). [\@RLadiesAU](https://twitter.com/RLadiesAU).
 
 ## Brazil
@@ -754,6 +747,7 @@ gender diversity in the R community.
 ## Germany
 
   * Berlin: [R-Ladies Berlin](https://www.meetup.com/rladies-berlin/). [\@RLadiesBerlin](https://twitter.com/RLadiesBerlin).
+  * Munich: [R-Ladies Munich](https://www.meetup.com/rladies-munich)
   
 ## Georgia
  
@@ -775,6 +769,10 @@ gender diversity in the R community.
 
   * Lisbon: [R-Ladies Lisboa](https://www.meetup.com/R-Ladies-Lisboa/)
   
+## South Africa
+
+  * Cape Town: [R-Ladies Cape Town](https://www.meetup.com/R-Ladies-Cape-Town/)
+
 ## Spain
 
   * Madrid: [Madrid](https://www.meetup.com/rladies-madrid); [\@RLadiesMAD](https://twitter.com/RLadiesMAD)
@@ -797,16 +795,25 @@ gender diversity in the R community.
 
 ## United States of America
 
-  * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/events/235936204/); [\@RLadiesAmes](https://twitter.com/RLadiesAmes)
   * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
   * San Francisco: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/). [\@RLadiesSF](https://twitter.com/RLadiesSF).
+  * Miami, FL: [R-Ladies Miami](https://www.meetup.com/R-Ladies-Miami/)
+  * Orlando, FL: [R-Ladies Orlando](https://www.meetup.com/R-Ladies-Orlando/)
+  * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/); [\@RLadiesAmes](https://twitter.com/RLadiesAmes)
   * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
+  * Buffalo, NY: [R-Ladies Buffalo](https://www.meetup.com/RLadies-Buffalo/)
   * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/)
   * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
   * Minneapolis, MN: [R ladies - Twin Cities](https://www.meetup.com/RLadiesTC/)
   * Washington, DC: [R-Ladies DC](https://www.meetup.com/rladies-dc/)
   * Hartford, CT: [R-Ladies Connecticut](https://www.meetup.com/rladies-connecticut/). [\@RLadiesCT](https://twitter.com/RLadiesCT). 
   * Columbus, OH: [R-Ladies Columbus](https://www.meetup.com/RLadies-Columbus/)
+  * Nashville, TN: [R-Ladies Nashville](https://www.meetup.com/rladies-nashville/)
+  * Austin, TX: [R-Ladies Austin](https://meetup.com/rladies-austin)
+
+## Uruguay
+
+ * Montevideo: [R-Ladies Montevideo](https://www.meetup.com/rladies-montevideo/)
 
 <!--chapter:end:03-Rladies.Rmd-->
 
