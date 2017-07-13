@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __302__ R user groups and events. 
+twitter names are missing. There are currently __303__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 This list is maintained by [Jumping Rivers](https://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
@@ -47,6 +47,10 @@ The format for listing an R event is:
 
 ## 2018 {-}
 
+### January
+
+  * January 31, Feb 1-3: [rstudio::conf](https://www.rstudio.com/conference/). San Diego, USA.
+
 ### July
 
   * July 10-13: useR! 2018. Brisbane, Australia.
@@ -55,7 +59,7 @@ The format for listing an R event is:
 
 ### January
 
-  * January 11-14: [rstudio:conf](https://www.rstudio.com/conference/). Kissmmee, USA.
+  * January 11-14: [rstudio::conf](https://www.rstudio.com/conference/). Kissmmee, USA.
 
 ### February
 
