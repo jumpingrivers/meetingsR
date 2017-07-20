@@ -11,7 +11,7 @@ knit: "bookdown::preview_chapter"
 
 ### Ghana
 
-  * Accra: [Accra R Users Group](https://www.meetup.com/Accra-R-Users-Group/
+  * Accra: [Accra R Users Group](https://www.meetup.com/Accra-R-Users-Group/)
 
 ### Israel
 
