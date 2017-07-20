@@ -156,7 +156,7 @@
 
 #### Northern Ireland {-}
 
-  * Belfast: [Belfast R Users](http://brusers.tumblr.com/)
+  * Belfast: [Belfast R Users](http://brusers.tumblr.com/); [\@BelfastRUsers](https://twitter.com/BelfastRUsers)
 
 #### Scotland {-}
 
@@ -165,7 +165,7 @@
 
 #### Wales {-}
 
-  * Cardiff): [Cardiff](https://www.meetup.com/Cardiff-R-User-Group/) R User Group
+  * Cardiff: [Cardiff](https://www.meetup.com/Cardiff-R-User-Group/) R User Group
   * Swansea: [Swansea](https://sites.google.com/site/swanseauniversityrusergroup/home) University R User Group
 
 ### Turkey
