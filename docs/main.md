@@ -365,7 +365,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 #### Northern Ireland {-}
 
-  * Belfast: [Belfast R Users](http://brusers.tumblr.com/)
+  * Belfast: [Belfast R Users](http://brusers.tumblr.com/); [\@BelfastRUsers](https://twitter.com/BelfastRUsers)
 
 #### Scotland {-}
 
@@ -374,7 +374,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 #### Wales {-}
 
-  * Cardiff): [Cardiff](https://www.meetup.com/Cardiff-R-User-Group/) R User Group
+  * Cardiff: [Cardiff](https://www.meetup.com/Cardiff-R-User-Group/) R User Group
   * Swansea: [Swansea](https://sites.google.com/site/swanseauniversityrusergroup/home) University R User Group
 
 ### Turkey
@@ -400,7 +400,7 @@ knit: "bookdown::preview_chapter"
 
 ### Ghana
 
-  * Accra: [Accra R Users Group](https://www.meetup.com/Accra-R-Users-Group/
+  * Accra: [Accra R Users Group](https://www.meetup.com/Accra-R-Users-Group/)
 
 ### Israel
 
