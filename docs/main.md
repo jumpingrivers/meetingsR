@@ -738,11 +738,11 @@ gender diversity in the R community.
 ## Australia
 
   * Adelaide: [R-Ladies Adelaide](https://www.meetup.com/rladies-adelaide/)
-  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/). [\@RLadiesAU](https://twitter.com/RLadiesAU).
+  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/); [\@RLadiesAU](https://twitter.com/RLadiesAU).
 
 ## Brazil
 
- * Rio-de-Janeiro: [R-Ladies Rio-de-Janeiro](https://www.meetup.com/R-Ladies-Rio-de-Janeiro). [\@RLadiesRio](https://twitter.com/RLadiesRio)
+ * Rio-de-Janeiro: [R-Ladies Rio-de-Janeiro](https://www.meetup.com/R-Ladies-Rio-de-Janeiro); [\@RLadiesRio](https://twitter.com/RLadiesRio)
 
 ## France
 
@@ -750,7 +750,7 @@ gender diversity in the R community.
   
 ## Germany
 
-  * Berlin: [R-Ladies Berlin](https://www.meetup.com/rladies-berlin/). [\@RLadiesBerlin](https://twitter.com/RLadiesBerlin).
+  * Berlin: [R-Ladies Berlin](https://www.meetup.com/rladies-berlin/); [\@RLadiesBerlin](https://twitter.com/RLadiesBerlin).
   * Munich: [R-Ladies Munich](https://www.meetup.com/rladies-munich)
   
 ## Georgia
@@ -800,7 +800,7 @@ gender diversity in the R community.
 ## United States of America
 
   * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
-  * San Francisco: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/). [\@RLadiesSF](https://twitter.com/RLadiesSF).
+  * San Francisco: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/); [\@RLadiesSF](https://twitter.com/RLadiesSF).
   * Miami, FL: [R-Ladies Miami](https://www.meetup.com/R-Ladies-Miami/)
   * Orlando, FL: [R-Ladies Orlando](https://www.meetup.com/R-Ladies-Orlando/)
   * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/); [\@RLadiesAmes](https://twitter.com/RLadiesAmes)
@@ -810,7 +810,7 @@ gender diversity in the R community.
   * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
   * Minneapolis, MN: [R ladies - Twin Cities](https://www.meetup.com/RLadiesTC/)
   * Washington, DC: [R-Ladies DC](https://www.meetup.com/rladies-dc/)
-  * Hartford, CT: [R-Ladies Connecticut](https://www.meetup.com/rladies-connecticut/). [\@RLadiesCT](https://twitter.com/RLadiesCT). 
+  * Hartford, CT: [R-Ladies Connecticut](https://www.meetup.com/rladies-connecticut/); [\@RLadiesCT](https://twitter.com/RLadiesCT). 
   * Columbus, OH: [R-Ladies Columbus](https://www.meetup.com/RLadies-Columbus/)
   * Nashville, TN: [R-Ladies Nashville](https://www.meetup.com/rladies-nashville/)
   * Austin, TX: [R-Ladies Austin](https://meetup.com/rladies-austin)
