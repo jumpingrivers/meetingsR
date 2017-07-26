@@ -68,6 +68,8 @@ The format for listing an R event is:
 ### November
 
   * November 6-7: [New Challenges for Statistical Software - The Use of R in Official Statistics](http://www.r-project.ro/conference2017/). Bucharest, Romania.
+  
+  * November 8-9: [R Kenntnis-Tage 2017](http://www.eoda.de/de/R-Kenntnis-Tage.html). Kassel, Germany.
 
 ## 2016 {-}
 
