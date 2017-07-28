@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __305__ R user groups and events. 
+twitter names are missing. There are currently __307__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 This list is maintained by [Jumping Rivers](https://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
@@ -105,8 +105,12 @@ The format for listing an R event is:
 ### November
 
   * November 6-7: [New Challenges for Statistical Software - The Use of R in Official Statistics](http://www.r-project.ro/conference2017/). Bucharest, Romania.
-  
   * November 8-9: [R Kenntnis-Tage 2017](http://www.eoda.de/de/R-Kenntnis-Tage.html). Kassel, Germany.
+  * November 16-17: [Bioconductor Asia](https://www.abacbs.org/conference-workshops#bioc2017-link). Adelaide, Australia.
+
+### December
+
+  * December 5 - 6: [Bioconductor European Conference](https://bioconductor.org/help/course-materials/2017/BioCEurope/). Cambridge, UK.
 
 ## 2016 {-}
 
