@@ -63,6 +63,7 @@ knit: "bookdown::preview_chapter"
 #### Florida {-} 
 
   * Gainsesville: [R Users Group, Gainesville](https://www.meetup.com/R-Users-Group-Gainesville-FL/)
+  * Tampa: [Tampa R Users Group](https://www.meetup.com/Tampa-R-Users-Group/); [@UseRTampa](https://twitter.com/UseRTampa)
 
 #### Georgia {-}
 
