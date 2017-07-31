@@ -48,17 +48,18 @@ The format for listing an R event is:
 ## 2018 {-}
 
 
-### July
-
-  * [Noreast'R Conference](http://noreastrconf.com/). USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
-
 ### January
 
   * January 31, Feb 1-3: [rstudio::conf](https://www.rstudio.com/conference/). San Diego, USA.
 
+### June
+
+  * June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
+  
 ### July
 
   * July 10-13: useR! 2018. Brisbane, Australia.
+  * [Noreast'R Conference](http://noreastrconf.com/). USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
 
 ## 2017 {-}
 
