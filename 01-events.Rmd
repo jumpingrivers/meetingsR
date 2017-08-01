@@ -8,20 +8,26 @@ The format for listing an R event is:
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
-## 2018 {-}
-
+## 2019 {-}
 
 ### July
 
-  * [Noreast'R Conference](http://noreastrconf.com/). USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
+  * July (probably): useR! 2019. Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
+
+## 2018 {-}
 
 ### January
 
   * January 31, Feb 1-3: [rstudio::conf](https://www.rstudio.com/conference/). San Diego, USA.
 
-### July
+### June
 
-  * July 10-13: useR! 2018. Brisbane, Australia.
+ *  June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
+
+### July
+  		  
+ * July 10-13: useR! 2018. Brisbane, Australia.
+ * [Noreast'R Conference](http://noreastrconf.com/). USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
 
 ## 2017 {-}
 
