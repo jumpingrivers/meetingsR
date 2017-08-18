@@ -17,6 +17,10 @@ gender diversity in the R community.
   * Adelaide: [R-Ladies Adelaide](https://www.meetup.com/rladies-adelaide/)
   * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/); [\@RLadiesAU](https://twitter.com/RLadiesAU).
 
+## Belgium
+
+ * Brussels: [R-Ladies Brussels](https://www.meetup.com/R-Ladies-Brussels/members/)
+
 ## Brazil
 
  * Rio-de-Janeiro: [R-Ladies Rio-de-Janeiro](https://www.meetup.com/R-Ladies-Rio-de-Janeiro); [\@RLadiesRio](https://twitter.com/RLadiesRio)
