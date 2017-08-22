@@ -66,7 +66,7 @@ The format for listing an R event is:
 
 ### July
   		  
- * July 10-13: useR! 2018. Brisbane, Australia.
+ * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
  * [Noreast'R Conference](http://noreastrconf.com/). USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
 
 ## 2017 {-}
