@@ -44,4 +44,4 @@ knit: "bookdown::preview_chapter"
 
 ### Ecuador   
 
-  * Quito: [R Users Group - Ecuador] (http://www.rusersgroup.com/); [\ @rusersgroup] (https://twitter.com/rusersgroup)
+  * Quito: [R Users Group - Ecuador](http://www.rusersgroup.com/); [\@rusersgroup] (https://twitter.com/rusersgroup)
