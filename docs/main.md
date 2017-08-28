@@ -727,6 +727,9 @@ knit: "bookdown::preview_chapter"
 
   * Quesada: [San Carlos R Users Group](https://www.meetup.com/San-Carlos-R-User-Group/)
 
+### Ecuador   
+
+  * Quito: [R Users Group - Ecuador](http://www.rusersgroup.com/); [\@rusersgroup](https://twitter.com/rusersgroup)
 
 ### Nicaragua
 
@@ -740,9 +743,6 @@ knit: "bookdown::preview_chapter"
 
   * Caracas: [R-usersVEN](https://www.meetup.com/R-usersVEN)
 
-### Ecuador   
-
-  * Quito: [R Users Group - Ecuador](http://www.rusersgroup.com/); [\@rusersgroup] (https://twitter.com/rusersgroup)
 
 <!--chapter:end:02_useR_groups_south_america.Rmd-->
 
