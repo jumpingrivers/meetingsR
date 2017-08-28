@@ -41,3 +41,7 @@ knit: "bookdown::preview_chapter"
 ### Venezuela
 
   * Caracas: [R-usersVEN](https://www.meetup.com/R-usersVEN)
+
+### Ecuador   
+
+  * Quito: [R Users Group - Ecuador](http://www.rusersgroup.com/); [\@rusersgroup] (https://twitter.com/rusersgroup)
