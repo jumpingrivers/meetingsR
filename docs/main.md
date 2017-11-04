@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __318__ R user groups and events. 
+twitter names are missing. There are currently __319__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 This list is maintained by [Jumping Rivers](https://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
@@ -587,6 +587,9 @@ knit: "bookdown::preview_chapter"
 #### Montana {-}
 
   * Bozeman: [Bozeman Area R useR Group](https://www.meetup.com/bozeman-user-group-r-programming-language/)
+ 
+#### Nebraska {-}
+  * Omaha: [Omaha R Users](https://omahar.org/)
 
 #### Nevada {-}
 
