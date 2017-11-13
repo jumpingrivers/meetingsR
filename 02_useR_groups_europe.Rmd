@@ -30,6 +30,7 @@
   *  Marseille: [R user group Aix-Marseille](https://www.meetup.com/R-user-group-Aix-Marseille/)
   *  Montpellier: [Groupe des utilisateurs du logiciel R](http://forums.cirad.fr/logiciel-R/)
   *  Nancy: [Nancy Data Science](https://www.meetup.com/nancydatascience/)
+  *  Nantes: [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
   *  Paris: [Semin-R](http://www.mnhn.fr/semin-r/)
   *  Paris: [R Addicts Paris](https://www.meetup.com/rparis/events/124508332/)
   *  Paris: [R'n Blue](https://www.meetup.com/Rn-Blue/)
