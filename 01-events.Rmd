@@ -20,9 +20,13 @@ The format for listing an R event is:
 
   * January 31, Feb 1-3: [rstudio::conf](https://www.rstudio.com/conference/). San Diego, USA.
 
+### March
+
+  * March 17th: [SatRday](http://capetown2018.satrdays.org/). Cape Town, South Africa.
 ### May
 
   * May: [The European #rstats Users Meeting](http://2018.erum.io/). Budapest, Hungary. [\@erum2018](https://twitter.com/erum2018)
+
 ### June
 
  *  June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
