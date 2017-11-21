@@ -60,6 +60,7 @@ The format for listing an R event is:
 ### March
 
   * March 17th: [SatRday](http://capetown2018.satrdays.org/). Cape Town, South Africa.
+ 
 ### May
 
   * May: [The European #rstats Users Meeting](http://2018.erum.io/). Budapest, Hungary. [\@erum2018](https://twitter.com/erum2018)
