@@ -2,15 +2,4 @@
 knit: "bookdown::preview_chapter"
 ---
 
-# R User Groups
-
-UseR groups are listed by contintent then by country. Where appropriate, useR groups are 
-divided within country, e.g. in the USA, by state & in the United Kingdom, by member country.
-
-The suggested format for listing a group is
-
-  * Town name: [Group name & link](http://www.example.com/); [\@Twitter_handle](http://www.example.com/)
-
-## Funding
-
-The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-program) provides funding for local useR groups.
+  * Stuttgart: [R-Group Stuttgart](https://r-group-stuttgart.github.io/); [\@r_stuttgart ](https://twitter.com/r_stuttgart)
