@@ -8,8 +8,8 @@ To propose a change, just click the pencil icon
 in the top left hand corner of the [web](https://jumpingrivers.github.io/meetingsR/) 
 version.
 
-Keep up to date with [rstats_meetings](\\@https://twitter.com/rstats_meetings) 
+Keep up to date with [\@rstats_meetings](https://twitter.com/rstats_meetings) 
 
 ---
 
-This page is maintain by [Jumping Rivers]((\\@https://twitter.com/jumping_uk) 
+This page is maintain by [\@Jumping Rivers](https://twitter.com/jumping_uk) 
