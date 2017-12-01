@@ -3,6 +3,9 @@ set -o errexit -o nounset
 BASE_REPO=$PWD
 
 update_website() {
+  cd ..; mkdir gh-pages; cd gh-pages
+  git init
+
   git config --global user.name "jumpingrivers"
   git config --global user.email "csgillespie+jumpingrivers@gmail.com"
 
@@ -23,3 +26,4 @@ update_website() {
 }
 
 update_website
+
