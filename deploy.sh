@@ -16,7 +16,7 @@ update_website() {
   cp -fvr $BASE_REPO/_book/* .
   git add libs/; git add css/
   git add *.json; git add *.html; git add main.md; git add style.css
-  git commit -a -m "${TRAVIS_COMMIT_MESSAGE} (${TRAVIS_BUILD_NUMBER})"
+  git commit -a -m "#rstats ${TRAVIS_COMMIT_MESSAGE} (${TRAVIS_BUILD_NUMBER})"
   git status
   git push 2>err.txt
   cd ..
