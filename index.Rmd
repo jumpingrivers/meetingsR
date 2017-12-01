@@ -22,7 +22,7 @@ feel free to add any missing group or conference. In particular, most of the ass
 twitter names are missing. There are currently __`r no_of_groups`__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
-Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings)
+Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
 
 This list is maintained by [Jumping Rivers](https://www.jumpingrivers.com). We also maintain a corresponding list of __[Data Science](https://jumpingrivers.github.io/meetingsDS/)__ conferences and events.
 
