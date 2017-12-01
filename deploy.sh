@@ -18,7 +18,7 @@ update_website() {
   git add *.json; git add *.html; git add main.md; git add style.css
   git commit -a -m "Updating book (${TRAVIS_BUILD_NUMBER})"
   git status
-  git push origin master 2>err.txt
+  git push 2>err.txt
   cd ..
 }
 
