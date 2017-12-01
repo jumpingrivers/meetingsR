@@ -4,7 +4,7 @@ knit: "bookdown::preview_chapter"
 
 # Events
 
-The format for listing an R event is:
+The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
 

@@ -1,6 +1,10 @@
 language: r
 cache: packages
 
+branches:
+  except:
+    - gh-pages
+
 script:
   - make html
 
