@@ -8,6 +8,7 @@ update_website() {
 
   git config --global user.name "jumpingrivers"
   git config --global user.email "csgillespie+jumpingrivers@gmail.com"
+  git config --global push.default simple
   git remote add upstream "https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git"
   git fetch upstream 2>err.txt
   git checkout gh-pages
@@ -19,10 +20,6 @@ update_website() {
   git status
   git push origin master 2>err.txt
   cd ..
-
-
-
-
 }
 
 update_website
