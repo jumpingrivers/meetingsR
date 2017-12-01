@@ -5,7 +5,7 @@ site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
 twitter-handle: riversjumping
-cover-image: logo.png
+cover-image: inverse.png
 description: "A list of R conferences and meetings."
 github-repo: jumpingrivers/meetingsR
 url: 'https\://jumpingrivers.github.io/meetingsR/'
