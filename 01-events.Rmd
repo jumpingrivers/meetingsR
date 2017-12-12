@@ -37,6 +37,10 @@ The format for listing an R event is
  * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
  * [Noreast'R Conference](http://noreastrconf.com/). USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
 
+### September
+
+ * September 12-14: The Use of R in Official Statistics. The Hague, The Netherlands. [\@uRos2018](https://twitter.com/uRos2018)
+
 ## 2017 {-}
 
 ### January
