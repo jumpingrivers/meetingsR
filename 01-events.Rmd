@@ -33,7 +33,8 @@ The format for listing an R event is
  *  June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
 
 ### July
-  		  
+
+ * July 2-5: [WhyR? 2018](http://whyr2018.pl/). Wrocław, Poland.  		  
  * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
  * [Noreast'R Conference](http://noreastrconf.com/). USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
 
