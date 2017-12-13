@@ -69,7 +69,8 @@ The format for listing an R event is:
 
 ### June
 
- *  June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
+ * June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
+ * June 2: [CascadiaRconf](https://cascadiarconf.com/). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf).
 
 ### July
   		  
