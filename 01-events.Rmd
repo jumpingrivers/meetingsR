@@ -40,6 +40,7 @@ The format for listing an R event is
 
 ### September
 
+ * September 11-13: [EARL London 2018](https://earlconf.com/london/). London, United Kingdom. [@earlconf](https://twitter.com/earlconf)
  * September 12-14: The Use of R in Official Statistics. The Hague, The Netherlands. [\@uRos2018](https://twitter.com/uRos2018)
 
 ## 2017 {-}
