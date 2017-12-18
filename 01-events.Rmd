@@ -23,6 +23,9 @@ The format for listing an R event is
 ### March
 
   * March 17th: [SatRday](http://capetown2018.satrdays.org/). Cape Town, South Africa.
+
+### April
+ * April 20-21: [New York R Conference](http://rstats.nyc/)
  
 ### May
 
