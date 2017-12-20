@@ -30,6 +30,7 @@ The format for listing an R event is
 ### May
 
   * May: [The European #rstats Users Meeting](http://2018.erum.io/). Budapest, Hungary. [\@erum2018](https://twitter.com/erum2018)
+  * May 22: [R Day](http://rday.leg.ufpr.br/). Curitiba, Brazil. [\@LEG_UFPR](https://twitter.com/LEG_UFPR)
 
 ### June
 
