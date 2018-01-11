@@ -45,7 +45,8 @@ knit: "bookdown::preview_chapter"
   * San Diego: [San Diego R Users Group](https://www.meetup.com/San-Diego-R-users-group)
   * San Diego: [University of California San Diego / Scripps Institution of Oceanography R Users Group](https://siomail.ucsd.edu/mailman/listinfo/r-users)
   * San Francisco / Bay Area: [BARUG](https://www.meetup.com/R-Users/)
-  * Santa Barbara: [Santa Barbara R Users](https://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/)
+
+* Santa Barbara: [Santa Barbara R Users](https://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/)
   * Whittier: [R Project for Statistical Computing Meetup](https://www.meetup.com/R-Project-for-Statistical-Computing-Meetup/)
   
 #### Colorado {-}
@@ -91,6 +92,10 @@ knit: "bookdown::preview_chapter"
 #### Kansas {-}
 
   * Kansas City: [Kansas City R Users Group](http://groupspaces.com/KCRUsersGroup/)
+  
+#### Louisiana {-}
+
+* New Orleans: [Tulane University R Fans ](https://tulaneuniversityrfans.wordpress.com/)
 
 #### Massachusetts {-}
 
