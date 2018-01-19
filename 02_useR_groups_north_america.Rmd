@@ -159,6 +159,7 @@ knit: "bookdown::preview_chapter"
 #### Oregon {-}
 
   * Portland: [Portland R User Group](https://www.meetup.com/portland-r-user-group)
+  * Eugene: [Eugene R User Group](https://www.meetup.com/meetup-group-cwPiAlnB); [\@EugeneRUsers](https://twitter.com/EugeneRUsers)
 
 #### Pennsylvania {-}
 
