@@ -95,6 +95,8 @@ gender diversity in the R community.
   * Columbus, OH: [R-Ladies Columbus](https://www.meetup.com/RLadies-Columbus/)
   * Nashville, TN: [R-Ladies Nashville](https://www.meetup.com/rladies-nashville/)
   * Austin, TX: [R-Ladies Austin](https://meetup.com/rladies-austin)
+  * Portland, OR: [R-Ladies PDX](https://www.meetup.com/R-Ladies-PDX/) [\@RLadiesPDX](https://twitter.com/RLadiesPDX)
+  * San Diego, CA: [R-Ladies San Diego](https://www.meetup.com/rladies-san-diego/) [\@RLadiesSanDiego](https://twitter.com/RLadiesSanDiego)
 
 ## Uruguay
 
