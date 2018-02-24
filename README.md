@@ -12,4 +12,4 @@ Keep up to date with [\@rstats_meetings](https://twitter.com/rstats_meetings)
 
 ---
 
-This page is maintain by [\@jumping_uk](https://twitter.com/jumping_uk) 
+This page is maintained by [\@jumping_uk](https://twitter.com/jumping_uk) 
