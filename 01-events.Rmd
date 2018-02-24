@@ -38,7 +38,8 @@ The format for listing an R event is
 
 ### July
 
- * July 2-5: [WhyR? 2018](http://whyr2018.pl/). Wrocław, Poland.  		  
+ * July 2-5: [WhyR? 2018](http://whyr2018.pl/). Wrocław, Poland.  
+ * July 4-6: [7eme rencontres R](https://r2018-rennes.sciencesconf.org). Rennes, France. [\@rencontres_R](https://twitter.com/rencontres_R)
  * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
  * [Noreast'R Conference](http://noreastrconf.com/). USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
 
