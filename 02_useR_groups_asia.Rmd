@@ -40,12 +40,11 @@
 
 ### Philippines
 
-  * Cebu: [CRUG](https://www.meetup.com/Cebu-R-Users-Group-CRUG/)
   * Manila: [R Users Group](https://www.meetup.com/R-Users-Group-Philippines/)
 
 ### Singapore
 
-  * Singapore: [R User Group](https://www.meetup.com/R-Users-Group-Philippines/)
+  * Singapore: [R User Group](https://www.meetup.com/R-User-Group-SG/)
 
 ### South Korea
 
@@ -64,7 +63,7 @@
 
 ### Thailand
 
-  * Chang Mai: [Chang Mai R User Group](http://chiangmair.wordpress.com/)
+  * Chang Mai: [Chang Mai R User Group](https://www.facebook.com/Chiang-Mai-R-362933103793288/)
 
 ### Viet Nam
 
