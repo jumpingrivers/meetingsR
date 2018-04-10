@@ -1,9 +1,9 @@
 Package: meetingsR
 Type: Package
 Title: A list of UseR Meetings and Conferences
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: person(given="Colin", family="Gillespie",
     email="colin@jumpingrivers.com", role = c("aut", "cre"))
 Description: This is a dummy travis package.
-Depends: bookdown, devtools
+Depends: bookdown, devtools, tidyverse
 LazyData: TRUE
