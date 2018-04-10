@@ -29,7 +29,7 @@ The format for listing an R event is
   * March 17th: [SatRday](http://capetown2018.satrdays.org/). Cape Town, South Africa.
 
 ### April
- * April 20-21: [New York R Conference](http://rstats.nyc/)
+ * April 20-21: [New York R Conference](http://rstats.nyc/). New York, USA.
  
 ### May
 
@@ -39,32 +39,32 @@ The format for listing an R event is
 ### June
 
  *  June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
- *  June 2: [CascadiaRConf](https://www.cascadiarconf.com). Portland (Oregon), USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
+ *  June 2: [CascadiaRConf](https://www.cascadiarconf.com). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
 
 ### July
 
- * July 2-5: [WhyR? 2018](http://whyr2018.pl/). Wrocław, Poland.  
+ * July 2-5: [WhyR? 2018](http://whyr2018.pl/). Wroclaw, Poland.
  * July 4-6: [7eme rencontres R](https://r2018-rennes.sciencesconf.org). Rennes, France. [\@rencontres_R](https://twitter.com/rencontres_R)
  * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
- * [Noreast'R Conference](http://noreastrconf.com/). USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
+ * July: [Noreast'R Conference](http://noreastrconf.com/). Providence, USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
 
 ### September
 
-* September 4-5: [LatinR 2018](http://latin-r.com/). Buenos Aires, Argentina. [\@LatinR2018](https://twitter.com/latinr2018)
+ * September 4-5: [LatinR 2018](http://latin-r.com/). Buenos Aires, Argentina. [\@LatinR2018](https://twitter.com/latinr2018)
  * September 11-13: [EARL London 2018](https://earlconf.com/london/). London, United Kingdom. [\@earlconf](https://twitter.com/earlconf)
- * September 12-14: The Use of R in Official Statistics. The Hague, The Netherlands. [\@uRos2018](https://twitter.com/uRos2018)
+ * September 12-14: The Use of R in Official Statistics. Hague, Netherlands. [\@uRos2018](https://twitter.com/uRos2018)
  
 ### November
 
-* November 7: [EARL Seattle](https://earlconf.com/boston), USA. [\@earlconf](https://twitter.com/earlconf)
-* November 9: [EARL Houston](https://earlconf.com/boston), USA. [\@earlconf](https://twitter.com/earlconf)
-* November 13: [EARL Boston](https://earlconf.com/boston), USA. [\@earlconf](https://twitter.com/earlconf)
+ * November 7: [EARL Seattle](https://earlconf.com/boston). Seattle, USA. [\@earlconf](https://twitter.com/earlconf)
+ * November 9: [EARL Houston](https://earlconf.com/boston). Houston, USA. [\@earlconf](https://twitter.com/earlconf)
+ * November 13: [EARL Boston](https://earlconf.com/boston). Boston, USA. [\@earlconf](https://twitter.com/earlconf)
 
 ## 2017 {-}
 
 ### January
 
-  * January 11-14: [rstudio::conf](https://www.rstudio.com/conference/). Kissmmee, USA.
+ * January 11-14: [rstudio::conf](https://www.rstudio.com/conference/). Kissmmee, USA.
 
 ### February
 
@@ -72,7 +72,7 @@ The format for listing an R event is
   
 ### March
 
-  * March 4: [#ODDZurich Hackathon](http://zurich-r-user-group.github.io/hackathon.html). Zurich, Switzerland. [\@ZurichRUsers](https://twitter.com/ZurichRUsers).
+  * March 4: [#ODDZurich Hackathon](http://zurich-r-user-group.github.io/hackathon.html). Zurich, Switzerland. [\@ZurichRUsers](https://twitter.com/ZurichRUsers)
   * March 24-25: [Women in Machine Learning & Data Science](http://www.wimldsdatadive.com/hackathons/2). New York, USA.
 
 ### April
@@ -82,19 +82,19 @@ The format for listing an R event is
 ### May
 
   * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, USA. ([Recordings here](https://channel9.msdn.com/Events/RFinance/RFinance-2017))
-  * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Université Laval, Québec, Canada.
-  * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html), Los Angeles, USA.
-  * May 28-Jun 2: [WOMBAT MeDaScIn 2017](http://www.datasciencemelbourne.com/medascin2017/), Melbourne, Australia
+  * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Québec, Canada.
+  * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html). Los Angeles, USA.
+  * May 28-Jun 2: [WOMBAT MeDaScIn 2017](http://www.datasciencemelbourne.com/medascin2017/). Melbourne, Australia.
   
 ### June
 
-  * June 3: [CascadiaRconf](https://cascadiarconf.com/2017). Portland (Oregon), USA. [\@cascadiarconf](https://twitter.com/cascadiarconf).
-  * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/), San Francisco, USA.
-   * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris, France. 
+  * June 3: [CascadiaRconf](https://cascadiarconf.com/2017). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
+  * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/). San Francisco, USA.
+   * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/). Paris, France. 
    
 ### July
 
-  * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels); [Recordings](https://channel9.msdn.com/events/useR-international-R-User-conferences/)
+  * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels) [Recordings](https://channel9.msdn.com/events/useR-international-R-User-conferences/)
     * July 5: [Riot](http://riotworkshop.github.io/). Co-located with useR! 2017.
   * July 27-28: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/). Boston, USA.
   
@@ -115,10 +115,10 @@ The format for listing an R event is
 
 ## 2016 {-}
 
-  * April: [New York R Conference 2016](http://www.rstats.nyc), New York, NY.
-  * May: [R/Finance 2016](http://www.rinfinance.com), Chicago, IL.
-  * July: [UseR! 2016](http://user2016.org/), Stanford, USA. ([Recordings here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016))
-  * September: [EARL London 2016](https://earlconf.com/london/), London, UK.
+  * April: [New York R Conference 2016](http://www.rstats.nyc). New York, USA.
+  * May: [R/Finance 2016](http://www.rinfinance.com). Chicago, USA.
+  * July: [UseR! 2016](http://user2016.org/). Stanford, USA. ([Recordings here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016))
+  * September: [EARL London 2016](https://earlconf.com/london/). London, UK.
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
   * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
   * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA.
