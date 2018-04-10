@@ -4,7 +4,7 @@ library("tidyverse")
 # 1. Read in the data
 ##############################
 
-rmds = "~/github/meetingsR/01-events.Rmd"
+rmds = "01-events.Rmd"
 
 ############################3
 # 2. Function to extract data
