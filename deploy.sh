@@ -11,6 +11,8 @@ update_website() {
   git config --global push.default simple
   git remote add upstream "https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git"
   git fetch upstream 2>err.txt
+  Rscript -e 'source("R/parse_groups.R")'
+  Rscript -e 'source("R/parse_events.R")'
   git checkout gh-pages
 
   cp -fvr $BASE_REPO/_book/* .

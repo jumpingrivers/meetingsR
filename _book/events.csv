@@ -1,0 +1,46 @@
+year,month,date,link,city,country,twitter
+2019,January,January 15-18,https://www.rstudio.com/conference/,Austin,USA,NA
+2018,January,"January 31, Feb 1-3",https://www.rstudio.com/conference/,San Diego,USA,NA
+2018,March,March 17th,http://capetown2018.satrdays.org/,Cape Town,South Africa,NA
+2018,April,April 20-21,http://rstats.nyc/,New York,USA,NA
+2018,May,May,http://2018.erum.io/,Budapest,Hungary,NA
+2018,May,May 22,http://rday.leg.ufpr.br/,Curitiba,Brazil,LEG_UFPR
+2018,June,June 1-2,http://www.rinfinance.com,Chicago,USA,NA
+2018,June,June 2,https://www.cascadiarconf.com,Portland,USA,cascadiarconf
+2018,July,July 2-5,http://whyr2018.pl/,Wroclaw,Poland,NA
+2018,July,July 4-6,https://r2018-rennes.sciencesconf.org,Rennes,France,rencontres_R
+2018,July,July 10-13,https://user2018.r-project.org/,Brisbane,Australia,NA
+2018,July,July,http://noreastrconf.com/,Providence,USA,noreastrconf
+2018,September,September 4-5,http://latin-r.com/,Buenos Aires,Argentina,NA
+2018,September,September 11-13,https://earlconf.com/london/,London,United Kingdom,earlconf
+2018,November,November 7,https://earlconf.com/boston,Seattle,USA,earlconf
+2018,November,November 9,https://earlconf.com/boston,Houston,USA,earlconf
+2018,November,November 13,https://earlconf.com/boston,Boston,USA,earlconf
+2017,January,January 11-14,https://www.rstudio.com/conference/,Kissmmee,USA,NA
+2017,February,February 16-18,http://satrdays.org/capetown2017/,Cape Town,South Africa,satRdays_org
+2017,March,March 4,http://zurich-r-user-group.github.io/hackathon.html,Zurich,Switzerland,ZurichRUsers
+2017,March,March 24-25,http://www.wimldsdatadive.com/hackathons/2,New York,USA,NA
+2017,April,April 21-22,http://www.rstats.nyc,New York,USA,NA
+2017,May,May 19-20,http://www.rinfinance.com,Chicago,USA,NA
+2017,May,May 25-26,http://raquebec.ulaval.ca/2017/,NA,NA,NA
+2017,May,May 25-26,https://ropensci.org/community/events.html,Los Angeles,USA,NA
+2017,May,May 28-Jun 2,http://www.datasciencemelbourne.com/medascin2017/,Melbourne,Australia,NA
+2017,June,June 3,https://cascadiarconf.com/2017,Portland,USA,cascadiarconf
+2017,June,June 5-7,http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/,San Francisco,USA,NA
+2017,June,June 8,https://rininsurance17.sciencesconf.org/,Paris,France,NA
+2017,July,July 4-7,http://www.user2017.brussels/,Brussels,Belgium,UseR_Brussels
+2017,July,July 5,http://riotworkshop.github.io/,NA,NA,NA
+2017,July,July 27-28,https://www.bioconductor.org/help/course-materials/2017/BioC2017/,Boston,USA,NA
+2017,September,September 13-15,https://earlconf.com/london/,London,UK,NA
+2017,November,November 1-3,https://earlconf.com/boston/,Boston,USA,NA
+2017,November,November 6-7,http://www.r-project.ro/conference2017/,Bucharest,Romania,NA
+2017,November,November 8-9,http://www.eoda.de/de/R-Kenntnis-Tage.html,Kassel,Germany,NA
+2017,December,December 5-6,https://bioconductor.org/help/course-materials/2017/BioCEurope/,Cambridge,UK,NA
+2016,December,April,http://www.rstats.nyc,New York,USA,NA
+2016,December,May,http://www.rinfinance.com,Chicago,USA,NA
+2016,December,July,http://user2016.org/,Stanford,USA,NA
+2016,December,September,https://earlconf.com/london/,London,UK,NA
+2016,December,September,http://budapest.satrdays.org,Budapest,Hungary,NA
+2016,December,October,http://erum.ue.poznan.pl/,Poznan,Poland,NA
+2016,December,November,https://earlconf.com/boston/,Boston,USA,NA
+2016,December,December,http://scicore.ch/events/eurobioc2016/,Basel,Switzerland,NA
