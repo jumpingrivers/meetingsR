@@ -7,7 +7,7 @@ knit: "bookdown::preview_chapter"
 All files used to build this site can be found on the associated [GitHub](https://gitlab.com/jumpingrivers/meetingsR) 
 page.
 
-Additionally, you can download a convient CSV file of the data
+Additionally, you can download a convenient CSV file of the data
 
  * Conferences: https://jumpingrivers.github.io/meetingsR/events.csv
  * User Groups: https://jumpingrivers.github.io/meetingsR/groups.csv
