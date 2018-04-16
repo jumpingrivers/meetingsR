@@ -28,6 +28,9 @@ knit: "bookdown::preview_chapter"
 ### Costa Rica
 
   * Quesada: [San Carlos R Users Group](https://www.meetup.com/San-Carlos-R-User-Group/)
+  
+  * Heredia: [Heredia R Users Group meetup](https://www.meetup.com/San-Carlos-R-User-Group/);
+  [\@Heredia_rug](https://twitter.com/Heredia_rug)
 
 ### Ecuador   
 
