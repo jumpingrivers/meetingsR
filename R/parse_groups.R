@@ -10,27 +10,31 @@ rmds = c("03-Rladies.Rmd", "02_useR_groups_asia.Rmd", "02_useR_groups_europe.Rmd
 
 ############################3
 # 2. Function to extract data
+
 #############################
 
 rmd_parse = function(entry) {
-  values = list(page = NA, country = NA, city = NA, link = NA, twitter = NA)
+  values = list(page = NA, country = NA, city = NA,
+                group_name = NA, link = NA, twitter = NA)
 
   ## Globs
-  link = "\\[.*\\](?=\\()\\(([\\w|/|:|\\-|\\.]*)\\)"
+  link = "\\[([\\w -]*)\\](?=\\()\\(([\\w|/|:|\\-|\\.]*)\\)"
   city = "(.*)"
   if (str_detect(entry, "^## ")) {
+    # page
     values[[1]] = str_match(entry, "^## (.*)")[2]
   }
 
   if (str_detect(entry, "^### ")) {
+    #country
     values[[2]] = str_match(entry, "^### (.*)")[2]
   }
   if (str_detect(entry, "\\*")){
     reg = paste0("^[ \\* ]*", city, ": ", link)
     (parsed = str_match(entry, reg))
-    values[3:4] = parsed[2:3]
+    values[3:5] = parsed[2:4]
     twitter = str_match(entry, "\\@(.*)\\]")[2]
-    values[5] = twitter
+    values[6] = twitter
   }
   as_tibble(values)
 }
@@ -40,4 +44,7 @@ groups = map(rmds, readLines)  %>%
   map_df(rmd_parse) %>%
   fill(page, country) %>%
   filter(!(is.na(city) & is.na(link)))
+View(groups)
+
+
 write_csv(groups, path = "_book/groups.csv")

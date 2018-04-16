@@ -11,12 +11,12 @@ rmds = "01-events.Rmd"
 #############################
 
 rmd_parse = function(entry) {
-  values = list(year = NA, month = NA, date = NA,
+  values = list(year = NA, month = NA, date = NA, name = NA,
                 link = NA, city = NA, country = NA,
                 twitter = NA)
 
   ## Globs
-  link = "\\[.*\\](?=\\()\\(([\\w|/|:|\\-|\\.]*)\\)"
+  link = "\\[([\\w -/':?]*)\\](?=\\()\\(([\\w|/|:|\\-|\\.|#]*)\\)"
   exact_date = "(.*)"
   if (str_detect(entry, "^## ")) {
     values[[1]] = str_match(entry, "^## (.*) ")[2]
@@ -28,7 +28,7 @@ rmd_parse = function(entry) {
   if (str_detect(entry, "\\*")){
     reg = paste0("^[ \\* ]*", exact_date, ": ", link, "\\.")
     (parsed = str_match(entry, reg))
-    values[3:4] = parsed[2:3]
+    values[3:5] = parsed[2:4]
 
     country_city = "\\. ([a-zA-Z ]*)\\, ([a-zA-Z ]*)\\."
     str_match(entry, country_city)
