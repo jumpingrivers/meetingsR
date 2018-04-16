@@ -44,7 +44,5 @@ groups = map(rmds, readLines)  %>%
   map_df(rmd_parse) %>%
   fill(page, country) %>%
   filter(!(is.na(city) & is.na(link)))
-View(groups)
-
 
 write_csv(groups, path = "_book/groups.csv")
