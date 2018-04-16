@@ -32,10 +32,10 @@ rmd_parse = function(entry) {
 
     country_city = "\\. ([a-zA-Z ]*)\\, ([a-zA-Z ]*)\\."
     str_match(entry, country_city)
-    values[5:6] = str_match(entry, country_city)[2:3]
+    values[6:7] = str_match(entry, country_city)[2:3]
 
     twitter = str_match(entry, "\\@([a-zA-Z_]*)\\]")[2]
-    values[7] = twitter
+    values[8] = twitter
   }
   as_tibble(values)
 }
