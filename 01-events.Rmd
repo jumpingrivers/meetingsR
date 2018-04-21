@@ -52,7 +52,7 @@ The format for listing an R event is
 
  * September 4-5: [LatinR 2018](http://latin-r.com/). Buenos Aires, Argentina. [\@LatinR2018](https://twitter.com/latinr2018)
  * September 11-13: [EARL London 2018](https://earlconf.com/london/). London, United Kingdom. [\@earlconf](https://twitter.com/earlconf)
- * September 12-14: The Use of R in Official Statistics. Hague, Netherlands. [\@uRos2018](https://twitter.com/uRos2018)
+ * September 12-14: [The Use of R in Official Statistics](https://www.aanmelder.nl/uros2018). Hague, Netherlands. [\@uRos2018](https://twitter.com/uRos2018)
  
 ### November
 
