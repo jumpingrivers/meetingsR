@@ -35,6 +35,7 @@
   *  Paris: [R Addicts Paris](https://www.meetup.com/rparis/events/124508332/)
   *  Paris: [R'n Blue](https://www.meetup.com/Rn-Blue/)
   *  Strasbourg: [StatsRbourg](https://www.meetup.com/StatsRbourg/)
+  *  Toulouse: [R Toulouse](http://r-toulouse.netlify.com/), [@RUG_Toulouse](https://twitter.com/RUG_Toulouse)
   *  Grenoble: [R in Grenoble](https://r-in-grenoble.github.io/)
   
 ### Germany 
