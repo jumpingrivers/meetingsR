@@ -47,7 +47,7 @@ The format for listing an R event is
  * July 2-5: [WhyR? 2018](http://whyr2018.pl/). Wroclaw, Poland.
  * July 4-6: [7eme rencontres R](https://r2018-rennes.sciencesconf.org). Rennes, France. [\@rencontres_R](https://twitter.com/rencontres_R)
  * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
- * July: [Noreast'R Conference](http://noreastrconf.com/). Providence, USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
+
 
 ### September
 
@@ -55,7 +55,11 @@ The format for listing an R event is
  * September 4-5: [LatinR 2018](http://latin-r.com/). Buenos Aires, Argentina. [\@LatinR2018](https://twitter.com/latinr2018)
  * September 11-13: [EARL London 2018](https://earlconf.com/london/). London, United Kingdom. [\@earlconf](https://twitter.com/earlconf)
  * September 12-14: [The Use of R in Official Statistics](https://www.aanmelder.nl/uros2018). Hague, Netherlands. [\@uRos2018](https://twitter.com/uRos2018)
- 
+
+### October
+
+ * October 26: [Noreast'R Conference](http://noreastrconf.com/). Providence, USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
+
 ### November
 
  * November 7: [EARL Seattle](https://earlconf.com/boston). Seattle, USA. [\@earlconf](https://twitter.com/earlconf)
