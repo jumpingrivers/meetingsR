@@ -49,6 +49,12 @@ The format for listing an R event is
  * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
 
 
+
+### August
+
+ * August 15-16: [R/Pharma](http://rinpharma.com/). Cambridge, Massachusetts, USA.
+ 
+
 ### September
 
  * September 1: [SatRday Amsterdam](http://amsterdam2018.satrdays.org/). Amsterdam, The Netherlands.
