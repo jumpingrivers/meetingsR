@@ -7,7 +7,6 @@ library("tidyverse")
 rmds = c("03-Rladies.Rmd", "02_useR_groups_asia.Rmd", "02_useR_groups_europe.Rmd",
          "02_useR_groups_middle_east_africa.Rmd", "02_useR_groups_north_america.Rmd",
          "02_useR_groups_oceania.Rmd", "02_useR_groups_south_america.Rmd")
-
 ############################3
 # 2. Function to extract data
 
@@ -18,7 +17,7 @@ rmd_parse = function(entry) {
                 group_name = NA, link = NA, twitter = NA)
 
   ## Globs
-  link = "\\[([\\w -]*)\\](?=\\()\\(([\\w|/|:|\\-|\\.]*)\\)"
+  link = "\\[([\\(\\)\\'\\w -]*)\\](?=\\()\\(([\\w|/|:|\\-|\\.]*)\\)"
   city = "(.*)"
   if (str_detect(entry, "^## ")) {
     # page
