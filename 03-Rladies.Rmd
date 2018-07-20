@@ -69,6 +69,10 @@ gender diversity in the R community.
   * Barcelona: [Barcelona](https://www.meetup.com/es-ES/rladies-barcelona/); [\@RLadiesBCN](https://twitter.com/rladiesbcn)
   * Valencia: [Valencia](https://twitter.com/RLadiesValencia)
 
+### Switzerland
+
+ * Lausanne: [R-Ladies Lausanne](https://www.meetup.com/rladies-lausanne/); [\@RLadiesLausanne](https://twitter.com/rladieslausanne)
+
 ### Taipei
 
   * Taipei: [R-Ladies Taipei](https://www.meetup.com/R-Ladies-Taipei/)
