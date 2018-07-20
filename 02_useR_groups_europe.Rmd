@@ -140,7 +140,7 @@
 
 ### Switzerland
   * Basel: [BaselR](http://www.baselr.org/)
-  * Geneva: [GenevaR](http://www.geneva-r.org/)
+  * Geneva: [Geneve R User Group](https://www.meetup.com/Geneve-R-User-Group/)
   * Zurich: [Zurich R](https://www.meetup.com/Zurich-R-User-Group/) User Group
 
 ### UK
