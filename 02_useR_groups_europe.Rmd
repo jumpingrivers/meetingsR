@@ -140,7 +140,8 @@
 
 ### Switzerland
   * Basel: [BaselR](http://www.baselr.org/)
-  * Geneva: [Geneve R User Group](https://www.meetup.com/Geneve-R-User-Group/)
+  * Geneva: [Geneve R User Group](https://www.meetup.com/Geneve-R-User-Group/); [\@GenevaRUsers](https://twitter.com/GenevaRUsers)
+  * Geneva: [R Lunch / Dejeuner R](http://use-r-carlvogt.github.io/prochains-lunchs/)
   * Zurich: [Zurich R](https://www.meetup.com/Zurich-R-User-Group/) User Group
 
 ### UK
