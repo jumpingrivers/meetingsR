@@ -16,4 +16,4 @@ The R scripts used to generate these CSV files are also located in the GitHub re
 
 > https://github.com/jumpingrivers/meetingsR/tree/master/R
 
-These scripts were initially create via the [eRum competition](https://blog.jumpingrivers.com/posts/2018/jumping_rivers_erum/)
+These scripts were initially created via the [eRum competition](https://blog.jumpingrivers.com/posts/2018/jumping_rivers_erum/)
