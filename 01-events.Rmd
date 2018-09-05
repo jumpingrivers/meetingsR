@@ -17,7 +17,7 @@ The format for listing an R event is
 
 ### July
 
-  * July (probably): useR! 2019. Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
+  * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
 
 ## 2018 {-}
 
@@ -65,6 +65,7 @@ The format for listing an R event is
 ### October
 
  * October 26: [Noreast'R Conference](http://noreastrconf.com/). Providence, USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
+ * October 27: [SatRday Belgrade](http://belgrade2018.satrdays.org/). Belgrade, Serbia.
 
 ### November
 
