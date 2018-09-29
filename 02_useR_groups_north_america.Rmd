@@ -7,6 +7,7 @@ knit: "bookdown::preview_chapter"
 ### Canada 
   
   * Edmonton: [Edmonton R User Group](https://alberta.collegiatelink.net/organization/erug)
+  * Halifax: [Halifax R User Group](https://www.meetup.com/Bluenose-R-User-Group/)
   * Montréal: [Montreal R User Group](https://www.meetup.com/Montreal-R-User-Group/)
   * Ottawa: [Ottawa Gatineau R Users Group](https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa)
   * Québec: [Plein-R](http://www.coactivate.org/projects/plein-r/project-home) (en Français)
