@@ -47,6 +47,10 @@ gender diversity in the R community.
 
   * Dublin: [R-Ladies Dublin](https://www.meetup.com/R-Ladies-Dublin/)
   
+### Nepal
+
+ * Kathmandu: [R-Ladies Kathmandu](https://www.meetup.com/rladies-kathmandu/); [\@RLadiesKtm](https://twitter.com/RLadiesKtm)
+  
 ### Peru
 
   * Lima: [R-Ladies Lima](https://twitter.com/RLadiesLima)
