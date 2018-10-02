@@ -100,6 +100,7 @@
   * Poznań: [Poznań R Users](https://www.meetup.com/Poznan-R-User-Group-PAZUR/)
   * TriCity: [Trójmiejska Grupa Entuzjastów R](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/)
   * Wrocław: [STWUR - Wroclaw R Users Group](https://www.meetup.com/Wroclaw-R-Users-Group/)
+  * Kraków: [entuzjastów R krakowska alternatywa](https://www.meetup.com/erkakrakow/)
 
 ### Portugal
 
