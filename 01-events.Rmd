@@ -48,12 +48,9 @@ The format for listing an R event is
  * July 4-6: [7eme rencontres R](https://r2018-rennes.sciencesconf.org). Rennes, France. [\@rencontres_R](https://twitter.com/rencontres_R)
  * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
 
-
-
 ### August
 
  * August 15-16: [R/Pharma](http://rinpharma.com/). Cambridge, Massachusetts, USA.
- 
 
 ### September
 
@@ -75,7 +72,8 @@ The format for listing an R event is
 
 ### December
 
- * December 8: [SatRDays DC](https://dc2018.satrdays.org/). Washington, DC. 
+ * December 6-7: [European Bioconductor Meeting 2018](https://bioconductor.github.io/EuroBioc2018/). Munich, Germany.
+ * December 8: [SatRDays DC](https://dc2018.satrdays.org/). Washington, USA.
 
 ## 2017 {-}
 
