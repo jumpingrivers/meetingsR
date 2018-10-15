@@ -24,7 +24,7 @@
   * Chiba: [Kashiwa.R](http://www14.atwiki.jp/kashiwar/)
   * Osaka: [Osaka.R](https://sites.google.com/site/osakarwiki/)
   * Tokyo: [Tokyo.R](https://groups.google.com/group/r-study-tokyo)
-  * Tsukuba: [sukuba.R](http://wiki.livedoor.jp/syou6162/)
+  * Tsukuba: [Tsukuba.R](https://www.meetup.com/ja-JP/TsukubaR/); [\@tsukubar](https://twitter.com/tsukubar)
 
 ### Macau
 
