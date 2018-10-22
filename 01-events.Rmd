@@ -68,6 +68,7 @@ The format for listing an R event is
 
  * November 7: [EARL Seattle](https://earlconf.com/boston). Seattle, USA. [\@earlconf](https://twitter.com/earlconf)
  * November 9: [EARL Houston](https://earlconf.com/boston). Houston, USA. [\@earlconf](https://twitter.com/earlconf)
+ * November 8-9: [DC R Conference](https://www.rstats.ai/). Washington DC, USA. [@rstatsdc](https://twitter.com/rstatsdc)
  * November 13: [EARL Boston](https://earlconf.com/boston). Boston, USA. [\@earlconf](https://twitter.com/earlconf)
 
 ### December
