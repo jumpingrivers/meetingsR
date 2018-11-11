@@ -100,7 +100,7 @@ gender diversity in the R community.
   * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/); [\@RLadiesAmes](https://twitter.com/RLadiesAmes)
   * Louisville, KY: [R-Ladies Louisville](https://www.meetup.com/rladies-louisville/)
   * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
-  * East Lansing, MI: [R-Ladies East Lansing](https://www.meetup.com/); [\@RLadiesELansing](https://twitter.com/RLadiesELansing)
+  * East Lansing, MI: [R-Ladies East Lansing](https://www.meetup.com/rladies-eastlansing); [\@RLadiesELansing](https://twitter.com/RLadiesELansing)
   * Buffalo, NY: [R-Ladies Buffalo](https://www.meetup.com/RLadies-Buffalo/)
   * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/)
   * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
