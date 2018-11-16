@@ -75,6 +75,7 @@ The format for listing an R event is
 
  * December 6-7: [European Bioconductor Meeting 2018](https://bioconductor.github.io/EuroBioc2018/). Munich, Germany.
  * December 8: [SatRDays DC](https://dc2018.satrdays.org/). Washington, USA.
+ * December 15: [SatRday Santiago](https://santiago2018.satrdays.org). Santiago, Chile.
 
 ## 2017 {-}
 
