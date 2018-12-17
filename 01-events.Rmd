@@ -19,6 +19,10 @@ The format for listing an R event is
 
   * February 23: [satRdays Paris](http://paris2019.satrdays.org). Paris, France.
 
+### May
+
+  * May 20-21: [The Use of R in Official Statistics](http://r-project.ro/conference2019.html). Bucharest, Romania.
+
 ### July
 
   * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
