@@ -27,6 +27,10 @@ The format for listing an R event is
 
   * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
 
+### September
+
+  * September 25-27: [LatinR 2019](http://latin-r.com/). Santiago,Chile. [\@LatinR_Conf](https://twitter.com/LatinR_Conf)
+
 ## 2018 {-}
 
 ### January
