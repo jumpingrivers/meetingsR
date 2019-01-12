@@ -6,8 +6,8 @@ knit: "bookdown::preview_chapter"
 
 ### Argentina
 
-  * Argentina Buenos Ares: [Grupo de Usarios de R Argentina](http://ar.i314.com.ar/)
-
+  * Ciudad de Buenos Aires,[R en Buenos Aires](http://renbaires.github.io/); [\@renbaires](https://twitter.com/renbaires)
+  
 ### Brazil
 
   * Brasilia: [Brasília UseR Meetup Linguagem de Programação "R"](https://www.meetup.com/Brasilia-UseR-Meetup/)
