@@ -44,4 +44,5 @@ groups = map(rmds, readLines)  %>%
   fill(page, country) %>%
   filter(!(is.na(city) & is.na(link)))
 
-write_csv(groups, path = "_book/groups.csv")
+write("# Automatically generated file. Edit the .Rmd file instead.", file = "_book/groups.csv")
+write_csv(groups, path = "_book/groups.csv", append = TRUE)
