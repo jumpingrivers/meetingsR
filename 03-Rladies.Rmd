@@ -29,6 +29,7 @@ gender diversity in the R community.
 ### Brazil
 
  * Rio-de-Janeiro: [R-Ladies Rio-de-Janeiro](https://www.meetup.com/R-Ladies-Rio-de-Janeiro); [\@RLadiesRio](https://twitter.com/RLadiesRio)
+ * Belo-Horizonte: [R-Ladies Belo-Horizonte](https://www.meetup.com/pt-BR/rladies-belo-horizonte/); [\@RLadiesBH](https://twitter.com/RLadiesBH)
 
 ### France
 
