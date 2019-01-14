@@ -27,14 +27,12 @@
   *  Brest: [DataScience Brest](https://www.meetup.com/fr-FR/Data-Science-Brest/)
   *  Lyon: [RLyon](https://www.meetup.com/R-Lyon/)
   *  Jouy-en-Josas: [R4Ciam](http://ciam.inra.fr/r4ciam/)
-  *  Marseille: [R user group Aix-Marseille](https://www.meetup.com/R-user-group-Aix-Marseille/)
   *  Montpellier: [Groupe des utilisateurs du logiciel R](http://forums.cirad.fr/logiciel-R/)
   *  Nancy: [Nancy Data Science](https://www.meetup.com/nancydatascience/)
   *  Nantes: [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
   *  Paris: [Semin-R](http://www.mnhn.fr/semin-r/)
   *  Paris: [State of the R](http://stateofther.github.io/)
   *  Paris: [R Addicts Paris](https://www.meetup.com/rparis/events/124508332/)
-  *  Paris: [R'n Blue](https://www.meetup.com/Rn-Blue/)
   *  Strasbourg: [StatsRbourg](https://www.meetup.com/StatsRbourg/)
   *  Toulouse: [R Toulouse](http://r-toulouse.netlify.com/), [\@RUG_Toulouse](https://twitter.com/RUG_Toulouse)
   *  Grenoble: [R in Grenoble](https://r-in-grenoble.github.io/)
@@ -55,7 +53,6 @@
   *  Münster: [MünsteR (R Users Group)](https://www.meetup.com/Munster-R-Users-Group)
   *  Nürnberg: [NürnbergR](https://www.xing.com/net/ruser-nuernberg/)
   *  Osnabrück: [Osnabrück R und Data Science](https://www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science/)
-  *  Stuttgart: [R-Group Stuttgart](https://r-group-stuttgart.github.io/); [\@r_stuttgart ](https://twitter.com/r_stuttgart)
   *  Wiesbaden: [Wiesbaden R Users Group](https://www.meetup.com/Wiesbaden-R-Users-Group)
   
 ### Greece
@@ -75,7 +72,6 @@
 ### Italy
 
   * Milan: [MilanoR](http://www.milanor.net/)
-  * Napoli: [NapoliR User Group](https://www.meetup.com/Napoli-R-User-Group/)
   * Padua: [Italy-RUG Rante](https://groups.google.com/group/rante)
   * Torino: [Torino R net](http://torinor.net/)
 
@@ -112,9 +108,7 @@
 
 ### Russia
 
-  * Kazan: [R Kazan](https://www.meetup.com/R-Kazan/)
   * Moscow: [rMoscow](https://www.meetup.com/rMoscow/)
-  * PERM: [R Group](http://r-group.mifit.ru/?lang=enPeRm)
   * St. Petersburg: [St. Petersburg R User Group](https://www.meetup.com/St-Petersburg-R-User-Group/)
 
 ### Serbia
@@ -151,8 +145,6 @@
 #### England {-}
 
   * Birmingham: [Birmingham R User Group](https://www.meetup.com/BirminghamR/); [\@BirminghamR](https://twitter.com/birminghamr)
-  * Canterbury: [CanterburyR](https://www.meetup.com/Canterbury-R-Users-Group)
-  * Cambridge: [CambR](http://www.cambr.org.uk/)
   * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug); [\@WarwickRUG](https://twitter.com/WarwickRUG)
   * Exeter: [Exeter](https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
   * London: [LondonR](https://www.meetup.com/LondonR/)

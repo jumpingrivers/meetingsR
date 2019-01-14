@@ -9,10 +9,6 @@ knit: "bookdown::preview_chapter"
   * Cairo: [Cairo Bioinformatics Group](https://www.meetup.com/Cairo-Bioinformatics-Group/)
   * Cairo: [Cairo R Users Group](https://www.meetup.com/Cairo-R-Users-Group/)
 
-### Ghana
-
-  * Accra: [Accra R Users Group](https://www.meetup.com/Accra-R-Users-Group/)
-
 ### Israel
 
   * Tel Aviv: [Israel R User Group](https://groups.google.com/group/israel-r-user-group)
@@ -27,12 +23,7 @@ knit: "bookdown::preview_chapter"
 
 ### Nigeria
 
-  * Lagos: [Lagos R Users Group](https://www.meetup.com/Lagos-R-Users-Group/)
   * Offa: [Offa R Users Group](https://www.meetup.com/FEDPOFA-R-Users-Group/)
-
-### Qatar
-
-  * Doha: [Doha R User Group](https://www.meetup.com/doha-rug)
 
 ### Saudi Arabia
 
@@ -45,7 +36,6 @@ knit: "bookdown::preview_chapter"
 ### South Africa
 
   * Cape Town: [Cape R Users Group](https://caperuser.wordpress.com/); [\@CapeRUser](https://twitter.com/CapeRUser)
-  * Durban: [Durban R Users Group](https://www.meetup.com/Durban-R-Users-Group/)
   * Johannesburg: [Jo'burg R Users Group](https://www.meetup.com/Joburg-R-Users-Group)
 
 ### Tanzania

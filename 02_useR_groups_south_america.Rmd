@@ -43,7 +43,3 @@ knit: "bookdown::preview_chapter"
 
   * Panamá: [Panama R User's Group](https://www.meetup.com/Panama-R-Users-Group/)
 
-### Venezuela
-
-  * Caracas: [R-usersVEN](https://www.meetup.com/R-usersVEN)
-

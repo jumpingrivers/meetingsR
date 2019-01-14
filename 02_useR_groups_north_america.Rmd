@@ -16,7 +16,6 @@ knit: "bookdown::preview_chapter"
 
 ### Mexico
 
-  *  Guadalajara: [Guadalajara R Users group Meetup](https://www.meetup.com/Guadalajara-R-Users-Group-Meetup/)
   *  Mexico City: [Mexico City Business Analytics Users Group](https://www.meetup.com/Mexico-City-Business-Analytics-Users/events/219135766/)
   *  Mexico City: [The Mexico City R Users Group](https://www.meetup.com/The-Mexico-City-R-Users-Group/)
   *  Tecate: [ecate BC Mexico R Users Group Meetup](https://www.meetup.com/Tecate-BC-Mexico-R-Users-Group-Meetup/)
@@ -31,10 +30,6 @@ knit: "bookdown::preview_chapter"
 
   * Phoenix: [Phoenix R Programmers](http://rphx.wordpress.com/)
 
-#### Arkansas {-}
-
-  * Little Rock: [Little Rock R User Group](https://www.meetup.com/Central-Arkansas-R-User-Group/)
-
 #### California {-}
 
   * Berkeley: [The Berkeley R Language Beginner Study Group](https://www.meetup.com/r-enthusiasts/)
@@ -48,8 +43,7 @@ knit: "bookdown::preview_chapter"
   * San Francisco / Bay Area: [BARUG](https://www.meetup.com/R-Users/)
 
 * Santa Barbara: [Santa Barbara R Users](https://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/)
-  * Whittier: [R Project for Statistical Computing Meetup](https://www.meetup.com/R-Project-for-Statistical-Computing-Meetup/)
-  
+
 #### Colorado {-}
 
   * Denver: [Denver R User Group](https://www.meetup.com/DenverRUG/)
@@ -132,7 +126,6 @@ knit: "bookdown::preview_chapter"
 #### Nevada {-}
 
   * Las Vegas: [Las Vegas R Users Group](https://www.meetup.com/Las-Vegas-R-Users-Group/)
-  * Reno: [Reno R Users](https://www.meetup.com/Reno-R-Users/)
 
 #### New Jersey {-}
 
@@ -146,8 +139,7 @@ knit: "bookdown::preview_chapter"
   * New York: [New York Open Statistical Programming Meetup](https://www.meetup.com/nyhackr/) (The New York R Meetup)
   * New York: [New York R User Group](https://www.meetup.com/New-York-R-Users-Group/)
   * New York: [Columbia R Statistical Programming Group](https://groups.google.com/group/columbiaR)
-  * New York, Rochester: [Rochester R Users Group Meetup](https://www.meetup.com/Rochester-R-Users-Group-Meetup/)
-  
+
 #### North Carolina {-}
 
   * Charlotte: [Charlotte R Users Group](https://www.meetup.com/Charlotte-R-Users-Group/)
@@ -171,14 +163,9 @@ knit: "bookdown::preview_chapter"
   * Pittsburgh: [Pittsburgh useR Group](https://www.meetup.com/Pittsburgh-useR-Group/)
   * University Park: [Penn State R User's Group](https://www.facebook.com/groups/WeRPennStateRUsersGroup)
 
-#### Rhode Island {-}
-
-  * Providence: [Narragansette Bay Area R Users](https://www.meetup.com/Narragansett-Bay-Area-R-Users/)
-
 #### Tennessee {-}
 
   * Kingsport: [Tri-Cities R User Group](https://www.facebook.com/groups/658774270929644/)
-  * Knoxville: [KRUG](https://www.meetup.com/Knoxville-R-Users-Group)
   * Memphis, TN: [Memphis R Users Group](https://www.meetup.com/Memphis-R-Users-Group/)
   * Nashville, TN: [Nashville R user Group](https://www.meetup.com/Nashville-R-Users-Group/)
 
@@ -198,7 +185,6 @@ knit: "bookdown::preview_chapter"
 #### Virginia {-} 
 
   * Charlottesville: [UVa R Users Group](https://www.meetup.com/UVa-R-Users-Group/)
-  * Norfolk:[757 R Users Group](https://www.meetup.com/757-R-Users-Group/)
 
 #### Wisconsin {-}
 

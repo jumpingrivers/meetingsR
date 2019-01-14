@@ -2,7 +2,6 @@
 
 ### China
 
-  * Chengdu: [Chengdu R User's Group](https://www.meetup.com/Chengdu-R-Users-Group/events/218924116/)
   * Xiamen: [XMU-R](https://www.meetup.com/RGROUP/)
 
 ### Hong Kong
