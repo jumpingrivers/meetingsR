@@ -18,6 +18,14 @@ The format for listing an R event is
 ### February
 
   * February 23: [satRdays Paris](http://paris2019.satrdays.org). Paris, France.
+  
+### March
+
+  * March 9-10: [Chicago R Unconference](https://chirunconf.github.io/). Chicago IL, USA.
+  
+### April
+
+  * April 14-16: [The Uncoast Unconference](https://uncoast-unconference.netlify.com/). Des Moines IA, USA.
 
 ### May
 
