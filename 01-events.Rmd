@@ -21,6 +21,7 @@ The format for listing an R event is
 
 ### May
 
+  * May 18: [1 Year Chapter Meetup Belo Horizonte](http://rladiesbh.com.br/). Belo Horizonte, Brazil.
   * May 20-21: [The Use of R in Official Statistics](http://r-project.ro/conference2019.html). Bucharest, Romania.
 
 ### July
