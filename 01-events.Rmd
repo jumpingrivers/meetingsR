@@ -21,6 +21,7 @@ The format for listing an R event is
   
 ### March
 
+  * April 6: [satRdays Newcastle](https://newcastle2019.satrdays.org/). Newcastle, UK.
   * March 9-10: [Chicago R Unconference](https://chirunconf.github.io/). Chicago IL, USA.
   
 ### April
