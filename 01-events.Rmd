@@ -26,6 +26,7 @@ The format for listing an R event is
   
 ### April
 
+  * April 6: [satRday Johannesburg](https://joburg2019.satrdays.org/). Johannesburg, South Africa.
   * April 14-16: [The Uncoast Unconference](https://uncoast-unconference.netlify.com/). Des Moines IA, USA.
 
 ### May
