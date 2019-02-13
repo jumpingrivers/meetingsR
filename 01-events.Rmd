@@ -31,8 +31,13 @@ The format for listing an R event is
 
 ### May
 
+  * May 9-11: [New York R Conference](https://www.rstats.nyc/). New York NY, USA.
   * May 18: [1 Year Chapter Meetup Belo Horizonte](http://rladiesbh.com.br/). Belo Horizonte, Brazil.
   * May 20-21: [The Use of R in Official Statistics](http://r-project.ro/conference2019.html). Bucharest, Romania.
+  
+### June
+
+  * June 8: [Cascadia R Conference](https://cascadiarconf.com/). Redmond WA, USA.
 
 ### July
 
