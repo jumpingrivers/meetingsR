@@ -21,13 +21,13 @@ The format for listing an R event is
   
 ### March
 
-  * April 6: [satRdays Newcastle](https://newcastle2019.satrdays.org/). Newcastle, UK.
   * March 9-10: [Chicago R Unconference](https://chirunconf.github.io/). Chicago IL, USA.
   
 ### April
 
   * April 6: [satRday Los Angeles](https://losangeles2019.satrdays.org/). Los Angeles CA, USA.
   * April 6: [satRday Johannesburg](https://joburg2019.satrdays.org/). Johannesburg, South Africa.
+  * April 6: [satRdays Newcastle](https://newcastle2019.satrdays.org/). Newcastle, UK.
   * April 14-16: [The Uncoast Unconference](https://uncoast-unconference.netlify.com/). Des Moines IA, USA.
 
 ### May
