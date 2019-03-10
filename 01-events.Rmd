@@ -81,6 +81,7 @@ The format for listing an R event is
 ### August
 
  * August 15-16: [R/Pharma](http://rinpharma.com/). Massachusetts, USA.
+ * August 15-16: [noRth 2019](https://rnorthconference.github.io/). Minnesota, USA.
 
 ### September
 
