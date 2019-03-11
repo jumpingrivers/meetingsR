@@ -105,6 +105,7 @@ knit: "bookdown::preview_chapter"
 
   * Ann Arbor: [Ann Arbor R User Group](https://www.meetup.com/Ann-Arbor-R-User-Group/)
   * Detroit: [Detroit useR Group](https://www.meetup.com/Detroit-useR-Group-R-Programming-Language/)
+  * Grand Rapids: [West Michigan R Users Group](https://westmichiganrusergroup.github.io/)
   * Lansing: [Lansing Area R Users Group](https://www.meetup.com/Lansing-Area-R-Users-Group/)
 
 #### Minnesota {-}
