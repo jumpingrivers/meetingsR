@@ -44,6 +44,11 @@ The format for listing an R event is
 ### July
 
   * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
+USA.
+
+### August
+
+ * August 15-16: [noRth 2019](https://rnorthconference.github.io/). Minneapolis, MN, USA.
 
 ### September
 
@@ -81,7 +86,6 @@ The format for listing an R event is
 ### August
 
  * August 15-16: [R/Pharma](http://rinpharma.com/). Massachusetts, USA.
- * August 15-16: [noRth 2019](https://rnorthconference.github.io/). Minnesota, USA.
 
 ### September
 
