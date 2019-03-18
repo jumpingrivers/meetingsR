@@ -50,6 +50,7 @@ The format for listing an R event is
 ### July
 
   * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
+  * July 9-12: [Riot 2019](http://riotworkshop.github.io/). Toulouse, France.
 
 ### August
 
