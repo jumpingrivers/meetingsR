@@ -34,6 +34,7 @@ The format for listing an R event is
   * April 6: [satRday Los Angeles](https://losangeles2019.satrdays.org/). Los Angeles CA, USA.
   * April 6: [satRday Johannesburg](https://joburg2019.satrdays.org/). Johannesburg, South Africa.
   * April 6: [satRdays Newcastle](https://newcastle2019.satrdays.org/). Newcastle, UK.
+  * April 12: [Women in Data Science East Lansing @MSU](https://github.com/rladies-eastlansing/wids2019/wiki). East Lansing, MI, USA.
   * April 14-16: [The Uncoast Unconference](https://uncoast-unconference.netlify.com/). Des Moines IA, USA.
 
 ### May
