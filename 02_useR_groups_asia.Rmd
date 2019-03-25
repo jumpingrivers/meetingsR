@@ -12,7 +12,7 @@
 
   * Bangalore: [Bengaluru R UseR Group (BRUG)](https://www.meetup.com/BengaluRu-use-R-gRoup/)
   * Chennai: [R Users Group Chennai](https://www.meetup.com/R-Users-Group-Chennai/)
-  * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/?scroll=true)
+  * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/)
   * Delhi: [Delhi NCR R useR Group](https://www.meetup.com/Delhi-NCR-useR-Group-R-programming-language/)
   * Hyderabad: [R Users Group Hyderabad RUGH](https://www.meetup.com/R-Users-Group-Hyderabad/)
   * New Delhi: [New Delhi UseR Group](https://www.meetup.com/New-Delhi-R-UseR-Group/)
@@ -21,20 +21,20 @@
 ### Japan
 
   * Chiba: [Kashiwa.R](http://www14.atwiki.jp/kashiwar/)
-  * Fukuoka [Fukuoka.R](https://www.facebook.com/fukuoka.stat.R) [Events](https://fukuoka-r.connpass.com) [\@doradora09](https://twitter.com/doradora09) [\#FukuokaR](https://twitter.com/hashtag/FukuokaR?src=hash)
+  * Fukuoka [Fukuoka.R](https://www.facebook.com/fukuoka.stat.R) [Events](https://fukuoka-r.connpass.com) [\@doradora09](https://twitter.com/doradora09) [\@FukuokaR](https://twitter.com/hashtag/FukuokaR?src=hash)
   * Chiba: [Kashiwa.R](http://www14.atwiki.jp/kashiwar/)
   * Hiroshima: [HiRosima.R](http://hiroshimar.connpass.com/) [HijiyamaR](https://atnd.org/events/81359)
   * Kobe: [Kobe.R](http://kobexr.doorkeeper.jp/) 
   * Nagoya: [Nagoya.R](https://atnd.org/events/78674)
   * Osaka: [Osaka.R](https://sites.google.com/site/osakarwiki/)
   * Sapporo: [SappoRo.R](http://kokucheese.com/event/index/423714/)
-  * Sendai: [Events](https://sendair.connpass.com/) [\@tachyon7776](https://twitter.com/tachyon7776)  [\#Sendai_R](https://twitter.com/hashtag/Sendai_R?src=hash)  [\#SendaiR](https://twitter.com/hashtag/SendaiR?src=hash)
+  * Sendai: [Events](https://sendair.connpass.com/). [\@tachyon7776](https://twitter.com/tachyon7776)
   * Shiga: [Shiga.R](http://atnd.org/events/5939)
-  * Tokyo: [Tokyo.R](https://groups.google.com/group/r-study-tokyo)  [Events](https://tokyor.connpass.com/) [Slack](https://r-wakalang.slack.com) [\@TokyoRCommunity](https://twitter.com/TokyoRCommunity)   [\#TokyoR](https://twitter.com/hashtag/TokyoR?src=hash)
-  * Tsukuba: [Tsukuba.R](https://www.meetup.com/ja-JP/TsukubaR/); [\@tsukubar](https://twitter.com/tsukubar)
+  * Tokyo: [Tokyo.R](https://groups.google.com/group/r-study-tokyo). [Events](https://tokyor.connpass.com/).[\@TokyoRCommunity](https://twitter.com/TokyoRCommunity)
+  * Tsukuba: [Tsukuba.R](https://www.meetup.com/ja-JP/TsukubaR/). [\@tsukubar](https://twitter.com/tsukubar)
   * Okinawa: [Okinawa.R](http://www.okadajp.org/RWiki/?%E6%B2%96%E7%B8%84R%E5%90%8C%E5%A5%BD%E4%BC%9A)
-  * Yamaguchi: [Yamadai.R](https://atnd.org/events/37336) [\#yamadaiR](https://twitter.com/hashtag/YamadaiR?src=hash)
-  * Yokohama: [Yokohama.R](https://github.com/YokohamaR/yokohama.r)
+  * Yamaguchi: [Yamadai.R](https://atnd.org/events/37336).
+  * Yokohama: [Yokohama.Rhttps://yokohamar.github.io/yokohama.r/)
   
   * Japan: [Japan.R](http://japanr.net/) [Events](https://japanr.connpass.com) [\@gepuro](https://twitter.com/gepuro) [\#JapanR](https://twitter.com/hashtag/JapanR?src=hash)
 
