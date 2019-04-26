@@ -7,6 +7,10 @@ knit: "bookdown::preview_chapter"
 ### Algeria
 
  * Algiers: [Algerian R users](https://www.facebook.com/groups/1135595893158091/)
+ 
+### Democratic Republic Of Congo
+
+  * Kinshasa: [UseR!Kin](https://www.meetup.com/user-kin/)
 
 ### Egypt
 
