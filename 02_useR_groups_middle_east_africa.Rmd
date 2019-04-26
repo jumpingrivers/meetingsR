@@ -4,6 +4,10 @@ knit: "bookdown::preview_chapter"
 
 ## Middle East/ Africa
 
+### Algeria
+
+ * Algiers: [Algerian R users](https://www.facebook.com/groups/1135595893158091/)
+
 ### Egypt
 
   * Cairo: [Cairo Bioinformatics Group](https://www.meetup.com/Cairo-Bioinformatics-Group/)
