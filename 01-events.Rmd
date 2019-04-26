@@ -48,6 +48,7 @@ The format for listing an R event is
 ### June
 
   * June 8: [Cascadia R Conference](https://cascadiarconf.com/). Redmond WA, USA.
+  * June 15: [SatRday Berlin](https://berlin2019.satrdays.org/). Berlin, Germany.
 
 ### July
 
