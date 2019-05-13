@@ -57,10 +57,11 @@ The format for listing an R event is
 
 ### August
 
- * August 15-16: [noRth 2019](https://rnorthconference.github.io/). Minneapolis, MN, USA.
+ * August 15-16: [noRth 2019](https://rnorthconference.github.io/). Minneapolis MN, USA.
 
 ### September
 
+  * September 12-14: [R/Medicine 2019](https://r-medicine.com/). Boston MA, USA.
   * September 25-27: [LatinR 2019](http://latin-r.com/). Santiago, Chile. [\@LatinR_Conf](https://twitter.com/LatinR_Conf)
 
 ## 2018 {-}
