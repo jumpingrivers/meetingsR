@@ -1,14 +1,14 @@
 ## Asia
 
-### China
+### China `r edit_btn`
 
   * Xiamen: [XMU-R](https://www.meetup.com/RGROUP/)
 
-### Hong Kong
+### Hong Kong `r edit_btn`
 
   * Hong Kong: [Hong Kong R User Group](https://www.facebook.com/groups/hkrusers/)
 
-### India
+### India `r edit_btn`
 
   * Bangalore: [Bengaluru R UseR Group (BRUG)](https://www.meetup.com/BengaluRu-use-R-gRoup/)
   * Chennai: [R Users Group Chennai](https://www.meetup.com/R-Users-Group-Chennai/)
@@ -18,7 +18,7 @@
   * New Delhi: [New Delhi UseR Group](https://www.meetup.com/New-Delhi-R-UseR-Group/)
   * Pune: [Pune R User Group](https://www.meetup.com/Pune-R-junkies-Meetup/)
 
-### Japan
+### Japan `r edit_btn`
   
   * Japan: [Japan.R](http://japanr.net/); [\@gepuro](https://twitter.com/gepuro)
 
@@ -59,51 +59,51 @@
   * Okinawa: [Okinawa.R](http://www.okadajp.org/RWiki/?%E6%B2%96%E7%B8%84R%E5%90%8C%E5%A5%BD%E4%BC%9A)
 
   
-### Macau
+### Macau `r edit_btn`
 
   * Macau: [R-Research](http://groupspaces.com/R-research/)
 
-### Malaysia
+### Malaysia `r edit_btn`
 
   * Kuala Lumpur: [myRUG](https://www.meetup.com/MY-RUserGroup/)
   
   
-### Nepal
+### Nepal `r edit_btn`
 
   * Nepal: [R User Group Nepal](https://www.meetup.com/R-User-Group-Nepal/); [\@rugnepal](https://twitter.com/rugnepal)
   
 
-### Pakistan
+### Pakistan `r edit_btn`
 
   * Lahore: [Lahore R Users Group](https://lahorerug.wordpress.com/)
 
-### Philippines
+### Philippines `r edit_btn`
 
   * Manila: [R Users Group](https://www.meetup.com/R-Users-Group-Philippines/)
 
-### Singapore
+### Singapore `r edit_btn`
 
   * Singapore: [R User Group](https://www.meetup.com/R-User-Group-SG/)
 
-### South Korea
+### South Korea `r edit_btn`
 
   * South Korea: [R Korea - Korean R Study Group](https://www.facebook.com/groups/krstudy/)
   * South Korea: [R Korea - Korean R User Group](https://www.facebook.com/groups/KoreaRUsers/)
 
-### Sri Lanka
+### Sri Lanka `r edit_btn`
 
   * Peradeniya: [R User Group](https://groups.google.com/forum/?hl=en#!forum/r-user-group---srilanka) 
   
-### Taiwan
+### Taiwan `r edit_btn`
 
   * Kaohsiung: [Kaohsiung R Users](https://www.facebook.com/groups/Kaohsiung.R.Users/#_=_)
   * Taipei: [Chinese Academy of R Software CARS](https://sites.google.com/site/zhonghuarruantixuehui/)
   * Taipei: [Taiwan UseR Group](https://www.meetup.com/Taiwan-useR-Group/)
 
-### Thailand
+### Thailand `r edit_btn`
 
   * Chang Mai: [Chang Mai R User Group](https://www.facebook.com/Chiang-Mai-R-362933103793288/)
 
-### Viet Nam
+### Viet Nam `r edit_btn`
 
   * Ha Noi: [Ha Noi R Users Group Meetup](https://www.meetup.com/Ha-Noi-R-Users-Group-Meetup/)

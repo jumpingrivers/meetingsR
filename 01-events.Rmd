@@ -8,13 +8,13 @@ The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
-## 2020 {-}
+## 2020 `r edit_btn` {-}
 
 ### July
 
   * July XX-YY: [useR! 2020](https://twitter.com/useR2020stl). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
 
-## 2019 {-}
+## 2019 `r edit_btn` {-}
 
 ### January
 

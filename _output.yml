@@ -8,14 +8,8 @@ bookdown::gitbook:
         <li><a href="./">R Conferences and Meetings</a></li>
       after: |
         <div class="div-wrapper"><a href="https://www.jumpingrivers.com"><img src = "logo.png" style="width:100px;padding-left:10px"></a></div>
-    edit:
-      link: https://github.com/jumpingrivers/meetingsR/edit/master/%s
-      text: "Edit"
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
   keep_tex: yes
-
-
-
 

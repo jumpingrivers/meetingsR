@@ -4,7 +4,7 @@ knit: "bookdown::preview_chapter"
 
 ## Oceania
 
-### Australia
+### Australia `r edit_btn`
 
   * Adelaide: [ARUG](https://www.meetup.com/Adelaide-R-Users/)
   * Brisbane: [BURGr](https://www.meetup.com/Brisbane-Users-of-R-Group-BURGr/)
@@ -15,7 +15,7 @@ knit: "bookdown::preview_chapter"
   * Perth: [WARG](https://www.meetup.com/Western-Australia-R-Group-WARG/)
   * Sydney: [SURF](https://www.meetup.com/R-Users-Sydney/)
 
-### New Zealand
+### New Zealand `r edit_btn`
 
   * Auckland: [AKLRUG](https://www.meetup.com/Auckland-R-Users-Group-AKLRUG)
   * Wellington: [WRUG](https://www.meetup.com/Wellington-R-Users-Group-WRUG)

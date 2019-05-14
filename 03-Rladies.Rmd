@@ -12,90 +12,91 @@ Title for scraping
 Visit [R-ladies.org](https://rladies.org/) for information about this worldwide organization to promote
 gender diversity in the R community.
 
-### Argentina
+### Argentina `r edit_btn`
 
   * Buenos Aires: [R-Ladies Buenos Aires](https://www.meetup.com/rladies-buenos-aires/)
   * Santa Rosa: [R-Ladies Santa Rosa](https://www.meetup.com/rladies-santa-rosa/)
 
-### Australia
+### Australia `r edit_btn`
 
   * Adelaide: [R-Ladies Adelaide](https://www.meetup.com/rladies-adelaide/)
   * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/); [\@RLadiesAU](https://twitter.com/RLadiesAU).
 
-### Belgium
+### Belgium `r edit_btn`
 
  * Brussels: [R-Ladies Brussels](https://www.meetup.com/R-Ladies-Brussels/members/)
 
-### Brazil
+### Brazil `r edit_btn`
 
  * Rio-de-Janeiro: [R-Ladies Rio-de-Janeiro](https://www.meetup.com/R-Ladies-Rio-de-Janeiro); [\@RLadiesRio](https://twitter.com/RLadiesRio)
  * Belo-Horizonte: [R-Ladies Belo-Horizonte](https://www.meetup.com/pt-BR/rladies-belo-horizonte/); [\@RLadiesBH](https://twitter.com/RLadiesBH)
 
-### France
+### France `r edit_btn`
 
   * Paris: [Paris](https://www.meetup.com/rladies-paris/)
   
-### Germany
+### Germany `r edit_btn`
 
   * Berlin: [R-Ladies Berlin](https://www.meetup.com/rladies-berlin/); [\@RLadiesBerlin](https://twitter.com/RLadiesBerlin).
   * Munich: [R-Ladies Munich](https://www.meetup.com/rladies-munich)
   
-### Georgia
+### Georgia `r edit_btn`
  
   * Tbilisi: [R-Ladies Tbilisi](https://www.meetup.com/R-Ladies-Tbilisi/)
   
-### Ireland
+### Ireland `r edit_btn`
 
   * Dublin: [R-Ladies Dublin](https://www.meetup.com/R-Ladies-Dublin/)
   
-### Nepal
+### Nepal `r edit_btn`
 
  * Kathmandu: [R-Ladies Kathmandu](https://www.meetup.com/rladies-kathmandu/); [\@RLadiesKtm](https://twitter.com/RLadiesKtm)
  
-### Norway
+### Norway `r edit_btn`
+
  * Oslo: [RLadies Oslo](https://www.meetup.com/en-AU/rladies-oslo/); [\@RLadies_Oslo](https://twitter.com/RLadies_Oslo)
   
-### Peru
+### Peru `r edit_btn`
 
   * Lima: [R-Ladies Lima](https://twitter.com/RLadiesLima)
   
-### Poland
+### Poland `r edit_btn`
 
   * Warsaw: [Spotkania Entuzjastów R](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
 
-### Portugal
+### Portugal `r edit_btn`
 
   * Lisbon: [R-Ladies Lisboa](https://www.meetup.com/R-Ladies-Lisboa/)
   
-### South Africa
+### South Africa `r edit_btn`
 
   * Cape Town: [R-Ladies Cape Town](https://www.meetup.com/R-Ladies-Cape-Town/)
 
-### Spain
+### Spain `r edit_btn`
 
   * Madrid: [Madrid](https://www.meetup.com/rladies-madrid); [\@RLadiesMAD](https://twitter.com/RLadiesMAD)
   * Barcelona: [Barcelona](https://www.meetup.com/es-ES/rladies-barcelona/); [\@RLadiesBCN](https://twitter.com/rladiesbcn)
   * Valencia: [Valencia](https://twitter.com/RLadiesValencia)
 
-### Switzerland
+### Switzerland `r edit_btn`
 
  * Lausanne: [R-Ladies Lausanne](https://www.meetup.com/rladies-lausanne/); [\@RLadiesLausanne](https://twitter.com/rladieslausanne)
 
-### Taipei
+### Taipei `r edit_btn`
 
   * Taipei: [R-Ladies Taipei](https://www.meetup.com/R-Ladies-Taipei/)
 
-### Turkey
+### Turkey `r edit_btn`
 
   * Istanbul: [R-Ladies Istanbul](https://www.meetup.com/R-Ladies-Istanbul/)
   * Izmir: [R-Ladies İzmiR](https://www.meetup.com/R-Ladies-%C4%B0zmiR/)
 
-### United Kingdom
+### United Kingdom `r edit_btn`
 
   * London: [R-Ladies London](https://www.meetup.com/rladies-london/)
   * Manchester: R Ladies Manchester; [\@RLadiesManchest](https://twitter.com/RLadiesManchest)
 
-### United States of America
+### United States of America `r edit_btn`
 
   * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
   * San Francisco, CA: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/); [\@RLadiesSF](https://twitter.com/RLadiesSF).
@@ -118,6 +119,6 @@ gender diversity in the R community.
   * Portland, OR: [R-Ladies PDX](https://www.meetup.com/R-Ladies-PDX/) [\@RLadiesPDX](https://twitter.com/RLadiesPDX)
   * San Diego, CA: [R-Ladies San Diego](https://www.meetup.com/rladies-san-diego/) [\@RLadiesSanDiego](https://twitter.com/RLadiesSanDiego)
 
-### Uruguay
+### Uruguay `r edit_btn`
 
  * Montevideo: [R-Ladies Montevideo](https://www.meetup.com/rladies-montevideo/)

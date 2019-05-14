@@ -1,28 +1,28 @@
 ## Europe
 
-### Austria
+### Austria `r edit_btn`
 
   * Vienna: [Vienna<-R](https://www.meetup.com/ViennaR/)
   
-### Belgium
+### Belgium `r edit_btn`
 
   * Brussels: [RBelgium](https://www.meetup.com/RBelgium/)
 
-### Czech Republic 
+### Czech Republic `r edit_btn` 
 
   * Prague: [R Meetup Group](https://www.meetup.com/Prague-R-Meetup-Group/)
 
-### Denmark
+### Denmark `r edit_btn`
 
   * Aarhus: [Rhus](https://www.meetup.com/Rhus-useR-group)
   * Copenhagen: [CopenhagenR](https://www.meetup.com/CopenhagenR-useR-Group/)
   
-### Finland
+### Finland `r edit_btn`
 
   * Helsinki: [Finnish Society for Bioinformatics](http://www.bioinf.fi/)
   * Helsinki: [R User Group Finland](https://www.meetup.com/R-User-Group-Finland/)
 
-### France
+### France `r edit_btn`
 
   *  Brest: [DataScience Brest](https://www.meetup.com/fr-FR/Data-Science-Brest/)
   *  Lyon: [RLyon](https://www.meetup.com/R-Lyon/)
@@ -37,7 +37,7 @@
   *  Toulouse: [R Toulouse](http://r-toulouse.netlify.com/), [\@RUG_Toulouse](https://twitter.com/RUG_Toulouse)
   *  Grenoble: [R in Grenoble](https://r-in-grenoble.github.io/)
   
-### Germany 
+### Germany  `r edit_btn`
 
   *  Berlin: [Berlin R Users Group](https://www.meetup.com/Berlin-R-Users-Group/ )
   *  Bochum: [R Users Group Bochum/Ruhr](https://user.ruhr-uni-bochum.de/); [\@useR_bochum](https://twitter.com/useR_bochum)
@@ -55,42 +55,42 @@
   *  Osnabrück: [Osnabrück R und Data Science](https://www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science/)
   *  Wiesbaden: [Wiesbaden R Users Group](https://www.meetup.com/Wiesbaden-R-Users-Group)
   
-### Greece
+### Greece `r edit_btn`
 
   * Athens: [AthensR](https://www.meetup.com/AthensR/)
   * Pátrai: [Patra's R Users Group](https://www.meetup.com/Patras-R-Users-Group)
 
-### Hungary
+### Hungary `r edit_btn`
 
   * Budapest: [BURN](https://www.meetup.com/Budapest-Users-of-R-Network)
 
-### Ireland
+### Ireland `r edit_btn`
 
   * Cork: [Cork R-Uses Group](https://www.meetup.com/Cork-Ireland-R-Users-Group/)
   * Dublin: [Dublin-R](https://www.meetup.com/DublinR/)
 
-### Italy
+### Italy `r edit_btn`
 
   * Milan: [MilanoR](http://www.milanor.net/)
   * Padua: [Italy-RUG Rante](https://groups.google.com/group/rante)
   * Torino: [Torino R net](http://torinor.net/)
 
-### Luxembourg
+### Luxembourg `r edit_btn`
 
   * Luxembourg: [LuxR](https://www.meetup.com/LuxRgroup/)
 
-### Netherlands
+### Netherlands `r edit_btn`
 
   * Amsterdam: [amst-R-dam](https://www.meetup.com/amst-R-dam/)
   * Enschede: [Twente R User Group](http://twenterug.wordpress.com/)
   * Groningen: [R User Group Groningen](http://richelbilderbeek.nl/RuserGroupGroningen.htm)
   * Nijmegen: [Nijmegen everRybody](https://www.meetup.com/Nijmegen-eveRybody/)
 
-### Norway
+### Norway `r edit_btn`
 
   * Oslo: [Oslo user! Group](https://www.meetup.com/Oslo-useR-Group/)
 
-### Poland
+### Poland `r edit_btn`
 
   * Warsaw: [SER - Warsaw R Users Group](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
   * Poznań: [Poznań R Users](https://www.meetup.com/Poznan-R-User-Group-PAZUR/)
@@ -98,31 +98,31 @@
   * Wrocław: [STWUR - Wroclaw R Users Group](https://www.meetup.com/Wroclaw-R-Users-Group/)
   * Kraków: [entuzjastów R krakowska alternatywa](https://www.meetup.com/erkakrakow/)
 
-### Portugal
+### Portugal `r edit_btn`
 
   * Braga: [R@Minho](https://www.meetup.com/R-Minho/)
 
-### Romania
+### Romania `r edit_btn`
 
   * Bucharest: [R-omania Team](http://www.r-project.ro/our_team.html)
 
-### Russia
+### Russia `r edit_btn`
 
   * Moscow: [rMoscow](https://www.meetup.com/rMoscow/)
   * St. Petersburg: [St. Petersburg R User Group](https://www.meetup.com/St-Petersburg-R-User-Group/)
 
-### Serbia
+### Serbia `r edit_btn`
 
   * Belgrade: [BelgradeR](https://www.meetup.com/BelgradeR/)
   
-### Slovakia
+### Slovakia `r edit_btn`
   * Bratislava: [R <- Slovakia](https://www.facebook.com/groups/931707906955080/); [R <- Slovakia @ Meetup.com](https://www.meetup.com/R-Slovakia/)
 
-### Slovenia
+### Slovenia `r edit_btn`
 
   * Ljubljana: [Rcoholics](https://groups.google.com/group/rkoholikiAnonymous)
 
-### Spain
+### Spain `r edit_btn`
 
   * Barcelona: [RUGBCN](http://rugbcn.wordpress.com/)
   * Madrid: [Grupo de Interés Local de Madrid](http://madrid.r-es.org/)
@@ -130,17 +130,17 @@
   * Sevilla: [R users](https://sevillarusers.wordpress.com/); [\@_SevillaR](https://twitter.com/_SevillaR)
   * Valencia: [R users](https://valenciarusers.wordpress.com/)
 
-### Sweden
+### Sweden `r edit_btn`
 
   * Stockholm: [StockholmR](https://www.meetup.com/StockholmR/)
 
-### Switzerland
+### Switzerland `r edit_btn`
   * Basel: [BaselR](http://www.baselr.org/)
   * Geneva: [Geneve R User Group](https://www.meetup.com/Geneve-R-User-Group/); [\@GenevaRUsers](https://twitter.com/GenevaRUsers)
   * Geneva: [R Lunch / Dejeuner R](http://use-r-carlvogt.github.io/prochains-lunchs/)
   * Zurich: [Zurich R](https://www.meetup.com/Zurich-R-User-Group/) User Group
 
-### United Kingdom
+### United Kingdom `r edit_btn`
 
 #### England {-}
 
@@ -169,10 +169,10 @@
   * Cardiff: [Cardiff](https://www.meetup.com/Cardiff-R-User-Group/) R User Group
   * Swansea: [Swansea](https://sites.google.com/site/swanseauniversityrusergroup/home) University R User Group
 
-### Turkey
+### Turkey `r edit_btn`
 
   * Ankara: [Turkish Community](https://www.meetup.com/Turkish-Community-of-R/) of R
 
-### Ukraine
+### Ukraine `r edit_btn`
 
   * Kyiv: [Kyiv useR! Group](https://www.meetup.com/Kyiv-useR-Group/)

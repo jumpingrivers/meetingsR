@@ -4,7 +4,7 @@ knit: "bookdown::preview_chapter"
 
 ## North America
 
-### Canada 
+### Canada  `r edit_btn`
   
   * Edmonton: [Edmonton R User Group](https://alberta.collegiatelink.net/organization/erug)
   * Halifax: [Halifax R User Group](https://www.meetup.com/Bluenose-R-User-Group/)
@@ -14,13 +14,13 @@ knit: "bookdown::preview_chapter"
   * Toronto: [Greater Toronto Area (GTA) R User's Group](https://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group)
   * Vancouver: [Vancouver R Users Group](https://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/)
 
-### Mexico
+### Mexico `r edit_btn`
 
   *  Mexico City: [Mexico City Business Analytics Users Group](https://www.meetup.com/Mexico-City-Business-Analytics-Users/events/219135766/)
   *  Mexico City: [The Mexico City R Users Group](https://www.meetup.com/The-Mexico-City-R-Users-Group/)
   *  Tecate: [ecate BC Mexico R Users Group Meetup](https://www.meetup.com/Tecate-BC-Mexico-R-Users-Group-Meetup/)
 
-### United States of America
+### United States of America `r edit_btn` 
 
 #### Alabama {-} 
 
