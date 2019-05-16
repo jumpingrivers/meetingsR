@@ -41,8 +41,8 @@
 
   *  Berlin: [Berlin R Users Group](https://www.meetup.com/Berlin-R-Users-Group/ )
   *  Bochum: [R Users Group Bochum/Ruhr](https://user.ruhr-uni-bochum.de/); [\@useR_bochum](https://twitter.com/useR_bochum)
-  *  Frankfurt am Main: [Campus useR Group Frankfurt](https://www.meetup.com/r-frankfurt/)
   *  Dresden: [R User Group Dresden](http://rusersdresden.wordpress.com/)
+  *  Frankfurt am Main: [Campus useR Group Frankfurt](https://www.meetup.com/r-frankfurt/)
   *  Hamburg: [Hamburg R User Group](https://www.meetup.com/Hamburg-R-User-Group/)
   *  Hannover: [Hannover R User Group](https://www.meetup.com/de-DE/Hannover-R-User-Group/) 
   *  Kassel: [Kasseler useR Group](https://www.meetup.com/Kassel-useR-Group/)
