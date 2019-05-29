@@ -63,6 +63,7 @@ The format for listing an R event is
 
   * September 12-14: [R/Medicine 2019](https://r-medicine.com/). Boston MA, USA.
   * September 25-27: [LatinR 2019](http://latin-r.com/). Santiago, Chile. [\@LatinR_Conf](https://twitter.com/LatinR_Conf)
+  * September 26-29: [Why R?](http://whyr.pl/2019/). Warsaw, Poland [\@whyRconf](https://twitter.com/whyRconf)
 
 ## 2018 {-}
 
