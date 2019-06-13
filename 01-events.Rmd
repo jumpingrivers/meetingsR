@@ -55,6 +55,7 @@ The format for listing an R event is
 
   * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
   * July 9-12: [Riot 2019](http://riotworkshop.github.io/). Toulouse, France.
+  * July 29-August2: [CDSB Workshop 2019](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/#.XP6i_dNKi50) as part of [EBM2019](http://congresos.nnb.unam.mx/TIB2019/). Cuernavaca, Mexico.
 
 ### August
 
