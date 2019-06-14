@@ -12,7 +12,7 @@ The format for listing an R event is
 
 ### July
 
-  * July XX-YY: [useR! 2020](https://twitter.com/useR2020stl). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
+  * July 7-10: [useR! 2020](https://twitter.com/useR2020stl). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
 
 ## 2019 `r edit_btn` {-}
 
