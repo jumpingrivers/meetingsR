@@ -10,13 +10,13 @@ The format for listing an R event is
 
 ## 2020 `r edit_btn` {-}
 
-### July
-
-  * July 7-10: [useR! 2020](https://twitter.com/useR2020stl). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
-
 ### May
 
  * May 27-30: [eRum 2020](http://2020.erum.io/). Milan, Italy. [\@erum2020_conf](https://twitter.com/erum2020_conf)
+
+### July
+
+  * July 7-10: [useR! 2020](https://twitter.com/useR2020stl). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
 
 ## 2019 `r edit_btn` {-}
 
