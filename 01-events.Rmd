@@ -71,6 +71,10 @@ The format for listing an R event is
   * September 25-27: [LatinR 2019](http://latin-r.com/). Santiago, Chile. [\@LatinR_Conf](https://twitter.com/LatinR_Conf)
   * September 26-29: [Why R?](http://whyr.pl/2019/). Warsaw, Poland [\@whyRconf](https://twitter.com/whyRconf)
 
+### December
+  
+  * December 26: [R\@IISA](https://r-iisa2019.rbind.io/). Mumbai, India.
+
 ## 2018 {-}
 
 ### January
