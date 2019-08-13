@@ -10,6 +10,10 @@ The format for listing an R event is
 
 ## 2020 `r edit_btn` {-}
 
+### January
+
+ * January 27-30: [rstudio::conf(2020)](https://www.rstudio.com/conference/). San Francisco, USA.
+
 ### May
 
  * May 27-30: [eRum 2020](http://2020.erum.io/). Milan, Italy. [\@erum2020_conf](https://twitter.com/erum2020_conf)
