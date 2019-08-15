@@ -42,7 +42,8 @@ groups = map(rmds, readLines)  %>%
   flatten_chr() %>%
   map_df(rmd_parse) %>%
   fill(page, country) %>%
-  filter(!(is.na(city) & is.na(link)))
+  filter(!(is.na(city) & is.na(link))) %>%
+  mutate(country = stringr::str_remove(country, " `r edit_btn`"))
 
 write("# Automatically generated file. Edit the .Rmd file instead.", file = "_book/groups.csv")
 write_csv(groups, path = "_book/groups.csv", append = TRUE)

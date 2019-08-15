@@ -44,7 +44,9 @@ rmd_parse = function(entry) {
 events = readLines(rmds) %>%
   map_df(rmd_parse) %>%
   fill(year, month) %>%
-  filter(!(is.na(year) | is.na(link)))
+  filter(!(is.na(year) | is.na(link))) %>%
+  mutate(year = stringr::str_remove(year, " `r edit_btn`"))
+
 write("# Automatically generated file. Edit the .Rmd file instead.", file = "_book/events.csv")
 write_csv(events, path = "_book/events.csv", append = TRUE)
 
