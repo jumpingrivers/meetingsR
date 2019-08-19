@@ -13,6 +13,7 @@ knit: "bookdown::preview_chapter"
   * Québec: [Plein-R](http://www.coactivate.org/projects/plein-r/project-home) (en Français)
   * Toronto: [Greater Toronto Area (GTA) R User's Group](https://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group)
   * Vancouver: [Vancouver R Users Group](https://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/)
+  * Winnipeg: [Winnipeg R Users Group](https://www.meetup.com/Winnipeg-R-User-Group/)
 
 ### Mexico `r edit_btn`
 
