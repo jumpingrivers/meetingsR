@@ -17,6 +17,10 @@
   * Aarhus: [Rhus](https://www.meetup.com/Rhus-useR-group)
   * Copenhagen: [CopenhagenR](https://www.meetup.com/CopenhagenR-useR-Group/)
   
+### Estonia `r edit_btn`
+
+  * Tallinn: [Tallinn R Users Group](https://www.meetup.com/r-tallinn/) 
+
 ### Finland `r edit_btn`
 
   * Helsinki: [Finnish Society for Bioinformatics](http://www.bioinf.fi/)
