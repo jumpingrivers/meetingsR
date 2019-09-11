@@ -32,6 +32,7 @@ knit: "bookdown::preview_chapter"
 ### Nigeria `r edit_btn`
 
   * Offa: [Offa R Users Group](https://www.meetup.com/FEDPOFA-R-Users-Group/)
+  * Minna: [Niger Data Science and machine learning in R User Group](https://www.meetup.com/Minna-Data-Science-Meetup-Group/)
 
 ### Saudi Arabia `r edit_btn`
 
