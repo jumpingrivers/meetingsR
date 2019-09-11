@@ -76,8 +76,10 @@ The format for listing an R event is
   * September 26-29: [Why R?](http://whyr.pl/2019/). Warsaw, Poland [\@whyRconf](https://twitter.com/whyRconf)
 
 ### December
-  
+
+  * December 11-13 [rOpenSci OzUnconf](https://ozunconf19.ropensci.org/). Sydney, Australia.
   * December 26: [R\@IISA](https://r-iisa2019.rbind.io/). Mumbai, India.
+
 
 ## 2018 {-}
 
