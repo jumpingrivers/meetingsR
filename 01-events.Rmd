@@ -77,6 +77,7 @@ The format for listing an R event is
 
 ### December
 
+  * December 6-8: [Yes We CRAN](https://www.thinksisu.org/event/yeswecran/). Washington, D.C.
   * December 11-13 [rOpenSci OzUnconf](https://ozunconf19.ropensci.org/). Sydney, Australia.
   * December 26: [R\@IISA](https://r-iisa2019.rbind.io/). Mumbai, India.
 
