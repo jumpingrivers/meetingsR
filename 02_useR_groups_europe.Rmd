@@ -168,6 +168,7 @@
 #### Scotland {-}
 
   * Edinburgh: [Edinbr](http://edinbr.org); [\@edinb_r](https://twitter.com/edinb_r)
+  * Glasgow: [RGlasgow](https://www.meetup.com/RGlasgow); [\@TeamRGlasgow](https://twitter.com/teamrglasgow)
   * Inverness: [InveRness](https://www.facebook.com/InveRness-R-User-Group-195100587522377/);[\@InvernessRug](https://twitter.com/InvernessRug)
 
 #### Wales {-}
