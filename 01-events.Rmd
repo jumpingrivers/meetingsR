@@ -14,6 +14,10 @@ The format for listing an R event is
 
  * January 27-30: [rstudio::conf(2020)](https://www.rstudio.com/conference/). San Francisco, USA.
 
+### April
+
+ * April 3-4: [SatRdays Newcastle](https://newcastle2020.satrdays.org). Newcastle upon Tyne, UK.
+
 ### May
 
  * May 27-30: [eRum 2020](http://2020.erum.io/). Milan, Italy. [\@erum2020_conf](https://twitter.com/erum2020_conf)
@@ -74,6 +78,10 @@ The format for listing an R event is
   * September 12-14: [R/Medicine 2019](https://r-medicine.com/). Boston MA, USA.
   * September 25-27: [LatinR 2019](http://latin-r.com/). Santiago, Chile. [\@LatinR_Conf](https://twitter.com/LatinR_Conf)
   * September 26-29: [Why R?](http://whyr.pl/2019/). Warsaw, Poland [\@whyRconf](https://twitter.com/whyRconf)
+
+### November
+ 
+  * November 16: [SatRdays Cardiff](https://cardiff2019.satrdays.org/). Cardiff, UK.
 
 ### December
 
