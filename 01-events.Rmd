@@ -28,8 +28,7 @@ The format for listing an R event is
   
 ###September
 
- * September 8-10: [EARL Conference](https://earlconf.com/). London, UK.
-[\@earlconf](https://twitter.com/earlconf)
+ * September 8-10: [EARL Conference](https://earlconf.com/). London, UK. [\@earlconf](https://twitter.com/earlconf)
 
 ## 2019 `r edit_btn` {-}
 
