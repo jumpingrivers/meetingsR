@@ -67,6 +67,10 @@ gender diversity in the R community.
 ### Portugal `r edit_btn`
 
   * Lisbon: [R-Ladies Lisboa](https://www.meetup.com/R-Ladies-Lisboa/)
+
+### Romania `r edit_btn`
+
+ * Bucharest: [R-Ladies Bucharest](https://www.meetup.com/rladies-bucharest/); [\@RLadies_Buchares](https://twitter.com/rladiesbuchares)
   
 ### South Africa `r edit_btn`
 
