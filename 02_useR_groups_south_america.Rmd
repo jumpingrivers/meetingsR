@@ -44,3 +44,6 @@ knit: "bookdown::preview_chapter"
 
   * Panamá: [Panama R User's Group](https://www.meetup.com/Panama-R-Users-Group/)
 
+### Peru`r edit_btn`
+
+  * Perú: [Peru R User's Group - Peruvian Association of R Programming](https://www.facebook.com/rgroupperu/)
