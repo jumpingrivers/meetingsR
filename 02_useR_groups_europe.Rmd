@@ -140,6 +140,7 @@
   * Stockholm: [StockholmR](https://www.meetup.com/StockholmR/)
 
 ### Switzerland `r edit_btn`
+
   * Basel: [BaselR](http://www.baselr.org/)
   * Geneva: [Geneve R User Group](https://www.meetup.com/Geneve-R-User-Group/); [\@GenevaRUsers](https://twitter.com/GenevaRUsers)
   * Geneva: [R Lunch / Dejeuner R](http://use-r-carlvogt.github.io/prochains-lunchs/)
@@ -153,6 +154,7 @@
   * Bristol: [Bristol R User Group](https://www.meetup.com/Bristol-R-User-Group/); [\@BristolR](https://twitter.com/BristolRUsers)
   * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug); [\@WarwickRUG](https://twitter.com/WarwickRUG)
   * Exeter: [Exeter](https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
+  * Leeds: [R Users Leeds](https://r-users-leeds.netlify.com/about/); [\@r_users_leeds](https://twitter.com/r_users_leeds)
   * London: [LondonR](https://www.meetup.com/LondonR/)
   * Manchester: [ManchesterR](http://www.rmanchester.org/)
   * Newcastle: [R North East](https://rnortheast.github.io/); [\@RstatsNE](https://twitter.com/RstatsNE)
