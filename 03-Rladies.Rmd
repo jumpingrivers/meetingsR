@@ -122,6 +122,7 @@ gender diversity in the R community.
   * Austin, TX: [R-Ladies Austin](https://meetup.com/rladies-austin)
   * Portland, OR: [R-Ladies PDX](https://www.meetup.com/R-Ladies-PDX/) [\@RLadiesPDX](https://twitter.com/RLadiesPDX)
   * San Diego, CA: [R-Ladies San Diego](https://www.meetup.com/rladies-san-diego/) [\@RLadiesSanDiego](https://twitter.com/RLadiesSanDiego)
+  * Irvine, CA: [R-Ladies Irvine](https://www.meetup.com/rladies-irvine/) [\@RLadiesIrvine](https://twitter.com/RLadiesIrvine)
 
 ### Uruguay `r edit_btn`
 
