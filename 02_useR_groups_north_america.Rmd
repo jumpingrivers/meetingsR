@@ -75,6 +75,7 @@ knit: "bookdown::preview_chapter"
   * Chicago: [Chicago R Users Group](https://www.meetup.com/ChicagoRUG/)
   * Chicago: [Chicago North West Suburbs R user group](https://www.meetup.com/Chicago-North-West-Suburbs-R-user-group/)
   * Evanston: [Northwestern R User Group](https://northwestern-r-users.github.io/)
+  * Urbana-Champaign: [Urbana-Champaign UseR (UC-UR) Group](https://uc-ur.netlify.com/)
  
 #### Indiana {-}
 
