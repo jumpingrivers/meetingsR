@@ -4,8 +4,7 @@ knit: "bookdown::preview_chapter"
 
 # R User Groups
 
-UseR groups are listed by continents than by country where, appropriate useR groups are 
-present within countries, e.g. in the USA, by state & in the United Kingdom, by member country.
+UseR groups are listed by continents than by country.
 
 The suggested format for listing a group is:
 
