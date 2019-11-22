@@ -11,6 +11,9 @@ For instance:
  - [Europe](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd)
  - [Ocenia](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_ocenia.Rmd)
 
+Also consider:
+ - [Rladies](https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd)
+ - [Events](https://github.com/jumpingrivers/meetingsR/blob/master/01-events.Rmd)
 Please feel free to add any missing group or conference. 
 
 To propose a change, just click the pencil icon in the top left hand corner of the [web](https://jumpingrivers.github.io/meetingsR/) 
