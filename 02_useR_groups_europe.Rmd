@@ -50,6 +50,7 @@
   *  Hamburg: [Hamburg R User Group](https://www.meetup.com/Hamburg-R-User-Group/)
   *  Hannover: [Hannover R User Group](https://www.meetup.com/de-DE/Hannover-R-User-Group/) 
   *  Kassel: [Kasseler useR Group](https://www.meetup.com/Kassel-useR-Group/)
+  *  Kiel: [Kiel R User Group](https://www.meetup.com/de-DE/Kiel-R-User-Group/)
   *  Köln: [Köln R User Group](https://www.meetup.com/KoelnRUG/)
   *  Leipzig: [Leipzig R Statistical Computing](https://www.meetup.com/Leipzig-R-statistical-computing/)
   *  Mannheim/Ludwigshafen/Heidelberg: [R User Group Rhein-Neckar](https://www.meetup.com/R-User-Group-Rhein-Neckar)
