@@ -14,6 +14,10 @@ The format for listing an R event is
 
  * January 27-30: [rstudio::conf(2020)](https://www.rstudio.com/conference/). San Francisco, USA.
 
+### February
+
+ * February 29-29: [CelebRation 2020](http://www.celebration2020.org/). Copenhagen, Denmark.
+
 ### April
 
  * April 3-4: [SatRdays Newcastle](https://newcastle2020.satrdays.org). Newcastle upon Tyne, UK.
