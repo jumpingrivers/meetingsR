@@ -52,6 +52,13 @@ gender diversity in the R community.
 
  * Kathmandu: [R-Ladies Kathmandu](https://www.meetup.com/rladies-kathmandu/); [\@RLadiesKtm](https://twitter.com/RLadiesKtm)
  
+### New Zealand `r edit_btn`
+
+  * Auckland: [R-Ladies Auckland](https://www.meetup.com/rladies-auckland/);
+ [\@RLadiesAKL](https://twitter.com/RLadiesAKL)
+  * Christchurch: [R-Ladies Christchurch](https://www.meetup.com/rladies-christchurch/);
+  [\@RLadiesChch](@RLadiesChch)
+ 
 ### Norway `r edit_btn`
 
  * Oslo: [RLadies Oslo](https://www.meetup.com/en-AU/rladies-oslo/); [\@RLadies_Oslo](https://twitter.com/RLadies_Oslo)
