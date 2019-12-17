@@ -25,6 +25,7 @@ The format for listing an R event is
 
 ### May
 
+ * May 7-8: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austra.
  * May 27-30: [eRum 2020](http://2020.erum.io/). Milan, Italy. [\@erum2020_conf](https://twitter.com/erum2020_conf)
 
 ### July
