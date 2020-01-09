@@ -153,6 +153,7 @@
 #### England {-}
 
   * Birmingham: [Birmingham R User Group](https://www.meetup.com/BirminghamR/); [\@BirminghamR](https://twitter.com/birminghamr)
+  * Brighton: [BrightonR](https://www.eventbrite.co.uk/e/brighton-r-supported-by-silicon-brighton-tickets-83952178225)
   * Bristol: [Bristol R User Group](https://www.meetup.com/Bristol-R-User-Group/); [\@BristolR](https://twitter.com/BristolRUsers)
   * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug); [\@WarwickRUG](https://twitter.com/WarwickRUG)
   * Exeter: [Exeter](https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
