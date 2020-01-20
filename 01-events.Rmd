@@ -35,7 +35,8 @@ The format for listing an R event is
 
 ### July
 
-  * July 7-10: [useR! 2020](https://twitter.com/useR2020stl). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
+  * July 7-10: [useR! 2020](https://user2020.r-project.org/). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
+  * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). Munich, Germany. [\@useR2020muc](https://twitter.com/useR2020muc)
   
 ### September
 
