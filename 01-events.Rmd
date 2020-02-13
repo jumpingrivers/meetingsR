@@ -28,6 +28,7 @@ The format for listing an R event is
 ### April
 
  * April 3-4: [SatRdays Newcastle](https://newcastle2020.satrdays.org). Newcastle upon Tyne, UK.
+ * April 17: [Women+ Data Science \@MSU](https://women-plus-datascience.github.io/home). East Lansing, MI, USA. | [Registration](http://bit.ly/2020-wpds-reg)
 
 ### May
 
