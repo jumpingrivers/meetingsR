@@ -8,6 +8,10 @@ knit: "bookdown::preview_chapter"
 
  * Algiers: [Algerian R users](https://www.facebook.com/groups/1135595893158091/)
  
+### Côte d'Ivoire `r edit_btn`
+
+ * Abidjan: [Abidjan R users](https://www.meetup.com/Abidjan-R-users-Meetup/)
+ 
 ### Democratic Republic Of Congo `r edit_btn`
 
   * Kinshasa: [UseR!Kin](https://www.meetup.com/user-kin/)
