@@ -39,8 +39,11 @@ The format for listing an R event is
 
   * July 7-10: [useR! 2020](https://user2020.r-project.org/). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
   * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). Munich, Germany. [\@useR2020muc](https://twitter.com/useR2020muc)
-  * July 15-17: [R Rencontres 2020](https://paris2020.rencontresr.fr/). Paris, France. [\@rencontres_R](https://twitter.com/rencontres_R)
-  
+
+### August
+
+  * August 27-30: [Why R](https://2020.whyr.pl/). Warsaw, Poland.
+
 ## 2019 `r edit_btn` {-}
 
 ### January
