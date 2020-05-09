@@ -38,6 +38,7 @@ The format for listing an R event is
 
   * July 7-10: [useR! 2020](https://user2020.r-project.org/). Virtual. [\@useR2020stl](https://twitter.com/useR2020stl)
   * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). Virtual. [\@useR2020muc](https://twitter.com/useR2020muc)
+  * July 14-15: [noRth 2020](https://rnorthconference.github.io/). Virtual.
 
 ### August
 
