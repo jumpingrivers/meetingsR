@@ -41,10 +41,6 @@ The format for listing an R event is
   * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). Munich, Germany. [\@useR2020muc](https://twitter.com/useR2020muc)
   * July 15-17: [R Rencontres 2020](https://paris2020.rencontresr.fr/). Paris, France. [\@rencontres_R](https://twitter.com/rencontres_R)
   
-### September
-
- * September 8-10: [EARL Conference](https://earlconf.com/). London, UK. [\@earlconf](https://twitter.com/earlconf)
-
 ## 2019 `r edit_btn` {-}
 
 ### January
