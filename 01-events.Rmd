@@ -30,6 +30,9 @@ The format for listing an R event is
  * April 3-4: [SatRdays Newcastle](https://newcastle2020.satrdays.org). Newcastle upon Tyne, UK.
  * April 17: [Women+ Data Science \@MSU](https://women-plus-datascience.github.io/home). East Lansing, MI, USA.
 
+### May
+ * May 30: [SatRday Chicago](https://chicago2020.satrdays.org). Virtual, charity event. [#satRdaychicago](https://twitter.com/search?q=%23satrdaychicago)
+
 ### June
 
  * June 17-22: [eRum 2020](http://2020.erum.io/). Virtual. [\@erum2020_conf](https://twitter.com/erum2020_conf)
