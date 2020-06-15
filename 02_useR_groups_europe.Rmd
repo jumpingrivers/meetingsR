@@ -130,7 +130,7 @@
 
 ### Spain `r edit_btn`
 
-  * Barcelona: [RUGBCN](http://rugbcn.wordpress.com/)
+  * Barcelona: [BarcelonaR](https://www.barcelonar.org/)
   * Madrid: [Grupo de Interés Local de Madrid](http://madrid.r-es.org/)
   * Madrid: [R Hispano](http://r-es.org/)
   * Sevilla: [R users](https://sevillarusers.wordpress.com/); [\@_SevillaR](https://twitter.com/_SevillaR)
