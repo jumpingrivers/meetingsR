@@ -24,3 +24,6 @@ vignettes/*.pdf
 *.knit.md
 .Rproj.user
 rsconnect
+
+_book/*
+_main.rds
