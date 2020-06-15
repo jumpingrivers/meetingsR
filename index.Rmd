@@ -15,7 +15,7 @@ source("R/count_groups.R")
 no_of_groups = count_groups(list.files(pattern = "^0.*.Rmd"))
 ```
 
-# Overview `r edit_btn`
+# Overview `r get_btn()`
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 

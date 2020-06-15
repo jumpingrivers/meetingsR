@@ -8,7 +8,7 @@ The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
-## 2020 `r edit_btn` {-}
+## 2020 `r get_btn()` {-}
 
 ### January
 
@@ -38,7 +38,7 @@ The format for listing an R event is
 
  * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austra.
 
-## 2019 `r edit_btn` {-}
+## 2019 `r get_btn()` {-}
 
 ### January
 

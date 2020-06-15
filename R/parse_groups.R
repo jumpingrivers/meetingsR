@@ -28,7 +28,7 @@ rmd_parse = function(entry) {
     #country
     values[[2]] = str_match(entry, "^### (.*)")[2]
   }
-  if (str_detect(entry, "\\*")){
+  if (str_detect(entry, "\\*")) {
     reg = paste0("^[ \\* ]*", city, ": ", link)
     (parsed = str_match(entry, reg))
     values[3:5] = parsed[2:4]
@@ -43,7 +43,7 @@ groups = map(rmds, readLines)  %>%
   map_df(rmd_parse) %>%
   fill(page, country) %>%
   filter(!(is.na(city) & is.na(link))) %>%
-  mutate(country = stringr::str_remove(country, " `r edit_btn`"))
+  mutate(country = stringr::str_remove(country, " `r edit_btn()`"))
 
 write("# Automatically generated file. Edit the .Rmd file instead.", file = "_book/groups.csv")
 write_csv(groups, path = "_book/groups.csv", append = TRUE)
