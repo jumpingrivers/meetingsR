@@ -146,6 +146,7 @@
   * Bern: [BernR](https://www.meetup.com/Bern-R/)
   * Geneva: [Geneve R User Group](https://www.meetup.com/Geneve-R-User-Group/); [\@GenevaRUsers](https://twitter.com/GenevaRUsers)
   * Geneva: [R Lunch / Dejeuner R](http://use-r-carlvogt.github.io/prochains-lunchs/)
+  * Lucerne: [Lucerne R User Group](https://www.meetup.com/Lucerne-R-User-Group/)
   * Zurich: [Zurich R](https://www.meetup.com/Zurich-R-User-Group/) User Group
 
 ### United Kingdom `r edit_btn`
