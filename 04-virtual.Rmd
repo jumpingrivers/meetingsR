@@ -26,5 +26,6 @@ The format for listing a Virtual R event is
   * July 14-15: [noRth 2020](https://rnorthconference.github.io/).
 
 ### August
-
+  
+  * August 12-15: [New York R Conference)(https://rstats.ai/nyr/)
   * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/).
