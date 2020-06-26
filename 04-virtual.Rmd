@@ -24,6 +24,7 @@ The format for listing a Virtual R event is
 
   * July 7-10: [useR! 2020](https://user2020.r-project.org/). [\@useR2020stl](https://twitter.com/useR2020stl).
   * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). [\@useR2020muc](https://twitter.com/useR2020muc).
+  * July 13: [Newcastle Data Science Meet-up)(https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/271494400/).
   * July 14-15: [noRth 2020](https://rnorthconference.github.io/).
 
 ### August
