@@ -12,12 +12,12 @@
 
   * Bangalore: [Bengaluru R UseR Group (BRUG)](https://www.meetup.com/BengaluRu-use-R-gRoup/)
   * Chennai: [R Users Group Chennai](https://www.meetup.com/R-Users-Group-Chennai/)
-  * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/)
   * Delhi: [Delhi NCR R useR Group](https://www.meetup.com/Delhi-NCR-useR-Group-R-programming-language/)
+  * Guna: [R Meetup Guna](https://www.facebook.com/RMeetupGuna-103488354788793/); [\@RMeetupGuna](https://twitter.com/RMeetupGuna)
   * Hyderabad: [R Users Group Hyderabad RUGH](https://www.meetup.com/R-Users-Group-Hyderabad/)
+  * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/)
   * New Delhi: [New Delhi UseR Group](https://www.meetup.com/New-Delhi-R-UseR-Group/)
   * Pune: [Pune R User Group](https://www.meetup.com/Pune-R-junkies-Meetup/)
-  * Guna: [R Meetup Guna](https://www.facebook.com/RMeetupGuna-103488354788793/); [\@RMeetupGuna](https://twitter.com/RMeetupGuna)
 
 ### Japan `r get_btn()`
   
@@ -68,11 +68,9 @@
 
   * Kuala Lumpur: [myRUG](https://www.meetup.com/MY-RUserGroup/)
   
-  
 ### Nepal `r get_btn()`
 
   * Nepal: [R User Group Nepal](https://www.meetup.com/R-User-Group-Nepal/); [\@rugnepal](https://twitter.com/rugnepal)
-  
 
 ### Pakistan `r get_btn()`
 
