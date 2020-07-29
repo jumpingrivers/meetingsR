@@ -35,9 +35,13 @@ The format for listing a Virtual R event is
  
 ### August
   
-  * August 12-15: [New York R Conference)(https://rstats.ai/nyr/)
+  * August 12-15: [New York R Conference](https://rstats.ai/nyr/)
   * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/).
 
+## September
+
+  * September 24-27: [Why R](https://2020.whyr.pl/)
+  
 ### October
 
   * October 12-16: [R in Pharma](https://rinpharma.com/).
