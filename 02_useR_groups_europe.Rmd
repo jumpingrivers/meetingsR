@@ -185,6 +185,7 @@
 ### Turkey `r get_btn()`
 
   * Ankara: [Turkish Community](https://www.meetup.com/Turkish-Community-of-R/) of R
+  * Eskisehir: [Eskisehir R User Group](https://www.meetup.com/tr-TR/Eskisehir-R-Users-Group-Data-Science-Society/)
 
 ### Ukraine `r get_btn()`
 
