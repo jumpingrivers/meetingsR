@@ -10,9 +10,13 @@ The format for listing a Virtual R event is
 
 ## 2021 `r get_btn()` {-}
 
+### January
+
+  * January: [Evidence Synthesis & Meta-Analysis in R](https://www.eshackathon.org/events/2021-01-ESMAR.html). [\@eshackathon](https://twitter.com/eshackathon)
+  
 ### July
 
- * July 6-9:: [useR 20201](https://user2021.r-project.org/).
+ * July 6-9: [useR 20201](https://user2021.r-project.org/).
 
 ## 2020 `r get_btn()` {-}
 
