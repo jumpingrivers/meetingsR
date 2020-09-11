@@ -25,7 +25,7 @@ rmd_parse = function(entry) {
   if (str_detect(entry, "^### ")) {
     values[[2]] = str_match(entry, "^### (.*)")[2]
   }
-  if (str_detect(entry, "\\*")){
+  if (str_detect(entry, "\\*")) {
     reg = paste0("^[ \\* ]*", exact_date, ": ", link, "\\.")
     (parsed = str_match(entry, reg))
     values[3:5] = parsed[2:4]
