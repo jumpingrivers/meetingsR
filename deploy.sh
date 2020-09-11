@@ -18,7 +18,7 @@ update_website() {
 
   cp -fvr $BASE_REPO/_book/* .
   git add libs/; git add css/
-  git add *.json; git add *.html; git add main.md; git add style.css events.csv groups.csv
+  git add *.json; git add *.html; git add main.md; git add style.css events.csv groups.csv virtual.csv
   git commit -a -m "#rstats ${TRAVIS_COMMIT_MESSAGE} (${TRAVIS_BUILD_NUMBER})"
   git status
   git push 2>err.txt
