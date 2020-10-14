@@ -53,3 +53,7 @@ The format for listing a Virtual R event is
 ### November
 
   * November 14: [SatRday Columbus](https://columbus2020.satrdays.org/). [#satRdayColumbus](https://twitter.com/search?q=%23satRdayColumbus&src=typed_query).
+  
+### December
+
+   * December 2-4: [The R Conference | Government & Public Sector](https://rstats.ai/gov/). [#rstatsdc](https://twitter.com/search?q=%23rstatsdc&src=typed_query).
