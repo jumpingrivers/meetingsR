@@ -9,7 +9,7 @@ For instance:
  - [North America](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_north_america.Rmd)
  - [South America](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_south_america.Rmd)
  - [Europe](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd)
- - [Oceania](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_ocenia.Rmd)
+ - [Oceania](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_oceania.Rmd)
 
 Also consider:
  - [Rladies](https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd)
