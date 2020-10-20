@@ -32,7 +32,8 @@ The format for listing an R event is
 
 ### December
 
- * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austra.
+ * December 2-4: [R Conference: Government & Public Sector](http://rstats.ai/gov). Virtual.
+ * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austria.
 
 ## 2019 `r get_btn()` {-}
 
