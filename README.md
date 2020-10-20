@@ -14,7 +14,8 @@ For instance:
 Also consider:
  - [Rladies](https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd)
  - [Events](https://github.com/jumpingrivers/meetingsR/blob/master/01-events.Rmd)
- - [Virtual Events](https://github.com/jumpingrivers/meetingsR/blob/master/04-virtual.Rmd)
+ - [Virtual Events](https://github.com/jumpingrivers/meetingsR/blob/master/04-virtual.Rmd)  
+
 Please feel free to add any missing group or conference. 
 
 To propose a change, just click the pencil icon in the top left hand corner of the [web](https://jumpingrivers.github.io/meetingsR/) 
