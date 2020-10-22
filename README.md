@@ -9,11 +9,13 @@ For instance:
  - [North America](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_north_america.Rmd)
  - [South America](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_south_america.Rmd)
  - [Europe](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd)
- - [Ocenia](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_ocenia.Rmd)
+ - [Oceania](https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_oceania.Rmd)
 
 Also consider:
  - [Rladies](https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd)
  - [Events](https://github.com/jumpingrivers/meetingsR/blob/master/01-events.Rmd)
+ - [Virtual Events](https://github.com/jumpingrivers/meetingsR/blob/master/04-virtual.Rmd)  
+
 Please feel free to add any missing group or conference. 
 
 To propose a change, just click the pencil icon in the top left hand corner of the [web](https://jumpingrivers.github.io/meetingsR/) 
