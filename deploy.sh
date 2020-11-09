@@ -18,7 +18,7 @@ update_website() {
   git checkout gh-pages
 
   cp -fvr $BASE_REPO/_book/* .
-  git add libs/; git add css/
+  git add libs/*; git add css/*
   git add *.json; git add *.html; git add main.md; git add style.css events.csv groups.csv virtual.csv
   git commit -a -m "#rstats ${TRAVIS_COMMIT_MESSAGE} (${TRAVIS_BUILD_NUMBER})"
   git status
