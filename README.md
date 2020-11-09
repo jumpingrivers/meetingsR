@@ -1,5 +1,5 @@
 # R meetings and conferences
-[![Build Status](https://travis-ci.org/jumpingrivers/meetingsR.png?branch=master)](https://travis-ci.org/jumpingrivers/meetingsR) 
+[![Build Status](https://travis-ci.com/jumpingrivers/meetingsR.png?branch=master)](https://travis-ci.com/jumpingrivers/meetingsR) 
 
 This site attempts to list R conferences and local useR groups. 
 
