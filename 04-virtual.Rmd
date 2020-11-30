@@ -10,25 +10,36 @@ The format for listing a Virtual R event is
 
 ## 2021 `r get_btn()` {-}
 
+### July
+
+  * July 6-9: [useR 20201](https://user2021.r-project.org/).
+
 ### January
 
   * January: [Evidence Synthesis & Meta-Analysis in R](https://www.eshackathon.org/events/2021-01-ESMAR.html). [\@eshackathon](https://twitter.com/eshackathon)
-  
-### July
-
- * July 6-9: [useR 20201](https://user2021.r-project.org/).
 
 ## 2020 `r get_btn()` {-}
 
-### May
+### December
 
- * May 30: [SatRday Chicago](https://chicago2020.satrdays.org).
+  * December 2-4: [The R Conference | Government & Public Sector](https://rstats.ai/gov/). [#rstatsdc](https://twitter.com/search?q=%23rstatsdc&src=typed_query).
 
-### June
+### November
 
- * June 17-22: [eRum 2020](http://2020.erum.io/). [\@erum2020_conf](https://twitter.com/erum2020_conf).
- * June 23: [LondonR](https://mango-solutions.zoom.us/meeting/register/tJAtfuGsqjgiHtCTMIp4hgGHQTvfK8kD1kiU).
- * June 28: [BristolR](https://www.meetup.com/Bristol-R-User-Group/events/271309225/).
+  * November 14: [SatRday Columbus](https://columbus2020.satrdays.org/). [#satRdayColumbus](https://twitter.com/search?q=%23satRdayColumbus&src=typed_query).
+
+### October
+
+  * October 12-16: [R in Pharma](https://rinpharma.com/).
+
+## September
+
+  * September 24-27: [Why R](https://2020.whyr.pl/)
+
+### August
+  
+  * August 12-15: [New York R Conference](https://rstats.ai/nyr/)
+  * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/).
 
 ### July
 
@@ -36,24 +47,13 @@ The format for listing a Virtual R event is
   * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). [\@useR2020muc](https://twitter.com/useR2020muc).
   * July 14-15: [noRth 2020](https://rnorthconference.github.io/).
   * July 23: [Newcastle Data Science Meet-up](https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/271494400/).
- 
-### August
-  
-  * August 12-15: [New York R Conference](https://rstats.ai/nyr/)
-  * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/).
 
-## September
+### June
 
-  * September 24-27: [Why R](https://2020.whyr.pl/)
-  
-### October
+  * June 17-22: [eRum 2020](http://2020.erum.io/). [\@erum2020_conf](https://twitter.com/erum2020_conf).
+  * June 23: [LondonR](https://mango-solutions.zoom.us/meeting/register/tJAtfuGsqjgiHtCTMIp4hgGHQTvfK8kD1kiU).
+  * June 28: [BristolR](https://www.meetup.com/Bristol-R-User-Group/events/271309225/).
 
-  * October 12-16: [R in Pharma](https://rinpharma.com/).
+### May
 
-### November
-
-  * November 14: [SatRday Columbus](https://columbus2020.satrdays.org/). [#satRdayColumbus](https://twitter.com/search?q=%23satRdayColumbus&src=typed_query).
-  
-### December
-
-   * December 2-4: [The R Conference | Government & Public Sector](https://rstats.ai/gov/). [#rstatsdc](https://twitter.com/search?q=%23rstatsdc&src=typed_query).
+  * May 30: [SatRday Chicago](https://chicago2020.satrdays.org).
