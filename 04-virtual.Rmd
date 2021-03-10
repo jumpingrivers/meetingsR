@@ -18,7 +18,8 @@ The format for listing a Virtual R event is
 ### August
 
    * August 4-6: [BioC2021](https://bioc2021.bioconductor.org/).
-
+   * August 24-27: [R Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine).
+   * 
 ### July
 
   * July 6-9: [useR 20201](https://user2021.r-project.org/).
