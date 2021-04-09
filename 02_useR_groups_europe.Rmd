@@ -29,7 +29,7 @@
 ### France `r get_btn()`
 
   *  Brest: [DataScience Brest](https://www.meetup.com/fr-FR/Data-Science-Brest/)
-  *  Lille: [R Lille](https://rlille.fr/), [@rlille_rug](https://twitter.com/rlille_rug)
+  *  Lille: [R Lille](http://meetup.rlille.fr/), [@rlille_rug](https://twitter.com/rlille_rug)
   *  Lyon: [RLyon](https://www.meetup.com/R-Lyon/)
   *  Jouy-en-Josas: [R4Ciam](http://ciam.inra.fr/r4ciam/)
   *  Montpellier: [Groupe des utilisateurs du logiciel R](http://forums.cirad.fr/logiciel-R/)
