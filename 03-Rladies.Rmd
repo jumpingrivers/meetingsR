@@ -20,8 +20,8 @@ gender diversity in the R community.
 ### Australia `r get_btn()`
 
   * Adelaide: [R-Ladies Adelaide](https://www.meetup.com/rladies-adelaide/)
-  * Brisbane: [R-Ladies Brisbane](https://www.meetup.com/rladies-brisbane/); [\@RLadiesBrisbane](https://twitter.com/RLadiesBrisbane)
-  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/); [\@RLadiesAU](https://twitter.com/RLadiesAU).
+  * Brisbane: [R-Ladies Brisbane](https://www.meetup.com/rladies-brisbane/); [\@RLadiesBrisbane](https://twitter.com/RLadiesBrisbane).
+  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/); [\@RLadiesMelb](https://twitter.com/RLadiesMelb/).
 
 ### Belgium `r get_btn()`
 
