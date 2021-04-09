@@ -12,8 +12,8 @@ The format for listing an R event is
 
 ### April
 
-  * April 15: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277031496/). Lille, France. [\@rlille_rug](https://twitter.com/rlille_rug)
-  * April 29: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277132394/). Lille, France. [\@rlille_rug](https://twitter.com/rlille_rug)
+  * April 15: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277031496/). Lille, France. [\@rlille_rug](https://twitter.com/rlille_rug).
+  * April 29: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277132394/). Lille, France. [\@rlille_rug](https://twitter.com/rlille_rug).
 
 ## 2020 `r get_btn()` {-}
 
