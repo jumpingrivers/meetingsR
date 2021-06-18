@@ -26,6 +26,7 @@ The format for listing a Virtual R event is
 
 ### July
 
+  * July 1-2: [R for trial and model-based cost-effectiveness analysis](https://r-hta.org/events/workshop/2021/)
   * July 6-9: [useR 20201](https://user2021.r-project.org/).
 
 ### June
