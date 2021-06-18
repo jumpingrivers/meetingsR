@@ -13,14 +13,14 @@ update_website() {
   git config --global user.name "jumpingrivers"
   git config --global user.email "csgillespie+jumpingrivers@gmail.com"
   git config --global push.default simple
-  git remote add upstream "https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git"
+  git remote add upstream "https://${GITHUB_PAT}@github.com/${GITHUB_REPOSITORY}.git"
   git fetch upstream 2>err.txt
   git checkout gh-pages
 
   cp -fvr $BASE_REPO/_book/* .
   git add libs/*; git add css/*
   git add *.json; git add *.html; git add main.md; git add style.css events.csv groups.csv virtual.csv
-  git commit -a -m "#rstats ${TRAVIS_COMMIT_MESSAGE} (${TRAVIS_BUILD_NUMBER})"
+  git commit -a -m "#rstats ${COMMIT_MESSAGE} (${GITHUB_JOB})"
   git status
   git push 2>err.txt
   cd ..
