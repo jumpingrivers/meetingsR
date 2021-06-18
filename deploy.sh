@@ -33,7 +33,7 @@ update_website() {
   echo "Remote 8"
   git status
   echo "Remote 9"
-  git push 2>err.txt
+  git push
   echo "Remote 10"
   cd ..
   echo "Remote 11"
