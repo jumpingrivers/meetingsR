@@ -23,11 +23,19 @@ update_website() {
   cp -fvr ${GITHUB_WORKSPACE}/_book/* .
   echo "Remote 5"
   git add libs/*; git add css/*
+  echo "Remote 6"
   git add *.json; git add *.html; git add main.md; git add style.css events.csv groups.csv virtual.csv
+  echo "Remote 7"
+  echo $COMMIT_MESSAGE
+  echo $GITHUB_JOB
   git commit -a -m "#rstats ${COMMIT_MESSAGE} (${GITHUB_JOB})"
+  echo "Remote 8"
   git status
+  echo "Remote 9"
   git push 2>err.txt
+  echo "Remote 10"
   cd ..
+  echo "Remote 11"
 }
 
 update_website
