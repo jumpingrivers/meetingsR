@@ -4,6 +4,10 @@ knit: "bookdown::preview_chapter"
 
 ## Middle East/ Africa
 
+### Tunisia `r get_btn()`
+
+ * Tunis: [Tunis R User Group](https://www.meetup.com/tunis-r-user-group/)
+ 
 ### Algeria `r get_btn()`
 
  * Algiers: [Algerian R users](https://www.facebook.com/groups/1135595893158091/)
