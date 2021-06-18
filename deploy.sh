@@ -14,7 +14,7 @@ update_website() {
   git config --global user.email "csgillespie+jumpingrivers@gmail.com"
   git config --global push.default simple
   echo "Remote 1"
-  echo $GITHUB_REPOSITORY
+  echo ${GITHUB_REPOSITORY}
   git remote add upstream "https://${GITHUB_PAT}@github.com/${GITHUB_REPOSITORY}.git"
   echo "Remote 2"
   git fetch upstream #2>err.txt
@@ -27,8 +27,8 @@ update_website() {
   echo "Remote 6"
   git add *.json; git add *.html; git add main.md; git add style.css events.csv groups.csv virtual.csv
   echo "Remote 7"
-  echo $COMMIT_MESSAGE
-  echo $GITHUB_JOB
+  echo ${COMMIT_MESSAGE}
+  echo ${GITHUB_JOB}
   git commit -a -m "#rstats ${COMMIT_MESSAGE} (${GITHUB_JOB})"
   echo "Remote 8"
   git status
