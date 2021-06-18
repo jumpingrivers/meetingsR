@@ -17,7 +17,7 @@ update_website() {
   git fetch upstream 2>err.txt
   git checkout gh-pages
 
-  cp -fvr $BASE_REPO/_book/* .
+  cp -fvr ${GITHUB_WORKSPACE}/_book/* .
   git add libs/*; git add css/*
   git add *.json; git add *.html; git add main.md; git add style.css events.csv groups.csv virtual.csv
   git commit -a -m "#rstats ${COMMIT_MESSAGE} (${GITHUB_JOB})"
