@@ -70,7 +70,7 @@ jobs:
 
       - name: Deploy
         run: |
-          ./deploy.sh
+          bash deploy.sh
 
       - name: Upload check results
         if: failure()
