@@ -1,4 +1,4 @@
-library("tidyverse")
+suppressMessages(library("tidyverse", warn.conflicts = FALSE))
 
 ##############################
 # 1. Read in the data

@@ -75,14 +75,14 @@ jobs:
           Rscript -e 'source("R/parse_events.R")'
           Rscript -e 'source("R/parse_virtual.R")'
 
-          # cd ..; mkdir gh-pages; cd gh-pages
-          # git init
-          #
-          # git config --global user.name "jumpingrivers"
-          # git config --global user.email "csgillespie+jumpingrivers@gmail.com"
-          # git config --global push.default simple
-          # echo "Remote 1"
-          # echo ${GITHUB_REPOSITORY}
+          cd ..; mkdir gh-pages; cd gh-pages
+          git init
+
+          git config --global user.name "jumpingrivers"
+          git config --global user.email "csgillespie+jumpingrivers@gmail.com"
+          git config --global push.default simple
+          echo "Remote 1"
+          echo ${GITHUB_REPOSITORY}
           git remote add upstream "https://${GITHUB_PAT}@github.com/${GITHUB_REPOSITORY}.git"
           # echo "Remote 2"
           git branch -av
