@@ -98,9 +98,9 @@ jobs:
           echo "Remote 6"
           git add *.json; git add *.html; git add main.md; git add style.css events.csv groups.csv virtual.csv
           echo "Remote 7"
-          echo ${{ COMMIT_MESSAGE }}
+          echo ${ COMMIT_MESSAGE }
           echo ${{ GITHUB_JOB }}
-          git commit -a -m "#rstats ${COMMIT_MESSAGE} (${GITHUB_JOB})"
+          git commit -a -m "#rstats ${COMMIT_MESSAGE} (${{ GITHUB_JOB }})"
           echo "Remote 8"
           git status
           echo "Remote 9"
