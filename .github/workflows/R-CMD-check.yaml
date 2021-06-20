@@ -83,11 +83,11 @@ jobs:
           git config --global push.default simple
           echo "Remote 1"
           echo $GITHUB_REPOSITORY
-          git remote add upstream "https://$GITHUB_PAT@github.com/$GITHUB_REPOSITORY.git"
-          # git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-          # echo "Remote 2"
+          #git remote add upstream "https://$GITHUB_PAT@github.com/$GITHUB_REPOSITORY.git"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          echo "Remote 2"
           git branch -av
-          git pull #2>err.txt
+          git checkout gh-pages #2>err.txt
           git branch -av
           echo "Remote 3"
           git checkout gh-pages
