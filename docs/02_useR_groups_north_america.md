@@ -4,7 +4,7 @@ knit: "bookdown::preview_chapter"
 
 ## North America
 
-### Canada  <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_north_america.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Canada  <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_north_america.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
   
   * Edmonton: [Edmonton R User Group](https://alberta.collegiatelink.net/organization/erug)
   * Halifax: [Halifax R User Group](https://www.meetup.com/Bluenose-R-User-Group/)
@@ -15,13 +15,13 @@ knit: "bookdown::preview_chapter"
   * Vancouver: [Vancouver R Users Group](https://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/)
   * Winnipeg: [Winnipeg R Users Group](https://www.meetup.com/Winnipeg-R-User-Group/)
 
-### Mexico <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_north_america.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Mexico <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_north_america.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   *  Mexico City: [Mexico City Business Analytics Users Group](https://www.meetup.com/Mexico-City-Business-Analytics-Users/events/219135766/)
   *  Mexico City: [The Mexico City R Users Group](https://www.meetup.com/The-Mexico-City-R-Users-Group/)
   *  Tecate: [ecate BC Mexico R Users Group Meetup](https://www.meetup.com/Tecate-BC-Mexico-R-Users-Group-Meetup/)
 
-### United States of America <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_north_america.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> 
+### United States of America <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_north_america.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> 
 
 #### Alabama {-} 
 

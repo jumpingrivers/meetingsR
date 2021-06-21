@@ -1,32 +1,32 @@
 ## Europe
 
-### Austria <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Austria <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Vienna: [Vienna<-R](https://www.meetup.com/ViennaR/)
   
-### Belgium <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Belgium <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Brussels: [RBelgium](https://www.meetup.com/RBelgium/)
 
-### Czech Republic <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> 
+### Czech Republic <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> 
 
   * Prague: [R Meetup Group](https://www.meetup.com/Prague-R-Meetup-Group/)
 
-### Denmark <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Denmark <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Aarhus: [Rhus](https://www.meetup.com/Rhus-useR-group)
   * Copenhagen: [CopenhagenR](https://www.meetup.com/CopenhagenR-useR-Group/)
   
-### Estonia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Estonia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Tallinn: [Tallinn R Users Group](https://www.meetup.com/r-tallinn/) 
 
-### Finland <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Finland <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Helsinki: [Finnish Society for Bioinformatics](http://www.bioinf.fi/)
   * Helsinki: [R User Group Finland](https://www.meetup.com/R-User-Group-Finland/)
 
-### France <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### France <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   *  Brest: [DataScience Brest](https://www.meetup.com/fr-FR/Data-Science-Brest/)
   *  Lille: [R Lille](http://meetup.rlille.fr/), [@rlille_rug](https://twitter.com/rlille_rug)
@@ -42,7 +42,7 @@
   *  Toulouse: [R Toulouse](http://r-toulouse.netlify.com/), [\@RUG_Toulouse](https://twitter.com/RUG_Toulouse)
   *  Grenoble: [R in Grenoble](https://r-in-grenoble.github.io/)
   
-### Germany  <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Germany  <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   *  Berlin: [Berlin R Users Group](https://www.meetup.com/Berlin-R-Users-Group/ )
   *  Bochum: [R Users Group Bochum/Ruhr](https://user.ruhr-uni-bochum.de/); [\@useR_bochum](https://twitter.com/useR_bochum)
@@ -61,42 +61,42 @@
   *  Nürnberg: [NürnbergR](https://www.xing.com/net/ruser-nuernberg/)
   *  Wiesbaden: [Wiesbaden R Users Group](https://www.meetup.com/Wiesbaden-R-Users-Group)
   
-### Greece <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Greece <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Athens: [AthensR](https://www.meetup.com/AthensR/)
   * Pátrai: [Patra's R Users Group](https://www.meetup.com/Patras-R-Users-Group)
 
-### Hungary <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Hungary <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Budapest: [BURN](https://www.meetup.com/Budapest-Users-of-R-Network)
 
-### Ireland <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Ireland <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Cork: [Cork R-Uses Group](https://www.meetup.com/Cork-Ireland-R-Users-Group/)
   * Dublin: [Dublin-R](https://www.meetup.com/DublinR/)
 
-### Italy <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Italy <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Milan: [MilanoR](http://www.milanor.net/)
   * Padua: [Italy-RUG Rante](https://groups.google.com/group/rante)
   * Torino: [Torino R net](http://torinor.net/)
 
-### Luxembourg <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Luxembourg <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Luxembourg: [LuxR](https://www.meetup.com/LuxRgroup/)
 
-### Netherlands <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Netherlands <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Amsterdam: [amst-R-dam](https://www.meetup.com/amst-R-dam/)
   * Enschede: [Twente R User Group](http://twenterug.wordpress.com/)
   * Groningen: [R User Group Groningen](http://richelbilderbeek.nl/RuserGroupGroningen.htm)
   * Nijmegen: [Nijmegen everRybody](https://www.meetup.com/Nijmegen-eveRybody/)
 
-### Norway <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Norway <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Oslo: [Oslo user! Group](https://www.meetup.com/Oslo-useR-Group/)
 
-### Poland <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Poland <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Warsaw: [SER - Warsaw R Users Group](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
   * Poznań: [Poznań R Users](https://www.meetup.com/Poznan-R-User-Group-PAZUR/)
@@ -104,31 +104,31 @@
   * Wrocław: [STWUR - Wroclaw R Users Group](https://www.meetup.com/Wroclaw-R-Users-Group/)
   * Kraków: [entuzjastów R krakowska alternatywa](https://www.meetup.com/erkakrakow/)
 
-### Portugal <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Portugal <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Braga: [R@Minho](https://www.meetup.com/R-Minho/)
 
-### Romania <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Romania <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Bucharest: [R-omania Team](http://www.r-project.ro/our_team.html)
 
-### Russia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Russia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Moscow: [rMoscow](https://www.meetup.com/rMoscow/)
   * St. Petersburg: [St. Petersburg R User Group](https://www.meetup.com/St-Petersburg-R-User-Group/)
 
-### Serbia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Serbia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Belgrade: [BelgradeR](https://www.meetup.com/BelgradeR/)
   
-### Slovakia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Slovakia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
   * Bratislava: [R <- Slovakia](https://www.facebook.com/groups/931707906955080/); [R <- Slovakia @ Meetup.com](https://www.meetup.com/R-Slovakia/)
 
-### Slovenia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Slovenia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Ljubljana: [Rcoholics](https://groups.google.com/group/rkoholikiAnonymous)
 
-### Spain <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Spain <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Barcelona: [BarcelonaR](https://www.barcelonar.org/)
   * Madrid: [Grupo de Interés Local de Madrid](http://madrid.r-es.org/)
@@ -136,11 +136,11 @@
   * Sevilla: [R users](https://sevillarusers.wordpress.com/); [\@_SevillaR](https://twitter.com/_SevillaR)
   * Valencia: [R users](https://valenciarusers.wordpress.com/)
 
-### Sweden <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Sweden <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Stockholm: [StockholmR](https://www.meetup.com/StockholmR/)
 
-### Switzerland <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Switzerland <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Basel: [BaselR](http://www.baselr.org/)
   * Bern: [BernR](https://www.meetup.com/Bern-R/)
@@ -149,7 +149,7 @@
   * Lucerne: [Lucerne R User Group](https://www.meetup.com/Lucerne-R-User-Group/)
   * Zurich: [Zurich R](https://www.meetup.com/Zurich-R-User-Group/) User Group
 
-### United Kingdom <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### United Kingdom <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
 #### England {-}
 
@@ -182,11 +182,11 @@
   * Cardiff: [Cardiff](https://www.meetup.com/Cardiff-R-User-Group/) R User Group
   * Swansea: [Swansea](https://sites.google.com/site/swanseauniversityrusergroup/home) University R User Group
 
-### Turkey <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Turkey <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Ankara: [Turkish Community](https://www.meetup.com/Turkish-Community-of-R/) of R
   * Eskisehir: [Eskisehir R User Group](https://www.meetup.com/tr-TR/Eskisehir-R-Users-Group-Data-Science-Society/)
 
-### Ukraine <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Ukraine <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Kyiv: [Kyiv useR! Group](https://www.meetup.com/Kyiv-useR-Group/)

@@ -12,139 +12,139 @@ Title for scraping
 Visit [R-ladies.org](https://rladies.org/) for information about this worldwide organization to promote
 gender diversity in the R community.
 
-### Algeria <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Algeria <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Algiers: [R-Ladies Algiers](https://www.meetup.com/fr-FR/rladies-algiers/); [\@RLadiesAlgiers](https://twitter.com/RLadiesAlgiers)
 
-### Argentina <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Argentina <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Buenos Aires: [R-Ladies Buenos Aires](https://www.meetup.com/rladies-buenos-aires/); [\@RLadiesBA](https://twitter.com/RLadiesBA)
  * Santa Rosa: [R-Ladies Santa Rosa](https://www.meetup.com/rladies-santa-rosa/); [\@RLadiesSR](https://twitter.com/RLadiesSR)
  * Ushuaia: [R-Ladies Ushuaia](https://www.meetup.com/es-ES/rladies-ushuaia/); [\@RLadiesUshuaia](https://twitter.com/RLadiesUshuaia)
 
-### Australia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Australia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Adelaide: [R-Ladies Adelaide](https://www.meetup.com/rladies-adelaide/); [\@RLadiesAdelaide](https://twitter.com/RLadiesAdelaide)
  * Brisbane: [R-Ladies Brisbane](https://www.meetup.com/rladies-brisbane/); [\@RLadiesBrisbane](https://twitter.com/RLadiesBrisbane)
  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/rladies-melbourne/); [\@RLadiesMelb](https://twitter.com/RLadiesMelb)
  * Sydney: [R-Ladies Sydney](https://www.meetup.com/rladies-sydney/); [\@RLadiesSydney](https://twitter.com/RLadiesSydney)
 
-### Austria <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Austria <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Vienna: [R-Ladies Vienna](https://www.meetup.com/rladies-vienna/); [\@RLadiesVienna](https://twitter.com/RLadiesVienna)
 
-### Belgium <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Belgium <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Brussels: [R-Ladies Brussels](https://www.meetup.com/rladies-brussels/);  [\@RladiesBrussels](https://twitter.com/RladiesBrussels)
 
-### Brazil <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Brazil <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Rio de Janeiro: [R-Ladies Rio de Janeiro](https://www.meetup.com/rladies-rio/); [\@RLadiesRio](https://twitter.com/RLadiesRio)
  * Belo Horizonte: [R-Ladies Belo Horizonte](https://www.meetup.com/pt-BR/rladies-belo-horizonte/); [\@RLadiesBH](https://twitter.com/RLadiesBH)
 
-### Canada <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Canada <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Calgary: [R-Ladies Calgary](https://www.meetup.com/rladies-calgary/); [\@RLadiesCalgary](https://twitter.com/RLadiesCalgary)
  * Montreal: [R-Ladies Montreal](https://www.meetup.com/rladies-montreal/); [\@RLadiesMTL](https://twitter.com/RLadiesMTL)
  * Toronto: [R-Ladies Toronto](https://www.meetup.com/rladies-toronto/); [\@rladiestoronto](https://twitter.com/rladiestoronto)
  * Vancouver: [R-Ladies Vancouver](https://www.meetup.com/rladies-vancouver/); [\@RLadiesVan](https://twitter.com/RLadiesVan)
 
-### Chile <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Chile <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Santiago: [R-Ladies Santiago](https://www.meetup.com/rladies-scl/); [\@RLadiesSantiago](https://twitter.com/RLadiesSantiago)
  
-### Costa Rica <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Costa Rica <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * San Jose: [R-Ladies San Jose](https://www.meetup.com/rladies-san-jose/); [\@rladies_sjcr](https://twitter.com/rladies_sjcr)
 
-### France <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### France <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Montpellier: [R-Ladies Montpellier](https://www.meetup.com/rladies-montpellier/); [\@RLadiesMontpel](https://twitter.com/RLadiesMontpel)
  * Paris: [R-Ladies Paris](https://www.meetup.com/rladies-paris/); [\@RLadiesParis](https://twitter.com/RLadiesParis)
  * Strasbourg: [R-Ladies Strasbourg](https://www.meetup.com/rladies-strasbourg/); [\@RLadiesStras](https://twitter.com/RLadiesStras)
   
-### Denmark <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Denmark <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Copenhagen: [R-Ladies Copenhagen](https://www.meetup.com/rladies-copenhagen/); [\@RLadiesCPH](https://twitter.com/RLadiesCPH)
 
-### Germany <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Germany <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Berlin: [R-Ladies Berlin](https://www.meetup.com/rladies-berlin/); [\@RLadiesBerlin](https://twitter.com/RLadiesBerlin)
  * Freiburg: [R-Ladies Freiburg](https://www.meetup.com/rladies-freiburg/); [\@RLadiesFreiburg](https://twitter.com/RLadiesFreiburg)
   
-### Georgia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Georgia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
  
  * Tbilisi: [R-Ladies Tbilisi](https://www.meetup.com/rladies-tbilisi/); [\@RLadiesTbilisi](https://twitter.com/RLadiesTbilisi)
   
-### Ireland <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Ireland <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Dublin: [R-Ladies Dublin](https://www.meetup.com/rladies-dublin/); [\@RLadiesDublin](https://twitter.com/RLadiesDublin)
   
-### Nepal <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Nepal <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Kathmandu: [R-Ladies Kathmandu](https://www.meetup.com/rladies-kathmandu/); [\@RLadiesKtm](https://twitter.com/RLadiesKtm)
 
-### Netherlands <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Netherlands <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Amsterdam: [R-Ladies Amsterdam](https://www.meetup.com/rladies-amsterdam/); [\@RLadiesAMS](https://twitter.com/RLadiesAMS)
  
-### New Zealand <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### New Zealand <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Auckland: [R-Ladies Auckland](https://www.meetup.com/rladies-auckland/);
  [\@RLadiesAKL](https://twitter.com/RLadiesAKL)
  * Christchurch: [R-Ladies Christchurch](https://www.meetup.com/rladies-christchurch/);
   [\@RLadiesChch](https://twitter.com/RLadiesChch)
  
-### Norway <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Norway <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Oslo: [R-Ladies Oslo](https://www.meetup.com/en-AU/rladies-oslo/); [\@RLadiesOslo](https://twitter.com/RLadiesOslo)
   
-### Peru <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Peru <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Lima: [R-Ladies Lima](https://www.meetup.com/rladies-lima/); [\@RLadiesLima](https://twitter.com/RLadiesLima)
   
-### Poland <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Poland <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Warsaw: [R-Users & R-Ladies Warsaw (Spotkania Entuzjastów R)](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
 
-### Romania <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Romania <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Bucharest: [R-Ladies Bucharest](https://www.meetup.com/rladies-bucharest/); [\@RLadies_Buchares](https://twitter.com/rladiesbuchares)
   
-### South Africa <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### South Africa <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Cape Town: [R-Ladies Cape Town](https://www.meetup.com/R-Ladies-Cape-Town/); [\@RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
  * Johannesburg: [R-Ladies Johannesburg](https://www.meetup.com/rladies-johannesburg/); [\@RLadiesJozi](https://twitter.com/RLadiesJozi)
 
-### Spain <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Spain <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Barcelona: [R-Ladies Barcelona](https://www.meetup.com/es-ES/rladies-barcelona/); [\@RLadiesBCN](https://twitter.com/RLadiesBCN)
  * Madrid: [R-Ladies Madrid](https://www.meetup.com/rladies-madrid); [\@RLadiesMAD](https://twitter.com/RLadiesMAD)
 
-### Sweden <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Sweden <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Stockholm: [R-Ladies Stockholm](https://www.meetup.com/rladies-stockholm/); [\@RLadiesSthlm](https://twitter.com/RLadiesSthlm)
 
-### Switzerland <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Switzerland <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Lausanne: [R-Ladies Lausanne](https://www.meetup.com/rladies-lausanne/); [\@RLadiesLausanne](https://twitter.com/RLadiesLausanne)
 
-### Taipei <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Taipei <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Taipei: [R-Ladies Taipei](https://www.meetup.com/R-Ladies-Taipei/)
 
-### Turkey <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Turkey <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Istanbul: [R-Ladies Istanbul](https://www.meetup.com/rladies-istanbul/); [\@RLadiesIstanbul](https://twitter.com/RLadiesIstanbul)
  * Izmir: [R-Ladies Izmir](https://www.meetup.com/rladies-izmir/); [\@RLadiesIzmir](https://twitter.com/RLadiesIzmir)
 
-### United Kingdom <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### United Kingdom <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Edinburgh: [R-Ladies Edinburgh](https://www.meetup.com/rladies-edinburgh/); [\@RLadiesEdinb](https://twitter.com/RLadiesEdinb)
  * London: [R-Ladies London](https://www.meetup.com/rladies-london/); [\@RLadiesLondon](https://twitter.com/RLadiesLondon)
  * Manchester: [R-Ladies Manchester](https://www.meetup.com/rladies-manchester/); [\@RLadiesMCR](https://twitter.com/RLadiesMCR)
 
-### United States of America <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### United States of America <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Irvine, CA: [R-Ladies Irvine](https://www.meetup.com/rladies-irvine/); [\@RLadiesIrvine](https://twitter.com/RLadiesIrvine)
  * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/); [\@RLadiesLA](https://twitter.com/RLadiesLA)
@@ -178,6 +178,6 @@ gender diversity in the R community.
  * Charlottesville, VA: [R-Ladies Charlottesville](https://www.meetup.com/rladies-charlottesville/); [\@RLadiesCville](https://twitter.com/RLadiesCville)
  * Seattle, WA: [R-Ladies Seattle](https://www.meetup.com/rladies-seattle/); [\@RLadiesSeattle](https://twitter.com/RLadiesSeattle)
 
-### Uruguay <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Uruguay <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Montevideo: [R-Ladies Montevideo](https://www.meetup.com/rladies-montevideo/); [\@RLadiesMVD](https://twitter.com/RLadiesMVD)

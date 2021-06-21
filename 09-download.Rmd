@@ -11,6 +11,6 @@ Additionally, you can download a convenient CSV file of the data
 
 The R scripts used to generate these CSV files are also located in the GitHub repo
 
-> https://github.com/jumpingrivers/meetingsR/tree/master/R
+> https://github.com/jumpingrivers/meetingsR/tree/main/R
 
 These scripts were initially created via the [eRum competition](https://www.jumpingrivers.com/blog/free-ticket-to-erum/)

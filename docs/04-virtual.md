@@ -8,7 +8,7 @@ The format for listing a Virtual R event is
 
   * Date: [event name & link](http://www.example.com). [\@twitter_handle](https://twitter.com/twitter_handle).
 
-## 2021 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+## 2021 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### November
 
@@ -43,7 +43,7 @@ The format for listing a Virtual R event is
   * January 21: [RStudio Global](https://rstudio.com/conference/).
   * January: [Evidence Synthesis & Meta-Analysis in R](https://www.eshackathon.org/events/2021-01-ESMAR.html). [\@eshackathon](https://twitter.com/eshackathon)
 
-## 2020 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+## 2020 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### December
 
