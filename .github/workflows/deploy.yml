@@ -77,7 +77,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: main
-          publish_dir: ./docs
 
       - name: Upload check results
         if: failure()
