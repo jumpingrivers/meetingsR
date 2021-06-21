@@ -1,2 +1,0 @@
-new_session: yes
-before_chapter_script: 'R/pre_chap.R'
