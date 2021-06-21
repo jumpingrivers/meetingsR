@@ -1,4 +1,4 @@
-library("tidyverse")
+suppressMessages(library("tidyverse"))
 
 ##############################
 # 1. Read in the data
@@ -48,6 +48,6 @@ events = readLines(rmds) %>%
   mutate(year = stringr::str_remove(year, "`r get_btn\\(\\)`")) %>%
   mutate(year = stringr::str_squish(year))
 
-write("# Automatically generated file. Edit the .Rmd file instead.", file = "_book/events.csv")
-write_csv(events, path = "_book/events.csv", append = TRUE)
+write("# Automatically generated file. Edit the .Rmd file instead.", file = "docs/events.csv")
+readr::write_csv(events, path = "docs/events.csv", append = TRUE)
 
