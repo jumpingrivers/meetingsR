@@ -1,0 +1,21 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+## Oceania
+
+### Australia `r get_btn()`
+
+  * Adelaide: [ARUG](https://www.meetup.com/Adelaide-R-Users/)
+  * Canberra: [CANRUG](https://www.meetup.com/Canberra-R-Users-Group/)
+  * Hobart: [HRUG](https://www.meetup.com/Hobart-R-Users-Group/)
+  * Melbourne: [MelbURN](https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/)
+  * Perth: [MURUG](https://murugperth.wordpress.com/)
+  * Perth: [WARG](https://www.meetup.com/Western-Australia-R-Group-WARG/)
+  * Sydney: [SURF](https://www.meetup.com/R-Users-Sydney/)
+
+### New Zealand `r get_btn()`
+
+  * Auckland: [AKLRUG](https://www.meetup.com/Auckland-R-Users-Group-AKLRUG)
+  * Wellington: [WRUG](https://www.meetup.com/Wellington-R-Users-Group-WRUG)
+

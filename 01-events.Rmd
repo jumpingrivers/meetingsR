@@ -1,0 +1,222 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+# Events
+
+The format for listing an R event is
+
+  * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
+
+## 2020 `r get_btn()` {-}
+
+### December
+
+ * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austria.
+
+### April
+
+ * April 17: [Women+ Data Science \@MSU](https://women-plus-datascience.github.io/home). East Lansing, MI, USA.
+
+### March
+
+  * March 7: [SatRdays Johannesburg](https://joburg2020.satrdays.org/). Johannesburg, South Africa.
+  * March 14: [SatRday Neuchâtel](https://neuchatel2020.satrdays.org/). Neuchâtel, Switzerland.
+  * March 14-15: [Chicago R Collaborative](https://chircollab.github.io/). Chicago, USA. [#chircollab](https://twitter.com/search?q=%23chircollab)
+
+### February
+
+ * February 1: [SatRdays Abidjan](https://abidjan2020.satrdays.org/). Abidjan, Côte d'Ivoire.
+ * February 22: [SatRdays Auckland](https://auckland2020.satrdays.org/). Auckland, New Zealand.
+ * February 28-29: [CelebRation 2020](http://www.celebration2020.org/). Copenhagen, Denmark.
+
+### January
+
+ * January 27-30: [rstudio::conf(2020)](https://www.rstudio.com/conference/). San Francisco, USA.
+
+## 2019 `r get_btn()` {-}
+
+### December
+
+  * December 6-8: [Yes We CRAN](https://www.thinksisu.org/event/yeswecran/). Washington, D.C.
+  * December 11-13: [rOpenSci OzUnconf](https://ozunconf19.ropensci.org/). Sydney, Australia.
+  * December 26: [R\@IISA](https://r-iisa2019.rbind.io/). Mumbai, India.
+
+### November
+
+  * November 7-9: [DC R Conference](https://dc.rstats.ai/). Washington, D.C.
+  * November 16: [SatRdays Cardiff](https://cardiff2019.satrdays.org/). Cardiff, UK.
+
+### September
+
+  * September 12-14: [R/Medicine 2019](https://r-medicine.com/). Boston MA, USA.
+  * September 25-27: [LatinR 2019](http://latin-r.com/). Santiago, Chile. [\@LatinR_Conf](https://twitter.com/LatinR_Conf)
+  * September 26-29: [Why R?](http://whyr.pl/2019/). Warsaw, Poland [\@whyRconf](https://twitter.com/whyRconf)
+
+### August
+
+ * August 15-16: [noRth 2019](https://rnorthconference.github.io/). Minneapolis MN, USA.
+
+### July
+
+  * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
+   * July 9-12: [Riot 2019](http://riotworkshop.github.io/). Co-located with useR!
+  * July 29-August 2: [CDSB Workshop 2019](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/#.XP6i_dNKi50). Cuernavaca, Mexico.
+
+### June
+
+  * June 8: [Cascadia R Conference](https://cascadiarconf.com/). Redmond WA, USA.
+  * June 15: [SatRday Berlin](https://berlin2019.satrdays.org/). Berlin, Germany.
+
+### May
+
+  * May 9-11: [New York R Conference](https://www.rstats.nyc/). New York NY, USA.
+  * May 18: [1 Year Chapter Meetup Belo Horizonte](http://rladiesbh.com.br/). Belo Horizonte, Brazil.
+  * May 18: [SatRday Gdansk](https://gdansk2019.satrdays.org/). Gdansk, Poland.
+  * May 20-21: [The Use of R in Official Statistics](http://r-project.ro/conference2019.html). Bucharest, Romania.
+  * May 25: [SatRday Kampala2019](https://kampala2019.satrdays.org/). Kampala, Uganda.
+
+### April
+
+  * April 6: [satRday Los Angeles](https://losangeles2019.satrdays.org/). Los Angeles CA, USA.
+  * April 6: [satRday Johannesburg](https://joburg2019.satrdays.org/). Johannesburg, South Africa.
+  * April 6: [satRdays Newcastle](https://newcastle2019.satrdays.org/). Newcastle, UK.
+  * April 12: [Women in Data Science East Lansing \@MSU](https://github.com/rladies-eastlansing/wids2019/wiki). East Lansing, MI, USA.
+  * April 14-16: [The Uncoast Unconference](https://uncoast-unconference.netlify.com/). Des Moines IA, USA.
+  * April 27: [SatRday Chicago](https://chicago2019.satrdays.org/). Chicago IL, USA.
+
+### March
+
+  * March 9-10: [Chicago R Unconference](https://chirunconf.github.io/). Chicago IL, USA.
+
+### February
+
+  * February 23: [satRdays Paris](http://paris2019.satrdays.org). Paris, France.
+
+### January
+
+  * January 15-18: [rstudio::conf](https://www.rstudio.com/conference/). Austin, USA.
+  * January 24-26: [ConectaR 2019](http://www.conectar2019.ucr.ac.cr/). San Jose, Costa Rica.
+
+## 2018 {-}
+
+### December
+
+ * December 6-7: [European Bioconductor Meeting 2018](https://bioconductor.github.io/EuroBioc2018/). Munich, Germany.
+ * December 8: [SatRDays DC](https://dc2018.satrdays.org/). Washington, USA.
+ * December 15: [SatRday Santiago](https://santiago2018.satrdays.org). Santiago, Chile.
+
+### November
+
+ * November 7: [EARL Seattle](https://earlconf.com/boston). Seattle, USA. [\@earlconf](https://twitter.com/earlconf)
+ * November 8-9: [DC R Conference](https://www.rstats.ai/). Washington DC, USA. [\@rstatsdc](https://twitter.com/rstatsdc)
+ * November 9: [EARL Houston](https://earlconf.com/boston). Houston, USA. [\@earlconf](https://twitter.com/earlconf)
+ * November 13: [EARL Boston](https://earlconf.com/boston). Boston, USA. [\@earlconf](https://twitter.com/earlconf)
+
+### October
+
+ * October 26: [Noreast'R Conference](http://noreastrconf.com/). Providence, USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
+ * October 27: [SatRday Belgrade](http://belgrade2018.satrdays.org/). Belgrade, Serbia.
+
+### September
+
+ * September 1: [SatRday Amsterdam](http://amsterdam2018.satrdays.org/). Amsterdam, The Netherlands.
+ * September 4-5: [LatinR 2018](http://latin-r.com/). Buenos Aires, Argentina. [\@LatinR2018](https://twitter.com/latinr2018)
+ * September 11-13: [EARL London 2018](https://earlconf.com/london/). London, United Kingdom. [\@earlconf](https://twitter.com/earlconf)
+ * September 12-14: [The Use of R in Official Statistics](https://www.aanmelder.nl/uros2018). Hague, Netherlands. [\@uRos2018](https://twitter.com/uRos2018)
+
+### August
+
+ * August 15-16: [R/Pharma](http://rinpharma.com/). Massachusetts, USA.
+
+### July
+
+ * July 2-5: WhyR? 2018. Wroclaw, Poland.
+ * July 4-6: [7eme rencontres R](https://r2018-rennes.sciencesconf.org). Rennes, France. [\@rencontres_R](https://twitter.com/rencontres_R)
+ * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
+
+### June
+
+ *  June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
+ *  June 2: [CascadiaRConf](https://cascadiarconf.com/). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
+
+### May
+
+  * May: [The European #rstats Users Meeting](http://2018.erum.io/). Budapest, Hungary. [\@erum2018](https://twitter.com/erum2018)
+  * May 22: [R Day](http://rday.leg.ufpr.br/). Curitiba, Brazil. [\@LEG_UFPR](https://twitter.com/LEG_UFPR)
+
+### April
+ * April 20-21: [New York R Conference](http://rstats.nyc/). New York, USA.
+
+### March
+
+  * March 17th: [SatRday](http://capetown2018.satrdays.org/). Cape Town, South Africa.
+
+### January
+
+  * January 31, Feb 1-3: [rstudio::conf](https://www.rstudio.com/conference/). San Diego, USA.
+
+## 2017 {-}
+
+### December
+
+  * December 5-6: [Bioconductor European Conference](https://bioconductor.org/help/course-materials/2017/BioCEurope/). Cambridge, UK.
+
+### November
+  
+  * November 1-3: [EARL Boston 2017](https://earlconf.com/boston/). Boston, USA.
+  * November 6-7: New Challenges for Statistical Software - The Use of R in Official Statistics. Bucharest, Romania.
+  * November 8-9: [R Kenntnis-Tage 2017](http://www.eoda.de/de/R-Kenntnis-Tage.html). Kassel, Germany.
+  * November 16-17: Bioconductor Asia. Adelaide, Australia.
+
+### September
+
+  * September 13-15: [EARL London 2017](https://earlconf.com/london/). London, UK.
+
+### July
+
+  * July 4-7: [UseR! 2017](http://www.user2017.brussels/). Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels) [Recordings](https://channel9.msdn.com/events/useR-international-R-User-conferences/)
+    * July 5: [Riot](http://riotworkshop.github.io/). Co-located with useR! 2017.
+  * July 27-28: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/). Boston, USA.
+
+### June
+
+  * June 3: [CascadiaRconf](https://cascadiarconf.com/2017). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
+  * June 5-7: EARL. San Francisco, USA.
+  * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/). Paris, France. 
+
+### May
+
+  * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, USA. ([Recordings here](https://channel9.msdn.com/Events/RFinance/RFinance-2017))
+  * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Québec, Canada.
+  * May 25-26: ROpenSci Unconference. Los Angeles, USA.
+  * May 28-Jun 2: WOMBAT MeDaScIn 2017. Melbourne, Australia.
+
+### April
+
+  * April 21-22: [New York R Conference 2017](http://www.rstats.nyc). New York, USA.
+
+### March
+
+  * March 4: [#ODDZurich Hackathon](http://zurich-r-user-group.github.io/hackathon.html). Zurich, Switzerland. [\@ZurichRUsers](https://twitter.com/ZurichRUsers)
+  * March 24-25: [Women in Machine Learning & Data Science](http://www.wimldsdatadive.com/hackathons/2). New York, USA.
+
+### February
+
+  * February 16-18: [satRday](https://capetown2017.satrdays.org//). Cape Town, South Africa. [\@satRdays_org](https://twitter.com/satRdays_org)
+
+### January
+
+ * January 11-14: [rstudio::conf](https://www.rstudio.com/conference/). Kissmmee, USA.
+
+## 2016 {-}
+
+ * December: European Bioconductor Developers' Meeting. Basel, Switzerland.
+ * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA.
+ * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
+ * September: 
+  * [EARL London 2016](https://earlconf.com/london/). London, UK.
+  * [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
+ * July: [UseR! 2016](http://user2016.org/). Stanford, USA. ([Recordings here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016))
+ * May: [R/Finance 2016](http://www.rinfinance.com). Chicago, USA.
+ * April: [New York R Conference 2016](http://www.rstats.nyc). New York, USA.

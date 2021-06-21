@@ -1,0 +1,183 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+# R-Ladies Groups
+
+<!--
+Title for scraping
+## R-Ladies Groups
+-->
+
+Visit [R-ladies.org](https://rladies.org/) for information about this worldwide organization to promote
+gender diversity in the R community.
+
+### Algeria `r get_btn()`
+
+ * Algiers: [R-Ladies Algiers](https://www.meetup.com/fr-FR/rladies-algiers/); [\@RLadiesAlgiers](https://twitter.com/RLadiesAlgiers)
+
+### Argentina `r get_btn()`
+
+ * Buenos Aires: [R-Ladies Buenos Aires](https://www.meetup.com/rladies-buenos-aires/); [\@RLadiesBA](https://twitter.com/RLadiesBA)
+ * Santa Rosa: [R-Ladies Santa Rosa](https://www.meetup.com/rladies-santa-rosa/); [\@RLadiesSR](https://twitter.com/RLadiesSR)
+ * Ushuaia: [R-Ladies Ushuaia](https://www.meetup.com/es-ES/rladies-ushuaia/); [\@RLadiesUshuaia](https://twitter.com/RLadiesUshuaia)
+
+### Australia `r get_btn()`
+
+ * Adelaide: [R-Ladies Adelaide](https://www.meetup.com/rladies-adelaide/); [\@RLadiesAdelaide](https://twitter.com/RLadiesAdelaide)
+ * Brisbane: [R-Ladies Brisbane](https://www.meetup.com/rladies-brisbane/); [\@RLadiesBrisbane](https://twitter.com/RLadiesBrisbane)
+ * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/rladies-melbourne/); [\@RLadiesMelb](https://twitter.com/RLadiesMelb)
+ * Sydney: [R-Ladies Sydney](https://www.meetup.com/rladies-sydney/); [\@RLadiesSydney](https://twitter.com/RLadiesSydney)
+
+### Austria `r get_btn()`
+
+ * Vienna: [R-Ladies Vienna](https://www.meetup.com/rladies-vienna/); [\@RLadiesVienna](https://twitter.com/RLadiesVienna)
+
+### Belgium `r get_btn()`
+
+ * Brussels: [R-Ladies Brussels](https://www.meetup.com/rladies-brussels/);  [\@RladiesBrussels](https://twitter.com/RladiesBrussels)
+
+### Brazil `r get_btn()`
+
+ * Rio de Janeiro: [R-Ladies Rio de Janeiro](https://www.meetup.com/rladies-rio/); [\@RLadiesRio](https://twitter.com/RLadiesRio)
+ * Belo Horizonte: [R-Ladies Belo Horizonte](https://www.meetup.com/pt-BR/rladies-belo-horizonte/); [\@RLadiesBH](https://twitter.com/RLadiesBH)
+
+### Canada `r get_btn()`
+
+ * Calgary: [R-Ladies Calgary](https://www.meetup.com/rladies-calgary/); [\@RLadiesCalgary](https://twitter.com/RLadiesCalgary)
+ * Montreal: [R-Ladies Montreal](https://www.meetup.com/rladies-montreal/); [\@RLadiesMTL](https://twitter.com/RLadiesMTL)
+ * Toronto: [R-Ladies Toronto](https://www.meetup.com/rladies-toronto/); [\@rladiestoronto](https://twitter.com/rladiestoronto)
+ * Vancouver: [R-Ladies Vancouver](https://www.meetup.com/rladies-vancouver/); [\@RLadiesVan](https://twitter.com/RLadiesVan)
+
+### Chile `r get_btn()`
+
+ * Santiago: [R-Ladies Santiago](https://www.meetup.com/rladies-scl/); [\@RLadiesSantiago](https://twitter.com/RLadiesSantiago)
+ 
+### Costa Rica `r get_btn()`
+
+ * San Jose: [R-Ladies San Jose](https://www.meetup.com/rladies-san-jose/); [\@rladies_sjcr](https://twitter.com/rladies_sjcr)
+
+### France `r get_btn()`
+
+ * Montpellier: [R-Ladies Montpellier](https://www.meetup.com/rladies-montpellier/); [\@RLadiesMontpel](https://twitter.com/RLadiesMontpel)
+ * Paris: [R-Ladies Paris](https://www.meetup.com/rladies-paris/); [\@RLadiesParis](https://twitter.com/RLadiesParis)
+ * Strasbourg: [R-Ladies Strasbourg](https://www.meetup.com/rladies-strasbourg/); [\@RLadiesStras](https://twitter.com/RLadiesStras)
+  
+### Denmark `r get_btn()`
+
+ * Copenhagen: [R-Ladies Copenhagen](https://www.meetup.com/rladies-copenhagen/); [\@RLadiesCPH](https://twitter.com/RLadiesCPH)
+
+### Germany `r get_btn()`
+
+ * Berlin: [R-Ladies Berlin](https://www.meetup.com/rladies-berlin/); [\@RLadiesBerlin](https://twitter.com/RLadiesBerlin)
+ * Freiburg: [R-Ladies Freiburg](https://www.meetup.com/rladies-freiburg/); [\@RLadiesFreiburg](https://twitter.com/RLadiesFreiburg)
+  
+### Georgia `r get_btn()`
+ 
+ * Tbilisi: [R-Ladies Tbilisi](https://www.meetup.com/rladies-tbilisi/); [\@RLadiesTbilisi](https://twitter.com/RLadiesTbilisi)
+  
+### Ireland `r get_btn()`
+
+ * Dublin: [R-Ladies Dublin](https://www.meetup.com/rladies-dublin/); [\@RLadiesDublin](https://twitter.com/RLadiesDublin)
+  
+### Nepal `r get_btn()`
+
+ * Kathmandu: [R-Ladies Kathmandu](https://www.meetup.com/rladies-kathmandu/); [\@RLadiesKtm](https://twitter.com/RLadiesKtm)
+
+### Netherlands `r get_btn()`
+
+ * Amsterdam: [R-Ladies Amsterdam](https://www.meetup.com/rladies-amsterdam/); [\@RLadiesAMS](https://twitter.com/RLadiesAMS)
+ 
+### New Zealand `r get_btn()`
+
+ * Auckland: [R-Ladies Auckland](https://www.meetup.com/rladies-auckland/);
+ [\@RLadiesAKL](https://twitter.com/RLadiesAKL)
+ * Christchurch: [R-Ladies Christchurch](https://www.meetup.com/rladies-christchurch/);
+  [\@RLadiesChch](https://twitter.com/RLadiesChch)
+ 
+### Norway `r get_btn()`
+
+ * Oslo: [R-Ladies Oslo](https://www.meetup.com/en-AU/rladies-oslo/); [\@RLadiesOslo](https://twitter.com/RLadiesOslo)
+  
+### Peru `r get_btn()`
+
+ * Lima: [R-Ladies Lima](https://www.meetup.com/rladies-lima/); [\@RLadiesLima](https://twitter.com/RLadiesLima)
+  
+### Poland `r get_btn()`
+
+ * Warsaw: [R-Users & R-Ladies Warsaw (Spotkania Entuzjastów R)](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
+
+### Romania `r get_btn()`
+
+ * Bucharest: [R-Ladies Bucharest](https://www.meetup.com/rladies-bucharest/); [\@RLadies_Buchares](https://twitter.com/rladiesbuchares)
+  
+### South Africa `r get_btn()`
+
+ * Cape Town: [R-Ladies Cape Town](https://www.meetup.com/R-Ladies-Cape-Town/); [\@RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
+ * Johannesburg: [R-Ladies Johannesburg](https://www.meetup.com/rladies-johannesburg/); [\@RLadiesJozi](https://twitter.com/RLadiesJozi)
+
+### Spain `r get_btn()`
+
+ * Barcelona: [R-Ladies Barcelona](https://www.meetup.com/es-ES/rladies-barcelona/); [\@RLadiesBCN](https://twitter.com/RLadiesBCN)
+ * Madrid: [R-Ladies Madrid](https://www.meetup.com/rladies-madrid); [\@RLadiesMAD](https://twitter.com/RLadiesMAD)
+
+### Sweden `r get_btn()`
+
+ * Stockholm: [R-Ladies Stockholm](https://www.meetup.com/rladies-stockholm/); [\@RLadiesSthlm](https://twitter.com/RLadiesSthlm)
+
+### Switzerland `r get_btn()`
+
+ * Lausanne: [R-Ladies Lausanne](https://www.meetup.com/rladies-lausanne/); [\@RLadiesLausanne](https://twitter.com/RLadiesLausanne)
+
+### Taipei `r get_btn()`
+
+ * Taipei: [R-Ladies Taipei](https://www.meetup.com/R-Ladies-Taipei/)
+
+### Turkey `r get_btn()`
+
+ * Istanbul: [R-Ladies Istanbul](https://www.meetup.com/rladies-istanbul/); [\@RLadiesIstanbul](https://twitter.com/RLadiesIstanbul)
+ * Izmir: [R-Ladies Izmir](https://www.meetup.com/rladies-izmir/); [\@RLadiesIzmir](https://twitter.com/RLadiesIzmir)
+
+### United Kingdom `r get_btn()`
+
+ * Edinburgh: [R-Ladies Edinburgh](https://www.meetup.com/rladies-edinburgh/); [\@RLadiesEdinb](https://twitter.com/RLadiesEdinb)
+ * London: [R-Ladies London](https://www.meetup.com/rladies-london/); [\@RLadiesLondon](https://twitter.com/RLadiesLondon)
+ * Manchester: [R-Ladies Manchester](https://www.meetup.com/rladies-manchester/); [\@RLadiesMCR](https://twitter.com/RLadiesMCR)
+
+### United States of America `r get_btn()`
+
+ * Irvine, CA: [R-Ladies Irvine](https://www.meetup.com/rladies-irvine/); [\@RLadiesIrvine](https://twitter.com/RLadiesIrvine)
+ * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/); [\@RLadiesLA](https://twitter.com/RLadiesLA)
+ * San Diego, CA: [R-Ladies San Diego](https://www.meetup.com/rladies-san-diego/); [\@RLadiesSanDiego](https://twitter.com/RLadiesSanDiego)
+ * San Francisco, CA: [R-Ladies San Francisco](https://www.meetup.com/rladies-san-francisco/); [\@RLadiesSF](https://twitter.com/RLadiesSF)
+ * Santa Barbara, CA: [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/); [\@RLadiesSB](https://twitter.com/RLadiesSB)
+ * Washington, DC: [R-Ladies DC](https://www.meetup.com/rladies-dc/); [\@RLadiesDC](https://twitter.com/RLadiesDC)
+ * Miami, FL: [R-Ladies Miami](https://www.meetup.com/R-Ladies-Miami/); [\@RLadiesMiami](https://twitter.com/RLadiesMiami)
+ * Orlando, FL: [R-Ladies Orlando](https://www.meetup.com/rladies-orlando/); [\@RLadiesOrlando](https://twitter.com/RLadiesOrlando)
+ * Athens, GA: [R-Ladies Athens](https://www.meetup.com/rladies-athens-ga/); [\@LadiesAthens](https://twitter.com/LadiesAthens)
+ * Atlanta, GA: [R-Ladies Atlanta](https://www.meetup.com/rladies-atlanta/); [\@RLadiesAtlanta](https://twitter.com/RLadiesAtlanta)
+ * Ames, IA: [R-Ladies Ames](https://www.meetup.com/rladies-ames/); [\@RLadiesAmes](https://twitter.com/RLadiesAmes)
+ * Chicago, IL: [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/); [\@RLadiesChicago](https://twitter.com/RLadiesChicago)
+ * Boston, MA: [R-Ladies Boston](https://www.meetup.com/rladies-boston/); [\@RLadiesBoston](https://twitter.com/RLadiesBoston)
+ * Baltimore, MD: [R-Ladies Baltimore](https://www.meetup.com/rladies-baltimore/); [\@RLadiesBmore](https://twitter.com/RLadiesBmore)
+ * East Lansing, MI: [R-Ladies East Lansing](https://www.meetup.com/rladies-east-lansing/); [\@RLadiesELansing](https://twitter.com/RLadiesELansing)
+ * Minneapolis, MN: [R-Ladies Twin Cities](https://www.meetup.com/rladies-tc/); [\@RLadiesTC](https://twitter.com/RLadiesTC)
+ * St. Louis, MO: [R-Ladies St. Louis](https://www.meetup.com/rladies-st-louis/); [\@RLadiesSTL](https://twitter.com/RLadiesSTL)
+ * Durham, NC: [R-Ladies RTP](https://www.meetup.com/rladies-rtp/); [\@RLadiesRTP](https://twitter.com/RLadiesRTP)
+ * Santa Fe, NM: [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/); [\@RLadiesSantaFe](https://twitter.com/RLadiesSantaFe)
+ * Buffalo, NY: [R-Ladies Buffalo](https://www.meetup.com/RLadies-Buffalo/); [\@RLadiesBuff](https://twitter.com/RLadiesBuff)
+ * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/); [\@RLadiesNYC](https://twitter.com/RLadiesNYC)
+ * Columbus, OH: [R-Ladies Columbus](https://www.meetup.com/RLadies-Columbus/); [\@RLadiesColumbus](https://twitter.com/RLadiesColumbus)
+ * Portland, OR: [R-Ladies PDX](https://www.meetup.com/rladies-pdx/); [\@RLadiesPDX](https://twitter.com/RLadiesPDX)
+ * Philadelphia, PA: [R-Ladies Philly](https://www.meetup.com/rladies-philly/); [\@RLadiesPhilly](https://twitter.com/RLadiesPhilly)
+ * Nashville, TN: [R-Ladies Nashville](https://www.meetup.com/rladies-nashville/); [\@RLadiesNash](https://twitter.com/RLadiesNash)
+ * Austin, TX: [R-Ladies Austin](https://meetup.com/rladies-austin/); [\@RLadiesAustin](https://twitter.com/RLadiesAustin)
+ * Dallas, TX: [R-Ladies Dallas](https://www.meetup.com/rladies-dallas/); [\@DallasRladies](https://twitter.com/DallasRladies)
+ * El Paso, TX: [R-Ladies El Paso](https://www.meetup.com/rladies-el-paso/); [\@RLadiesElPaso](https://twitter.com/RLadiesElPaso)
+ * Houston, TX: [R-Ladies Houston](https://www.meetup.com/rladies-houston/); [\@RLadiesHouston](https://twitter.com/RLadiesHouston)
+ * Charlottesville, VA: [R-Ladies Charlottesville](https://www.meetup.com/rladies-charlottesville/); [\@RLadiesCville](https://twitter.com/RLadiesCville)
+ * Seattle, WA: [R-Ladies Seattle](https://www.meetup.com/rladies-seattle/); [\@RLadiesSeattle](https://twitter.com/RLadiesSeattle)
+
+### Uruguay `r get_btn()`
+
+ * Montevideo: [R-Ladies Montevideo](https://www.meetup.com/rladies-montevideo/); [\@RLadiesMVD](https://twitter.com/RLadiesMVD)
