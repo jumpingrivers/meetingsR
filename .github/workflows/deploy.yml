@@ -65,22 +65,18 @@ jobs:
           remotes::install_deps(dependencies = TRUE)
         shell: Rscript {0}
 
-      - name: Build
+      - name: Build Bookdown
         run: |
           make html
-
-      - name: Deploy
-        run: |
           Rscript -e 'source("R/parse_groups.R")'
           Rscript -e 'source("R/parse_events.R")'
           Rscript -e 'source("R/parse_virtual.R")'
 
-
-      - name: Deploy-gh-pages
+      - name: Deploy pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: ga
+          publish_branch: main
           publish_dir: ./docs
 
       - name: Upload check results
