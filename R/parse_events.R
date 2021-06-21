@@ -49,5 +49,5 @@ events = readLines(rmds) %>%
   mutate(year = stringr::str_squish(year))
 
 write("# Automatically generated file. Edit the .Rmd file instead.", file = "docs/events.csv")
-readr::write_csv(events, path = "docs/events.csv", append = TRUE)
+readr::write_csv(events, file = "docs/events.csv", append = TRUE)
 

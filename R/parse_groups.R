@@ -47,4 +47,4 @@ groups = map(rmds, readLines)  %>%
   mutate(country = stringr::str_squish(country))
 
 write("# Automatically generated file. Edit the .Rmd file instead.", file = "docs/groups.csv")
-readr::write_csv(groups, path = "docs/groups.csv", append = TRUE)
+readr::write_csv(groups, file = "docs/groups.csv", append = TRUE)
