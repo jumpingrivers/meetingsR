@@ -1,4 +1,4 @@
-library("tidyverse")
+suppressMessages(library("tidyverse"))
 
 ##############################
 # 1. Read in the data
@@ -46,5 +46,5 @@ groups = map(rmds, readLines)  %>%
   mutate(country = stringr::str_remove(country, "`r get_btn\\(\\)`")) %>%
   mutate(country = stringr::str_squish(country))
 
-write("# Automatically generated file. Edit the .Rmd file instead.", file = "_book/groups.csv")
-write_csv(groups, path = "_book/groups.csv", append = TRUE)
+write("# Automatically generated file. Edit the .Rmd file instead.", file = "docs/groups.csv")
+write_csv(groups, file = "docs/groups.csv", append = TRUE)
