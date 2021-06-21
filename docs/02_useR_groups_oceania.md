@@ -4,7 +4,7 @@ knit: "bookdown::preview_chapter"
 
 ## Oceania
 
-### Australia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_oceania.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### Australia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_oceania.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Adelaide: [ARUG](https://www.meetup.com/Adelaide-R-Users/)
   * Canberra: [CANRUG](https://www.meetup.com/Canberra-R-Users-Group/)
@@ -14,7 +14,7 @@ knit: "bookdown::preview_chapter"
   * Perth: [WARG](https://www.meetup.com/Western-Australia-R-Group-WARG/)
   * Sydney: [SURF](https://www.meetup.com/R-Users-Sydney/)
 
-### New Zealand <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_oceania.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+### New Zealand <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_oceania.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Auckland: [AKLRUG](https://www.meetup.com/Auckland-R-Users-Group-AKLRUG)
   * Wellington: [WRUG](https://www.meetup.com/Wellington-R-Users-Group-WRUG)

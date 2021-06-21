@@ -1,5 +1,8 @@
 html:
 	Rscript -e 'bookdown::render_book("index.Rmd", output_format = "bookdown::gitbook", clean = FALSE, output_dir = "docs")'
+	Rscript -e 'source("R/parse_groups.R")'
+	Rscript -e 'source("R/parse_events.R")'
+	Rscript -e 'source("R/parse_virtual.R")'
 
 build:
 	make html
