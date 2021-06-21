@@ -1,13 +1,10 @@
 html:
 	Rscript -e 'bookdown::render_book("index.Rmd", output_format = "bookdown::gitbook", clean = FALSE, output_dir = "docs")'
-	cp -fvr css/style.css docs/
+#	cp -fvr css/style.css docs/
 
 build:
 	make html
 	Rscript -e 'browseURL("docs/index.html")'
-
-pdf:
-	Rscript -e 'bookdown::render_book("index.Rmd", output_format = "bookdown::pdf_book")'
 
 md:
 	Rscript -e 'bookdown::render_book("index.Rmd", output_format = "bookdown::pdf_book",clean=FALSE)'
