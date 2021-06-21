@@ -148,3 +148,21 @@ h2, h3, h4 {
 #TOC .has-sub ul li.last > a {
   border-bottom: 0;
 }
+
+li > a.h2-side-link {
+  display: none !important;
+}
+
+a:link img.edit {
+  display:inline-block;
+  height:0.7em;
+  margin-bottom:0;
+}
+
+a:hover img.edit {
+  display:inline-block;
+  height:0.9em;
+  margin-bottom:0;
+}
+
+

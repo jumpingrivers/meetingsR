@@ -1,6 +1,6 @@
 bookdown::gitbook:
   number_sections: false
-  css: [css/style.css,style.css] #A hacky fix to make it work with chapter preview
+  css: [css/style.css,style.css,logo.png] #A hacky fix to make it work with chapter preview
   config:
     toc:
       collapse: section
@@ -8,8 +8,4 @@ bookdown::gitbook:
         <li><a href="./">R Conferences and Meetings</a></li>
       after: |
         <div class="div-wrapper"><a href="https://www.jumpingrivers.com"><img src = "logo.png" style="width:100px;padding-left:10px"></a></div>
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  keep_tex: yes
 
