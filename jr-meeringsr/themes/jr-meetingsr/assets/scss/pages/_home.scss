@@ -1,0 +1,13 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+
+body{
+    background-color: red;
+    @include mq(medium){
+        background-color: green;
+    }
+    @include mq(large){
+        background-color: blue;
+    }
+}

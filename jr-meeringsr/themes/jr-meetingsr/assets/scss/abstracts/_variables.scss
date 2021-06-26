@@ -1,0 +1,92 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+
+
+
+
+/// Regular font family
+/// @type List
+$primary-font: 'Montserrat';
+
+
+/// font sizes for different width screen
+$extra-large: 50px;
+$extra-large-mobile: 46px;
+$large: 30px;
+$medium: 20px;
+$medium-nav: 24px;
+$small: 16px;
+$extra-small: 14px;
+
+
+/// font weight for the website
+// $normal-weight
+$normal: normal;
+$semi-bold: 600;
+$secondary-semi-bold: 500;
+$bold: bold;
+
+
+/// color scheme for the website
+/// @type Color
+$primary-text-dark: #333333;
+$secondary-text-dark: #4F4F4F;
+$primary-text-white: #FFFFFF;
+$green: #02C4C4;
+$black: #000000;
+$nav-sub-color: #BDBDBD;
+
+//background-colors
+$primary-background: #FFFFFF;
+$secondary-background: #F7F7F7;
+$privacy-background: #F8F8F8;
+$secondary-background-light: rgba(247, 247, 247, 0.5);
+$secondary-background-article: #FAFAFA;
+$secondary-background-article-light: rgba(250, 250, 250, 0.5);
+$mobile-nav-background: rgba(229, 229, 229, 1);
+$testimonial-background: #F3F3F3;
+
+//border-colors
+$primary-border: #BFBFBF;
+$primary-border-light: rgba(191, 191, 191, 0.5);
+$secondary-border: #EAEAEA;
+$green-border: #02C4C4;
+$nav-border: #E0E0E0;
+$case-border: #CBCBCB;
+$icon-border: #C4C4C4;
+$card-border: #DDDDDD;
+$article-border: #ECECEC;
+
+
+
+
+
+/// Container's maximum width
+/// @type Length
+$max-width: 1180px !default;
+
+
+
+
+
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+$breakpoints: (
+  'small': 320px,
+  'medium': 768px,
+  'large': 1024px,
+) !default;
+
+
+
+
+
+
+/// Relative or absolute URL where all assets are served from
+/// @type String
+/// @example scss - When using a CDN
+///   $base-url: 'http://cdn.example.com/assets/';
+$base-url: '/assets/' !default;
