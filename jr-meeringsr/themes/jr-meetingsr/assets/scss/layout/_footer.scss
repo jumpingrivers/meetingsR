@@ -1,3 +1,35 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the footer of the site/application.
 // -----------------------------------------------------------------------------
+
+.footer{
+
+    &__sub-footer{
+        background-color: $secondary-background;
+        padding: 1rem 0;
+        @include mq(medium){
+            display: none;
+        }
+    }
+
+    &__footer-nav-item{
+        display: block;
+        color: $secondary-text;
+        font-size: $semi-medium;
+        line-height: 28px;
+
+        &:hover{
+            text-decoration: none;
+        }
+    }
+
+    &__copyright{
+        background-color: $secondary-background-dark;
+        padding: 1rem 0;
+    }
+
+    &__copyright-text{
+        list-style: 13px;
+        color: $secondary-text;
+    }
+}

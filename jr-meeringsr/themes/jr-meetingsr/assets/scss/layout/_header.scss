@@ -1,3 +1,49 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header of the site/application.
 // -----------------------------------------------------------------------------
+
+.header{
+    background-color: $primary-background;
+    padding: 0.6rem 0;
+    border-bottom: 3px solid $primary-border;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    @include mq(medium){
+        padding: 1rem 0;
+    }
+
+    &__content{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+    }
+
+    &__nav-icon{
+        flex: 0 0 8%;
+        @include mq(medium){
+            display: none;
+        }
+
+        &:hover{
+            cursor: pointer;
+        }
+    }
+
+    &__logo{
+        flex: 0 0 90%;
+        display: flex;
+        justify-content: center;
+        @include mq(medium){
+            flex: 0 0 100%;
+        }
+    }
+
+    &__logo-image{
+        margin-left: -35px;
+        @include mq(medium){
+            margin-left: 0;
+        }
+    }
+}

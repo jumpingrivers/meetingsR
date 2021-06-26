@@ -53,3 +53,11 @@
   position: absolute;
   width: 1px;
 }
+
+body{
+  font-family: $primary-font;
+  font-style: normal;
+  font-weight: $normal;
+  box-sizing: border-box;
+  position: relative;
+}

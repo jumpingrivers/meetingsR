@@ -1,3 +1,23 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the button component.
 // -----------------------------------------------------------------------------
+
+.button{
+    font-size: $extra-small;
+    line-height: 11px;
+    text-align: center;
+    color: $secondary-text;
+    background-color: $secondary-background;
+    border: none;
+    border-radius: 42px;
+    padding: 6px 15px;
+    text-decoration: none;
+    @include mq(medium){
+        padding: 11px 15px;
+    }
+
+    &:hover{
+        text-decoration: none;
+        cursor: pointer;
+    }
+}
