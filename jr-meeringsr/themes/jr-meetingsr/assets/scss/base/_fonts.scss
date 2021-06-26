@@ -4,41 +4,33 @@
 
 
 @font-face {
-    font-family: 'Montserrat';
-    src: url('fonts/Montserrat-Regular.ttf') format('truetype');
+    font-family: 'Graphik';
+    src: url('fonts/GraphikRegular.otf') format('opentype');
     font-style: normal;
     font-weight: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    src: url('fonts/Montserrat-Bold.ttf') format('truetype');
+    font-family: 'Graphik';
+    src: url('fonts/GraphikLight.otf') format('opentype');
     font-style: normal;
-    font-weight: bold;
+    font-weight: 300;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    src: url('fonts/Montserrat-SemiBold.ttf') format('truetype');
-    font-style: normal;
-    font-weight: 600;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Montserrat';
-    src: url('fonts/Montserrat-Medium.ttf') format('truetype');
+    font-family: 'Graphik';
+    src: url('fonts/GraphikMedium.otf') format('opentype');
     font-style: normal;
     font-weight: 500;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    src: url('fonts/Montserrat-LightItalic.ttf') format('truetype');
-    font-style: italic;
-    font-weight: normal;
+    font-family: 'Graphik';
+    src: url('fonts/GraphikBold.otf') format('opentype');
+    font-style: normal;
+    font-weight: bold;
     font-display: swap;
 }
