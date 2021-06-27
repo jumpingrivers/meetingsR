@@ -103,14 +103,6 @@
         margin-top: 40px;
     }
 
-    &__month-details{
-        @include mq(medium){
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-    }
-
     &__month-name{
         font-weight: $normal;
         font-size: $medium;
@@ -134,7 +126,7 @@
         position: relative;
         @include mq(medium){
             flex: 0 0 30%;
-            margin: 10px 0 10px 15px;
+            margin: 15px 0 10px 15px;
         }
 
         &::before{
