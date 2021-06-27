@@ -1,0 +1,228 @@
+.card-details{
+    padding: 6rem 0 2rem 0;
+    @include mq(medium){
+        padding: 11rem 0 2rem 0;
+    }
+
+    &__content{
+        @include mq(medium){
+            display: grid;
+            grid-template-columns: 65% 30%;
+            grid-gap: 20px;
+            justify-content: space-between;
+        }
+        @include mq(large){
+            grid-template-columns: 74% 24%;
+        }
+    }
+
+    // &__schedule{
+    //     @include mq(medium){
+    //     }
+    // }
+
+    &__backpage{
+        display: none;
+        @include mq(medium){
+            display: block;
+        }
+    }
+
+    &__heading{
+        margin: 20px 0 0 0;
+        text-align: left;
+    }
+
+    &__slider{
+        margin-top: 30px;
+        position: relative;
+    }
+
+    &__carousel{
+        max-width: 1050px;
+        width: 80%;
+        margin: auto;
+        display: flex;
+        justify-content: flex-start;
+        gap: 5px;
+        overflow: hidden;
+        @include mq(medium){
+            width: 85%;
+        }
+        @include mq(large){
+            width: 90%;
+        }
+    }
+
+    &__carousel-item{
+        font-weight: $normal;
+        font-size: $semi-large;line-height: 22px;
+        text-transform: uppercase;
+        color: $primary-text;
+        padding: 7px 10px;
+        border-radius: 2px;
+        @include mq(medium){
+            font-weight: $light;
+            font-size: $large;
+        }
+
+        &--active{
+            background-color: $secondary-background;
+            color: $secondary-text;
+        }
+
+        &:hover{
+            text-decoration: none;
+        }
+    }
+
+    &__arrow{
+        width: 30px;
+        height: 30px;
+        background-color: $arrows-background;
+        display: grid;
+        place-items: center;
+
+        &:hover{
+            cursor: pointer;
+        }
+
+        &--left{
+            position: absolute;
+            top: 3px;
+            left: 0;
+            img{
+                transform: rotate(180deg);
+            }
+        }
+
+        &--right{
+            position: absolute;
+            top: 3px;
+            right: 0;
+        }
+    }
+
+    &__times{
+        margin-top: 30px;
+    }
+
+    &__month-details{
+        @include mq(medium){
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+    }
+
+    &__month-name{
+        font-weight: $normal;
+        font-size: $medium;
+        line-height: 18px;
+        text-transform: uppercase;
+        color: $primary-text;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        @include mq(medium){
+            font-weight: $semi-bold;
+        }
+    }
+
+    &__month-date{
+        text-align: left;
+        font-size: $semi-medium;
+        line-height: 15px;
+        margin-left: 15px;
+        margin-top: 0px;
+        margin-bottom: 20px;
+        position: relative;
+        @include mq(medium){
+            flex: 0 0 30%;
+            margin: 10px 0 10px 15px;
+        }
+
+        &::before{
+            content: '';
+            display: block;
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background-color: $secondary-background;
+            position: absolute;
+            top: 5px;
+            left: -15px;
+        }
+    }
+
+    &__month-text{
+        text-align: left;
+        font-size: $semi-medium;
+        line-height: 22px;
+        @include mq(medium){
+            flex: 0 0 70%;
+            margin: 10px 0;
+        }
+    }
+
+    &__month-links{
+        text-decoration: underline;
+    }
+
+    &__sidebar{
+        margin-top: 50px;
+        margin-bottom: 100px;
+        @include mq(medium){
+            margin-top: 0;
+            margin-bottom: 30px;
+        }
+    }
+
+    &__cards{
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 10px;
+        @include mq(medium){
+            grid-gap: 20px;
+        }
+    }
+
+    &__card{
+        padding: 20px 45px;
+        background-color: $card-background;
+        border-radius: 2px;
+        @include mq(medium){
+            padding: 20px;
+        }
+    }
+
+    &__card-image{
+        width: 105px;
+        display: block;
+        margin: auto;
+        height: 72px;
+        @include mq(medium){
+            width: 194px;
+            height: 129px;
+        }
+    }
+
+    &__card-heading{
+        font-weight: $normal;
+        font-size: $medium;
+        line-height: 18px;
+        text-align: center;
+        color: $primary-heading;
+        text-transform: uppercase;
+    }
+
+    &__button{
+        display: block;
+        margin: auto;
+        padding: 15px;
+        width: 200px;
+        @include mq(medium){
+            display: table;
+            width: auto;
+        }
+    }
+}

@@ -25,9 +25,7 @@
 
     &__text{
         margin-top: 30px;
-        &--color{
-            color: $primary-heading;
-
+        &--underline{
             &:hover{
                 text-decoration: none;
             }
@@ -75,8 +73,6 @@
     }
 
     &__links{
-        color: $primary-heading;
-
         &:hover{
             text-decoration: none;
         }
