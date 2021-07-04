@@ -36,6 +36,7 @@ The format for listing a Virtual R event is
 ### April
 
   * April 15: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277031496/). [\@rlille_rug](https://twitter.com/rlille_rug).
+  * April 16-18: [WhyR? Turkey 2021](http://whyr.pl/2021/turkey/)
   * April 29: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277132394/). [\@rlille_rug](https://twitter.com/rlille_rug).
 
 ### January
