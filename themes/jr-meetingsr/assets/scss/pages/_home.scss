@@ -30,6 +30,13 @@
                 text-decoration: none;
             }
         }
+
+        a{
+            color: $primary-border;
+            &:hover{
+                text-decoration: none;
+            }
+        }
     }
 }
 
@@ -69,6 +76,16 @@
             position: absolute;
             top: 9px;
             left: -15px;
+        }
+    }
+
+    &__text{
+        
+        a{
+            color: $primary-border;
+            &:hover{
+                text-decoration: none;
+            }
         }
     }
 
