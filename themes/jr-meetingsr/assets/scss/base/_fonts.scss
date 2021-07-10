@@ -1,0 +1,36 @@
+// -----------------------------------------------------------------------------
+// This file contains all @font-face declarations, if any.
+// -----------------------------------------------------------------------------
+
+
+@font-face {
+    font-family: 'Graphik';
+    src: url('fonts/GraphikRegular.otf') format('opentype');
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url('fonts/GraphikLight.otf') format('opentype');
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url('fonts/GraphikMedium.otf') format('opentype');
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url('fonts/GraphikBold.otf') format('opentype');
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+}

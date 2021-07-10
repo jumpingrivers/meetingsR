@@ -1,0 +1,80 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+
+.meetings{
+    background-color: $primary-background;
+    padding: 7rem 0 2rem 0;
+    @include mq(medium){
+        padding: 11rem 0 2rem 0;
+    }
+
+    &__content{
+        max-width: 805px;
+        width: 100%;
+        margin: auto;
+    }
+
+    &__heading{
+        display: table;
+        margin: auto;
+        border-top: 0.8px solid $primary-border;
+        border-bottom: 0.8px solid $primary-border;
+        padding: 10px 0;
+    }
+
+    &__text{
+        margin-top: 30px;
+        &--underline{
+            &:hover{
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+.data{
+    background-color: $primary-background;
+    padding: 0 0 4rem 0;
+    max-width: 470px;
+    width: 100%;
+    margin: auto;
+    @include mq(medium){
+        padding: 0 0 6rem 0;
+    }
+
+    &__list-items{
+        padding: 0;
+        list-style: none;
+        text-align: left;
+        margin-bottom: 40px;
+        @include mq(medium){
+            padding-left: 20px;
+        }
+    }
+
+    &__list-item{
+        margin-bottom: 5px;
+        line-height: 24px;
+        margin-left: 10px;
+        position: relative;
+
+        &::before{
+            content: '';
+            display: block;
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background-color: $secondary-background;
+            position: absolute;
+            top: 9px;
+            left: -15px;
+        }
+    }
+
+    &__links{
+        &:hover{
+            text-decoration: none;
+        }
+    }
+}

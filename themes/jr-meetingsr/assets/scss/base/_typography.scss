@@ -1,0 +1,31 @@
+/**
+ * Basic typography style for copy text
+ */
+
+.primary-heading{
+    font-style: normal;
+    font-weight: $normal;
+    font-size: $extra-large;
+    line-height: 44px;
+    color: $primary-heading;
+    text-align: center;
+    text-transform: uppercase;
+    @include mq(medium){
+        font-weight: $light;
+    }
+}
+
+.primary-text{
+    font-style: normal;
+    font-weight: $normal;
+    font-size: $small;
+    line-height: 18px;
+    color: $primary-text;
+    text-align: center;
+}
+
+.primary-links{
+    font-style: normal;
+    font-weight: $normal;
+    color: $primary-heading;
+}

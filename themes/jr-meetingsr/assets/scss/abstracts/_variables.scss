@@ -1,0 +1,79 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+
+
+
+
+/// Regular font family
+/// @type List
+$primary-font: 'Graphik';
+
+
+/// font sizes for different width screen
+$extra-large: 40px;
+$large: 30px;
+$semi-large: 20px;
+$medium: 16px;
+$semi-medium: 14px;
+$small: 12px;
+$extra-small: 10px;
+
+
+/// font weight for the website
+// $normal-weight
+$normal: normal;
+$light: 300;
+$semi-bold: 500;
+$bold: bold;
+
+
+/// color scheme for the website
+/// @type Color
+$primary-heading: #4898A8;
+$primary-text: rgba(26, 26, 26, 0.67);
+$secondary-text: #FFFFFF;
+
+
+//background-colors
+$primary-background: #FFFFFF;
+$secondary-background: #4898A8;
+$secondary-background-dark: #516E7A;
+$card-background: #F6F6F6;
+$arrows-background: #E5E5E5;
+
+
+//border-colors
+$primary-border: #4898A8;
+
+
+
+
+/// Container's maximum width
+/// @type Length
+$max-width: 1180px !default;
+
+
+
+
+
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+$breakpoints: (
+  'small': 320px,
+  'medium': 768px,
+  'large': 1024px,
+) !default;
+
+
+
+
+
+
+/// Relative or absolute URL where all assets are served from
+/// @type String
+/// @example scss - When using a CDN
+///   $base-url: 'http://cdn.example.com/assets/';
+$base-url: '/assets/' !default;
