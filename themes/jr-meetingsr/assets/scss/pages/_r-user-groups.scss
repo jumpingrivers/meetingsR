@@ -33,20 +33,18 @@
         position: relative;
     }
 
+    &__carousel-wrapper{
+        overflow: hidden;
+        width: 90%;
+        margin: auto;
+    }
+
     &__carousel{
-        max-width: 1050px;
-        width: 80%;
         margin: auto;
         display: flex;
         justify-content: flex-start;
-        gap: 5px;
-        overflow: hidden;
-        @include mq(medium){
-            width: 85%;
-        }
-        @include mq(large){
-            width: 90%;
-        }
+        gap: 10px;
+        transition: .4s;
     }
 
     &__carousel-item{
