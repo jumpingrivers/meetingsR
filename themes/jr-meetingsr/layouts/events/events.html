@@ -30,61 +30,21 @@
                 </nav>
 
                 <div class="card-details__times">
+                    {{$years:= .Params.events.years}}
+                    {{range $years}}
+                    {{range . }}
                     <div class="card-details__time">
-                        <h3 class="card-details__month-name">{{.Params.timesOne.heading | markdownify}}</h3>
+                        <h3 class="card-details__month-name">{{.monthName | markdownify}}</h3>
+                        {{$events:= .events}}
+                        {{range $events}}
                         <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date">{{.Params.timesOne.dateOne | markdownify}}</p>
-                            <p class="primary-text card-details__month-text">{{.Params.timesOne.textone | markdownify}}<a class="primary-links card-details__month-links" href="{{.Params.timesOne.buttonsOne.buttonUrl | markdownify}}">{{.Params.timesOne.buttonsOne.buttonName | markdownify}}</a> {{.Params.timesOne.textTwo | markdownify}}</p>
+                            <p class="primary-text card-details__month-date">{{.day | markdownify}}</p>
+                            <p class="primary-text card-details__month-text">{{.description | markdownify}}</p>
                         </div>
+                        {{end}}
                     </div>
-
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">{{.Params.timesTwo.heading | markdownify}}</h3>
-                        <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date">{{.Params.timesTwo.dateOne | markdownify}}</p>
-                            <p class="primary-text card-details__month-text"><a class="primary-links card-details__month-links" href="{{.Params.timesTwo.buttonsOne.buttonUrl | markdownify}}">{{.Params.timesTwo.buttonsOne.buttonName | markdownify}}</a> {{.Params.timesTwo.textOne | markdownify}}</p>
-                        </div>
-                    </div>
-
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">{{.Params.timesThree.heading | markdownify}}</h3>
-                        <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date">{{.Params.timesThree.dateOne | markdownify}}</p>
-                            <p class="primary-text card-details__month-text"><a class="primary-links card-details__month-links" href="{{.Params.timesThree.buttonsOne.buttonUrl | markdownify}}">{{.Params.timesThree.buttonsOne.buttonName | markdownify}}</a> {{.Params.timesThree.textOne | markdownify}}</p>
-                        </div>
-                        <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date">{{.Params.timesThree.dateTwo | markdownify}}</p>
-                            <p class="primary-text card-details__month-text"><a class="primary-links card-details__month-links" href="{{.Params.timesThree.buttonsTwo.buttonUrl | markdownify}}">{{.Params.timesThree.buttonsTwo.buttonName | markdownify}}</a> {{.Params.timesThree.textTwo | markdownify}}</p>
-                        </div>
-                        <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date">{{.Params.timesThree.dateThree | markdownify}}</p>
-                            <p class="primary-text card-details__month-text"><a class="primary-links card-details__month-links" href="{{.Params.timesThree.buttonsThree.buttonUrl | markdownify}}">{{.Params.timesThree.buttonsThree.buttonName | markdownify}}</a> {{.Params.timesThree.textThree | markdownify}}</p>
-                        </div>
-                    </div>
-
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">{{.Params.timesFour.heading | markdownify}}</h3>
-                        <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date">{{.Params.timesFour.dateOne | markdownify}}</p>
-                            <p class="primary-text card-details__month-text"><a class="primary-links card-details__month-links" href="{{.Params.timesFour.buttonsOne.buttonUrl | markdownify}}">{{.Params.timesFour.buttonsOne.buttonName | markdownify}}</a> {{.Params.timesFour.textOne | markdownify}}</p>
-                        </div>
-                        <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date">{{.Params.timesFour.dateTwo | markdownify}}</p>
-                            <p class="primary-text card-details__month-text"><a class="primary-links card-details__month-links" href="{{.Params.timesFour.buttonsTwo.buttonUrl | markdownify}}">{{.Params.timesFour.buttonsTwo.buttonName | markdownify}}</a> {{.Params.timesFour.textTwo | markdownify}}</p>
-                        </div>
-                        <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date">{{.Params.timesFour.dateThree | markdownify}}</p>
-                            <p class="primary-text card-details__month-text"><a class="primary-links card-details__month-links" href="{{.Params.timesFour.buttonsThree.buttonUrl | markdownify}}">{{.Params.timesFour.buttonsThree.buttonName | markdownify}}</a> {{.Params.timesFour.textThree | markdownify}}</p>
-                        </div>
-                    </div>
-
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">{{.Params.timesFive.heading | markdownify}}</h3>
-                        <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date">{{.Params.timesFive.dateOne | markdownify}}</p>
-                            <p class="primary-text card-details__month-text"><a class="primary-links card-details__month-links" href="{{.Params.timesFive.buttonsOne.buttonUrl | markdownify}}">{{.Params.timesFive.buttonsOne.buttonName | markdownify}}</a> {{.Params.timesFive.textOne | markdownify}}</p>
-                        </div>
-                    </div>
+                    {{end}}
+                    {{end}}
                 </div>
             </div>
             <aside class="card-details__sidebar">
@@ -92,10 +52,10 @@
                     {{$cards:= .Params.cards}}
                     {{range $cards}}
                     <div class="card-details__card">
-                        <img class="card-details__card-image" src="{{.imageUrl}}" alt="{{.imageDescription}}">
-                        <h3 class="card-details__card-heading">{{.heading}}</h3>
-                        <p class="primary-text">{{.text}}</p>
-                        <a class="button card-details__button" href="{{.buttons.buttonUrl}}">{{.buttons.buttonName}}</a>
+                        <img class="card-details__card-image" src="{{.imageUrl | markdownify}}" alt="{{.imageDescription | markdownify}}">
+                        <h3 class="card-details__card-heading">{{.heading | markdownify}}</h3>
+                        <p class="primary-text">{{.text | markdownify}}</p>
+                        <a class="button card-details__button" href="{{.buttons.buttonUrl | markdownify}}">{{.buttons.buttonName | markdownify}}</a>
                     </div>
                     {{end}}
                 </div>

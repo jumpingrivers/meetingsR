@@ -21,16 +21,16 @@
             <div class="primary-text data__text">
                 {{.Params.data.text | markdownify}}
                 <ul class="data__list-items">
-                    {{$items:= .Params.items}}
+                    {{$items:= .Params.data.items}}
                     {{range $items}}
-                    <li class="data__list-item">{{.itemName}} <a class="primary-links data__links" href="{{.itemUrl}}">{{.itemUrlName}}</a></li>
+                    <li class="data__list-item">{{.itemName | markdownify}} <a class="primary-links data__links" href="{{.itemUrl | markdownify}}">{{.itemUrlName | markdownify}}</a></li>
                     {{end}}
                 </ul>
             </div>
             <div class="primary-text data__text">
-                <p>{{.Params.dataTwo.textOne | markdownify}}</p>
-                <a class="primary-links data__links" href="{{.Params.dataTwo.links.linksUrl | markdownify}}">{{.Params.dataTwo.links.linksName | markdownify}}</a>
-                <p>{{.Params.dataTwo.textTwo | markdownify}}</p>
+                <p>{{.Params.data.footer.textOne | markdownify}}</p>
+                <a class="primary-links data__links" href="{{.Params.data.footer.linksUrl | markdownify}}">{{.Params.data.footer.linksName | markdownify}}</a>
+                <p>{{.Params.data.footer.textTwo | markdownify}}</p>
             </div>
         </div>
     </div>

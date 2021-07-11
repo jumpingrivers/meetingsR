@@ -158,6 +158,11 @@
             flex: 0 0 70%;
             margin: 10px 0;
         }
+
+        a{
+            color: $primary-heading;
+            text-decoration: underline;
+        }
     }
 
     &__month-links{

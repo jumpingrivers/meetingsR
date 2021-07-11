@@ -53,25 +53,24 @@ data:
     
     Additionally, you can download a convenient CSV file of the data"
 
-items:
-    -
-        itemName: "Conferences:"
-        itemUrlName: "https://jumpingrivers.github.io/meetingsR/events.csv"
-        itemUrl: "https://jumpingrivers.github.io/meetingsR/events.csv"
-    -
-        itemName: "User Groups:"
-        itemUrlName: "https://jumpingrivers.github.io/meetingsR/groups.csv"
-        itemUrl: "https://jumpingrivers.github.io/meetingsR/groups.csv"
-    -
-        itemName: "Virtual events:"
-        itemUrlName: "https://jumpingrivers.github.io/meetingsR/virtual.csv"
-        itemUrl: "https://jumpingrivers.github.io/meetingsR/virtual.csv"
+    items:
+        -
+            itemName: "Conferences:"
+            itemUrlName: "https://jumpingrivers.github.io/meetingsR/events.csv"
+            itemUrl: "https://jumpingrivers.github.io/meetingsR/events.csv"
+        -
+            itemName: "User Groups:"
+            itemUrlName: "https://jumpingrivers.github.io/meetingsR/groups.csv"
+            itemUrl: "https://jumpingrivers.github.io/meetingsR/groups.csv"
+        -
+            itemName: "Virtual events:"
+            itemUrlName: "https://jumpingrivers.github.io/meetingsR/virtual.csv"
+            itemUrl: "https://jumpingrivers.github.io/meetingsR/virtual.csv"
 
-dataTwo:
-    textOne: "The R scripts used to generate these CSV files are also located in the GitHub repo"
-    links:
+    footer:
+        textOne: "The R scripts used to generate these CSV files are also located in the GitHub repo"
         linksName: "https://github.com/jumpingrivers/meetingsR/tree/master/R"
-        linksUrl: "#"
-    textTwo: "These scripts were initially created via the [eRum competition](#)"
+        linksUrl: "https://github.com/jumpingrivers/meetingsR/tree/master/R"
+        textTwo: "These scripts were initially created via the [eRum competition](#)"
     
 ---

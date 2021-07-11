@@ -2,66 +2,68 @@
 title: "Events"
 layout: "events"
 
-timesOne:
-    heading: "December"
-    dateOne: "December 2-4"
-    textOne: "The Use of R in Official Statistics - "
-    buttonsOne:
-        buttonName: "uRos2020."
-        buttonUrl: "#"
-    textTwo: "Vienna, Austria."
-
-timesTwo:
-    heading: "April"
-    dateOne: "April 17"
-    buttonsOne:
-        buttonName: "Women+ Data Science @MSU."
-        buttonUrl: "#"
-    textOne: "East Lansing, MI, USA."
-
-timesThree:
-    heading: "March"
-    dateOne: "March 7"
-    buttonsOne:
-        buttonName: "SatRdays Johannesburg,"
-        buttonUrl: "#"
-    textOne: "Johannesburg South Africa."
-    dateTwo: "March 14"
-    buttonsTwo:
-        buttonName: "SatRday Neuchâtel,"
-        buttonUrl: "#"
-    textTwo: "Neuchâtel, Switzerland."
-    dateThree: "March 14-15"
-    buttonsThree:
-        buttonName: "Chicago R Collaborative."
-        buttonUrl: "#"
-    textThree: "Chicago, USA. #chircollab"
-
-timesFour:
-    heading: "February"
-    dateOne: "February 7"
-    buttonsOne:
-        buttonName: "SatRdays Johannesburg"
-        buttonUrl: "#"
-    textOne: "Johannesburg, South Africa."
-    dateTwo: "February 14"
-    buttonsTwo:
-        buttonName: "SatRday Neuchâtel"
-        buttonUrl: "#"
-    textTwo: "Neuchâtel, Switzerland."
-    dateThree: "February 14-15"
-    buttonsThree:
-        buttonName: "Chicago R Collaborative."
-        buttonUrl: "#"
-    textThree: "Chicago, USA. #chircollab"
-
-timesFive:
-    heading: "January"
-    dateOne: "January 27-30"
-    buttonsOne:
-        buttonName: "SatRdays Johannesburg"
-        buttonUrl: "#"
-    textOne: "Johannesburg, South Africa."
+events:
+    years:
+        "2021": 
+            -    
+                monthName: "December"
+                events:
+                    -   day: "december 2-4"
+                        description: "The Use of R in Official Statistics - [uRos2020](#). Vienna, Austria."
+            -    
+                monthName: "April"
+                events:
+                    -   day: "April 17" 
+                        description: "[Women+ Data Science @MSU](#) East Lansing, MI, USA."
+            -    
+                monthName: "March"
+                events:
+                    -   day: "March 7"
+                        description: "[SatRdays Johannesburg](#) Johannesburg, South Africa."
+                    -   day: "March 14"
+                        description: "[SatRday Neuchâtel](#) Neuchâtel, Switzerland."
+                    -   day: "March 14-15" 
+                        description: "[Chicago R Collaborative.](#) Chicago, USA. #chircollab" 
+            -    
+                monthName: "Fabruary"
+                events:
+                    -   day: "Fabruary 7"
+                        description: "[SatRdays Johannesburg](#) Johannesburg, South Africa."
+                    -   day: "Fabruary 14" 
+                        description: "[SatRday Neuchâtel](#) Neuchâtel, Switzerland."
+                    -   day: "Fabruary 14-15" 
+                        description: "[Chicago R Collaborative.](#) Chicago, USA. #chircollab"
+            -    
+                monthName: "January"
+                events:
+                    -   day: "January 27-30"
+                        description: "[SatRdays Johannesburg](#) Johannesburg, South Africa."
+        # "2020": 
+        #     -    
+        #         monthName: "December"
+        #         eventDays:
+        #             - "december 4-6"
+        #             - "december 2-3" 
+        #         description: ""
+        #     -    
+        #         monthName: "December"
+        #         eventDays:
+        #             - "december 4-6"
+        #             - "december 2-3" 
+        #         description: ""
+        # "2019": 
+        #     -    
+        #         monthName: "December"
+        #         eventDays:
+        #             - "december 4-6"
+        #             - "december 2-3" 
+        #         description: ""
+        #     -    
+        #         monthName: "December"
+        #         eventDays:
+        #             - "december 4-6"
+        #             - "december 2-3" 
+        #         description: ""
 
 cards:
     -

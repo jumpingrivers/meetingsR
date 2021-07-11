@@ -29,59 +29,31 @@
                 </nav>
 
                 <div class="card-details__times">
+                    {{$countries:= .Params.groups.countries}}
+                    {{range $countries}}
+                    {{range .}}
                     <div class="card-details__time">
-                        <h3 class="card-details__month-name">Funding</h3>
-                        <p class="primary-text card-details__month-date">The <a class="primary-links card-details__month-links" href="#">R Consortium</a> provides funding for local useR groups.</p>
+                        <h3 class="card-details__month-name">{{.countryName | markdownify}}</h3>
+                        {{$groups:= .groups}}
+                        {{range $groups}}
+                        <p class="primary-text card-details__month-date">{{.description | markdownify}}</p>
+                        {{end}}
                     </div>
-
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">Asia</h3>
-                        <p class="primary-text card-details__month-date">April 17</p>
-                    </div>
-
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">China</h3>
-                        <p class="primary-text card-details__month-date">Xiamen: <a class="primary-links card-details__month-links" href="#">XMU-R</a></p>
-                    </div>
-
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">Hong Kong</h3>
-                        <p class="primary-text card-details__month-date">Hong Kong: <a class="primary-links card-details__month-links" href="#">Hong Kong R User Group</a></p>
-                    </div>
-
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">India</h3>
-                        <p class="primary-text card-details__month-date">Bangalore: <a class="primary-links card-details__month-links" href="#">Hong Bengaluru R UseR Group (BRUG)</a></p>
-                        <p class="primary-text card-details__month-date">Chennai: <a class="primary-links card-details__month-links" href="#">R Users Group Chennai</a></p>
-                        <p class="primary-text card-details__month-date">Delhi: <a class="primary-links card-details__month-links" href="#">Delhi NCR R useR Group</a></p>
-                        <p class="primary-text card-details__month-date">Guna: <a class="primary-links card-details__month-links" href="#">R Meetup Guna; @RMeetupGuna</a></p>
-                        <p class="primary-text card-details__month-date">Hyderabad: <a class="primary-links card-details__month-links" href="#">R Users Group Hyderabad RUGH</a></p>
-                        <p class="primary-text card-details__month-date">Mumbai: <a class="primary-links card-details__month-links" href="#">mumbai-r-user-group</a></p>
-                        <p class="primary-text card-details__month-date">New Delhi: <a class="primary-links card-details__month-links" href="#">New Delhi UseR Group</a></p>
-                        <p class="primary-text card-details__month-date">Pune: <a class="primary-links card-details__month-links" href="#">Pune R User Group</a></p>
-                    </div>
+                    {{end}}
+                    {{end}}
                 </div>
             </div>
             <aside class="card-details__sidebar">
                 <div class="card-details__cards">
+                    {{$cards:= .Params.cards}}
+                    {{range $cards}}
                     <div class="card-details__card">
-                        <img class="card-details__card-image" src="/images/r.png" alt="">
-                        <h3 class="card-details__card-heading">R User Groups</h3>
-                        <p class="primary-text">Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea</p>
-                        <a class="button card-details__button" href="#">View R User Groups</a>
+                        <img class="card-details__card-image" src="{{.imageUrl | markdownify}}" alt="{{.imageDescription | markdownify}}">
+                        <h3 class="card-details__card-heading">{{.heading | markdownify}}</h3>
+                        <p class="primary-text">{{.text | markdownify}}</p>
+                        <a class="button card-details__button" href="{{.buttons.buttonUrl | markdownify}}">{{.buttons.buttonName | markdownify}}</a>
                     </div>
-                    <div class="card-details__card">
-                        <img class="card-details__card-image" src="/images/r-ladies.png" alt="">
-                        <h3 class="card-details__card-heading">R-Ladies Groups</h3>
-                        <p class="primary-text">Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea</p>
-                        <a class="button card-details__button" href="#">View R-Ladies Groups</a>
-                    </div>
-                    <div class="card-details__card">
-                        <img class="card-details__card-image" src="/images/virtual.png" alt="">
-                        <h3 class="card-details__card-heading">Virtual Events</h3>
-                        <p class="primary-text">Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea</p>
-                        <a class="button card-details__button" href="#">View Virtual Events</a>
-                    </div>
+                    {{end}}
                 </div>
             </aside>
         </div>

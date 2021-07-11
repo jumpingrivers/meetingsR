@@ -140,6 +140,11 @@
             top: 5px;
             left: -15px;
         }
+
+        a{
+            color: $primary-heading;
+            text-decoration: underline;
+        }
     }
 
     &__month-text{
