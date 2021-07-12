@@ -42,9 +42,14 @@ cards:
         heading: "Virtual Events"
         slug: "virtual-events"
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
-        
+        buttonName: "View Virtual Events"
+            
+         
+
+data:
     heading: "THE DATA"
     text: "All files used to build this site can be found on the associated GitHub page.
+    
     
     Additionally, you can download a convenient CSV file of the data"
 
