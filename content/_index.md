@@ -17,34 +17,34 @@ cards:
         imageUrl: "/images/events.png"
         imageDescription: ""
         heading: "EVENTS"
+        slug: "events"
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
-        button: 
-            name: "View Events"
-            url: "/events"
+        buttonName: "Events"
     -
         imageUrl: "/images/r.png"
         imageDescription: ""
         heading: "R User Groups"
+        slug: "r-user-groups"
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
-        button: 
-            name: "View R User Groups"
-            url: "/r-user-groups"
+        buttonName: "View R User Groups"
+           
     -
         imageUrl: "/images/r-ladies.png"
         imageDescription: ""
         heading: "R-Ladies Groups"
+        slug: "r-ladies-groups"
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
-        button: 
-            name: "View R-Ladies Groups"
-            url: "/r-user-groups"
+        buttonName: "View R-Ladies Groups"
+            
     -
         imageUrl: "/images/virtual.png"
         imageDescription: ""
         heading: "Virtual Events"
+        slug: "virtual-events"
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
-        button: 
-            name: "View Virtual Events"
-            url: "/events"
+        buttonName: "View Virtual Events"
+            
+         
 
 data:
     heading: "THE DATA"

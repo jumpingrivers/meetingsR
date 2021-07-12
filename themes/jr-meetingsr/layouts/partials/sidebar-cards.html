@@ -1,0 +1,18 @@
+<aside class="card-details__sidebar">
+    <div class="card-details__cards">
+        {{$slug:= .Slug}}
+        {{with .Site.Home}}
+        {{$cards:= .Params.cards}}
+        {{range $cards}}
+        {{if ne $slug .slug}}
+        <div class="card-details__card">
+            <img class="card-details__card-image" src="{{.imageUrl | markdownify}}" alt="{{.imageDescription | markdownify}}">
+            <h3 class="card-details__card-heading">{{.heading | markdownify}}</h3>
+            <p class="primary-text">{{.text | markdownify}}</p>
+            <a class="button card-details__button" href="/{{.slug | markdownify}}">{{.buttonName | markdownify}}</a>
+        </div>
+        {{end}}
+        {{end}}
+        {{end}}
+    </div>
+</aside>

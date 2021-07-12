@@ -1,6 +1,7 @@
 ---
 title: "Events"
 layout: "events"
+slug: "events"
 
 events:
     years:
