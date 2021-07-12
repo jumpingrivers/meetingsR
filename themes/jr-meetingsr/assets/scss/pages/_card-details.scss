@@ -35,8 +35,17 @@
 
     &__carousel-wrapper{
         overflow: hidden;
-        width: 90%;
+        width: 80%;
         margin: auto;
+        @include mq('550px'){
+            width: 85%;
+        }
+        @include mq(medium){
+            width: 80%;
+        }
+        @include mq(large){
+            width: 90%;
+        }
     }
 
     &__carousel{
@@ -147,6 +156,11 @@
             position: absolute;
             top: 5px;
             left: -15px;
+        }
+
+        a{
+            color: $primary-heading;
+            text-decoration: underline;
         }
     }
 
