@@ -45,19 +45,7 @@
                     {{end}}
                 </div>
             </div>
-            <aside class="card-details__sidebar">
-                <div class="card-details__cards">
-                    {{$cards:= .Params.cards}}
-                    {{range $cards}}
-                    <div class="card-details__card">
-                        <img class="card-details__card-image" src="{{.imageUrl | markdownify}}" alt="{{.imageDescription | markdownify}}">
-                        <h3 class="card-details__card-heading">{{.heading | markdownify}}</h3>
-                        <p class="primary-text">{{.text | markdownify}}</p>
-                        <a class="button card-details__button" href="{{.buttons.buttonUrl | markdownify}}">{{.buttons.buttonName | markdownify}}</a>
-                    </div>
-                    {{end}}
-                </div>
-            </aside>
+            {{ partial "sidebar-cards.html" . }}
         </div>
     </div>
 </section>

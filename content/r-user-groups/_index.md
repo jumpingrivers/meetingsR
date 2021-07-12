@@ -1,7 +1,7 @@
 ---
 title: "R User Groups"
 layout: "r-user-groups"
-
+slug: "r-user-groups"
 groups:
     countries:
         "asia": 
