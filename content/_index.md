@@ -7,7 +7,7 @@ hero:
     text: "This site attempts to list R conferences and local useR groups. Please feel free to add any missing group or conference. In particular, most of the associated twitter names are missing. There are currently 466 R user groups and events. To propose a change, just click the pencil icon next to the titles.
 
     
-    Keep up to date by following [@rstats_meetings](#).
+    Keep up to date by following [@rstats_meetings](https://twitter.com/rstats_meetings).
 
     
     This list is maintained by Jumping Rivers. We also maintain a corresponding list of [Data Science conferences and events](#)."
@@ -36,7 +36,7 @@ cards:
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
         button: 
             name: "View R-Ladies Groups"
-            url: "#"
+            url: "/r-user-groups"
     -
         imageUrl: "/images/virtual.png"
         imageDescription: ""
@@ -44,7 +44,7 @@ cards:
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
         button: 
             name: "View Virtual Events"
-            url: "#"
+            url: "/events"
 
 data:
     heading: "THE DATA"

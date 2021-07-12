@@ -49,7 +49,7 @@ cards:
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
         buttons:
             buttonName: "View R-Ladies Groups"
-            buttonUrl: "#"
+            buttonUrl: "/r-user-groups"
     -
         imageUrl: "/images/virtual.png"
         imageDescription: ""
@@ -57,5 +57,5 @@ cards:
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
         buttons:
             buttonName: "View Virtual Events"
-            buttonUrl: "#"
+            buttonUrl: "/events"
 ---

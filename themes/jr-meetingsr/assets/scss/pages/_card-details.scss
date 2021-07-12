@@ -1,7 +1,7 @@
 .card-details{
     padding: 6rem 0 2rem 0;
     @include mq(medium){
-        padding: 11rem 0 2rem 0;
+        padding: 11rem 0 8rem 0;
     }
 
     &__content{
@@ -105,6 +105,17 @@
             top: 3px;
             right: 0;
             z-index: 1;
+        }
+    }
+
+    &__years{
+        font-size: $large;
+        line-height: 35px;
+        font-weight: $semi-bold;
+        color: $primary-heading;
+
+        &:hover{
+            text-decoration: none;
         }
     }
 

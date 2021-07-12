@@ -4,7 +4,7 @@
     <div class="container">
         <div class="card-details__content">
             <div class="card-details__schedule">
-                <a class="card-details__backpage" href="#"><img src="/images/backpage-arrow.svg" alt=""></a>
+                <a class="card-details__backpage" href="/"><img src="/images/backpage-arrow.svg" alt=""></a>
                 <h1 class="primary-heading card-details__heading">EVENTS</h1>
                 <nav class="card-details__slider">
                     <div class="card-details__arrow card-details__arrow--left">
@@ -32,9 +32,11 @@
                 </nav>
 
                 <div class="card-details__times">
+                    
                     {{$years:= .Params.events.years}}
-                    {{range $years}}
-                    {{range . }}
+                    {{range $index,$year:= $years}}
+                    <h2><a class="card-details__years" href="#">{{$index}}</a></h2>
+                    {{range $year }}
                     <div class="card-details__time">
                         <h3 class="card-details__month-name">{{.monthName | markdownify}}</h3>
                         {{$events:= .events}}
