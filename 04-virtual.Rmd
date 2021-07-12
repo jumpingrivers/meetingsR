@@ -13,6 +13,7 @@ The format for listing a Virtual R event is
 ### November
 
   * November 24-26: [The Use of R in Official Statistics](https://r-project.ro/conference2021.html)
+  * November 10-12: [LatinR 2021](https://latin-r.com/en). [\@latinr_conf](https://twitter.com/latinr_conf)
 
 ### September
 
@@ -57,6 +58,7 @@ The format for listing a Virtual R event is
 ### October
 
   * October 12-16: [R in Pharma](https://rinpharma.com/).
+  * October 7-9: [LatinR 2020](https://github.com/LatinR/presentaciones-LatinR2020). [\@latinr_conf](https://twitter.com/latinr_conf)
 
 ## September
 
