@@ -36,7 +36,7 @@ cards:
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
         button: 
             name: "View R-Ladies Groups"
-            url: "/r-user-groups"
+            url: "/r-ladies-groups"
     -
         imageUrl: "/images/virtual.png"
         imageDescription: ""
@@ -44,7 +44,7 @@ cards:
         text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
         button: 
             name: "View Virtual Events"
-            url: "/events"
+            url: "/virtual-events"
 
 data:
     heading: "THE DATA"
