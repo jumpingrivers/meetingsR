@@ -2,53 +2,35 @@
 title: "R User Groups"
 layout: "r-user-groups"
 slug: "r-user-groups"
-groups:
-    countries:
-        "R User Groups": 
-            -    
-                countryName: "R User Groups"
-                groups:
-                    -   description: "UseR groups are listed by continents than by country."
-                    -   description: "The suggested format for listing a group is:"
 
-        "Funding": 
-            -    
-                countryName: "Funding"
-                groups:
-                    -   description: "The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-program) provides funding for local useR groups."
+pageHeading: ""
+pageDescription: "UseR groups are listed by continents than by country.
 
-        "Asia": 
-            -    
-                countryName: "Funding"
-                groups:
-                    -   description: "The [R Consortium](#) provides funding for local useR groups."
-            -    
-                countryName: "Asia"
-                groups:
-                    -   description: "April 17"
-            -    
-                countryName: "China"
-                groups:
-                    -   description: "Xiamen: [XMU-R](#)" 
-            -    
-                countryName: "Hong Kong"
-                groups:
-                    -   description: "Hong Kong: [Hong Kong R User Group](#)"
-            -    
-                countryName: "India"
-                groups:
-                    -   description: "Bangalore: [Hong Bengaluru R UseR Group (BRUG)](#)"
-                    -   description: "Chennai: [R Users Group Chennai](#)"
-                    -   description: "Delhi: [Delhi NCR R useR Group](#)"
-                    -   description: "Guna: [R Meetup Guna; @RMeetupGuna](#)"
-                    -   description: "Hyderabad: [R Users Group Hyderabad RUGH](#)"
-                    -   description: "Mumbai: [mumbai-r-user-group](#)"
-                    -   description: "New Delhi: [New Delhi UseR Group](#)"
-                    -   description: "Pune: [Pune R User Group](#)"
-            -    
-                countryName: "Japan"
-                groups:
-                    -   description: "Japan: [Japan.R](http://japanr.net/); [@gepuro](https://twitter.com/gepuro)"
+                The suggested format for listing a group is:
+
+                * Town name: [Group name & link](http://www.example.com/); [@Twitter_handle](http://www.example.com/)"
+r_users_groups:
+    - continent: "Asia"
+      groups:
+        - countryName: "China"
+          details:
+            - "* Xiamen: [XMU-R](#)" 
+        - countryName: "Hong Kong"
+          details:
+            - "* Hong Kong: [Hong Kong R User Group](#)"
+        - countryName: "India"
+          details:
+            - "* Bangalore: [Hong Bengaluru R UseR Group (BRUG)](#)"
+            - "* Chennai: [R Users Group Chennai](#)"
+            - "* Delhi: [Delhi NCR R useR Group](#)"
+            - "* [R Meetup Guna; @RMeetupGuna](#)"
+            - "* Hyderabad: [R Users Group Hyderabad RUGH](#)"
+            - "* Mumbai: [mumbai-r-user-group](#)"
+            - "* New Delhi: [New Delhi UseR Group](#)"
+            - "* Pune: [Pune R User Group](#)"
+        - countryName: "Japan"
+          details:
+            - "* Japan: [Japan.R](http://japanr.net/); [@gepuro](https://twitter.com/gepuro)"
             -    
                 countryName: "Hokkaido"
                 groups:
