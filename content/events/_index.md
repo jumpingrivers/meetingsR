@@ -4,8 +4,8 @@ layout: "events"
 slug: "events"
 
 events:
-    years:
-        "2021": 
+    -   year: "2021"
+        eventDetails: 
             -    
                 monthName: "December"
                 events:
@@ -39,7 +39,8 @@ events:
                 events:
                     -   day: "January 27-30"
                         description: "[SatRdays Johannesburg](#) Johannesburg, South Africa."
-        "2020": 
+    -   year: "2020"
+        eventDetails: 
             -    
                 monthName: "December"
                 events:
@@ -73,7 +74,8 @@ events:
                 events:
                     -   day: "January 27-30"
                         description: "[rstudio::conf(2020)](https://www.rstudio.com/conference/). San Francisco, USA."
-        "2019": 
+    -   year: "2019"
+        eventDetails:  
             -    
                 monthName: "December"
                 events:
@@ -165,7 +167,8 @@ events:
                         description: "[rstudio::conf](https://www.rstudio.com/conference/). Austin, USA."
                     -   day: "January 24-26"
                         description: "[ConectaR 2019](http://www.conectar2019.ucr.ac.cr/). San Jose, Costa Rica."
-        "2018": 
+    -   year: "2018"
+        eventDetails:  
             -    
                 monthName: "December"
                 events:
@@ -247,7 +250,8 @@ events:
                 events:
                     -   day: "January 31, Feb 1-3"
                         description: "[rstudio::conf](https://www.rstudio.com/conference/). San Diego, USA."
-        "2017": 
+    -   year: "2017"
+        eventDetails: 
             -    
                 monthName: "December"
                 events:
@@ -320,7 +324,8 @@ events:
                 events:
                     -   day: "January 11-14"
                         description: "[rstudio::conf](https://www.rstudio.com/conference/). Kissmmee, USA."
-        "2016": 
+    -   year: "2016"
+        eventDetails: 
             -    
                 monthName: "December"
                 events:
@@ -366,30 +371,6 @@ events:
                     -   
                         day: "April"
                         description: "[New York R Conference 2016](http://www.rstats.nyc). New York, USA."
-cards:
-    -
-        imageUrl: "/images/r.png"
-        imageDescription: ""
-        heading: "R User Groups"
-        text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
-        buttons:
-            buttonName: "View R User Groups"
-            buttonUrl: "/r-user-groups"
-    -
-        imageUrl: "/images/r-ladies.png"
-        imageDescription: ""
-        heading: "R-Ladies Groups"
-        text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
-        buttons:
-            buttonName: "View R-Ladies Groups"
-            buttonUrl: "/r-user-groups"
-    -
-        imageUrl: "/images/virtual.png"
-        imageDescription: ""
-        heading: "Virtual Events"
-        text: "Lorem ipsum dolor sit amet, possit tibique no eam, porro decore eu sea"
-        buttons:
-            buttonName: "View Virtual Events"
-            buttonUrl: "/events"
+
 
 ---
