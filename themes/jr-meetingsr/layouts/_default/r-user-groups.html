@@ -32,13 +32,16 @@
 
                 <div class="card-details__times">
                     {{$countries:= .Params.groups.countries}}
-                    {{range $countries}}
-                    {{range .}}
+                    {{range $index,$countrie:= $countries}}
+                    <h2><a class="card-details__years" href="#">{{$index}}</a></h2>
+                    {{range $countrie }}
                     <div class="card-details__time">
                         <h3 class="card-details__month-name">{{.countryName | markdownify}}</h3>
-                        {{$groups:= .groups}}
-                        {{range $groups}}
-                        <p class="primary-text card-details__month-date">{{.description | markdownify}}</p>
+                        {{$countries:= .groups}}
+                        {{range $countries}}
+                        <div class="card-details__month-details">
+                            <p class="primary-text card-details__month-date card-details__month-date--groups">{{.description | markdownify}}</p>
+                        </div>
                         {{end}}
                     </div>
                     {{end}}
