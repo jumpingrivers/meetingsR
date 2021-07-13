@@ -7,6 +7,12 @@ knit: "bookdown::preview_chapter"
 The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
+  
+## 2021
+
+### June
+
+* Dates TBA: [useR! 2022](https://user2022.r-project.org/). Nashville TN, USA. [\@user2022_conf](https://twitter.com/user2022_conf)
 
 ## 2020 `r get_btn()` {-}
 
