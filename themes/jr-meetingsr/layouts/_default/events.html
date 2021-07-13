@@ -32,11 +32,12 @@
                 </nav>
 
                 <div class="card-details__times">
-                    {{$years:= .Params.events.years}}
-                    {{range $index,$year:= $years}}
-                    <h2><a class="card-details__years" href="#">{{$index}}</a></h2>
-                    {{range $year }}
-                    <div class="card-details__time">
+                    
+                    {{$years:= .Params.events}}
+                    {{range $years}}
+                    <h2><a class="card-details__years" href="#">{{.year}}</a></h2>
+                    {{range .eventDetails }}
+                    <div class="card-details__time">                      
                         <h3 class="card-details__month-name">{{.monthName | markdownify}}</h3>
                         {{$events:= .events}}
                         {{range $events}}
@@ -48,6 +49,10 @@
                     </div>
                     {{end}}
                     {{end}}
+                   
+                  
+
+                    
                 </div>
             </div>
         {{ partial "sidebar-cards.html" . }}
