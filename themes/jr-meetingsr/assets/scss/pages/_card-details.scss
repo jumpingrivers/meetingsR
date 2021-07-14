@@ -108,7 +108,11 @@
         }
     }
 
-    &__years{
+    &__category-wrapper{
+        margin-top: 40px;
+    }
+
+    &__category{
         font-size: $large;
         line-height: 35px;
         font-weight: $semi-bold;
@@ -120,11 +124,7 @@
         }
     }
 
-    &__times{
-        margin-top: 40px;
-    }
-
-    &__month-details{
+    &__sub-category-details{
         @include mq(medium){
             display: flex;
             justify-content: space-between;
@@ -132,7 +132,7 @@
         }
     }
 
-    &__month-name{
+    &__sub-category{
         font-weight: $normal;
         font-size: $medium;
         line-height: 18px;

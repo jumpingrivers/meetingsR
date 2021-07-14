@@ -31,17 +31,17 @@
                     </div>
                 </nav>
 
-                <div class="card-details__times">
+                <div class="card-details__category-wrapper">
                     
                     {{$years:= .Params.events}}
                     {{range $years}}
-                    <h2><a class="card-details__years" href="#">{{.year}}</a></h2>
+                    <h2><a class="card-details__category" href="#">{{.year}}</a></h2>
                     {{range .eventDetails }}
-                    <div class="card-details__time">                      
-                        <h3 class="card-details__month-name">{{.monthName | markdownify}}</h3>
+                    <div class="card-details__sub-category-wrapper">                      
+                        <h3 class="card-details__sub-category">{{.monthName | markdownify}}</h3>
                         {{$events:= .events}}
                         {{range $events}}
-                        <div class="card-details__month-details">
+                        <div class="card-details__sub-category-details">
                             <p class="primary-text card-details__month-date">{{.day | markdownify}}</p>
                             <p class="primary-text card-details__month-text">{{.description | markdownify}}</p>
                         </div>

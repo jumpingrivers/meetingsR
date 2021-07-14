@@ -31,18 +31,27 @@
                     </div>
                 </nav>
 
-                <div class="card-details__times">
-                    {{$continent:= .Params.r_users_groups.continent}}
-                    {{range $index,$countrie:= $continent}}
-                    <h2><a class="card-details__years" href="#">{{$index}}</a></h2>
-                    {{range $countrie }}
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">{{.countryName | markdownify}}</h3>
-                        {{$continent:= .groups}}
-                        {{range $continent}}
-                        <div class="card-details__month-details">
-                            <p class="primary-text card-details__month-date card-details__month-date--groups">{{.descriptiondetails | markdownify}}</p>
+                <div class="card-details__category-wrapper">
+                    {{$continents:= .Params.r_users_groups}}
+                    {{range $continents}}
+                    <h2 class="card-details__category">{{ .continent | markdownify}}</h2>
+                    {{range .groups }}
+                    <div class="card-details__sub-category-wrapper">
+                        <h3 class="card-details__sub-category">{{.countryName | markdownify}}</h3>
+                        {{range .details}}
+                        <div class="card-details__sub-category-details">
+                            {{ . | markdownify}}
                         </div>
+                        {{end}}
+                        {{if .states}}
+                            {{range .states}}
+                            <h4 class="card-details__sub-category--small">{{ .name | markdownify}}</h4>
+                            {{range .details}}
+                            <div class="card-details__sub-category-details">
+                                {{ . | markdownify}}
+                            </div>
+                            {{end}}
+                            {{end}}
                         {{end}}
                     </div>
                     {{end}}
