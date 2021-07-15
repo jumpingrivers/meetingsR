@@ -32,29 +32,14 @@
                 </nav>
 
                 <div class="card-details__category-wrapper">
-                    {{$continents:= .Params.r_users_groups}}
-                    {{range $continents}}
-                    <h2 class="card-details__category">{{ .continent | markdownify}}</h2>
-                    {{range .groups }}
+                    {{$groups:= .Params.r_ladies_groups}}
+                    {{range $groups}}
                     <div class="card-details__sub-category-wrapper">
                         <h3 class="card-details__sub-category">{{.countryName | markdownify}}</h3>
                         {{range .details}}
-                        <div class="card-details__sub-category-details">
-                            {{ . | markdownify}}
-                        </div>
-                        {{end}}
-                        {{if .states}}
-                            {{range .states}}
-                            <h4 class="card-details__sub-category--small">{{ .name | markdownify}}</h4>
-                            {{range .details}}
-                            <div class="card-details__sub-category-details">
-                                {{ . | markdownify}}
-                            </div>
-                            {{end}}
-                            {{end}}
+                        <div class="card-details__sub-category-details">{{ . | markdownify}}</div>
                         {{end}}
                     </div>
-                    {{end}}
                     {{end}}
                 </div>
             </div>

@@ -4,11 +4,8 @@ layout: "r-user-groups"
 slug: "r-user-groups"
 
 pageHeading: ""
-pageDescription: "UseR groups are listed by continents than by country.
+pageDescription: ""
 
-                The suggested format for listing a group is:
-
-                * Town name: [Group name & link](http://www.example.com/); [@Twitter_handle](http://www.example.com/)"
 r_users_groups:
     - continent: "Asia"
       groups:
