@@ -33,7 +33,7 @@
 
                 <div class="card-details__category-wrapper">
                     
-                    {{$years:= .Params.events}}
+                    {{$years:= .Params.virtual_events}}
                     {{range $years}}
                     <h2 id="category"><a class="card-details__category" href="#">{{.year | markdownify}}</a></h2>
                     {{range .eventDetails }}

@@ -1,12 +1,12 @@
 ---
 title: "Virtual Events"
-layout: "events"
+layout: "virtual-events"
 slug: "virtual-events"
 
 pageHeading: ""
 pageDescription: ""
 
-virtual-events:
+virtual_events:
     - year: "2021"
       eventDetails: 
             - monthName: "September"
