@@ -26,6 +26,10 @@
     &__heading{
         margin: 20px 0 0 0;
         text-align: left;
+
+        a{
+            text-decoration: none;
+        }
     }
 
     &__slider{
@@ -256,6 +260,10 @@
         text-align: center;
         color: $primary-heading;
         text-transform: uppercase;
+
+        a{
+            text-decoration: none;
+        }
     }
 
     &__button{
