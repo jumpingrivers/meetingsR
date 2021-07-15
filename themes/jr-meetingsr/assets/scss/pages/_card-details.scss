@@ -64,6 +64,7 @@
         padding: 7px 10px;
         border-radius: 2px;
         flex: 0 0 auto;
+        text-decoration: none;
         @include mq(medium){
             font-weight: $light;
             font-size: $large;
@@ -118,6 +119,7 @@
         font-weight: $semi-bold;
         color: $primary-heading;
         text-transform: uppercase;
+        text-decoration: none;
 
         &:hover{
             text-decoration: none;
@@ -129,6 +131,16 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+        }
+    }
+
+    ul{
+        padding-left: 14px;
+        
+        li{
+            font-size: $semi-medium;
+            line-height: 15px;
+            color: $primary-text;
         }
     }
 
