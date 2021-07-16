@@ -31,8 +31,8 @@
                     </div>
                 </nav>
 
-                <div class="card-details__category-wrapper">
-                    {{$years:= .Params.events}}
+                <div class="card-details__category-wrapper">   
+                    {{$years:= .Params.virtual_events}}
                     {{range $years}}
                     <h2 id="category"><a class="card-details__category" href="#">{{.year | markdownify}}</a></h2>
                     {{range .eventDetails }}
@@ -47,7 +47,7 @@
                         {{end}}
                     </div>
                     {{end}}
-                    {{end}}   
+                    {{end}} 
                 </div>
             </div>
         {{ partial "sidebar-cards.html" . }}

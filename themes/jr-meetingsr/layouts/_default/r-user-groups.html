@@ -5,7 +5,8 @@
         <div class="card-details__content">
             <div class="card-details__schedule">
                 <a class="card-details__backpage" href="/"><img src="/images/backpage-arrow.svg" alt=""></a>
-                <h1 class="primary-heading card-details__heading">{{.Title}}</h1>
+                <h1 class="primary-heading card-details__heading">{{with .Params.pageHeading}}{{.| markdownify}}{{else}}{{.Title | markdownify}}{{end}}</h1>
+                <div class="card-details__description">{{.Params.pageDescription | markdownify}}</div>
                 <nav class="card-details__slider">
                     <div class="card-details__arrow card-details__arrow--left">
                         <img src="/images/arrow-right.svg" alt="">
@@ -30,15 +31,27 @@
                     </div>
                 </nav>
 
-                <div class="card-details__times">
-                    {{$countries:= .Params.groups.countries}}
-                    {{range $countries}}
-                    {{range .}}
-                    <div class="card-details__time">
-                        <h3 class="card-details__month-name">{{.countryName | markdownify}}</h3>
-                        {{$groups:= .groups}}
-                        {{range $groups}}
-                        <p class="primary-text card-details__month-date">{{.description | markdownify}}</p>
+                <div class="card-details__category-wrapper">
+                    {{$continents:= .Params.r_users_groups}}
+                    {{range $continents}}
+                    <h2 class="card-details__category">{{ .continent | markdownify}}</h2>
+                    {{range .groups }}
+                    <div class="card-details__sub-category-wrapper">
+                        <h3 class="card-details__sub-category">{{.countryName | markdownify}}</h3>
+                        {{range .details}}
+                        <div class="card-details__sub-category-details">
+                            {{ . | markdownify}}
+                        </div>
+                        {{end}}
+                        {{if .states}}
+                            {{range .states}}
+                            <h4 class="card-details__sub-category--small">{{ .name | markdownify}}</h4>
+                            {{range .details}}
+                            <div class="card-details__sub-category-details">
+                                {{ . | markdownify}}
+                            </div>
+                            {{end}}
+                            {{end}}
                         {{end}}
                     </div>
                     {{end}}
