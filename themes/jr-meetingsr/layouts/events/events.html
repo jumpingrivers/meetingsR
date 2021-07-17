@@ -12,7 +12,10 @@
                     </div>
                     <div class="card-details__carousel-wrapper">
                         <div class="card-details__carousel">
-                            <a class="card-details__carousel-item card-details__carousel-item--active" href="#">2021</a>
+                            {{$years:= .Params.events}}
+                            {{range $index,$year:= $years}}
+                            <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#">{{$year.year}}</a>
+                            {{end}}
                             <a class="card-details__carousel-item" href="#">2020</a>
                             <a class="card-details__carousel-item" href="#">2019</a>
                             <a class="card-details__carousel-item" href="#">2018</a>
@@ -35,7 +38,7 @@
                     
                     {{$years:= .Params.events}}
                     {{range $years}}
-                    <h2><a class="card-details__years" href="#">{{.year}}</a></h2>
+                    <h2><a id="{{.year}}" class="card-details__years" href="#">{{.year}}</a></h2>
                     {{range .eventDetails }}
                     <div class="card-details__time">                      
                         <h3 class="card-details__month-name">{{.monthName | markdownify}}</h3>
