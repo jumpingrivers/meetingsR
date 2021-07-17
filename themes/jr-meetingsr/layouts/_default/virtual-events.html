@@ -12,18 +12,10 @@
                     </div>
                     <div class="card-details__carousel-wrapper">
                         <div class="card-details__carousel">
-                            <a class="card-details__carousel-item card-details__carousel-item--active" href="#">2021</a>
-                            <a class="card-details__carousel-item" href="#">2020</a>
-                            <a class="card-details__carousel-item" href="#">2019</a>
-                            <a class="card-details__carousel-item" href="#">2018</a>
-                            <a class="card-details__carousel-item" href="#category">2017</a>
-                            <a class="card-details__carousel-item" href="#">2016</a>
-                            <a class="card-details__carousel-item" href="#">2015</a>
-                            <a class="card-details__carousel-item" href="#">2014</a>
-                            <a class="card-details__carousel-item" href="#">2013</a>
-                            <a class="card-details__carousel-item" href="#">2012</a>
-                            <a class="card-details__carousel-item" href="#">2011</a>
-                            <a class="card-details__carousel-item" href="#">2010</a>
+                            {{$years:= .Params.virtual_events}}
+                            {{range $index,$year:= $years}}
+                            <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#{{$year.year | urlize}}">{{$year.year}}</a>
+                            {{end}}
                         </div>
                     </div>
                     <div class="card-details__arrow card-details__arrow--right">
@@ -34,7 +26,7 @@
                 <div class="card-details__category-wrapper">   
                     {{$years:= .Params.virtual_events}}
                     {{range $years}}
-                    <h2 id="category"><a class="card-details__category" href="#">{{.year | markdownify}}</a></h2>
+                    <h2 id="category"><a id="{{.year | urlize}}" class="card-details__category" href="#{{.year | urlize}}">{{.year | markdownify}}</a></h2>
                     {{range .eventDetails }}
                     <div class="card-details__sub-category-wrapper">                      
                         <h3 class="card-details__sub-category">{{.monthName | markdownify}}</h3>

@@ -115,6 +115,13 @@
 
     &__category-wrapper{
         margin-top: 40px;
+        h2{
+            a{
+                text-decoration: none;
+                padding-top: 40px;
+                display: inline-block;
+            }
+        }
     }
 
     &__category{
