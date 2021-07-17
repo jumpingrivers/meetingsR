@@ -7,34 +7,32 @@
     &__content{
         @include mq(medium){
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            grid-gap: 50px;
-            // grid-template-columns: 69% 29% 29%;
+            grid-template-columns: 65% 24%;
+            grid-gap: 20px;
             // grid-template-areas: 
-            //     "menu menu sidebar"
-            //     "main main .";
-            // grid-gap: 20px;
-            // justify-content: space-between;
+            //     "menu sidebar"
+            //     "main sidebar";
         }
-        // @include mq(large){
-        //     grid-template-columns: 59% 29% 29%;
-        // }
+        @include mq(large){
+            grid-template-columns: 74% 24%;
+            // grid-gap: 50px;
+            // grid-template-areas: 
+            //     "menu . sidebar"
+            //     "main main sidebar";
+        }
     }
 
-    &__nav{
-        grid-column:  1 / span 2;
-        
-        // grid-area: menu;
-        // grid-template-rows: 250px;
-    }
+    // &__nav{
+    //     grid-area: menu;
+    // }
 
-    &__sidebar{
-        grid-column:  3;
-    }
+    // &__sidebar{
+    //     grid-area: sidebar;
+    // }
 
-    &__schedule{
-        grid-column:  1 / span 2;
-    }
+    // &__schedule{
+    //     grid-area: main;
+    // }
 
     &__backpage{
         display: none;

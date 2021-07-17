@@ -2,8 +2,8 @@
 
 <section class="card-details">
     <div class="container">
-        <div class="card-details__content">
-            <div class="card-details__nav">
+        <div class="card-details__content">            
+            <div class="card-details__schedule">
                 <a class="card-details__backpage" href="/"><img src="/images/backpage-arrow.svg" alt=""></a>
                 <h1 class="primary-heading card-details__heading">{{.Title}}</h1>
                 <nav class="card-details__slider">
@@ -22,9 +22,7 @@
                         <img src="/images/arrow-right.svg" alt="">
                     </div>
                 </nav>
-            </div>
-            {{ partial "sidebar-cards.html" . }}
-            <div class="card-details__schedule">
+
                 <div class="card-details__category-wrapper">
                     {{$years:= .Params.events}}
                     {{range $years}}
@@ -44,7 +42,7 @@
                     {{end}}   
                 </div>
             </div>
-            
+            {{ partial "sidebar-cards.html" . }}
         </div>
     </div>
 </section>
