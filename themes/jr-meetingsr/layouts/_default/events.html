@@ -14,19 +14,8 @@
                         <div class="card-details__carousel">
                             {{$years:= .Params.events}}
                             {{range $index,$year:= $years}}
-                            <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#">{{$year.year}}</a>
+                            <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#{{$year.year}}">{{$year.year}}</a>
                             {{end}}
-                            <a class="card-details__carousel-item" href="#">2020</a>
-                            <a class="card-details__carousel-item" href="#">2019</a>
-                            <a class="card-details__carousel-item" href="#">2018</a>
-                            <a class="card-details__carousel-item" href="#category">2017</a>
-                            <a class="card-details__carousel-item" href="#">2016</a>
-                            <a class="card-details__carousel-item" href="#">2015</a>
-                            <a class="card-details__carousel-item" href="#">2014</a>
-                            <a class="card-details__carousel-item" href="#">2013</a>
-                            <a class="card-details__carousel-item" href="#">2012</a>
-                            <a class="card-details__carousel-item" href="#">2011</a>
-                            <a class="card-details__carousel-item" href="#">2010</a>
                         </div>
                     </div>
                     <div class="card-details__arrow card-details__arrow--right">
