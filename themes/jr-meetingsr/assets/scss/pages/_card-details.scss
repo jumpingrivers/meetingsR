@@ -26,6 +26,10 @@
     &__heading{
         margin: 20px 0 0 0;
         text-align: left;
+
+        a{
+            text-decoration: none;
+        }
     }
 
     &__slider{
@@ -64,6 +68,7 @@
         padding: 7px 10px;
         border-radius: 2px;
         flex: 0 0 auto;
+        text-decoration: none;
         @include mq(medium){
             font-weight: $light;
             font-size: $large;
@@ -108,22 +113,24 @@
         }
     }
 
-    &__years{
+    &__category-wrapper{
+        margin-top: 40px;
+    }
+
+    &__category{
         font-size: $large;
         line-height: 35px;
         font-weight: $semi-bold;
         color: $primary-heading;
+        text-transform: uppercase;
+        text-decoration: none;
 
         &:hover{
             text-decoration: none;
         }
     }
 
-    &__times{
-        margin-top: 40px;
-    }
-
-    &__month-details{
+    &__sub-category-details{
         @include mq(medium){
             display: flex;
             justify-content: space-between;
@@ -131,7 +138,17 @@
         }
     }
 
-    &__month-name{
+    ul{
+        padding-left: 14px;
+        
+        li{
+            font-size: $semi-medium;
+            line-height: 15px;
+            color: $primary-text;
+        }
+    }
+
+    &__sub-category{
         font-weight: $normal;
         font-size: $medium;
         line-height: 18px;
@@ -167,6 +184,10 @@
             position: absolute;
             top: 5px;
             left: -15px;
+        }
+
+        &--groups{
+            flex: 0 0 100%;
         }
 
         a{
@@ -239,6 +260,10 @@
         text-align: center;
         color: $primary-heading;
         text-transform: uppercase;
+
+        a{
+            text-decoration: none;
+        }
     }
 
     &__button{

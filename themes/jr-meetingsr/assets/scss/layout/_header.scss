@@ -35,6 +35,7 @@
         display: block;
         width: 70px;
         height: 46px;
+        margin-left: -15px;
         @include mq(medium){
             width: 156px;
             height: 100px;
@@ -51,7 +52,6 @@
     }
 
     &__logo-image{
-        margin-left: -35px;
         width: 100%;
         height: 100%;
         @include mq(medium){

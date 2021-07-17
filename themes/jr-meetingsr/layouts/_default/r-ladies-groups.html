@@ -1,0 +1,151 @@
+{{ define "main" }}
+
+<section class="card-details">
+    <div class="container">
+        <div class="card-details__content">
+            <div class="card-details__schedule">
+                <a class="card-details__backpage" href="/"><img src="/images/backpage-arrow.svg" alt=""></a>
+                <h1 class="primary-heading card-details__heading">{{with .Params.pageHeading}}{{.| markdownify}}{{else}}{{.Title | markdownify}}{{end}}</h1>
+                <div class="card-details__description">{{.Params.pageDescription | markdownify}}</div>
+                <nav class="card-details__slider">
+                    <div class="card-details__arrow card-details__arrow--left">
+                        <img src="/images/arrow-right.svg" alt="">
+                    </div>
+                    <div class="card-details__carousel-wrapper">
+                        <div class="card-details__carousel card-details__carousel--groups">
+                            <a class="card-details__carousel-item card-details__carousel-item--active" href="#">ASIA</a>
+                            <a class="card-details__carousel-item" href="#">Europe</a>
+                            <a class="card-details__carousel-item" href="#">Middle East/ Africa</a>
+                            <a class="card-details__carousel-item" href="#">North America</a>
+                            <a class="card-details__carousel-item" href="#">South America</a>
+                            <a class="card-details__carousel-item" href="#">Australia</a>
+                            <a class="card-details__carousel-item" href="#">Europe</a>
+                            <a class="card-details__carousel-item" href="#">Middle East/ Africa</a>
+                            <a class="card-details__carousel-item" href="#">North America</a>
+                            <a class="card-details__carousel-item" href="#">South America</a>
+                            <a class="card-details__carousel-item" href="#">Australia</a>
+                        </div>
+                    </div>
+                    <div class="card-details__arrow card-details__arrow--right">
+                        <img src="/images/arrow-right.svg" alt="">
+                    </div>
+                </nav>
+
+                <div class="card-details__category-wrapper">
+                    {{$groups:= .Params.r_ladies_groups}}
+                    {{range $groups}}
+                    <div class="card-details__sub-category-wrapper">
+                        <h3 class="card-details__sub-category">{{.countryName | markdownify}}</h3>
+                        {{range .details}}
+                        <div class="card-details__sub-category-details">{{ . | markdownify}}</div>
+                        {{end}}
+                    </div>
+                    {{end}}
+                </div>
+            </div>
+            {{ partial "sidebar-cards.html" . }}
+        </div>
+    </div>
+</section>
+
+{{- partial "scroll-top.html" . -}}
+
+<script>
+
+    const arrows=document.querySelectorAll('.card-details__arrow');
+    const categories= document.querySelectorAll('.card-details__carousel-item');
+    const categoriesContainer= document.querySelector('.card-details__carousel');
+    let countLeft=0;
+    let countRight=elementsInsideWrapper();
+    console.log(countRight);
+    arrows.forEach(arrow=>{
+        arrow.addEventListener('click',e=>{
+            if(arrow.classList.contains('card-details__arrow--left')){
+                slideLeft(); 
+
+            }
+            if(arrow.classList.contains('card-details__arrow--right')){
+                slideRight();
+            }
+        })
+
+    })
+    function measureWidth(element){
+        if(element){
+            return element.offsetWidth;
+        }
+        
+       
+    }
+    function elementsInsideWrapper(){
+        const wrapperWidth=document.querySelector('.card-details__carousel-wrapper').clientWidth;
+        console.log(wrapperWidth);
+        const categories= document.querySelectorAll('.card-details__carousel-item');
+        let cummulateWidth=0;
+        for(let i=0;i<categories.length;i++){
+           let categoryWidth=categories[i].offsetWidth;
+           console.log( "categoryWidth is ",categoryWidth);
+           cummulateWidth+=categoryWidth;
+           if(cummulateWidth>wrapperWidth){
+                console.log(i);
+               return i;
+           }
+           
+        }
+        
+        
+    }
+    function slideLeft(){
+        if(countLeft===0){
+                    console.log('No content on the left side');
+                }
+                if(countLeft===1){
+                    categoriesContainer.style.transform= `translateX(0px)`;
+                    countLeft--;
+                    countRight--;
+
+                }
+                if(countLeft>1){
+                    let moveableWidth=0;
+                        for(let i=0;i<countLeft-1;i++){
+                            moveableWidth+=measureWidth(categories[i])+10;
+                            console.log('mobeable width is',moveableWidth)
+                        }
+                        categoriesContainer.style.transform= `translateX(-${moveableWidth}px)`;
+                        countRight--;
+                        countLeft--;
+        }   
+    }
+    function slideRight(){
+        if(countRight<categories.length){
+            console.log(elementsInsideWrapper());
+                    if(countRight===elementsInsideWrapper()){
+                        categoriesContainer.style.transform= `translateX(-${measureWidth(categories[countRight])}px)`;
+                        countRight++;
+                        countLeft++;
+
+                    }else if(countRight>elementsInsideWrapper()){
+                        console.log('Hello World');
+                        let moveableWidth=0;
+                        for(let i=elementsInsideWrapper();i<=countRight;i++){
+                            moveableWidth+=measureWidth(categories[i])+10;
+                            
+                        }
+                        categoriesContainer.style.transform= `translateX(-${moveableWidth}px)`;
+                        countRight++;
+                        countLeft++;
+
+                    }else{
+                        console.log('hi');
+                    }
+                   
+                }
+                if(countRight>=categories.length){
+                    console.log('No content on the right side');
+                }   
+    }
+
+
+</script>
+
+{{ end }}

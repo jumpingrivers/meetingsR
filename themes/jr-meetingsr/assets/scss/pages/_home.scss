@@ -30,13 +30,10 @@
                 text-decoration: none;
             }
         }
+    }
 
-        a{
-            color: $primary-border;
-            &:hover{
-                text-decoration: none;
-            }
-        }
+    a{
+        text-decoration: none;
     }
 }
 
@@ -79,19 +76,7 @@
         }
     }
 
-    &__text{
-        
-        a{
-            color: $primary-border;
-            &:hover{
-                text-decoration: none;
-            }
-        }
-    }
-
-    &__links{
-        &:hover{
-            text-decoration: none;
-        }
+    a{
+        text-decoration: none;
     }
 }
