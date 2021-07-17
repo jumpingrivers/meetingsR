@@ -13,17 +13,11 @@
                     </div>
                     <div class="card-details__carousel-wrapper">
                         <div class="card-details__carousel card-details__carousel--groups">
-                            <a class="card-details__carousel-item card-details__carousel-item--active" href="#">ASIA</a>
-                            <a class="card-details__carousel-item" href="#">Europe</a>
-                            <a class="card-details__carousel-item" href="#">Middle East/ Africa</a>
-                            <a class="card-details__carousel-item" href="#">North America</a>
-                            <a class="card-details__carousel-item" href="#">South America</a>
-                            <a class="card-details__carousel-item" href="#">Australia</a>
-                            <a class="card-details__carousel-item" href="#">Europe</a>
-                            <a class="card-details__carousel-item" href="#">Middle East/ Africa</a>
-                            <a class="card-details__carousel-item" href="#">North America</a>
-                            <a class="card-details__carousel-item" href="#">South America</a>
-                            <a class="card-details__carousel-item" href="#">Australia</a>
+                            {{$continents:= .Params.r_users_groups}}
+                            {{range $index,$continent:=$continents}}
+                            {{$continentManipulation:= lower .continent}}
+                            <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#{{$continentManipulation | urlize}}">{{$continent.continent}}</a>
+                            {{end}}
                         </div>
                     </div>
                     <div class="card-details__arrow card-details__arrow--right">
@@ -34,7 +28,8 @@
                 <div class="card-details__category-wrapper">
                     {{$continents:= .Params.r_users_groups}}
                     {{range $continents}}
-                    <h2 class="card-details__category">{{ .continent | markdownify}}</h2>
+                    {{$continentManipulation:= lower .continent}}
+                    <h2 class="card-details__category"><a id="{{$continentManipulation | urlize}}" href="#{{$continentManipulation | urlize}}">{{.continent}}</a></h2>
                     {{range .groups }}
                     <div class="card-details__sub-category-wrapper">
                         <h3 class="card-details__sub-category">{{.countryName | markdownify}}</h3>
