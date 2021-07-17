@@ -221,7 +221,21 @@
         @include mq(medium){
             margin-top: 0;
             margin-bottom: 30px;
+            // position: fixed;
+            // right: 2%;
+            // max-width: 240px;
+            // width: 100%;
         }
+        // @include mq(large){
+        //     width: 100%;
+        //     right: 2%;
+        // }
+        // @include mq('1180px'){
+        //     max-width: 270px;
+        //     width: 100%;
+        //     right: 2%;
+        //     // transform: translate(-100%, 0);
+        // }
     }
 
     &__cards{
