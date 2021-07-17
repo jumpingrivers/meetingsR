@@ -28,7 +28,7 @@
                     {{$groups:= .Params.r_ladies_groups}}
                     {{range $groups}}
                     <div class="card-details__sub-category-wrapper">
-                        <h3 class="card-details__sub-category"><a id="{{.countryName | urlize}}" href="#{{.countryName | urlize}}">{{.countryName | markdownify}}</a></h3>
+                        <h3 class="card-details__sub-category card-details__sub-category--heading"><a class="card-details__sub-category-link" id="{{.countryName | urlize}}" href="#{{.countryName | urlize}}">{{.countryName | markdownify}}</a></h3>
                         {{range .details}}
                         <div class="card-details__sub-category-details">{{ . | markdownify}}</div>
                         {{end}}
@@ -137,7 +137,6 @@
                     console.log('No content on the right side');
                 }   
     }
-
 
 </script>
 
