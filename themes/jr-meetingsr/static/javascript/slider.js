@@ -1,11 +1,13 @@
-window.onload = function (){
-    carouselfunctionality();
+// window.onload = function (){
+//     carouselfunctionality();
+//     addActiveMenu();
+// }
+// window.addEventListener('resize',e=>{
+//     carouselfunctionality();
+//     addActiveMenu();
+// })
+carouselfunctionality();
     addActiveMenu();
-}
-window.addEventListener('resize',e=>{
-    carouselfunctionality();
-    addActiveMenu();
-})
 function carouselfunctionality(){
     const leftArrow= document.querySelector('.card-details__arrow--left');
     const rightArrow= document.querySelector('.card-details__arrow--right');
@@ -58,9 +60,16 @@ function addActiveMenu(){
             menuItems.forEach(menuItem=>{
                 if(menuItem.classList.contains('card-details__carousel-item--active')){
                     menuItem.classList.remove('card-details__carousel-item--active');
+                    let id= menuItem.getAttribute('href');
+                    id= id.slice(1)
+                    console.log(document.getElementById('id'),id)
+                    document.getElementById(id).style.removeProperty('padding-top');
                 }
             })
             menuItem.classList.add('card-details__carousel-item--active');
+            let id= menuItem.getAttribute('href');
+                id= id.slice(1)
+            document.getElementById(id).style.paddingTop= "150px";
         })
     }))
 }
