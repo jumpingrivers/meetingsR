@@ -2,18 +2,20 @@
     display: grid;
     place-items: center;
     position: fixed;
-	bottom: 143px;
-	right: 25px;
+	bottom: 70px;
+	right: 13px;
 	width: 40px;
 	height: 40px;
     background-color: $primary-background;
 	z-index: 5;
 	border-radius: 3px;
+    transition: .4s;
     @include mq(medium){
         display: none;
     }
 
     &:hover{
         cursor: pointer;
+        background-color: $primary-heading;
     }
 }
