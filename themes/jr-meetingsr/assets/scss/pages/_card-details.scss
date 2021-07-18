@@ -40,7 +40,9 @@
             display: block;
         }
     }
-
+    &__header{
+        background-color: #fff;
+    }
     &__heading{
         margin: 20px 0 0 0;
         text-align: left;

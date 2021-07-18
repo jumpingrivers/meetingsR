@@ -3,7 +3,8 @@
 // -----------------------------------------------------------------------------
 
 .footer{
-
+    position: relative;
+    z-index: 1000;
     &__sub-footer{
         background-color: $secondary-background;
         padding: 1rem 0;
