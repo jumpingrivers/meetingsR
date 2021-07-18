@@ -7,14 +7,32 @@
     &__content{
         @include mq(medium){
             display: grid;
-            grid-template-columns: 65% 30%;
+            grid-template-columns: 65% 24%;
             grid-gap: 20px;
-            justify-content: space-between;
+            // grid-template-areas: 
+            //     "menu sidebar"
+            //     "main sidebar";
         }
         @include mq(large){
             grid-template-columns: 74% 24%;
+            // grid-gap: 50px;
+            // grid-template-areas: 
+            //     "menu . sidebar"
+            //     "main main sidebar";
         }
     }
+
+    // &__nav{
+    //     grid-area: menu;
+    // }
+
+    // &__sidebar{
+    //     grid-area: sidebar;
+    // }
+
+    // &__schedule{
+    //     grid-area: main;
+    // }
 
     &__backpage{
         display: none;
@@ -146,12 +164,26 @@
     }
 
     ul{
-        padding-left: 14px;
+        padding-left: 15px;
+        list-style: none;
         
         li{
             font-size: $semi-medium;
             line-height: 15px;
             color: $primary-text;
+            position: relative;
+
+            &::before {
+                content: '';
+                display: block;
+                width: 6px;
+                height: 6px;
+                border-radius: 50%;
+                background-color: #4898A8;
+                position: absolute;
+                top: 5px;
+                left: -15px;
+            }
         }
     }
 
@@ -165,6 +197,25 @@
         margin-bottom: 10px;
         @include mq(medium){
             font-weight: $semi-bold;
+        }
+
+        &--heading{
+            font-size: $large;
+        }
+
+        &--small{
+            color: $primary-text;
+            font-weight: $semi-bold;
+        }
+    }
+
+    &__sub-category-link{
+        display: block;
+        padding-top: 40px;
+        text-decoration: none;
+
+        &:hover{
+            text-decoration: none;
         }
     }
 
@@ -228,7 +279,21 @@
         @include mq(medium){
             margin-top: 0;
             margin-bottom: 30px;
+            // position: fixed;
+            // right: 2%;
+            // max-width: 240px;
+            // width: 100%;
         }
+        // @include mq(large){
+        //     width: 100%;
+        //     right: 2%;
+        // }
+        // @include mq('1180px'){
+        //     max-width: 270px;
+        //     width: 100%;
+        //     right: 2%;
+        //     // transform: translate(-100%, 0);
+        // }
     }
 
     &__cards{
