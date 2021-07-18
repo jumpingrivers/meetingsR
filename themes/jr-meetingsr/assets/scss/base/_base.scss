@@ -9,6 +9,9 @@ html {
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+body{
+  scroll-behavior: smooth;
+}
 
 /**
  * Make all elements from the DOM inherit from the parent box-sizing

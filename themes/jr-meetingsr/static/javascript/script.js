@@ -10,9 +10,11 @@ function stickyFunctionality(){
         const header= document.querySelector('.card-details__header');
         const sidebar= document.querySelector('.card-details__sidebar');
         const mainHeader= document.querySelector('.header');
+        const mainContentWrapper= document.querySelector('.card-details__category-wrapper');
         let headerMaxWidth= document.querySelector('.card-details__schedule').clientWidth;
         let sidebarMaxWidth= sidebar.clientWidth;
-        const mainHeaderheight= mainHeader.clientHeight+3;
+        const mainHeaderheight= mainHeader.offsetHeight+3;
+        console.log(mainHeaderheight)
         const screenWidth= window.innerWidth;
         let containerWidth= document.querySelector('.container').clientWidth;
         const containerLeftPadding= getComputedStyle(document.querySelector('.container')).paddingLeft;
@@ -30,6 +32,7 @@ function stickyFunctionality(){
                     }
                     
                     header.style.cssText = `position: fixed; top: 0; z-index: 1000; max-width: ${headerMaxWidth}px;`;
+                    mainContentWrapper.style.paddingTop= `${header.offsetHeight}px`;
                 
                 }else{
                     if(computerScreen.matches){
@@ -37,6 +40,7 @@ function stickyFunctionality(){
                     }
                    
                     header.removeAttribute('style');
+                    mainContentWrapper.removeAttribute('style');
                 }
 
                 //scrollTop start here
