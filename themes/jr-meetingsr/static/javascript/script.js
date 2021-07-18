@@ -3,10 +3,10 @@ window.onload= function (){
 }
 window.addEventListener('resize',e=>{
     stickyFunctionality();
-    
 })
 
 function stickyFunctionality(){
+        const scrollTopIcon = document.querySelector('.scroll-top');
         const header= document.querySelector('.card-details__header');
         const sidebar= document.querySelector('.card-details__sidebar');
         const mainHeader= document.querySelector('.header');
@@ -20,6 +20,7 @@ function stickyFunctionality(){
         console.log(headerMaxWidth,sidebarMaxWidth,mainHeaderheight,leftSideWhiteSpace)
         
         let computerScreen= window.matchMedia('(min-width:768px)');
+        let computerScreenMax= window.matchMedia('(max-width:767px)');
 
         document.addEventListener('scroll',e=>{
            
@@ -38,6 +39,28 @@ function stickyFunctionality(){
                    
                     header.removeAttribute('style');
                 }
+
+                //scrollTop start here
+                if(window.scrollY>(window.innerHeight*50/100)){
+                    if(computerScreenMax.matches){
+                        scrollTopIcon.style.display="grid";
+                    }
+                }else{
+                    scrollTopIcon.removeAttribute("style");
+                }
         })
         
 }
+
+    
+    //navbar start here
+    const menuIconOpen = document.querySelector('.header__nav-icon');
+    const nav = document.querySelector('.card-details__header');
+    const crossIcon = document.querySelector('.header__icon-close');
+    const navIcon = document.querySelector('.header__icon');
+
+    menuIconOpen.addEventListener('click', (e)=>{
+        nav.classList.toggle('card-details__header--open');
+        navIcon.classList.toggle('header__icon--close');
+        crossIcon.classList.toggle('header__icon-close--open');
+    })
