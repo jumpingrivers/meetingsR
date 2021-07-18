@@ -3,10 +3,10 @@ window.onload= function (){
 }
 window.addEventListener('resize',e=>{
     stickyFunctionality();
-    
 })
 
 function stickyFunctionality(){
+        const scrollTopIcon = document.querySelector('.scroll-top');
         const header= document.querySelector('.card-details__header');
         const sidebar= document.querySelector('.card-details__sidebar');
         const mainHeader= document.querySelector('.header');
@@ -38,6 +38,23 @@ function stickyFunctionality(){
                    
                     header.removeAttribute('style');
                 }
+
+                if(window.scrollY>(window.innerHeight*50/100)){
+                    scrollTopIcon.style.display="grid";
+                }else{
+                    scrollTopIcon.removeAttribute("style");
+                }
         })
         
 }
+
+    const menuIconOpen = document.querySelector('.header__nav-icon');
+    const nav = document.querySelector('.card-details__header');
+    const crossIcon = document.querySelector('.header__icon-close');
+    const navIcon = document.querySelector('.header__icon');
+
+    menuIconOpen.addEventListener('click', (e)=>{
+        nav.classList.toggle('card-details__header--open');
+        navIcon.classList.toggle('header__icon--close');
+        crossIcon.classList.toggle('header__icon-close--open');
+    })

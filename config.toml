@@ -2,3 +2,23 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Jr MeetingsR"
 theme = "jr-meetingsr"
+
+############# Footer Menu ################
+[menu]
+    [[menu.footer]]
+        identifier = "website-terms-data-and-privacy"
+        name = "Website Terms Data and Privacy"
+        url = "/website-terms-data-and-privacy"
+        weight = 1
+    [[menu.footer]]
+        identifier = "booking-terms"
+        name = "Booking Terms"
+        url = "/booking-terms"
+        weight = 2
+
+[params]
+    copyright = "©2021 Jumping Rivers | Site by"
+    
+[params.developedBy]
+    name = "BugleLab"
+    url = "https://buglelab.io/"

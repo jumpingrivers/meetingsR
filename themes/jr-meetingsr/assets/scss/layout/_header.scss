@@ -31,6 +31,23 @@
         }
     }
 
+    &__icon{
+        &--close{
+            display: none;
+        }
+    }
+
+    &__icon-close{
+        display: none;
+        width: 16px;
+        height: 16px;
+
+        &--open{
+            display: block;
+            margin-top: -20px;
+        }
+    }
+
     &__logo-wrap{
         display: block;
         width: 70px;

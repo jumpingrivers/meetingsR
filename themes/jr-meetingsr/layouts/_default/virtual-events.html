@@ -5,24 +5,25 @@
         <div class="card-details__content">
             <div class="card-details__schedule">
                 <a class="card-details__backpage" href="/"><img src="/images/backpage-arrow.svg" alt=""></a>
-                <h1 class="primary-heading card-details__heading">{{.Title}}</h1>
-                <nav class="card-details__slider">
-                    <div class="card-details__arrow card-details__arrow--left">
-                        <img src="/images/arrow-right.svg" alt="">
-                    </div>
-                    <div class="card-details__carousel-wrapper">
-                        <div class="card-details__carousel">
-                            {{$years:= .Params.virtual_events}}
-                            {{range $index,$year:= $years}}
-                            <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#{{$year.year | urlize}}">{{$year.year}}</a>
-                            {{end}}
+                <div class="card-details__header">
+                    <h1 class="primary-heading card-details__heading">{{.Title}}</h1>
+                    <nav class="card-details__slider">
+                        <div class="card-details__arrow card-details__arrow--left">
+                            <img src="/images/arrow-right.svg" alt="">
                         </div>
-                    </div>
-                    <div class="card-details__arrow card-details__arrow--right">
-                        <img src="/images/arrow-right.svg" alt="">
-                    </div>
-                </nav>
-
+                        <div class="card-details__carousel-wrapper">
+                            <div class="card-details__carousel">
+                                {{$years:= .Params.virtual_events}}
+                                {{range $index,$year:= $years}}
+                                <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#{{$year.year | urlize}}">{{$year.year}}</a>
+                                {{end}}
+                            </div>
+                        </div>
+                        <div class="card-details__arrow card-details__arrow--right">
+                            <img src="/images/arrow-right.svg" alt="">
+                        </div>
+                    </nav>
+                </div>
                 <div class="card-details__category-wrapper">   
                     {{$years:= .Params.virtual_events}}
                     {{range $years}}

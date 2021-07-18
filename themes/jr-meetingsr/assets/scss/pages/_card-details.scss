@@ -9,30 +9,11 @@
             display: grid;
             grid-template-columns: 65% 24%;
             grid-gap: 20px;
-            // grid-template-areas: 
-            //     "menu sidebar"
-            //     "main sidebar";
         }
         @include mq(large){
             grid-template-columns: 74% 24%;
-            // grid-gap: 50px;
-            // grid-template-areas: 
-            //     "menu . sidebar"
-            //     "main main sidebar";
         }
     }
-
-    // &__nav{
-    //     grid-area: menu;
-    // }
-
-    // &__sidebar{
-    //     grid-area: sidebar;
-    // }
-
-    // &__schedule{
-    //     grid-area: main;
-    // }
 
     &__backpage{
         display: none;
@@ -40,9 +21,20 @@
             display: block;
         }
     }
+
     &__header{
         background-color: #fff;
+        width: 100%;
+        display: none;
+        @include mq(medium){
+            display: block;
+        }
+
+        &--open{
+            display: block;
+        }
     }
+
     &__heading{
         margin: 20px 0 0 0;
         text-align: left;
@@ -136,7 +128,7 @@
     }
 
     &__category-wrapper{
-        margin-top: 40px;
+        margin-top: -30px;
         h2{
             a{
                 text-decoration: none;
@@ -283,21 +275,13 @@
         @include mq(medium){
             margin-top: 0;
             margin-bottom: 30px;
-            // position: fixed;
-            // right: 2%;
-            // max-width: 240px;
-            // width: 100%;
+            height: 94vh;
+            overflow-y: hidden; 
         }
-        // @include mq(large){
-        //     width: 100%;
-        //     right: 2%;
-        // }
-        // @include mq('1180px'){
-        //     max-width: 270px;
-        //     width: 100%;
-        //     right: 2%;
-        //     // transform: translate(-100%, 0);
-        // }
+
+        &:hover{
+            overflow-y: scroll;
+        }
     }
 
     &__cards{

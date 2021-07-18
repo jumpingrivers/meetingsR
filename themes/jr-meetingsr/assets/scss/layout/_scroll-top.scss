@@ -1,5 +1,5 @@
 .scroll-top{
-    display: grid;
+    display: none;
     place-items: center;
     position: fixed;
 	bottom: 70px;
@@ -7,7 +7,7 @@
 	width: 40px;
 	height: 40px;
     background-color: $primary-background;
-	z-index: 5;
+	z-index: 9999;
 	border-radius: 3px;
     transition: .4s;
     @include mq(medium){
