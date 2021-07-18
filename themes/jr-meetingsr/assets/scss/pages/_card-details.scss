@@ -53,20 +53,22 @@
     &__slider{
         margin-top: 30px;
         position: relative;
+        display: inline-block;
+        max-width: 100%;
     }
 
     &__carousel-wrapper{
+        position: relative;
         overflow: hidden;
-        width: 80%;
-        margin: auto;
-        @include mq('550px'){
-            width: 85%;
-        }
+        max-width: 85%; 
+        display: inline-block;
+        margin: auto 40px;
+       
         @include mq(medium){
-            width: 80%;
+            max-width: 80%;
         }
         @include mq(large){
-            width: 90%;
+            max-width: 90%;
         }
     }
 
