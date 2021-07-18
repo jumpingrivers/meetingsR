@@ -40,6 +40,7 @@ function stickyFunctionality(){
                     header.removeAttribute('style');
                 }
 
+                //scrollTop start here
                 if(window.scrollY>(window.innerHeight*50/100)){
                     if(computerScreenMax.matches){
                         scrollTopIcon.style.display="grid";
@@ -51,6 +52,8 @@ function stickyFunctionality(){
         
 }
 
+    
+    //navbar start here
     const menuIconOpen = document.querySelector('.header__nav-icon');
     const nav = document.querySelector('.card-details__header');
     const crossIcon = document.querySelector('.header__icon-close');
