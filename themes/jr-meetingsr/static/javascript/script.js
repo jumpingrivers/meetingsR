@@ -20,6 +20,7 @@ function stickyFunctionality(){
         console.log(headerMaxWidth,sidebarMaxWidth,mainHeaderheight,leftSideWhiteSpace)
         
         let computerScreen= window.matchMedia('(min-width:768px)');
+        let computerScreenMax= window.matchMedia('(max-width:767px)');
 
         document.addEventListener('scroll',e=>{
            
@@ -40,7 +41,9 @@ function stickyFunctionality(){
                 }
 
                 if(window.scrollY>(window.innerHeight*50/100)){
-                    scrollTopIcon.style.display="grid";
+                    if(computerScreenMax.matches){
+                        scrollTopIcon.style.display="grid";
+                    }
                 }else{
                     scrollTopIcon.removeAttribute("style");
                 }

@@ -7,7 +7,7 @@
     &__content{
         @include mq(medium){
             display: grid;
-            grid-template-columns: 65% 24%;
+            grid-template-columns: 63% 33%;
             grid-gap: 20px;
         }
         @include mq(large){
@@ -297,8 +297,12 @@
         padding: 20px 45px;
         background-color: $card-background;
         border-radius: 2px;
+        max-width: 340px;
+        width: 100%;
+        margin: 5px auto;
         @include mq(medium){
             padding: 20px;
+            max-width: auto;
         }
     }
 
