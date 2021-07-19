@@ -288,12 +288,16 @@
         }
     }
 
-    &__sidebar::-webkit-scrollbar{
-        width: 7px;
+    &__sidebar{
+        &::-webkit-scrollbar{
+            width: 8px;
+        }
     }
 
-    ::-webkit-scrollbar-thumb{
-        background-color: $scrollbar-color;
+    &__sidebar{
+        &::-webkit-scrollbar-thumb{
+            background-color: $scrollbar-color;
+        }
     }
 
     &__cards{
