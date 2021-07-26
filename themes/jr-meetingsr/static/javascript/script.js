@@ -28,7 +28,7 @@ function stickyFunctionality(){
                 if(window.scrollY>mainHeaderheight){
                    
                     if(computerScreen.matches){
-                        sidebar.style.cssText = `position: fixed; top: 20px; max-width: ${sidebarMaxWidth}px; left: ${headerMaxWidth+leftSideWhiteSpace+20}px` ;
+                        sidebar.style.cssText = `max-width: ${sidebarMaxWidth}px; left: ${headerMaxWidth+leftSideWhiteSpace+20}px` ;
                     }
                     
                     header.style.cssText = `position: fixed; top: 0; z-index: 1000; max-width: ${headerMaxWidth}px;`;
