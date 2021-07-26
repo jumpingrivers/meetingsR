@@ -17,7 +17,7 @@ theme = "jr-meetingsr"
         weight = 2
 
 [params]
-    copyright = "©2021 Jumping Rivers | Site by"
+    copyright = "©2021 Jumping Rivers | Site by BugleLab"
     
 [params.developedBy]
     name = "BugleLab"
