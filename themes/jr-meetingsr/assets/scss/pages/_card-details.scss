@@ -275,27 +275,6 @@
         @include mq(medium){
             margin-top: 0;
             margin-bottom: 30px;
-            overflow-y: hidden;
-            overflow-x: hidden;
-            scrollbar-width: thin !important;
-            scrollbar-color: $scrollbar-color transparent;
-        }
-
-        &:hover{
-            overflow-y: scroll;
-            overflow-y: overlay;
-        }
-    }
-
-    &__sidebar{
-        &::-webkit-scrollbar{
-            width: 8px;
-        }
-    }
-
-    &__sidebar{
-        &::-webkit-scrollbar-thumb{
-            background-color: $scrollbar-color;
         }
     }
 
