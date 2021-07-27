@@ -6,7 +6,7 @@ knit: "bookdown::preview_chapter"
 
 ### Oman `r get_btn()`
 
- * Oman: [Oman R User Group](https://www.meetup.com/oman-r-user/)
+ * Oman: [Oman R Users Group](https://www.meetup.com/oman-r-user/); [\@OmanRusers](https://twitter.com/OmanRusers)
 
 ### Tunisia `r get_btn()`
 
