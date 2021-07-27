@@ -62,7 +62,6 @@ function addActiveMenu(){
                     menuItem.classList.remove('card-details__carousel-item--active');
                     let id= menuItem.getAttribute('href');
                     id= id.slice(1)
-                    console.log(document.getElementById('id'),id)
                     document.getElementById(id).style.removeProperty('padding-top');
                 }
             })

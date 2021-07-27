@@ -13,18 +13,6 @@
         }
     }
 
-    &__footer-nav-item{
-        display: block;
-        color: $secondary-text;
-        font-size: $semi-medium;
-        line-height: 28px;
-        text-decoration: none;
-
-        &:hover{
-            text-decoration: none;
-        }
-    }
-
     &__copyright{
         background-color: $secondary-background-dark;
         padding: 1rem 0;

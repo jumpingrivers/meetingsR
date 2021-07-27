@@ -275,12 +275,6 @@
         @include mq(medium){
             margin-top: 0;
             margin-bottom: 30px;
-            height: 94vh;
-            overflow-y: hidden; 
-        }
-
-        &:hover{
-            overflow-y: scroll;
         }
     }
 
@@ -290,6 +284,7 @@
         grid-gap: 10px;
         @include mq(medium){
             grid-gap: 20px;
+            width: 270px;
         }
     }
 
@@ -299,7 +294,7 @@
         border-radius: 2px;
         max-width: 340px;
         width: 100%;
-        margin: 5px auto;
+        margin:0 auto;
         @include mq(medium){
             padding: 20px;
             max-width: auto;
