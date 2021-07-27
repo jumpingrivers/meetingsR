@@ -4,6 +4,10 @@ knit: "bookdown::preview_chapter"
 
 ## Middle East/ Africa
 
+### Oman `r get_btn()`
+
+ * Oman: [Oman R User Group](https://www.meetup.com/oman-r-user/)
+
 ### Tunisia `r get_btn()`
 
  * Tunis: [Tunis R User Group](https://www.meetup.com/tunis-r-user-group/)
