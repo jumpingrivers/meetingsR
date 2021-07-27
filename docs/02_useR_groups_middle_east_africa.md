@@ -6,7 +6,7 @@ knit: "bookdown::preview_chapter"
 
 ### Oman <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_middle_east_africa.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
- * Oman: [Oman R User Group](https://www.meetup.com/oman-r-user/)
+ * Oman: [Oman R Users Group](https://www.meetup.com/oman-r-user/); [\@OmanRusers](https://twitter.com/OmanRusers)
 
 ### Tunisia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_middle_east_africa.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
