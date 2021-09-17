@@ -10,6 +10,10 @@ The format for listing a Virtual R event is
 
 ## 2021 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+### December
+  
+  * December 10: [Why R? 2021](http://2021.whyr.pl/). [@whyRconf](https://twitter.com/whyrconf)
+
 ### November
 
   * November 24-26: [The Use of R in Official Statistics](https://r-project.ro/conference2021.html)
