@@ -10,9 +10,13 @@ The format for listing an R event is
   
 ## 2022 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+### September
+
+* September 6-8: EARL 2022. London, United Kingdom. [\@earlconf](https://twitter.com/earlconf)
+
 ### June
 
-* Dates TBA: [useR! 2022](https://user2022.r-project.org/). Nashville TN, USA. [\@user2022_conf](https://twitter.com/user2022_conf)
+* June 20-23: [useR! 2022](https://user2022.r-project.org/). Nashville TN, USA. [\@user2022_conf](https://twitter.com/user2022_conf)
 
 ## 2020 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
