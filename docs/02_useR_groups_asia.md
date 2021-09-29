@@ -86,6 +86,8 @@
 
 ### South Korea <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_asia.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
+  * Seoul: [Tidyverse Korea](https://www.facebook.com/groups/tidyverse)
+  * Seoul: [Seoul R Meetup](https://www.meetup.com/seoul-r-meetup/)  
   * South Korea: [R Korea - Korean R Study Group](https://www.facebook.com/groups/krstudy/)
   * South Korea: [R Korea - Korean R User Group](https://www.facebook.com/groups/KoreaRUsers/)
 
