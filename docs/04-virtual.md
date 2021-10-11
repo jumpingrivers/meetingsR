@@ -19,6 +19,7 @@ The format for listing a Virtual R event is
   * November 24-26: [The Use of R in Official Statistics](https://r-project.ro/conference2021.html)
   * November 19: [Korea R Conference](https://use-r.kr/)
   * November 10-12: [LatinR 2021](https://latin-r.com/en). [\@latinr_conf](https://twitter.com/latinr_conf)
+  * November 1-5 & 8-10: [NHS-R Community Conference 2021](https://nhsrcommunity.com/nhs-r-community-conference-2021/). [\@NHSrCommunity](https://twitter.com/NHSrCommunity)
 
 ### September
 
