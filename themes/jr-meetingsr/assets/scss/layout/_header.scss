@@ -11,7 +11,7 @@
     left: 0;
     right: 0;
     @include mq(medium){
-        padding: 1rem 0;
+        padding: 1rem 0 0 0;
     }
 
     &__content{
@@ -73,6 +73,80 @@
         height: 100%;
         @include mq(medium){
             margin-left: 0;
+        }
+    }
+    &__nav {
+        background: rgba(0, 0, 0, 0.7);
+        min-height: 100vh;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: grid;
+        place-items: center;
+        @include mq(medium){
+            background: transparent;
+            position: inherit;
+            min-height: inherit;
+        }
+    }
+
+    &__nav-items{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        gap: 35px;
+        @include mq(medium){
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            margin-top: 25px;
+            gap: 0;
+        }
+    }
+
+    &__nav-item{
+        padding: 13px 18px;
+        color: $secondary-text;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 22px;
+        @include mq(medium){
+            font-family: $primary-font;
+            font-weight: $normal;
+            font-size: $medium;
+            line-height: 18px;
+            color: $primary-text;
+            padding: 13px 20px;
+        }
+
+        &--active{
+            background-color: $secondary-background;
+            color: $secondary-text;
+        }
+
+        &:hover{
+            text-decoration: none;
+            background-color: $secondary-background;
+            color: $secondary-text;
+        }
+    }
+
+    &__close-circle{
+        width: 55px;
+        height: 55px;
+        border-radius: 50%;
+        background-color: $primary-background;
+        display: grid;
+        place-items: center;
+        margin: auto;
+        @include mq(medium){
+            display: none;
+        }
+
+        &:hover{
+            cursor: pointer;
         }
     }
 }

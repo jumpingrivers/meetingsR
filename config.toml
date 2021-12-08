@@ -3,8 +3,30 @@ languageCode = "en-us"
 title = "Jr MeetingsR"
 theme = "jr-meetingsr"
 
-############# Footer Menu ################
 [menu]
+############# header menu ################
+    [[menu.main]]
+        identifier = "events"
+        name = "Events"
+        weight = 1
+        url= "/events"
+    [[menu.main]]
+        identifier = "r-user-groups"
+        name = "R User Groups"
+        weight = 2
+        url= "/r-user-groups"
+    [[menu.main]]
+        identifier = "r-ladies-groups"
+        name = "R-LADIES Groups"
+        weight = 3
+        url= "/r-ladies-groups"
+    [[menu.main]]
+        identifier = "virtual-events"
+        name = "VIRTUAL EVENTS"
+        weight = 4
+        url= "/virtual-events"
+
+############# Footer Menu ################
     [[menu.footer]]
         identifier = "website-terms-data-and-privacy"
         name = "Website Terms Data and Privacy"
