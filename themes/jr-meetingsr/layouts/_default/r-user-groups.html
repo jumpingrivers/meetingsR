@@ -16,7 +16,7 @@
                                 {{$continents:= .Params.r_users_groups}}
                                 {{range $index,$continent:=$continents}}
                                 {{$continentManipulation:= lower .continent}}
-                                <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#{{$continentManipulation | urlize}}">{{$continent.continent}}</a>
+                                <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#{{replaceRE "/" "" $continentManipulation  | urlize}}">{{$continent.continent}}</a>
                                 {{end}}
                             </div>
                         </div>
@@ -31,7 +31,7 @@
                     {{$continents:= .Params.r_users_groups}}
                     {{range $continents}}
                     {{$continentManipulation:= lower .continent}}
-                    <h2 class="card-details__category"><a id="{{$continentManipulation | urlize}}" href="#{{$continentManipulation | urlize}}">{{.continent}}</a></h2>
+                    <h2 class="card-details__category"><a id="{{ replaceRE "/" "" $continentManipulation  | urlize}}" href="#{{replaceRE "/" "" $continentManipulation  | urlize}}">{{.continent}}</a></h2>
                     {{range .groups }}
                     <div class="card-details__sub-category-wrapper">
                         <h3 class="card-details__sub-category">{{.countryName | markdownify}}</h3>

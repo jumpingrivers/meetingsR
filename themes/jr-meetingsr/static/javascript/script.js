@@ -57,13 +57,38 @@ function stickyFunctionality(){
 
     
     //navbar start here
-    const menuIconOpen = document.querySelector('.header__nav-icon');
-    const nav = document.querySelector('.card-details__header');
-    const crossIcon = document.querySelector('.header__icon-close');
-    const navIcon = document.querySelector('.header__icon');
+    // const menuIconOpen = document.querySelector('.header__nav-icon');
+    // const nav = document.querySelector('.card-details__header');
+    // const crossIcon = document.querySelector('.header__icon-close');
+    // const navIcon = document.querySelector('.header__icon');
 
-    menuIconOpen.addEventListener('click', (e)=>{
-        nav.classList.toggle('card-details__header--open');
-        navIcon.classList.toggle('header__icon--close');
-        crossIcon.classList.toggle('header__icon-close--open');
-    })
+    // menuIconOpen.addEventListener('click', (e)=>{
+    //     nav.classList.toggle('card-details__header--open');
+    //     navIcon.classList.toggle('header__icon--close');
+    //     crossIcon.classList.toggle('header__icon-close--open');
+    // })
+
+//Header functionality
+const header = document.querySelector('.header__nav')
+const openIcon = document.querySelector('.header__nav-icon')
+const closeIcon = document.querySelector('.header__close-circle')
+const body = document.querySelector('body');
+let scrollyaxis;
+
+openIcon.addEventListener('click',e=>{
+    header.style.display = 'grid';
+    scrollyaxis= window.scrollY;
+    body.style.position=`fixed`;
+    body.style.top=`-${scrollyaxis}px`;
+    body.style.left=`0`;
+    body.style.right=`0`;
+})
+
+closeIcon.addEventListener('click',e=>{
+    header.style.display = 'none';
+    body.style.removeProperty('position')
+    body.style.removeProperty('top')
+    body.style.removeProperty('left')
+    body.style.removeProperty('right')
+    window.scrollTo(0, scrollyaxis);
+})

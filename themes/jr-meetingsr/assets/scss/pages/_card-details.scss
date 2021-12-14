@@ -25,7 +25,7 @@
     &__header{
         background-color: #fff;
         width: 100%;
-        display: none;
+        display: block;
         @include mq(medium){
             display: block;
         }

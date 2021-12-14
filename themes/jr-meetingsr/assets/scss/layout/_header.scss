@@ -76,16 +76,18 @@
         }
     }
     &__nav {
-        background: rgba(0, 0, 0, 0.7);
+        background: rgba(0, 0, 0, 0.73);
         min-height: 100vh;
-        position: absolute;
+        position: fixed;
         top: 0;
         left: 0;
         right: 0;
         bottom: 0;
-        display: grid;
+        display: none;
         place-items: center;
+        z-index: 999;
         @include mq(medium){
+            display: grid !important;
             background: transparent;
             position: inherit;
             min-height: inherit;
