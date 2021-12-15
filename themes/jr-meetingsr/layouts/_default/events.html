@@ -15,7 +15,7 @@
                             <div class="card-details__carousel">
                                 {{$years:= .Params.events}}
                                 {{range $index,$year:= $years}}
-                                <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#{{$year.year}}">{{$year.year}}</a>
+                                <div class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" data-src="{{ replaceRE "/" "" $year.year  | urlize }}">{{$year.year | markdownify}}</div>
                                 {{end}}
                             </div>
                         </div>
@@ -27,7 +27,7 @@
                 <div class="card-details__category-wrapper">
                     {{$years:= .Params.events}}
                     {{range $years}}
-                    <h2 class="card-details__category"><a id="{{.year}}" class="card-details__years" href="#">{{.year}}</a></h2>
+                    <h2 class="card-details__category"><a id="{{replaceRE "/" "" .year  | urlize }}" class="card-details__years" href="{{replaceRE "/" "" .year  | urlize}}">{{.year | markdownify}}</a></h2>
                     {{range .eventDetails }}
                     <div class="card-details__sub-category-wrapper">                      
                         <h3 class="card-details__sub-category">{{.monthName | markdownify}}</h3>

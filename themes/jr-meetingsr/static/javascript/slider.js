@@ -1,11 +1,3 @@
-// window.onload = function (){
-//     carouselfunctionality();
-//     addActiveMenu();
-// }
-// window.addEventListener('resize',e=>{
-//     carouselfunctionality();
-//     addActiveMenu();
-// })
 carouselfunctionality();
     addActiveMenu();
 function carouselfunctionality(){
@@ -60,15 +52,14 @@ function addActiveMenu(){
             menuItems.forEach(menuItem=>{
                 if(menuItem.classList.contains('card-details__carousel-item--active')){
                     menuItem.classList.remove('card-details__carousel-item--active');
-                    let id= menuItem.getAttribute('href');
-                    id= id.slice(1)
-                    document.getElementById(id).style.removeProperty('padding-top');
                 }
             })
             menuItem.classList.add('card-details__carousel-item--active');
-            let id= menuItem.getAttribute('href');
-                id= id.slice(1)
-            document.getElementById(id).style.paddingTop= "150px";
+            let id= menuItem.dataset.src;
+                const headerHeight = document.querySelector('.card-details__header').clientHeight;
+                let elmentDetails= document.getElementById(id).offsetTop;
+                window.scrollTo({top: (elmentDetails - headerHeight),behavior:'smooth'}) 
+
         })
     }))
 }

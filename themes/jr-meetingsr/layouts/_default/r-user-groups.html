@@ -16,7 +16,7 @@
                                 {{$continents:= .Params.r_users_groups}}
                                 {{range $index,$continent:=$continents}}
                                 {{$continentManipulation:= lower .continent}}
-                                <a class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" href="#{{replaceRE "/" "" $continentManipulation  | urlize}}">{{$continent.continent}}</a>
+                                <div class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" data-src="{{replaceRE "/" "" $continentManipulation  | urlize}}">{{$continent.continent}}</div>
                                 {{end}}
                             </div>
                         </div>

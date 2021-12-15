@@ -15,10 +15,9 @@ function stickyFunctionality(){
             let headerMaxWidth= document.querySelector('.card-details__schedule').clientWidth;
             let sidebarMaxWidth= sidebar.clientWidth;
             const mainHeaderheight= mainHeader.offsetHeight+3;
-            console.log(mainHeaderheight)
             const screenWidth= window.innerWidth;
             let containerWidth= document.querySelector('.container').clientWidth;
-            const containerLeftPadding= getComputedStyle(document.querySelector('.container')).paddingLeft;
+            const containerLeftPadding = getComputedStyle(document.querySelector('.container')).paddingLeft;
             let leftSideWhiteSpace= ((screenWidth-containerWidth)/2) + parseFloat(containerLeftPadding);
             
             let computerScreen= window.matchMedia('(min-width:768px)');
