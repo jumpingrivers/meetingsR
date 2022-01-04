@@ -1,0 +1,22 @@
+<footer class="footer">
+  <div class="footer__sub-footer">
+    <div class="container">
+      <nav class="footer__footer-nav">
+        {{- range .Site.Menus.footer -}}
+        <a class="primary-text footer__footer-nav-item" href="{{.URL | urlize}}">{{.Name | markdownify}}</a>
+        {{end}}
+      </nav>
+    </div>
+  </div>
+  <div class="footer__copyright">
+    <div class="container">
+      <p class="primary-text footer__copyright-text">{{.Site.Params.copyright | markdownify}}
+      </p>
+    </div>
+  </div>
+</footer>
+<script src="/javascript/script.js"></script>
+{{if .IsHome }}
+{{else}}
+<script src="/javascript/slider.js"></script>
+{{end}}

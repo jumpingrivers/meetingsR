@@ -1,0 +1,51 @@
+.card{
+    &__cards{
+        max-width: 650px;
+        width: 100%;
+        margin: 50px auto 0 auto;
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 10px;
+        place-items: center;
+        @include mq(medium){
+            grid-gap: 20px;
+        }
+    }
+
+    &__card{
+        padding: 20px 10px;
+        background-color: $card-background;
+        border-radius: 2px;
+        @include mq(medium){
+            padding: 20px;
+        }
+    }
+
+    &__card-image{
+        width: 105px;
+        display: block;
+        margin: auto;
+        height: 72px;
+        @include mq(medium){
+            width: 194px;
+            height: 129px;
+        }
+    }
+
+    &__card-heading{
+        font-weight: $normal;
+        font-size: $medium;
+        line-height: 18px;
+        text-align: center;
+        color: $primary-heading;
+        text-transform: uppercase;
+    }
+
+    &__button{
+        display: block;
+        margin: auto;
+        @include mq(medium){
+            display: table;
+        }
+    }
+}

@@ -1,0 +1,11 @@
+<div class="card__cards">
+    {{$cards:= .Params.cards}}
+    {{range $cards}}
+    <div class="card__card">
+        <a href="/{{.slug | markdownify}}"><img class="card__card-image" src="{{.imageUrl | markdownify}}" alt="{{.imageDescription | markdownify}}"></a>
+        <h3 class="card__card-heading"><a href="/{{.slug | markdownify}}">{{.heading | markdownify}}</a></h3>
+        <p class="primary-text">{{.text | markdownify}}</p>
+        <a class="button card__button" href="/{{.slug | markdownify}}">{{.buttonName | markdownify}}</a>
+    </div>
+    {{end}}
+</div>

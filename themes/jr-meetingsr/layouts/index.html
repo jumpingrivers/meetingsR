@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<section class="meetings">
+    <div class="container">
+        <div class="meetings__content">
+            <h1 class="primary-heading meetings__heading">{{.Params.hero.heading | markdownify}}</h1>
+            <div class="primary-text meetings__text">
+                {{.Params.hero.text | markdownify}}
+            </div>
+            
+            {{- partial "card.html" . -}}
+
+        </div>
+    </div>
+</section>
+
+<section class="data">
+    <div class="container">
+        <div class="data__content">
+            <h2 class="primary-heading">{{.Params.data.heading | markdownify}}</h2>
+            <div class="primary-text data__text">
+                {{.Params.data.text | markdownify}}
+                <ul class="data__list-items">
+                    {{$items:= .Params.data.items}}
+                    {{range $items}}
+                    <li class="data__list-item">{{.itemName | markdownify}} <a class="primary-links data__links" href="{{.itemUrl | markdownify}}">{{.itemUrlName | markdownify}}</a></li>
+                    {{end}}
+                </ul>
+            </div>
+            <div class="primary-text data__text">
+                <p>{{.Params.data.footer.textOne | markdownify}}</p>
+                <a class="primary-links data__links" href="{{.Params.data.footer.linksUrl | markdownify}}">{{.Params.data.footer.linksName | markdownify}}</a>
+                <p>{{.Params.data.footer.textTwo | markdownify}}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{- partial "scroll-top.html" . -}}
+
+{{ end }}

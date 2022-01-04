@@ -1,0 +1,25 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the footer of the site/application.
+// -----------------------------------------------------------------------------
+
+.footer{
+    position: relative;
+    z-index: 1000;
+    &__sub-footer{
+        background-color: $secondary-background;
+        padding: 1rem 0;
+        @include mq(medium){
+            display: none;
+        }
+    }
+
+    &__copyright{
+        background-color: $secondary-background-dark;
+        padding: 1rem 0;
+    }
+
+    &__copyright-text{
+        list-style: 13px;
+        color: $secondary-text;
+    }
+}

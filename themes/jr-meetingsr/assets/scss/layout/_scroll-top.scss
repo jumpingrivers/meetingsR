@@ -1,0 +1,21 @@
+.scroll-top{
+    display: none;
+    place-items: center;
+    position: fixed;
+	bottom: 70px;
+	right: 13px;
+	width: 40px;
+	height: 40px;
+    background-color: $primary-background;
+	z-index: 9999;
+	border-radius: 3px;
+    transition: .4s;
+    @include mq(medium){
+        display: none;
+    }
+
+    &:hover{
+        cursor: pointer;
+        background-color: $primary-heading;
+    }
+}

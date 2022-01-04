@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+<main class="card-details">
+    <div class="container">
+        <div class="card-details__content">
+            <div class="card-details__schedule">
+                <a class="card-details__backpage" href="/"><img src="/images/backpage-arrow.svg" alt=""></a>
+                <header class="card-details__header">
+                    <h1 class="primary-heading card-details__heading">{{with .Params.pageHeading}}{{.| markdownify}}{{else}}{{.Title | markdownify}}{{end}}</h1>
+                    <nav class="card-details__slider">
+                        <div class="card-details__arrow card-details__arrow--left">
+                            <img src="/images/arrow-right.svg" alt="">
+                        </div>
+                        <div class="card-details__carousel-wrapper">
+                            <div class="card-details__carousel card-details__carousel--groups">
+                                {{$continents:= .Params.r_users_groups}}
+                                {{range $index,$continent:=$continents}}
+                                {{$continentManipulation:= lower .continent}}
+                                <div class="card-details__carousel-item {{if eq $index 0}}card-details__carousel-item--active{{end}}" data-src="{{replaceRE "/" "" $continentManipulation  | urlize}}">{{$continent.continent}}</div>
+                                {{end}}
+                            </div>
+                        </div>
+                        <div class="card-details__arrow card-details__arrow--right">
+                            <img src="/images/arrow-right.svg" alt="">
+                        </div>
+                    </nav>
+                </header>
+                
+
+                <div class="card-details__category-wrapper">
+                    {{$continents:= .Params.r_users_groups}}
+                    {{range $continents}}
+                    {{$continentManipulation:= lower .continent}}
+                    <h2 class="card-details__category"><a id="{{ replaceRE "/" "" $continentManipulation  | urlize}}" href="#{{replaceRE "/" "" $continentManipulation  | urlize}}">{{.continent}}</a></h2>
+                    {{range .groups }}
+                    <div class="card-details__sub-category-wrapper">
+                        <h3 class="card-details__sub-category">{{.countryName | markdownify}}</h3>
+                        {{range .details}}
+                        <div class="card-details__sub-category-details">
+                            {{ . | markdownify}}
+                        </div>
+                        {{end}}
+                        {{if .states}}
+                            {{range .states}}
+                            <h4 class="card-details__sub-category--small">{{ .name | markdownify}}</h4>
+                            {{range .details}}
+                            <div class="card-details__sub-category-details">
+                                {{ . | markdownify}}
+                            </div>
+                            {{end}}
+                            {{end}}
+                        {{end}}
+                    </div>
+                    {{end}}
+                    {{end}}
+                </div>
+            </div>
+            {{ partial "sidebar-cards.html" . }}
+        </div>
+    </div>
+</main>
+
+{{- partial "scroll-top.html" . -}}
+
+{{ end }}

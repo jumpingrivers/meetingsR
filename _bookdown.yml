@@ -1,4 +1,0 @@
-new_session: yes
-before_chapter_script: 'R/pre_chap.R'
-edit: 'https://github.com/jumpingingrivers/meetingsR/edit/main/%s'
-view: 'https://github.com/jumpingingrivers/meetingsR/view/main/%s'

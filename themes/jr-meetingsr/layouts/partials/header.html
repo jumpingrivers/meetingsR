@@ -1,0 +1,30 @@
+<header id="top" class="header">
+    <div class="container">
+        <div class="header__content">
+            <div class="header__nav-icon">
+                <img class="header__icon" src="/images/nav-icon.svg" alt="">
+                <img class="header__icon-close" src="/images/cross-icon-header.png" alt="">
+            </div>
+            <div class="header__logo">
+                <picture>
+                    <source media="(min-width:768px)" srcset="/images/jr-logo.svg">
+                    <a class="header__logo-wrap" href="/"><img class="header__logo-image" src="/images/jr-moblle-logo.svg" alt=""></a>
+                </picture> 
+            </div>
+        </div>
+        <div class="header__nav">
+            <nav class="header__nav-items">
+                {{- $current := . -}}
+                {{- range .Site.Menus.main -}}
+                {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
+                {{- $active = or $active (eq .Name $current.Title) -}}
+                {{- $active = or $active (eq .Identifier $current.Section) -}}
+                <a id={{.Identifier}} class="{{- if $active -}}header__nav-item--active {{- end }} header__nav-item" href="{{.URL}}">{{.Name}}</a>
+                {{ end }}
+                <div class="header__close-circle">
+                    <img class="header__close-circle-icon" src="/images/close-icon.svg" alt="">
+                </div>
+            </nav>
+        </div>
+    </div>
+</header>
