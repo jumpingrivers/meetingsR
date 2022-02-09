@@ -8,6 +8,12 @@ The format for listing a Virtual R event is
 
   * Date: [event name & link](http://www.example.com). [\@twitter_handle](https://twitter.com/twitter_handle).
 
+## 2022 `r get_btn()` {-}
+
+### April
+
+  * April 15-17: [Why R? Turkey 2022](https://whyr.pl/2022/turkey/en/). [\@WhyRTurkey](https://twitter.com/WhyRTurkey)
+
 ## 2021 `r get_btn()` {-}
 
 ### December
