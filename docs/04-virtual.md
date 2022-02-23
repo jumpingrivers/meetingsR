@@ -13,6 +13,10 @@ The format for listing a Virtual R event is
 ### April
 
   * April 15-17: [Why R? Turkey 2022](https://whyr.pl/2022/turkey/en/). [\@WhyRTurkey](https://twitter.com/WhyRTurkey)
+  
+### March
+
+  * March 14-15: [Workshop on Parallel Computing in R](https://warwick.ac.uk/research/rtp/sc/sulis/events/parallelr/).
 
 ## 2021 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
