@@ -10,11 +10,21 @@ The format for listing a Virtual R event is
 
 ## 2022 `r get_btn()` {-}
 
+### June
+
+  * June 8-10: [R Conference](https://rstats.ai/nyr/).[\@rstatsai](https://twitter.com/rstatsai)
+  * June 15-17: [Insurance Data Science Conference](https://insurancedatascience.org/).
+  * June 20-23: [useR!](https://user2022.r-project.org/).[\@_useRconf](https://twitter.com/_useRconf)
+  
+### May
+
+  * May 25-27: [VI International Seminar on Statistics with R](http://ser.uff.br/).
+  
 ### April
 
-  * April 27-29: [2022 Appsilon Shiny Conference](https://appsilon.com/2022-appsilon-shiny-conference/).
-  * April 15-17: [Why R? Turkey 2022](https://whyr.pl/2022/turkey/en/). [\@WhyRTurkey](https://twitter.com/WhyRTurkey)
   * April 7: [R Lille: "Memory- and Computation-Efficient Statistical Tools for Big Matrices" - Florian Privé](https://www.meetup.com/R-Lille/events/284358899/). [\@RLille_RUG](https://twitter.com/RLille_RUG)
+  * April 15-17: [Why R? Turkey 2022](https://whyr.pl/2022/turkey/en/). [\@WhyRTurkey](https://twitter.com/WhyRTurkey)
+  * April 27-29: [2022 Appsilon Shiny Conference](https://appsilon.com/2022-appsilon-shiny-conference/).
   
 ### March
 
@@ -28,16 +38,16 @@ The format for listing a Virtual R event is
 
 ### November
 
-  * November 24-26: [The Use of R in Official Statistics](https://r-project.ro/conference2021.html)
-  * November 19: [Korea R Conference](https://use-r.kr/)
-  * November 10-12: [LatinR 2021](https://latin-r.com/en). [\@latinr_conf](https://twitter.com/latinr_conf)
-  * November 8-13: [Coda BR 2021](https://escoladedados.org/coda2021/).
   * November 1-5 & 8-10: [NHS-R Community Conference 2021](https://nhsrcommunity.com/nhs-r-community-conference-2021/). [\@NHSrCommunity](https://twitter.com/NHSrCommunity)
+  * November 8-13: [Coda BR 2021](https://escoladedados.org/coda2021/).
+  * November 10-12: [LatinR 2021](https://latin-r.com/en). [\@latinr_conf](https://twitter.com/latinr_conf)
+  * November 19: [Korea R Conference](https://use-r.kr/)
+  * November 24-26: [The Use of R in Official Statistics](https://r-project.ro/conference2021.html)
 
 ### September
 
-  * September 29-30: [noRth 2021](https://rnorthconference.github.io/).
   * September 6-10: [Earl 20201](https://info.mango-solutions.com/earl-2021).
+  * September 29-30: [noRth 2021](https://rnorthconference.github.io/).
 
 ### August
 

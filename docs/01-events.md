@@ -16,6 +16,10 @@ The format for listing an R event is
 
 ### June
 
+* June 3-4: [R/Finance](https://web.cvent.com/event/2efa4ed6-5d94-44cf-9c15-e0ae8d78276e/summary?environment=P2). Chicago IL, USA.
+* June 7-10: [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2022/index.cfm). Pittsburgh PA, USA. [\@AmstatNews](https://twitter.com/AmstatNews)
+* June 8-10: [R Conference](https://rstats.ai/nyr/). New York NY, USA. [\@rstatsai](https://twitter.com/rstatsai)
+* June 15-17: [Insurance Data Science Conference](https://insurancedatascience.org/). Milan, Spain.
 * June 20-23: [useR! 2022](https://user2022.r-project.org/). Nashville TN, USA. [\@user2022_conf](https://twitter.com/user2022_conf)
 
 ## 2020 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
