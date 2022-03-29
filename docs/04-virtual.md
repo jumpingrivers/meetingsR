@@ -14,6 +14,7 @@ The format for listing a Virtual R event is
 
   * April 27-29: [2022 Appsilon Shiny Conference](https://appsilon.com/2022-appsilon-shiny-conference/).
   * April 15-17: [Why R? Turkey 2022](https://whyr.pl/2022/turkey/en/). [\@WhyRTurkey](https://twitter.com/WhyRTurkey)
+  * April 7: [R Lille: "Memory- and Computation-Efficient Statistical Tools for Big Matrices" - Florian Privé](https://www.meetup.com/R-Lille/events/284358899/). [\@RLille_RUG](https://twitter.com/RLille_RUG)
   
 ### March
 
