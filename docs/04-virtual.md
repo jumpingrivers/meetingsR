@@ -10,11 +10,19 @@ The format for listing a Virtual R event is
 
 ## 2022 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+### November 
+
+  * November 8-10: [R/Pharma](https://rinpharma.com/). 
+
+### July
+
+  * July 27-29: [BioC 2022](https://bioc2022.bioconductor.org/). [\@Bioconductor](https://twitter.com/Bioconductor)
+
 ### June
 
-  * June 8-10: [R Conference](https://rstats.ai/nyr/).[\@rstatsai](https://twitter.com/rstatsai)
+  * June 8-10: [R Conference](https://rstats.ai/nyr/). [\@rstatsai](https://twitter.com/rstatsai)
   * June 15-17: [Insurance Data Science Conference](https://insurancedatascience.org/).
-  * June 20-23: [useR!](https://user2022.r-project.org/).[\@_useRconf](https://twitter.com/_useRconf)
+  * June 20-23: [useR!](https://user2022.r-project.org/). [\@_useRconf](https://twitter.com/_useRconf)
   
 ### May
 

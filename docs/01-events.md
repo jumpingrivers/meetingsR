@@ -10,17 +10,30 @@ The format for listing an R event is
   
 ## 2022 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+### December
+
+  * December 26-30: [IISA](intindstat.org/conference2022/index). Bengaluru, India. 
+
 ### September
 
-* September 6-8: EARL 2022. London, United Kingdom. [\@earlconf](https://twitter.com/earlconf)
+* September 6-8: [EARL 2022](https://info.mango-solutions.com/earl-conference-2022). London, United Kingdom. [\@earlconf](https://twitter.com/earlconf)
+* September 14-16: [EUROBIOC 2022](https://eurobioc2022.bioconductor.org/). Heidelberg, Germany. [\@Bioconductor](https://twitter.com/Bioconductor)
 
+### August
+
+  * August 6-11: [JSM](https://ww2.amstat.org/meetings/jsm/2022/conferenceinfo.cfm). Washington DC, USA. [\@AmstatNews](https://twitter.com/AmstatNews)
+
+### July
+
+  * July 25-28: [rstudio::conf 2022](https://www.rstudio.com/conference/). Washington DC, USA. [\@rstudio](https://twitter.com/rstudio)
+  * July 27-29: [BioC 2022](https://bioc2022.bioconductor.org/). Seattle WA, USA. [\@Bioconductor](https://twitter.com/Bioconductor)
+  
 ### June
 
 * June 3-4: [R/Finance](https://web.cvent.com/event/2efa4ed6-5d94-44cf-9c15-e0ae8d78276e/summary?environment=P2). Chicago IL, USA.
 * June 7-10: [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2022/index.cfm). Pittsburgh PA, USA. [\@AmstatNews](https://twitter.com/AmstatNews)
 * June 8-10: [R Conference](https://rstats.ai/nyr/). New York NY, USA. [\@rstatsai](https://twitter.com/rstatsai)
 * June 15-17: [Insurance Data Science Conference](https://insurancedatascience.org/). Milan, Spain.
-* June 20-23: [useR! 2022](https://user2022.r-project.org/). Nashville TN, USA. [\@user2022_conf](https://twitter.com/user2022_conf)
 
 ## 2020 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
