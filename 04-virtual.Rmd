@@ -14,7 +14,6 @@ The format for listing a Virtual R event is
 
   * November 8-10: [R/Pharma](https://rinpharma.com/). 
 
-### August
   
   * August 23-26:
 
