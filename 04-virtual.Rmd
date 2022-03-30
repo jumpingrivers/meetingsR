@@ -14,8 +14,6 @@ The format for listing a Virtual R event is
 
   * November 8-10: [R/Pharma](https://rinpharma.com/). 
 
-  
-
 ### July
 
   * July 27-29: [BioC 2022](https://bioc2022.bioconductor.org/). [\@Bioconductor](https://twitter.com/Bioconductor)
