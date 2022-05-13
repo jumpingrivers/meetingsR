@@ -13,6 +13,10 @@ The format for listing a Virtual R event is
 ### November 
 
   * November 8-10: [R/Pharma](https://rinpharma.com/). 
+  
+### August
+
+  * August 23-26: [R/Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine?lang=en)
 
 ### July
 
