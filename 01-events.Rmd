@@ -14,6 +14,10 @@ The format for listing an R event is
 
   * December 26-30: [IISA](intindstat.org/conference2022/index). Bengaluru, India. 
 
+### October
+
+* October 4-5: [Shiny in Production](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://twitter.com/jumping_uk)
+
 ### September
 
 * September 6-8: [EARL 2022](https://info.mango-solutions.com/earl-conference-2022). London, United Kingdom. [\@earlconf](https://twitter.com/earlconf)
