@@ -199,6 +199,7 @@ knit: "bookdown::preview_chapter"
 #### Utah {-}
 
   * Salt Lake City: [University of Utah R Users Group](https://sites.google.com/site/utahrug/)
+  * Utah County: [Utah County R User Group](https://www.meetup.com/utah-county-rug/)
 
 #### Washington {-}
 
