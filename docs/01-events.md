@@ -8,6 +8,12 @@ The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
   
+## 2023
+
+### June
+
+  * June 21-23: [Rencontres R 2023](https://twitter.com/rencontres_r). Avignon, France. [\rencontres_R](https://twitter.com/rencontres_r)
+  
 ## 2022 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### December
