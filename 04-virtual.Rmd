@@ -10,6 +10,9 @@ The format for listing a Virtual R event is
 
 ## 2022 `r get_btn()` {-}
 
+### October 
+* Weekly; [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine). [\@d_mykhailyshyna](https://twitter.com/d_mykhailyshyna)
+
 ### November 
 
   * November 8-10: [R/Pharma](https://rinpharma.com/). 
