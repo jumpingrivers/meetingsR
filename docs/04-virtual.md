@@ -11,8 +11,7 @@ The format for listing a Virtual R event is
 ## 2022 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### October 
-* Weekly; [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine). [\@d_mykhailyshyna](https://twitter.com/d_mykhailyshyna)
-
+  * Weekly; [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine). [\@d_mykhailyshyna](https://twitter.com/d_mykhailyshyna)
   * October 12: [LatinR 2022](https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197). [\@LatinR_Conf](https://twitter.com/LatinR_Conf).
 
 ### November 
