@@ -10,14 +10,19 @@ The format for listing an R event is
   
 ## 2023 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+### August
+
+  * August 2-4: [BioC2023](http://bioconductor.org/). Boston, MA, USA. [\@Bioconductor](https://twitter.com/Bioconductor)
+
 ### June
 
-  * June 21-23: [Rencontres R 2023](https://twitter.com/rencontres_r). Avignon, France. [\rencontres_R](https://twitter.com/rencontres_r)
+  * June 21-23: [Rencontres R 2023](https://twitter.com/rencontres_r). Avignon, France. [\@rencontres_R](https://twitter.com/rencontres_r)
   
 ## 2022 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### December
 
+  * December 1-2: [2022 Government & Public Sector R Conference](https://rstats.ai/gov/?utm_source=landeranalytics&utm_medium=email&utm_campaign=on_sale_now_government_public_sector_r_conference&utm_term=2022-09-22). Washington DC, USA.
   * December 26-30: [IISA](intindstat.org/conference2022/index). Bengaluru, India. 
 
 ### October
