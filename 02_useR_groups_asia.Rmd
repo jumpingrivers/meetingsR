@@ -67,7 +67,11 @@
 ### Malaysia `r get_btn()`
 
   * Kuala Lumpur: [myRUG](https://www.meetup.com/MY-RUserGroup/)
-  
+
+### Myanmar `r get_btn()`
+
+  * Myanmar: [Myanmar Learners to R - MLTR](https://www.facebook.com/groups/mmltr)
+
 ### Nepal `r get_btn()`
 
   * Nepal: [R User Group Nepal](https://www.meetup.com/R-User-Group-Nepal/); [\@rugnepal](https://twitter.com/rugnepal)
