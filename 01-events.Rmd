@@ -17,6 +17,9 @@ The format for listing an R event is
 ### June
 
   * June 21-23: [Rencontres R 2023](https://twitter.com/rencontres_r). Avignon, France. [\@rencontres_R](https://twitter.com/rencontres_r)
+
+### March
+  * March 15-17: [ShinyConf 2023](https://shinyconf.com/). Virtual.[\@ShinyConf](https://twitter.com/ShinyConf)
   
 ## 2022 `r get_btn()` {-}
 
