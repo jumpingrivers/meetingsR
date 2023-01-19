@@ -26,7 +26,7 @@ The format for listing a Virtual R event is
 
 ### December
 
-  * December 1-2: [2022 Government & Public Sector R Conference](https://rstats.ai/gov/?utm_source=landeranalytics&utm_medium=email&utm_campaign=on_sale_now_government_public_sector_r_conference&utm_term=2022-09-22).
+  * December 1-2: [2022 Government & Public Sector R Conference](https://rstats.ai/gov/).
 
 ### November
 
@@ -40,7 +40,7 @@ The format for listing a Virtual R event is
 
 ### August
 
-  * August 23-26: [R/Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine?lang=en)
+  * August 23-26: [R/Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine)
 
 ### July
 
