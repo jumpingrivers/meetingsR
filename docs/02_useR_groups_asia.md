@@ -67,7 +67,11 @@
 ### Malaysia <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_asia.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Kuala Lumpur: [myRUG](https://www.meetup.com/MY-RUserGroup/)
-  
+
+### Myanmar <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_asia.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+
+  * Myanmar: [Myanmar Learners to R - MLTR](https://www.facebook.com/groups/mmltr)
+
 ### Nepal <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_asia.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Nepal: [R User Group Nepal](https://www.meetup.com/R-User-Group-Nepal/); [\@rugnepal](https://twitter.com/rugnepal)
