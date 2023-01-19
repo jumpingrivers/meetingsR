@@ -10,15 +10,23 @@ The format for listing a Virtual R event is
 
 ## 2023 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+### September 
+
+  * September 17-20: [posit::conf(2023)](https://posit.co/conference/). [\@posit_pbc](https://twitter.com/posit_pbc).
+
+### June
+
+  * June 6-9: [R / Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine).
+
 ### March
 
-  * March 15-17: [ShinyConf 2023](https://shinyconf.com/). [\@ShinyConf](https://twitter.com/ShinyConf)
+  * March 15-17: [ShinyConf 2023](https://shinyconf.com/). [\@ShinyConf](https://twitter.com/ShinyConf).
 
 ## 2022 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### December
 
-  * December 1-2: [2022 Government & Public Sector R Conference](https://rstats.ai/gov/?utm_source=landeranalytics&utm_medium=email&utm_campaign=on_sale_now_government_public_sector_r_conference&utm_term=2022-09-22)
+  * December 1-2: [2022 Government & Public Sector R Conference](https://rstats.ai/gov/?utm_source=landeranalytics&utm_medium=email&utm_campaign=on_sale_now_government_public_sector_r_conference&utm_term=2022-09-22).
 
 ### November
 
