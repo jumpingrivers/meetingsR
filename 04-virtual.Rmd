@@ -10,7 +10,9 @@ The format for listing a Virtual R event is
 
 ## 2023 `r get_btn()` {-}
 
-### September 17-20: [posit::conf(2023)](https://posit.co/conference/). [\@posit_pbc](https://twitter.com/posit_pbc).
+### September 
+
+  * September 17-20: [posit::conf(2023)](https://posit.co/conference/). [\@posit_pbc](https://twitter.com/posit_pbc).
 
 ### June
 
