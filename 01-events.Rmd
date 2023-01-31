@@ -10,7 +10,7 @@ The format for listing an R event is
   
 ## 2023 `r get_btn()` {-}
 
-###October
+### October
 
   * October 12-13: [Shiny in Production 2023](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [/@jumping_uk](https://twitter.com/jumping_uk)
 

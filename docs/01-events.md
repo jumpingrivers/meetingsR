@@ -10,7 +10,7 @@ The format for listing an R event is
   
 ## 2023 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
-###October
+### October
 
   * October 12-13: [Shiny in Production 2023](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [/@jumping_uk](https://twitter.com/jumping_uk)
 
