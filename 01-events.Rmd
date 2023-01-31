@@ -8,6 +8,7 @@ The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
   
+## 2023 `r get_btn()` {-}
 
 ###October
 
@@ -20,6 +21,7 @@ The format for listing an R event is
 ### August
 
   * August 2-4: [BioC2023](http://bioconductor.org/). Boston, MA, USA. [\@Bioconductor](https://twitter.com/Bioconductor)
+  * August 19: [Cascadia R Conf](https://cascadiarconf.org/cfp/). Seattle, WA, USA. [\@cascadiarconf](http://twitter.com/cascadiarconf)
 
 ### June
 
