@@ -96,7 +96,7 @@ knit: "bookdown::preview_chapter"
   
 #### Louisiana {-}
 
-* New Orleans: [Tulane University R Fans ](https://tulaneuniversityrfans.wordpress.com/)
+  * New Orleans: [Tulanians Who Enjoy R Coding](https://tulanianswhoenjoyrcoding.wordpress.com/)
 
 #### Massachusetts {-}
 
