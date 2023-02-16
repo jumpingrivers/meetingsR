@@ -31,6 +31,10 @@ The format for listing an R event is
   
   * May 9-20: [R / Finance](https://www.rinfinance.com/). Chicago, IL, USA.
   
+### April
+
+  * April 22: [SatRdays London 2023](https://satrday-london-2023.jumpingrivers.com/). London, UK.
+  
 ## 2022 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### December
