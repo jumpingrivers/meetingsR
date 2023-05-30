@@ -25,6 +25,7 @@ The format for listing an R event is
 
 ### June
 
+  * June 9: [R for Health Technology Assessment (HTA) workshop](https://r-hta.org/events/workshop/2023/). York, UK. **Note**: This is part of a larger online event (see virtual events section).
   * June 21-23: [Rencontres R 2023](https://twitter.com/rencontres_r). Avignon, France. [\@rencontres_R](https://twitter.com/rencontres_r)
   
 ### May
