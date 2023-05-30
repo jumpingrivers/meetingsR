@@ -16,6 +16,7 @@ The format for listing a Virtual R event is
 
 ### June
 
+  * June 8-12: [R for Health Technology Assessment (HTA) workshop](https://r-hta.org/events/workshop/2023/).
   * June 6-9: [R / Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine).
 
 ### March
