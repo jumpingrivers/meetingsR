@@ -8,6 +8,12 @@ The format for listing a Virtual R event is
 
   * Date: [event name & link](http://www.example.com). [\@twitter_handle](https://twitter.com/twitter_handle).
 
+## 2024 `r get_btn()` {-}
+
+### July
+
+  * July 8-11: [useR! 2024](https://www.r-project.org/conferences/). [\@_useRconf](https://twitter.com/_useRconf).
+
 ## 2023 `r get_btn()` {-}
 
 ### September 
