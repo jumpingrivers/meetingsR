@@ -8,25 +8,31 @@ The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
   
+## 2024 `r get_btn()` {-}
+
+### July
+
+  * July 8-11: [useR! 2024](https://www.r-project.org/conferences/). Salzburg, Austria. [\@_useRconf](https://twitter.com/_useRconf).
+  
 ## 2023 `r get_btn()` {-}
 
 ### October
 
-  * October 12-13: [Shiny in Production 2023](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://twitter.com/jumping_uk)
+  * October 12-13: [Shiny in Production 2023](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://twitter.com/jumping_uk).
 
 ### September 
 
-  * September 17-20: [posit::conf(2023)](https://posit.co/conference/). Chicago, IL, USA. [\@posit_pbc](https://twitter.com/posit_pbc)
+  * September 17-20: [posit::conf(2023)](https://posit.co/conference/). Chicago, IL, USA. [\@posit_pbc](https://twitter.com/posit_pbc).
 
 ### August
 
-  * August 2-4: [BioC2023](http://bioconductor.org/). Boston, MA, USA. [\@Bioconductor](https://twitter.com/Bioconductor)
-  * August 19: [Cascadia R Conf](https://cascadiarconf.org/cfp/). Seattle, WA, USA. [\@cascadiarconf](http://twitter.com/cascadiarconf)
+  * August 2-4: [BioC2023](http://bioconductor.org/). Boston, MA, USA. [\@Bioconductor](https://twitter.com/Bioconductor).
+  * August 19: [Cascadia R Conf](https://cascadiarconf.org/cfp/). Seattle, WA, USA. [\@cascadiarconf](http://twitter.com/cascadiarconf).
 
 ### June
 
   * June 9: [R for Health Technology Assessment (HTA) workshop](https://r-hta.org/events/workshop/2023/). York, UK. **Note**: This is part of a larger online event (see virtual events section).
-  * June 21-23: [Rencontres R 2023](https://twitter.com/rencontres_r). Avignon, France. [\@rencontres_R](https://twitter.com/rencontres_r)
+  * June 21-23: [Rencontres R 2023](https://twitter.com/rencontres_r). Avignon, France. [\@rencontres_R](https://twitter.com/rencontres_r).
   
 ### May
   
