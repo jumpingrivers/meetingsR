@@ -132,7 +132,7 @@ The format for listing a Virtual R event is
   * October 12-16: [R in Pharma](https://rinpharma.com/).
   * October 7-9: [LatinR 2020](https://github.com/LatinR/presentaciones-LatinR2020). [\@latinr_conf](https://twitter.com/latinr_conf)
 
-## September
+### September
 
   * September 24-27: [Why R](https://2020.whyr.pl/)
 
