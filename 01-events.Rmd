@@ -10,9 +10,17 @@ The format for listing an R event is
   
 ## 2024 `r get_btn()` {-}
 
+### October
+
+  * October 9-10: [Shiny in Production 2024](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://twitter.com/jumping_uk).
+
 ### July
 
   * July 8-11: [useR! 2024](https://www.r-project.org/conferences/). Salzburg, Austria. [\@_useRconf](https://twitter.com/_useRconf).
+
+### April
+
+  * April 27: [SatRdays London 2024](https://satrday-london-2024.jumpingrivers.com/). London, UK.
   
 ## 2023 `r get_btn()` {-}
 
