@@ -10,9 +10,21 @@ The format for listing an R event is
   
 ## 2024 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+### October
+
+  * October 9-10: [Shiny in Production 2024](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://twitter.com/jumping_uk).
+  
+### August
+
+  * August 12-14: [posit::conf](https://posit.co/). Seattle, WA, USA.  [\@posit_pbc](https://twitter.com/posit_pbc).
+
 ### July
 
   * July 8-11: [useR! 2024](https://www.r-project.org/conferences/). Salzburg, Austria. [\@_useRconf](https://twitter.com/_useRconf).
+
+### April
+
+  * April 27: [SatRdays London 2024](https://satrday-london-2024.jumpingrivers.com/). London, UK.
   
 ## 2023 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
