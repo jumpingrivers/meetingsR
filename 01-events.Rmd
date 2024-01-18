@@ -22,6 +22,10 @@ The format for listing an R event is
 
   * July 8-11: [useR! 2024](https://www.r-project.org/conferences/). Salzburg, Austria. [\@_useRconf](https://twitter.com/_useRconf).
 
+### May
+
+  * May 17-18: [R/Finance 2024](https://www.rinfinance.com/). Chicago, IL, USA.
+
 ### April
 
   * April 27: [SatRdays London 2024](https://satrday-london-2024.jumpingrivers.com/). London, UK.
