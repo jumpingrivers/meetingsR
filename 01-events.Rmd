@@ -29,6 +29,7 @@ The format for listing an R event is
 ### May
 
   * May 15-17: [New York R Conference](https://rstats.ai/). New York, NY, USA. [\@rstatsai](https://twitter.com/rstatsai)
+  * May 17-18: [R/Finance 2024](https://www.rinfinance.com/). Chicago, IL, USA.
 
 ### April
 
