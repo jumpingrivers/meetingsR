@@ -13,10 +13,14 @@ The format for listing a Virtual R event is
 ### July
 
   * July 8-11: [useR! 2024](https://www.r-project.org/conferences/). [\@_useRconf](https://twitter.com/_useRconf).
-  
+
+### May
+
+  * May 15-17: [New York R Conference](https://rstats.ai/). [\@rstatsai](https://twitter.com/rstatsai).
+
 ### April
 
-  * April 17-19: [ShinyConf](https://www.shinyconf.com/). [\@ShinyConf](https://twitter.com/ShinyConf)
+  * April 17-19: [ShinyConf](https://www.shinyconf.com/). [\@ShinyConf](https://twitter.com/ShinyConf).
 
 ## 2023 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
