@@ -28,6 +28,7 @@ The format for listing an R event is
 
 ### June
 
+  * June 5-6: [D4 Conference](https://d4con.io/). Tampa, FL, USA. [\@d4conio](https://twitter.com/d4conio).
   * June 12-14: [Rencontres R 2024](https://rr2024.sciencesconf.org/). Vannes, France. [\@rencontres_R](https://twitter.com/rencontres_r).
 
 ### May
