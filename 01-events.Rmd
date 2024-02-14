@@ -10,6 +10,10 @@ The format for listing an R event is
   
 ## 2024 `r get_btn()` {-}
 
+### November
+
+  * November 27-29: [uRosConf](https://r-project.ro/conference2024.html). Athens, Greece. [\@uRosconf](https://twitter.com/uRosconf)
+
 ### October
 
   * October 9-10: [Shiny in Production 2024](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://twitter.com/jumping_uk).
