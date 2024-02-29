@@ -31,7 +31,8 @@ gender diversity in the R community.
 
 ### Austria `r get_btn()`
 
- * Vienna: [R-Ladies Vienna](https://www.meetup.com/rladies-vienna/); [\@RLadiesVienna](https://twitter.com/RLadiesVienna)
+* Salzburg: [R-Ladies Salzburg](https://www.meetup.com/rladies-salzburg/); [\@rladies_sbg](https://twitter.com/rladies_sbg) 
+* Vienna: [R-Ladies Vienna](https://www.meetup.com/rladies-vienna/); [\@RLadiesVienna](https://twitter.com/RLadiesVienna)
 
 ### Belgium `r get_btn()`
 

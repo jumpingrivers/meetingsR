@@ -31,7 +31,8 @@ gender diversity in the R community.
 
 ### Austria <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
- * Vienna: [R-Ladies Vienna](https://www.meetup.com/rladies-vienna/); [\@RLadiesVienna](https://twitter.com/RLadiesVienna)
+* Salzburg: [R-Ladies Salzburg](https://www.meetup.com/rladies-salzburg/); [\@rladies_sbg](https://twitter.com/rladies_sbg) 
+* Vienna: [R-Ladies Vienna](https://www.meetup.com/rladies-vienna/); [\@RLadiesVienna](https://twitter.com/RLadiesVienna)
 
 ### Belgium <a href="https://github.com/jumpingrivers/meetingsR/blob/main/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
