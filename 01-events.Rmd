@@ -12,6 +12,7 @@ The format for listing an R event is
 
 ### November
 
+  * November 6-8: [III Congreso & XIV Jornadas de Usuarios de R](https://www.imus.us.es/congresos/IIIRqueR/). Sevilla, Spain.
   * November 27-29: [uRosConf](https://r-project.ro/conference2024.html). Athens, Greece. [\@uRosconf](https://twitter.com/uRosconf)
 
 ### October
