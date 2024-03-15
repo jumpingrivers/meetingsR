@@ -30,11 +30,14 @@ The format for listing an R event is
 ### July
 
   * July 8-11: [useR! 2024](https://www.r-project.org/conferences/). Salzburg, Austria. [\@_useRconf](https://twitter.com/_useRconf).
+  * July 24-26: [Bioconductor Conference](https://www.bioc2024.bioconductor.org/). Grand Rapids, MI, USA. [\@Bioconductor](https://twitter.com/Bioconductor).
 
 ### June
 
   * June 5-6: [D4 Conference](https://d4con.io/). Tampa, FL, USA. [\@d4conio](https://twitter.com/d4conio).
+  * June 10-14: [R/Medicine 2024](https://rconsortium.github.io/RMedicine_website/). Virtual. [\@r_medicine](https://twitter.com/r_medicine).
   * June 12-14: [Rencontres R 2024](https://rr2024.sciencesconf.org/). Vannes, France. [\@rencontres_R](https://twitter.com/rencontres_r).
+  * June 21-22: [Cascadia R Conf](https://cascadiarconf.com/). Seattle, WA, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf).
 
 ### May
 
@@ -43,6 +46,7 @@ The format for listing an R event is
 
 ### April
 
+  * April 17-19: [ShinyConf 2024](https://www.shinyconf.com/). Virtual. [\@ShinyConf](https://twitter.com/ShinyConf).
   * April 27: [SatRdays London 2024](https://satrday-london-2024.jumpingrivers.com/). London, UK.
   
 ## 2023 `r get_btn()` {-}
