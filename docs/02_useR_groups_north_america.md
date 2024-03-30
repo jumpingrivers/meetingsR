@@ -101,6 +101,7 @@ knit: "bookdown::preview_chapter"
 #### Massachusetts {-}
 
   * Boston: [Greater Boston useR Group](https://www.meetup.com/Boston-useR/)
+  * Harvard: [R User Group at the Harvard Data Science Initiative](https://rug-at-hdsi.org/)
   * Northampton: [Western Mass Data Science, Stats, and R](https://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/)
 
 #### Michigan {-}
