@@ -13,6 +13,7 @@ The format for listing an R event is
 ### November
 
   * November 6-8: [III Congreso & XIV Jornadas de Usuarios de R](https://www.imus.us.es/congresos/IIIRqueR/). Sevilla, Spain.
+  * November 21-22: [NHS-R / NHS.Pycom Open Source Conference (NHS RPySOC 2024)](https://nhsrcommunity.com/events/#event_type-conferences). Birmingham, UK. [\@NHSrCommunity\@fosstodon.org](https://fosstodon.org/@NHSrCommunity)
   * November 27-29: [uRosConf](https://r-project.ro/conference2024.html). Athens, Greece. [\@uRosconf](https://twitter.com/uRosconf)
 
 ### October
