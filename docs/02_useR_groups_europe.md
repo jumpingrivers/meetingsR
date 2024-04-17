@@ -133,7 +133,7 @@
   * Barcelona: [BarcelonaR](https://www.barcelonar.org/)
   * Madrid: [Grupo de Interés Local de Madrid](http://madrid.r-es.org/)
   * Madrid: [R Hispano](http://r-es.org/)
-  * Sevilla: [R users](https://sevillarusers.wordpress.com/); [\@_SevillaR](https://twitter.com/_SevillaR)
+  * Sevilla: [R users](https://sevillarusers.netlify.app/); [\@_SevillaR](https://twitter.com/_SevillaR)
   * Valencia: [R users](https://valenciarusers.wordpress.com/)
 
 ### Sweden <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
