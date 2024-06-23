@@ -15,6 +15,7 @@
   * Delhi: [Delhi NCR R useR Group](https://www.meetup.com/Delhi-NCR-useR-Group-R-programming-language/)
   * Guna: [R Meetup Guna](https://www.facebook.com/RMeetupGuna-103488354788793/); [\@RMeetupGuna](https://twitter.com/RMeetupGuna)
   * Hyderabad: [R Users Group Hyderabad RUGH](https://www.meetup.com/R-Users-Group-Hyderabad/)
+  * Kolkata: [Kolkata R UseR group](https://www.meetup.com/kolkata-r-user-group/)
   * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/)
   * New Delhi: [New Delhi UseR Group](https://www.meetup.com/New-Delhi-R-UseR-Group/)
   * Pune: [Pune R User Group](https://www.meetup.com/Pune-R-junkies-Meetup/)
