@@ -125,6 +125,7 @@ knit: "bookdown::preview_chapter"
   * Bozeman: [Bozeman Area R useR Group](https://www.meetup.com/bozeman-user-group-r-programming-language/)
  
 #### Nebraska {-}
+  * Nebraska: [Nebraska R User Group](https://nebraskarusergroup.github.io/)
   * Omaha: [Omaha R Users](https://omahar.org/)
 
 #### Nevada {-}
