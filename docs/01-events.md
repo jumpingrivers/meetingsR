@@ -20,6 +20,7 @@ The format for listing an R event is
 ### October
 
   * October 9-10: [Shiny in Production 2024](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://twitter.com/jumping_uk).
+  * October 29-31: [R/Pharma Conference 2024](https://rinpharma.com/). Virtual. [\@rinpharma](https://x.com/rinpharma)
   
 ### September
 
