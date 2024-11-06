@@ -7,6 +7,11 @@ knit: "bookdown::preview_chapter"
 The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
+
+## 2025 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+
+### September
+  * September 16-18: [posit::conf](https://posit.co/). Atlanta, GA, USA.  [\@posit_pbc](https://twitter.com/posit_pbc).
   
 ## 2024 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
