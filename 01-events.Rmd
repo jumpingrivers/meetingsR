@@ -14,8 +14,11 @@ The format for listing an R event is
   * October 14-16: [EARL](https://earl-conference.com/). Brighton, UK.
   * October 8-9: [Shiny in Production](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://bsky.app/profile/jumpingrivers.com).
 
-### September
+## September
   * September 16-18: [posit::conf](https://posit.co/). Atlanta, GA, USA.  [\@posit_pbc](https://twitter.com/posit_pbc).
+
+## August
+  * August 8-10: [useR](https://www.linkedin.com/posts/user-conf_rstats-datascience-coding-activity-7277034678375612416-L9zZ). Durham, North Carolina, USA.
 
 ## June
   * June 20-21: [CCascadia R Conference](https://cascadiarconf.com/cfp/). Portland, OR, USA.
