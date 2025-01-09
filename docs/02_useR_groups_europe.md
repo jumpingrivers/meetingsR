@@ -160,7 +160,7 @@
   * Exeter: [Exeter](https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
   * Leeds: [R Users Leeds](https://r-users-leeds.netlify.com/about/); [\@r_users_leeds](https://twitter.com/r_users_leeds)
   * London: [LondonR](https://www.meetup.com/LondonR/)
-  * Manchester: [ManchesterR](http://www.rmanchester.org/)
+  * Manchester: [ManchesterR](https://www.meetup.com/manchester-r/)
   * Newcastle: [R North East](https://rnortheast.github.io/); [\@RstatsNE](https://twitter.com/RstatsNE)
   * Nottingham: [Nottingham](https://www.meetup.com/NottinghamR-Nottingham-R-Users-Group/) R User group
   * Oxford: [R user group Oxford](https://r-oxford.github.io/); [\@rusersoxford](https://twitter.com/rusersoxford)
