@@ -18,14 +18,13 @@ The format for listing an R event is
   * September 16-18: [posit::conf](https://posit.co/). Atlanta, GA, USA.  [\@posit_pbc](https://twitter.com/posit_pbc).
 
 ## August
-  * August 8-10: [useR](https://www.linkedin.com/posts/user-conf_rstats-datascience-coding-activity-7277034678375612416-L9zZ). Durham, North Carolina, USA.
+  * August 8-10: [useR](https://user2025.r-project.org/). Durham, North Carolina, USA.
 
 ## June
   * June 20-21: [CCascadia R Conference](https://cascadiarconf.com/cfp/). Portland, OR, USA.
   
 ## April
   * April 9-11: [ShinyConf2025](https://events.ringcentral.com/events/shinyconf-2025). Virtual. [\@ShinyConf](https://x.com/ShinyConf)
-
 
 ## 2024 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
