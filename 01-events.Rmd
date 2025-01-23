@@ -21,10 +21,16 @@ The format for listing an R event is
   * August 8-10: [useR](https://user2025.r-project.org/). Durham, North Carolina, USA.
 
 ## June
+  * June 10-13: [R Medicine](https://rconsortium.github.io/RMedicine_website/). Virtual.
+  * June 19-20: [Ghana R Conference](https://ghana-rusers.org/)
   * June 20-21: [CCascadia R Conference](https://cascadiarconf.com/cfp/). Portland, OR, USA.
-  
+
+## May
+ * May 19-21: [Rencontres R 2025](https://rr2025.sciencesconf.org/). Mons, Belgium.
+
 ## April
   * April 9-11: [ShinyConf2025](https://events.ringcentral.com/events/shinyconf-2025). Virtual. [\@ShinyConf](https://x.com/ShinyConf)
+  * April 11-12th: [Open Source Quantitative Finance conference (osQF, formerly R/Finance)](https://www.osqf.org/). Chicago, USA.
 
 ## 2024 `r get_btn()` {-}
 
