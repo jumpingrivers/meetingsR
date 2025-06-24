@@ -9,7 +9,7 @@ cover-image: inverse.png
 description: "A list of R conferences and meetings."
 github-repo: jumpingrivers/meetingsR
 url: 'https\://jumpingrivers.github.io/meetingsR/'
-edit: 'https://github.com/jumpingingrivers/meetingsR/XXX/main/%s'
+edit: 'https://github.com/jumpingrivers/meetingsR/XXX/main/%s'
 ---
 
 
@@ -17,7 +17,7 @@ edit: 'https://github.com/jumpingingrivers/meetingsR/XXX/main/%s'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __558__ R user groups and events. 
+twitter names are missing. There are currently __559__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).

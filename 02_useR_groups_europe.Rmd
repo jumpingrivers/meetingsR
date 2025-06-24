@@ -79,6 +79,7 @@
 
   * Milan: [MilanoR](http://www.milanor.net/)
   * Padua: [Italy-RUG Rante](https://groups.google.com/group/rante)
+  * Rome: [Rome R Users Group](https://www.meetup.com/rome-r-users-group)
   * Torino: [Torino R net](http://torinor.net/)
 
 ### Luxembourg `r get_btn()`

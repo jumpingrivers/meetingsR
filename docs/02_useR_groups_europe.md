@@ -79,6 +79,7 @@
 
   * Milan: [MilanoR](http://www.milanor.net/)
   * Padua: [Italy-RUG Rante](https://groups.google.com/group/rante)
+  * Rome: [Rome R Users Group](https://www.meetup.com/rome-r-users-group)
   * Torino: [Torino R net](http://torinor.net/)
 
 ### Luxembourg <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
