@@ -9,7 +9,7 @@ cover-image: inverse.png
 description: "A list of R conferences and meetings."
 github-repo: jumpingrivers/meetingsR
 url: 'https\://jumpingrivers.github.io/meetingsR/'
-edit: 'https://github.com/jumpingingrivers/meetingsR/XXX/main/%s'
+edit: 'https://github.com/jumpingrivers/meetingsR/XXX/main/%s'
 ---
 ```{r echo=FALSE}
 source("R/count_groups.R")
