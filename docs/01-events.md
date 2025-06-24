@@ -10,6 +10,9 @@ The format for listing an R event is
 
 ## 2025 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+## November 
+  * November 3-7: [R/Pharma Virtual Conference](https://rinpharma.com/post/2025-06-14-announcement/)
+ 
 ## October
   * October 14-16: [EARL](https://earl-conference.com/). Brighton, UK.
   * October 8-9: [Shiny in Production](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://bsky.app/profile/jumpingrivers.com).
@@ -19,6 +22,7 @@ The format for listing an R event is
 
 ## August
   * August 8-10: [useR](https://user2025.r-project.org/). Durham, North Carolina, USA.
+  * August 19: [GenAI in Pharma](https://rinpharma.com/post/2025-06-14-announcement/)
 
 ## June
   * June 10-13: [R Medicine](https://rconsortium.github.io/RMedicine_website/). Virtual.
