@@ -12,6 +12,7 @@ The format for listing an R event is
 
 ## November 
   * November 3-7: [R/Pharma Virtual Conference](https://rinpharma.com/post/2025-06-14-announcement/)
+  * November 12-13: [R+AI](https://r-consortium.org/posts/r_plus_ai_call_for_proposals/)
  
 ## October
   * October 14-16: [EARL](https://earl-conference.com/). Brighton, UK.
