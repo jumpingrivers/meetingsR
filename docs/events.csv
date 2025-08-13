@@ -1,13 +1,13 @@
 # Automatically generated file. Edit the .Rmd file instead.
-November,NA,October 14-16,EARL,https://earl-conference.com/,Brighton,UK,NA
-November,NA,October 8-9,Shiny in Production,https://shiny-in-production.jumpingrivers.com/,Newcastle upon Tyne,UK,jumping_uk
-November,NA,September 16-18,posit::conf,https://posit.co/,NA,NA,posit_pbc
-November,NA,August 8-10,useR,https://user2025.r-project.org/,NA,NA,NA
-November,NA,June 10-13,R Medicine,https://rconsortium.github.io/RMedicine_website/,NA,NA,NA
-November,NA,June 20-21,CCascadia R Conference,https://cascadiarconf.com/cfp/,NA,NA,NA
-November,NA,May 19-21,Rencontres R 2025,https://rr2025.sciencesconf.org/,Mons,Belgium,NA
-November,NA,April 9-11,ShinyConf2025,https://events.ringcentral.com/events/shinyconf-2025,NA,NA,ShinyConf
-November,NA,April 11-12th,"Open Source Quantitative Finance conference (osQF, formerly R/Finance)",https://www.osqf.org/,Chicago,USA,NA
+2025,NA,October 14-16,EARL,https://earl-conference.com/,Brighton,UK,NA
+2025,NA,October 8-9,Shiny in Production,https://shiny-in-production.jumpingrivers.com/,Newcastle upon Tyne,UK,jumping_uk
+2025,NA,September 16-18,posit::conf,https://posit.co/,NA,NA,posit_pbc
+2025,NA,August 8-10,useR,https://user2025.r-project.org/,NA,NA,NA
+2025,NA,June 10-13,R Medicine,https://rconsortium.github.io/RMedicine_website/,NA,NA,NA
+2025,NA,June 20-21,CCascadia R Conference,https://cascadiarconf.com/cfp/,NA,NA,NA
+2025,NA,May 19-21,Rencontres R 2025,https://rr2025.sciencesconf.org/,Mons,Belgium,NA
+2025,NA,April 9-11,ShinyConf2025,https://events.ringcentral.com/events/shinyconf-2025,NA,NA,ShinyConf
+2025,NA,April 11-12th,"Open Source Quantitative Finance conference (osQF, formerly R/Finance)",https://www.osqf.org/,Chicago,USA,NA
 2024,November,November 6-8,III Congreso & XIV Jornadas de Usuarios de R,https://www.imus.us.es/congresos/IIIRqueR/,Sevilla,Spain,NA
 2024,November,November 21-22,NHS-R / NHS.Pycom Open Source Conference (NHS RPySOC 2024),https://nhsrcommunity.com/events/#event_type-conferences,Birmingham,UK,NA
 2024,November,November 27-29,uRosConf,https://r-project.ro/conference2024.html,Athens,Greece,uRosconf
@@ -26,24 +26,59 @@ November,NA,April 11-12th,"Open Source Quantitative Finance conference (osQF, fo
 2024,April,April 17-19,ShinyConf 2024,https://www.shinyconf.com/,NA,NA,ShinyConf
 2024,April,April 27,SatRdays London 2024,https://satrday-london-2024.jumpingrivers.com/,London,UK,NA
 2023,October,October 12-13,Shiny in Production 2023,https://shiny-in-production.jumpingrivers.com/,Newcastle upon Tyne,UK,jumping_uk
-2023,September ,September 17-20,posit::conf(2023),https://posit.co/conference/,NA,NA,posit_pbc
+2023,September,September 17-20,posit::conf(2023),https://posit.co/conference/,NA,NA,posit_pbc
 2023,August,August 2-4,BioC2023,http://bioconductor.org/,NA,NA,Bioconductor
 2023,August,August 19,Cascadia R Conf,https://cascadiarconf.org/cfp/,NA,NA,cascadiarconf
+2023,June,June 6-9,R / Medicine,https://events.linuxfoundation.org/r-medicine/,NA,NA,r_medicine
 2023,June,June 9,R for Health Technology Assessment (HTA) workshop,https://r-hta.org/events/workshop/2023/,York,UK,NA
+2023,June,June 8-12,R for Health Technology Assessment (HTA) workshop,https://r-hta.org/events/workshop/2023/,NA,NA,NA
 2023,June,June 21-23,Rencontres R 2023,https://twitter.com/rencontres_r,Avignon,France,rencontres_R
 2023,May,May 9-20,R / Finance,https://www.rinfinance.com/,NA,NA,NA
 2023,April,April 22,SatRdays London 2023,https://satrday-london-2023.jumpingrivers.com/,London,UK,NA
+2023,March,March 15-17,ShinyConf 2023,https://shinyconf.com/,NA,NA,ShinyConf
 2022,December,December 1-2,2022 Government & Public Sector R Conference,https://rstats.ai/gov/,Washington DC,USA,NA
 2022,December,December 26-30,IISA,intindstat.org/conference2022/index,Bengaluru,India,NA
+2022,November,November 8-10,R/Pharma,https://rinpharma.com/,NA,NA,NA
+2022,November,November 26-27,R confeRence,https://www.r-conference.com/,NA,NA,NA
 2022,October,October 6-7,Shiny in Production,https://shiny-in-production.jumpingrivers.com/,Newcastle upon Tyne,UK,jumping_uk
 2022,September,September 6-8,EARL 2022,https://info.mango-solutions.com/earl-conference-2022,London,United Kingdom,earlconf
 2022,September,September 14-16,EUROBIOC 2022,https://eurobioc2022.bioconductor.org/,Heidelberg,Germany,Bioconductor
 2022,August,August 6-11,JSM,https://ww2.amstat.org/meetings/jsm/2022/conferenceinfo.cfm,Washington DC,USA,AmstatNews
+2022,August,August 23-26,R/Medicine,https://events.linuxfoundation.org/r-medicine/,NA,NA,r_medicine
 2022,July,July 25-28,rstudio::conf 2022,https://www.rstudio.com/conference/,Washington DC,USA,rstudio
 2022,July,July 27-29,BioC 2022,https://bioc2022.bioconductor.org/,Seattle WA,USA,Bioconductor
 2022,June,June 7-10,Symposium on Data Science and Statistics,https://ww2.amstat.org/meetings/sdss/2022/index.cfm,Pittsburgh PA,USA,AmstatNews
 2022,June,June 8-10,R Conference,https://rstats.ai/nyr/,New York NY,USA,rstatsai
 2022,June,June 15-17,Insurance Data Science Conference,https://insurancedatascience.org/,Milan,Spain,NA
+2022,June,June 20-23,useR!,https://user2022.r-project.org/,NA,NA,_useRconf
+2022,March,March 14-15,Workshop on Parallel Computing in R,https://warwick.ac.uk/research/rtp/sc/sulis/events/parallelr/,NA,NA,NA
+2021,December,December 10,Why R? 2021,http://2021.whyr.pl/,NA,NA,whyRconf
+2021,November,November 1-5 & 8-10,NHS-R Community Conference 2021,https://nhsrcommunity.com/nhs-r-community-conference-2021/,NA,NA,NHSrCommunity
+2021,November,November 8-13,Coda BR 2021,https://escoladedados.org/coda2021/,NA,NA,NA
+2021,November,November 10-12,LatinR 2021,https://latin-r.com/en,NA,NA,latinr_conf
+2021,September,September 6-10,Earl 20201,https://info.mango-solutions.com/earl-2021,NA,NA,NA
+2021,September,September 29-30,noRth 2021,https://rnorthconference.github.io/,NA,NA,NA
+2021,August,August 4-6,BioC2021,https://bioc2021.bioconductor.org/,NA,NA,NA
+2021,August,August 24-27,R Medicine,https://events.linuxfoundation.org/r-medicine/,NA,NA,r_medicine
+2021,July,July 6-9,useR 20201,https://user2021.r-project.org/,NA,NA,NA
+2021,June,June 4-5,CascadiaRConf,https://cascadiarconf.com/,NA,NA,cascadiarconf
+2021,June,June 17,R Lille Meetup,https://www.meetup.com/R-Lille/events/277902715/,NA,NA,rlille_rug
+2021,April,April 15,R Lille Meetup,https://www.meetup.com/R-Lille/events/277031496/,NA,NA,rlille_rug
+2021,April,April 29,R Lille Meetup,https://www.meetup.com/R-Lille/events/277132394/,NA,NA,rlille_rug
+2021,January,January 21,RStudio Global,https://rstudio.com/conference/,NA,NA,NA
+2021,January,January,Evidence Synthesis & Meta-Analysis in R,https://www.eshackathon.org/events/2021-01-ESMAR.html,NA,NA,eshackathon
+2020,November,November 14,SatRday Columbus,https://columbus2020.satrdays.org/,NA,NA,NA
+2020,October,October 12-16,R in Pharma,https://rinpharma.com/,NA,NA,NA
+2020,October,October 7-9,LatinR 2020,https://github.com/LatinR/presentaciones-LatinR2020,NA,NA,latinr_conf
+2020,August,August 27-30,R in Medicine,https://events.linuxfoundation.org/r-medicine/,NA,NA,NA
+2020,July,July 7-10,useR! 2020,https://user2020.r-project.org/,NA,NA,NA
+2020,July,July 7-10,useR! 2020 European Hub,https://user2020muc.r-project.org/,NA,NA,NA
+2020,July,July 14-15,noRth 2020,https://rnorthconference.github.io/,NA,NA,NA
+2020,July,July 23,Newcastle Data Science Meet-up,https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/271494400/,NA,NA,NA
+2020,June,June 17-22,eRum 2020,http://2020.erum.io/,NA,NA,NA
+2020,June,June 23,LondonR,https://mango-solutions.zoom.us/meeting/register/tJAtfuGsqjgiHtCTMIp4hgGHQTvfK8kD1kiU,NA,NA,NA
+2020,June,June 28,BristolR,https://www.meetup.com/Bristol-R-User-Group/events/271309225/,NA,NA,NA
+2020,May,May 30,SatRday Chicago,https://chicago2020.satrdays.org,NA,NA,NA
 2020,March,March 7,SatRdays Johannesburg,https://joburg2020.satrdays.org/,Johannesburg,South Africa,NA
 2020,March,March 14,SatRday Neuchâtel,https://neuchatel2020.satrdays.org/,NA,NA,NA
 2020,March,March 14-15,Chicago R Collaborative,https://chircollab.github.io/,Chicago,USA,NA

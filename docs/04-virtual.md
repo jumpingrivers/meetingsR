@@ -8,97 +8,16 @@ The format for listing a Virtual R event is
 
   * Date: [event name & link](http://www.example.com). [\@twitter_handle](https://twitter.com/twitter_handle).
 
-## 2024 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
-
-### July
-
-  * July 8-11: [useR! 2024](https://www.r-project.org/conferences/). [\@_useRconf](https://twitter.com/_useRconf).
-
-### May
-
-  * May 15-17: [New York R Conference](https://rstats.ai/). [\@rstatsai](https://twitter.com/rstatsai).
-
-### April
-
-  * April 17-19: [ShinyConf](https://www.shinyconf.com/). [\@ShinyConf](https://twitter.com/ShinyConf).
-
-## 2023 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
-
-### September 
-
-  * September 17-20: [posit::conf(2023)](https://posit.co/conference/). [\@posit_pbc](https://twitter.com/posit_pbc).
-
-### June
-
-  * June 8-12: [R for Health Technology Assessment (HTA) workshop](https://r-hta.org/events/workshop/2023/).
-  * June 6-9: [R / Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine).
-
-### March
-
-  * March 15-17: [ShinyConf 2023](https://shinyconf.com/). [\@ShinyConf](https://twitter.com/ShinyConf).
-
-## 2022 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
-
-### December
-
-  * December 1-2: [2022 Government & Public Sector R Conference](https://rstats.ai/gov/).
-
-### November
-
-  * November 8-10: [R/Pharma](https://rinpharma.com/). 
-  * November 26-27: [R confeRence](https://www.r-conference.com/). 
-
-### October 
-
-  * Weekly; [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine). [\@d_mykhailyshyna](https://twitter.com/d_mykhailyshyna)
-  * October 12: [LatinR 2022](https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197). [\@LatinR_Conf](https://twitter.com/LatinR_Conf).
-
-### August
-
-  * August 23-26: [R/Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine)
-
-### July
-
-  * July 27-29: [BioC 2022](https://bioc2022.bioconductor.org/). [\@Bioconductor](https://twitter.com/Bioconductor)
-
-### June
-
-  * June 8-10: [R Conference](https://rstats.ai/nyr/). [\@rstatsai](https://twitter.com/rstatsai)
-  * June 15-17: [Insurance Data Science Conference](https://insurancedatascience.org/).
-  * June 20-23: [useR!](https://user2022.r-project.org/). [\@_useRconf](https://twitter.com/_useRconf)
-  
-### May
-
-  * May 25-27: [VI International Seminar on Statistics with R](http://ser.uff.br/).
-  
-### April
-
-  * April 7: [R Lille: "Memory- and Computation-Efficient Statistical Tools for Big Matrices" - Florian Privé](https://www.meetup.com/R-Lille/events/284358899/). [\@RLille_RUG](https://twitter.com/RLille_RUG)
-  * April 15-17: [Why R? Turkey 2022](https://whyr.pl/2022/turkey/en/). [\@WhyRTurkey](https://twitter.com/WhyRTurkey)
-  * April 27-29: [2022 Appsilon Shiny Conference](https://appsilon.com/2022-appsilon-shiny-conference/).
-  
-### March
-
-  * March 14-15: [Workshop on Parallel Computing in R](https://warwick.ac.uk/research/rtp/sc/sulis/events/parallelr/).
-
 ## 2021 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
-### December
-
-  * December 10: [Why R? 2021](http://2021.whyr.pl/). [\@whyRconf](https://twitter.com/whyrconf)
-
 ### November
 
-  * November 1-5 & 8-10: [NHS-R Community Conference 2021](https://nhsrcommunity.com/nhs-r-community-conference-2021/). [\@NHSrCommunity](https://twitter.com/NHSrCommunity)
-  * November 8-13: [Coda BR 2021](https://escoladedados.org/coda2021/).
-  * November 10-12: [LatinR 2021](https://latin-r.com/en). [\@latinr_conf](https://twitter.com/latinr_conf)
-  * November 19: [Korea R Conference](https://use-r.kr/)
   * November 24-26: [The Use of R in Official Statistics](https://r-project.ro/conference2021.html)
 
 ### September
 
-  * September 6-10: [Earl 20201](https://info.mango-solutions.com/earl-2021).
   * September 29-30: [noRth 2021](https://rnorthconference.github.io/).
+  * September 6-10: [Earl 20201](https://info.mango-solutions.com/earl-2021).
 
 ### August
 
@@ -117,7 +36,6 @@ The format for listing a Virtual R event is
 ### April
 
   * April 15: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277031496/). [\@rlille_rug](https://twitter.com/rlille_rug).
-  * April 16-18: [WhyR? Turkey 2021](http://whyr.pl/2021/turkey/)
   * April 29: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277132394/). [\@rlille_rug](https://twitter.com/rlille_rug).
 
 ### January
@@ -138,9 +56,8 @@ The format for listing a Virtual R event is
 ### October
 
   * October 12-16: [R in Pharma](https://rinpharma.com/).
-  * October 7-9: [LatinR 2020](https://github.com/LatinR/presentaciones-LatinR2020). [\@latinr_conf](https://twitter.com/latinr_conf)
 
-### September
+## September
 
   * September 24-27: [Why R](https://2020.whyr.pl/)
 

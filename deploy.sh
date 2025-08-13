@@ -5,7 +5,6 @@ BASE_REPO=$PWD
 update_website() {
   Rscript -e 'source("R/parse_groups.R")'
   Rscript -e 'source("R/parse_events.R")'
-  Rscript -e 'source("R/parse_virtual.R")'
 
   cd ..; mkdir gh-pages; cd gh-pages
   git init

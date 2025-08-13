@@ -1,31 +1,6 @@
 # Automatically generated file. Edit the .Rmd file instead.
-2024,July,July 8-11,useR! 2024,https://www.r-project.org/conferences/,_useRconf
-2024,May,May 15-17,New York R Conference,https://rstats.ai/,rstatsai
-2024,April,April 17-19,ShinyConf,https://www.shinyconf.com/,ShinyConf
-2023,September ,September 17-20,posit::conf(2023),https://posit.co/conference/,posit_pbc
-2023,June,June 8-12,R for Health Technology Assessment (HTA) workshop,https://r-hta.org/events/workshop/2023/,NA
-2023,June,June 6-9,R / Medicine,https://events.linuxfoundation.org/r-medicine/,r_medicine
-2023,March,March 15-17,ShinyConf 2023,https://shinyconf.com/,ShinyConf
-2022,December,December 1-2,2022 Government & Public Sector R Conference,https://rstats.ai/gov/,NA
-2022,November,November 8-10,R/Pharma,https://rinpharma.com/,NA
-2022,November,November 26-27,R confeRence,https://www.r-conference.com/,NA
-2022,October ,October 12,LatinR 2022,https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197,LatinR_Conf
-2022,August,August 23-26,R/Medicine,https://events.linuxfoundation.org/r-medicine/,r_medicine
-2022,July,July 27-29,BioC 2022,https://bioc2022.bioconductor.org/,Bioconductor
-2022,June,June 8-10,R Conference,https://rstats.ai/nyr/,rstatsai
-2022,June,June 15-17,Insurance Data Science Conference,https://insurancedatascience.org/,NA
-2022,June,June 20-23,useR!,https://user2022.r-project.org/,_useRconf
-2022,May,May 25-27,VI International Seminar on Statistics with R,http://ser.uff.br/,NA
-2022,April,April 7,"R Lille: ""Memory- and Computation-Efficient Statistical Tools for Big Matrices"" - Florian Privé",https://www.meetup.com/R-Lille/events/284358899/,RLille_RUG
-2022,April,April 15-17,Why R? Turkey 2022,https://whyr.pl/2022/turkey/en/,WhyRTurkey
-2022,April,April 27-29,2022 Appsilon Shiny Conference,https://appsilon.com/2022-appsilon-shiny-conference/,NA
-2022,March,March 14-15,Workshop on Parallel Computing in R,https://warwick.ac.uk/research/rtp/sc/sulis/events/parallelr/,NA
-2021,December,December 10,Why R? 2021,http://2021.whyr.pl/,whyRconf
-2021,November,November 1-5 & 8-10,NHS-R Community Conference 2021,https://nhsrcommunity.com/nhs-r-community-conference-2021/,NHSrCommunity
-2021,November,November 8-13,Coda BR 2021,https://escoladedados.org/coda2021/,NA
-2021,November,November 10-12,LatinR 2021,https://latin-r.com/en,latinr_conf
-2021,September,September 6-10,Earl 20201,https://info.mango-solutions.com/earl-2021,NA
 2021,September,September 29-30,noRth 2021,https://rnorthconference.github.io/,NA
+2021,September,September 6-10,Earl 20201,https://info.mango-solutions.com/earl-2021,NA
 2021,August,August 4-6,BioC2021,https://bioc2021.bioconductor.org/,NA
 2021,August,August 24-27,R Medicine,https://events.linuxfoundation.org/r-medicine/,r_medicine
 2021,July,July 6-9,useR 20201,https://user2021.r-project.org/,NA
@@ -37,7 +12,6 @@
 2021,January,January,Evidence Synthesis & Meta-Analysis in R,https://www.eshackathon.org/events/2021-01-ESMAR.html,eshackathon
 2020,November,November 14,SatRday Columbus,https://columbus2020.satrdays.org/,NA
 2020,October,October 12-16,R in Pharma,https://rinpharma.com/,NA
-2020,October,October 7-9,LatinR 2020,https://github.com/LatinR/presentaciones-LatinR2020,latinr_conf
 2020,August,August 27-30,R in Medicine,https://events.linuxfoundation.org/r-medicine/,NA
 2020,July,July 7-10,useR! 2020,https://user2020.r-project.org/,NA
 2020,July,July 7-10,useR! 2020 European Hub,https://user2020muc.r-project.org/,NA
