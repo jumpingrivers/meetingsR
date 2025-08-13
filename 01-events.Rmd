@@ -10,11 +10,11 @@ The format for listing an R event is
 
 ## 2025 `r get_btn()` {-}
 
-## November 
+## November
   * November 3-7: [R/Pharma Virtual Conference](https://rinpharma.com/post/2025-06-14-announcement/)
   * November 12-13: [R+AI](https://r-consortium.org/posts/r_plus_ai_call_for_proposals/)
   * November 13-14: [NHS RPySOC 2025](https://nhsrcommunity.com/conference.html) London, UK and online [\@NHS-R Community](https://bsky.app/profile/nhsrcommunity.bsky.social)
- 
+
 ## October
   * October 14-16: [EARL](https://earl-conference.com/). Brighton, UK.
   * October 8-9: [Shiny in Production](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://bsky.app/profile/jumpingrivers.com).
@@ -51,7 +51,7 @@ The format for listing an R event is
 
   * October 9-10: [Shiny in Production 2024](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://twitter.com/jumping_uk).
   * October 29-31: [R/Pharma Conference 2024](https://rinpharma.com/). Virtual. [\@rinpharma](https://x.com/rinpharma)
-  
+
 ### September
 
   * September 4-5: [EARL 2024](https://datacove.co.uk/earl-2024-tech-conference/). Brighton, UK. [\@Datacove1](https://twitter.com/Datacove1)
@@ -81,14 +81,14 @@ The format for listing an R event is
 
   * April 17-19: [ShinyConf 2024](https://www.shinyconf.com/). Virtual. [\@ShinyConf](https://twitter.com/ShinyConf).
   * April 27: [SatRdays London 2024](https://satrday-london-2024.jumpingrivers.com/). London, UK.
-  
+
 ## 2023 `r get_btn()` {-}
 
 ### October
 
   * October 12-13: [Shiny in Production 2023](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://twitter.com/jumping_uk).
 
-### September 
+### September
 
   * September 17-20: [posit::conf(2023)](https://posit.co/conference/). Chicago, IL, USA. [\@posit_pbc](https://twitter.com/posit_pbc).
 
@@ -99,23 +99,34 @@ The format for listing an R event is
 
 ### June
 
+  * June 6-9: [R / Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine).
   * June 9: [R for Health Technology Assessment (HTA) workshop](https://r-hta.org/events/workshop/2023/). York, UK. **Note**: This is part of a larger online event (see virtual events section).
+  * June 8-12: [R for Health Technology Assessment (HTA) workshop](https://r-hta.org/events/workshop/2023/).
   * June 21-23: [Rencontres R 2023](https://twitter.com/rencontres_r). Avignon, France. [\@rencontres_R](https://twitter.com/rencontres_r).
-  
+
 ### May
-  
+
   * May 9-20: [R / Finance](https://www.rinfinance.com/). Chicago, IL, USA.
-  
+
 ### April
 
   * April 22: [SatRdays London 2023](https://satrday-london-2023.jumpingrivers.com/). London, UK.
-  
+
+### March
+
+  * March 15-17: [ShinyConf 2023](https://shinyconf.com/). [\@ShinyConf](https://twitter.com/ShinyConf).
+
 ## 2022 `r get_btn()` {-}
 
 ### December
 
   * December 1-2: [2022 Government & Public Sector R Conference](https://rstats.ai/gov/). Washington DC, USA.
-  * December 26-30: [IISA](intindstat.org/conference2022/index). Bengaluru, India. 
+  * December 26-30: [IISA](intindstat.org/conference2022/index). Bengaluru, India.
+
+### November
+
+  * November 8-10: [R/Pharma](https://rinpharma.com/).
+  * November 26-27: [R confeRence](https://www.r-conference.com/).
 
 ### October
 
@@ -129,24 +140,110 @@ The format for listing an R event is
 ### August
 
   * August 6-11: [JSM](https://ww2.amstat.org/meetings/jsm/2022/conferenceinfo.cfm). Washington DC, USA. [\@AmstatNews](https://twitter.com/AmstatNews)
+  * August 23-26: [R/Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine)
 
 ### July
 
   * July 25-28: [rstudio::conf 2022](https://www.rstudio.com/conference/). Washington DC, USA. [\@rstudio](https://twitter.com/rstudio)
   * July 27-29: [BioC 2022](https://bioc2022.bioconductor.org/). Seattle WA, USA. [\@Bioconductor](https://twitter.com/Bioconductor)
-  
+
 ### June
 
-* June 3-4: [R/Finance](https://web.cvent.com/event/2efa4ed6-5d94-44cf-9c15-e0ae8d78276e/summary?environment=P2). Chicago IL, USA.
-* June 7-10: [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2022/index.cfm). Pittsburgh PA, USA. [\@AmstatNews](https://twitter.com/AmstatNews)
-* June 8-10: [R Conference](https://rstats.ai/nyr/). New York NY, USA. [\@rstatsai](https://twitter.com/rstatsai)
-* June 15-17: [Insurance Data Science Conference](https://insurancedatascience.org/). Milan, Spain.
+  * June 3-4: [R/Finance](https://web.cvent.com/event/2efa4ed6-5d94-44cf-9c15-e0ae8d78276e/summary?environment=P2). Chicago IL, USA.
+  * June 7-10: [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2022/index.cfm). Pittsburgh PA, USA. [\@AmstatNews](https://twitter.com/AmstatNews)
+  * June 8-10: [R Conference](https://rstats.ai/nyr/). New York NY, USA. [\@rstatsai](https://twitter.com/rstatsai)
+  * June 15-17: [Insurance Data Science Conference](https://insurancedatascience.org/). Milan, Spain.
+  * June 20-23: [useR!](https://user2022.r-project.org/). [\@_useRconf](https://twitter.com/_useRconf)
+
+### March
+
+  * March 14-15: [Workshop on Parallel Computing in R](https://warwick.ac.uk/research/rtp/sc/sulis/events/parallelr/).
+
+## 2021 `r get_btn()` {-}
+
+### December
+
+  * December 10: [Why R? 2021](http://2021.whyr.pl/). [\@whyRconf](https://twitter.com/whyrconf)
+
+### November
+
+  * November 1-5 & 8-10: [NHS-R Community Conference 2021](https://nhsrcommunity.com/nhs-r-community-conference-2021/). [\@NHSrCommunity](https://twitter.com/NHSrCommunity)
+  * November 8-13: [Coda BR 2021](https://escoladedados.org/coda2021/).
+  * November 10-12: [LatinR 2021](https://latin-r.com/en). [\@latinr_conf](https://twitter.com/latinr_conf)
+  * November 19: [Korea R Conference](https://use-r.kr/)
+  * November 24-26: [The Use of R in Official Statistics](https://r-project.ro/conference2021.html)
+
+### September
+
+  * September 6-10: [Earl 20201](https://info.mango-solutions.com/earl-2021).
+  * September 29-30: [noRth 2021](https://rnorthconference.github.io/).
+
+### August
+
+   * August 4-6: [BioC2021](https://bioc2021.bioconductor.org/).
+   * August 24-27: [R Medicine](https://events.linuxfoundation.org/r-medicine/). [\@r_medicine](https://twitter.com/r_medicine).
+
+### July
+
+  * July 6-9: [useR 20201](https://user2021.r-project.org/).
+
+### June
+
+  * June 4-5: [CascadiaRConf](https://cascadiarconf.com/). [\@cascadiarconf](https://twitter.com/cascadiarconf)
+  * June 17: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277902715/). [\@rlille_rug](https://twitter.com/rlille_rug)
+
+### April
+
+  * April 15: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277031496/). [\@rlille_rug](https://twitter.com/rlille_rug).
+  * April 16-18: [WhyR? Turkey 2021](http://whyr.pl/2021/turkey/)
+  * April 29: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277132394/). [\@rlille_rug](https://twitter.com/rlille_rug).
+
+### January
+
+  * January 21: [RStudio Global](https://rstudio.com/conference/).
+  * January: [Evidence Synthesis & Meta-Analysis in R](https://www.eshackathon.org/events/2021-01-ESMAR.html). [\@eshackathon](https://twitter.com/eshackathon)
 
 ## 2020 `r get_btn()` {-}
 
 ### December
 
- * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austria.
+  * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austria.
+  * December 2-4: [The R Conference | Government & Public Sector](https://rstats.ai/gov/). [#rstatsdc](https://twitter.com/search?q=%23rstatsdc&src=typed_query).
+
+### November
+
+  * November 14: [SatRday Columbus](https://columbus2020.satrdays.org/). [#satRdayColumbus](https://twitter.com/search?q=%23satRdayColumbus&src=typed_query).
+
+### October
+
+  * October 12-16: [R in Pharma](https://rinpharma.com/).
+  * October 7-9: [LatinR 2020](https://github.com/LatinR/presentaciones-LatinR2020). [\@latinr_conf](https://twitter.com/latinr_conf)
+
+### September
+
+  * September 24-27: [Why R](https://2020.whyr.pl/)
+
+### August
+
+  * August 12-15: [New York R Conference](https://rstats.ai/nyr/)
+  * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/).
+
+### July
+
+  * July 7-10: [useR! 2020](https://user2020.r-project.org/). [\@useR2020stl](https://twitter.com/useR2020stl).
+  * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). [\@useR2020muc](https://twitter.com/useR2020muc).
+  * July 14-15: [noRth 2020](https://rnorthconference.github.io/).
+  * July 23: [Newcastle Data Science Meet-up](https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/271494400/).
+
+### June
+
+  * June 17-22: [eRum 2020](http://2020.erum.io/). [\@erum2020_conf](https://twitter.com/erum2020_conf).
+  * June 23: [LondonR](https://mango-solutions.zoom.us/meeting/register/tJAtfuGsqjgiHtCTMIp4hgGHQTvfK8kD1kiU).
+  * June 28: [BristolR](https://www.meetup.com/Bristol-R-User-Group/events/271309225/).
+
+### May
+
+  * May 30: [SatRday Chicago](https://chicago2020.satrdays.org).
 
 ### April
 
@@ -297,7 +394,7 @@ The format for listing an R event is
   * December 5-6: [Bioconductor European Conference](https://bioconductor.org/help/course-materials/2017/BioCEurope/). Cambridge, UK.
 
 ### November
-  
+
   * November 1-3: [EARL Boston 2017](https://earlconf.com/boston/). Boston, USA.
   * November 6-7: New Challenges for Statistical Software - The Use of R in Official Statistics. Bucharest, Romania.
   * November 8-9: [R Kenntnis-Tage 2017](http://www.eoda.de/de/R-Kenntnis-Tage.html). Kassel, Germany.
@@ -317,7 +414,7 @@ The format for listing an R event is
 
   * June 3: [CascadiaRconf](https://cascadiarconf.com/2017). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
   * June 5-7: EARL. San Francisco, USA.
-  * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/). Paris, France. 
+  * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/). Paris, France.
 
 ### May
 
@@ -348,7 +445,7 @@ The format for listing an R event is
  * December: European Bioconductor Developers' Meeting. Basel, Switzerland.
  * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA.
  * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
- * September: 
+ * September:
   * [EARL London 2016](https://earlconf.com/london/). London, UK.
   * [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
  * July: [UseR! 2016](http://user2016.org/). Stanford, USA. ([Recordings here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016))
