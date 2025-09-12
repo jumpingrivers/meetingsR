@@ -8,6 +8,12 @@ The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
+
+## 2026 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+
+## July
+  * July 6-9: UseR! 2026. Warsaw, Poland.
+
 ## 2025 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ## November
