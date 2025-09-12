@@ -4,17 +4,22 @@ suppressMessages(library("tidyverse"))
 # 1. Read in the data
 ##############################
 
-rmds = c("03-Rladies.Rmd", "02_useR_groups_asia.Rmd", "02_useR_groups_europe.Rmd",
-         "02_useR_groups_middle_east_africa.Rmd", "02_useR_groups_north_america.Rmd",
-         "02_useR_groups_oceania.Rmd", "02_useR_groups_south_america.Rmd")
+rmds = c(
+  "03-Rladies.Rmd",
+  "02_useR_groups_asia.Rmd",
+  "02_useR_groups_europe.Rmd",
+  "02_useR_groups_middle_east_africa.Rmd",
+  "02_useR_groups_north_america.Rmd",
+  "02_useR_groups_oceania.Rmd",
+  "02_useR_groups_south_america.Rmd"
+)
 ############################3
 # 2. Function to extract data
 
 #############################
 
 rmd_parse = function(entry) {
-  values = list(page = NA, country = NA, city = NA,
-                group_name = NA, link = NA, twitter = NA)
+  values = list(page = NA, country = NA, city = NA, group_name = NA, link = NA, twitter = NA)
 
   ## Globs
   link = "\\[([\\(\\)\\'\\w -]*)\\](?=\\()\\(([\\w|/|:|\\-|\\.]*)\\)"
@@ -38,7 +43,7 @@ rmd_parse = function(entry) {
   as_tibble(values)
 }
 
-groups = map(rmds, readLines)  %>%
+groups = map(rmds, readLines) %>%
   flatten_chr() %>%
   map_df(rmd_parse) %>%
   fill(page, country) %>%

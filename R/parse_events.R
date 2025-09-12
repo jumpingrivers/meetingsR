@@ -11,9 +11,16 @@ rmds = "01-events.Rmd"
 #############################
 
 rmd_parse = function(entry) {
-  values = list(year = NA, month = NA, date = NA, name = NA,
-                link = NA, city = NA, country = NA,
-                twitter = NA)
+  values = list(
+    year = NA,
+    month = NA,
+    date = NA,
+    name = NA,
+    link = NA,
+    city = NA,
+    country = NA,
+    twitter = NA
+  )
 
   ## Globs
   link = "\\[([\\w -/':?]*)\\](?=\\()\\(([\\w|/|:|\\-|\\.|#]*)\\)"
@@ -50,4 +57,3 @@ events = readLines(rmds) %>%
 
 write("# Automatically generated file. Edit the .Rmd file instead.", file = "docs/events.csv")
 readr::write_csv(events, file = "docs/events.csv", append = TRUE)
-
