@@ -11,14 +11,14 @@ url_pattern = "http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F
 
 files = list.files("docs/", pattern = "*.html", full.names = TRUE)
 bad_urls = c() # I know I'm growing a vector, but life is too short
-for(fname in files) {
+for (fname in files) {
   message(fname)
   urls = str_extract(readLines(fname), url_pattern)
   urls = urls[!is.na(urls)]
-  for(url in urls){
+  for (url in urls) {
     message("Testing url: ", url)
     test_url = httr::GET(url)
-    if(test_url$status_code != 200) {
+    if (test_url$status_code != 200) {
       message("\t", url, " ", test_url$status_code)
       bad_urls = c(bad_urls, url)
     }
