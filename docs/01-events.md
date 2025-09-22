@@ -6,7 +6,7 @@ knit: "bookdown::preview_chapter"
 
 The format for listing an R event is
 
-  * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
+  * Date: [event name & link](http://www.example.com). Town, Country. Social Media Link.
 
 ## 2026 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
@@ -17,9 +17,12 @@ The format for listing an R event is
   * July 6-9: UseR! 2026. Warsaw, Poland.
 
 ## May
-  * May 4-8: [R/Medicine 2026](https://rconsortium.github.io/RMedicine_website/) (Virtual).
+  * May 4-8: [R/Medicine 2026](https://rconsortium.github.io/RMedicine_website/), Virtual.
 
 ## 2025 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+
+## December
+  * December 1-5: [LatinR](https://latinr.org/en/), Vitural. [\@latinrconf.bsky.social](https://bsky.app/profile/did:plc:5u5rzl53uyllkq7swmjfa32s).
 
 ## November
   * November 3-7: [R/Pharma Virtual Conference](https://rinpharma.com/post/2025-06-14-announcement/)
