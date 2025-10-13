@@ -23,6 +23,7 @@ The format for listing an R event is
 
 ## December
   * December 1-5: [LatinR](https://latinr.org/en/), Vitural. [\@latinrconf.bsky.social](https://bsky.app/profile/did:plc:5u5rzl53uyllkq7swmjfa32s).
+  * December 7: Japan.R 2025. Tokyo, Japan.
 
 ## November
   * November 3-7: [R/Pharma Virtual Conference](https://rinpharma.com/post/2025-06-14-announcement/)
@@ -53,6 +54,9 @@ The format for listing an R event is
   * April 11-12th: [Open Source Quantitative Finance conference (osQF, formerly R/Finance)](https://www.osqf.org/). Chicago, USA.
 
 ## 2024 `r get_btn()` {-}
+
+## December
+  * December 7: [Japan.R 2024](https://japanr.connpass.com/event/334154/). Tokyo, Japan.
 
 ### November
 
