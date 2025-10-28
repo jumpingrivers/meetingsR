@@ -13,6 +13,9 @@ The format for listing an R event is
 ## September
   * September 14-16: Posit::conf(2026). Houston, USA.
 
+## August
+  * August: 10-12: [Bioc2026](https://bioc2026.bioconductor.org/). Seattle, USA.
+
 ## July
   * July 6-9: UseR! 2026. Warsaw, Poland.
 
