@@ -19,6 +19,9 @@ The format for listing an R event is
 ## July
   * July 6-9: UseR! 2026. Warsaw, Poland.
 
+## June
+  * June 4-5: [AI in Production](https://www.eventbrite.co.uk/e/ai-in-production-registration-1777831163869). Newcastle, UK.
+
 ## May
   * May 4-8: [R/Medicine 2026](https://rconsortium.github.io/RMedicine_website/), Virtual.
 
