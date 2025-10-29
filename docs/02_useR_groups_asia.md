@@ -18,7 +18,7 @@
   * Kolkata: [Kolkata R UseR group](https://www.meetup.com/kolkata-r-user-group/)
   * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/)
   * New Delhi: [New Delhi UseR Group](https://www.meetup.com/New-Delhi-R-UseR-Group/)
-  * Pune: [Pune R User Group](https://www.meetup.com/Pune-R-junkies-Meetup/)
+  * Pune: [Pune R User Group](https://www.meetup.com/pune-r-userr-group)
 
 ### Japan <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_asia.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
   
