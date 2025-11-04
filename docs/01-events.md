@@ -32,7 +32,7 @@ The format for listing an R event is
   * December 6: Japan.R 2025. Tokyo, Japan.
 
 ## November
-  * November 3-7: [R/Pharma Virtual Conference](https://rinpharma.com/post/2025-06-14-announcement/)
+  * November 3-7: [R/Pharma Virtual Conference](https://rinpharma.com/docs/RPH2025/)
   * November 12-13: [R+AI](https://r-consortium.org/posts/r_plus_ai_call_for_proposals/)
   * November 13-14: [NHS RPySOC 2025](https://nhsrcommunity.com/conference.html) London, UK and online [\@NHS-R Community](https://bsky.app/profile/nhsrcommunity.bsky.social)
 
