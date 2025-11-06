@@ -10,61 +10,61 @@ The format for listing an R event is
 
 ## 2026 `r get_btn()` {-}
 
-## September
+### September
   * September 14-16: Posit::conf(2026). Houston, USA.
 
-## August
+### August
   * August: 10-12: [Bioc2026](https://bioc2026.bioconductor.org/). Seattle, USA.
 
-## July
+### July
   * July 6-9: UseR! 2026. Warsaw, Poland.
 
-## June
+### June
   * June 4-5: [AI in Production](https://ai-in-production.jumpingrivers.com/). Newcastle, UK.
 
-## May
+### May
   * May 4-8: [R/Medicine 2026](https://rconsortium.github.io/RMedicine_website/), Virtual.
 
-## February
+### February
   * February 25-26: [rainbowR conference](https://conference.rainbowr.org), Virtual.
 
 ## 2025 `r get_btn()` {-}
 
-## December
+### December
   * December 1-5: [LatinR](https://latinr.org/en/), Vitural. [\@latinrconf.bsky.social](https://bsky.app/profile/did:plc:5u5rzl53uyllkq7swmjfa32s).
   * December 6: Japan.R 2025. Tokyo, Japan.
 
-## November
+### November
   * November 3-7: [R/Pharma Virtual Conference](https://rinpharma.com/docs/RPH2025/)
   * November 12-13: [R+AI](https://r-consortium.org/posts/r_plus_ai_call_for_proposals/)
   * November 13-14: [NHS RPySOC 2025](https://nhsrcommunity.com/conference.html) London, UK and online [\@NHS-R Community](https://bsky.app/profile/nhsrcommunity.bsky.social)
 
-## October
+### October
   * October 14-16: [EARL](https://earl-conference.com/). Brighton, UK.
   * October 8-9: [Shiny in Production](https://shiny-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumping_uk](https://bsky.app/profile/jumpingrivers.com).
 
-## September
+### September
   * September 16-18: [posit::conf](https://posit.co/). Atlanta, GA, USA.  [\@posit_pbc](https://twitter.com/posit_pbc).
 
-## August
+### August
   * August 8-10: [useR](https://user2025.r-project.org/). Durham, North Carolina, USA.
   * August 19: [GenAI in Pharma](https://rinpharma.com/post/2025-06-14-announcement/)
 
-## June
+### June
   * June 10-13: [R Medicine](https://rconsortium.github.io/RMedicine_website/). Virtual.
   * June 19-20: [Ghana R Conference](https://ghana-rusers.org/)
   * June 20-21: [CCascadia R Conference](https://cascadiarconf.com/cfp/). Portland, OR, USA.
 
-## May
+### May
  * May 19-21: [Rencontres R 2025](https://rr2025.sciencesconf.org/). Mons, Belgium.
 
-## April
+### April
   * April 9-11: [ShinyConf2025](https://events.ringcentral.com/events/shinyconf-2025). Virtual. [\@ShinyConf](https://x.com/ShinyConf)
   * April 11-12th: [Open Source Quantitative Finance conference (osQF, formerly R/Finance)](https://www.osqf.org/). Chicago, USA.
 
 ## 2024 `r get_btn()` {-}
 
-## December
+### December
   * December 7: [Japan.R 2024](https://japanr.connpass.com/event/334154/). Tokyo, Japan.
 
 ### November
