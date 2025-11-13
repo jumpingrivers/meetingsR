@@ -26,6 +26,7 @@ The format for listing an R event is
   * May 4-8: [R/Medicine 2026](https://rconsortium.github.io/RMedicine_website/), Virtual.
 
 ### February
+  * February 18-19: [R!sk 2026](https://rconsortium.github.io/Risk_website/cfp.html), Virtual.
   * February 25-26: [rainbowR conference](https://conference.rainbowr.org), Virtual.
 
 ## 2025 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
