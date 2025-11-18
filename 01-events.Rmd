@@ -33,7 +33,7 @@ The format for listing an R event is
 
 ### December
   * December 1-5: [LatinR](https://latinr.org/en/), Vitural. [\@latinrconf.bsky.social](https://bsky.app/profile/did:plc:5u5rzl53uyllkq7swmjfa32s).
-  * December 6: Japan.R 2025. Tokyo, Japan.
+  * December 6: [Japan.R 2025](https://japanr.connpass.com/event/374714/). Tokyo, Japan.
 
 ### November
   * November 3-7: [R/Pharma Virtual Conference](https://rinpharma.com/docs/RPH2025/)
