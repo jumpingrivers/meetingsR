@@ -20,14 +20,45 @@ The format for listing an R event is
   * July 6-9: UseR! 2026. Warsaw, Poland.
 
 ### June
-  * June 4-5: [AI in Production](https://ai-in-production.jumpingrivers.com/). Newcastle, UK.
+  * June 4-5: [AI in Production](https://ai-in-production.jumpingrivers.com/), Newcastle, UK.
+  * June 8: [Statistical Modelling with R](https://www.jumpingrivers.com/training/course/r-statistics-modelling-linear-regression-clustering?event=8th%20June%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * June 10: [Data Visualisation with Python](https://www.jumpingrivers.com/training/course/python-matplotlib-seaborn-visualisation?event=10th%20June%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * June 15: [Reporting with Quarto](https://www.jumpingrivers.com/training/course/reporting-with-quarto?event=15th%20June%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * June 22: [Machine Learning with Tidymodels](https://www.jumpingrivers.com/training/course/r-prediction-inference-analytics-machine-learning-tidymodels?event=22nd%20June%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * June 29: [Advanced Machine Learning with Tidymodels](https://www.jumpingrivers.com/training/course/r-prediction-inference-tidymodels-lda-pre-processing-tree-based-models?event=29th%20June%202026::13:30%20-%2017:00::Online#book), Virtual.
+
 
 ### May
   * May 4-8: [R/Medicine 2026](https://rconsortium.github.io/RMedicine_website/), Virtual.
+  * May 11: [Programming with R](https://www.jumpingrivers.com/training/course/r-programming-functions-looping-conditionals?event=11th%20May%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * May 18: [Introduction to Python](https://www.jumpingrivers.com/training/course/python-introduction-visualisation-manipulation?event=18th%20May%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * May 20: [Programming with Python](https://www.jumpingrivers.com/training/course/python-programming-control-flow-functions?event=20th%20May%202026::13:30%20-%2017:00::Online#book), Virtual.
+
+
+### April
+  * April 13: [Introduction to R](https://www.jumpingrivers.com/training/course/r-introduction-tidyverse-readr-ggplot2-dplyr?event=13th%20April%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * April 20: [Data Wrangling in the Tidyverse](https://www.jumpingrivers.com/training/course/data-tidyverse-dplyr-tidyr-lubridate-forcats?event=20th%20April%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * April 27: [Data Visualisation with ggplot2](https://www.jumpingrivers.com/training/course/r-advanced-graphics-ggplot2-plotly-themes-scaling-faceting?event=27th%20April%202026::13:30%20-%2017:00::Online#book), Virtual.
+
+### March
+  * March 2: [Data Visualisation with Python](https://www.jumpingrivers.com/training/course/python-matplotlib-seaborn-visualisation?event=2nd%20March%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * March 9: [Statistical Modelling with R](https://www.jumpingrivers.com/training/course/r-statistics-modelling-linear-regression-clustering?event=9th%20March%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * March 16: [Machine Learning with Tidymodels](https://www.jumpingrivers.com/training/course/r-prediction-inference-analytics-machine-learning-tidymodels?event=16th%20March%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * March 31: [Advanced Machine Learning with Tidymodels](https://www.jumpingrivers.com/training/course/r-prediction-inference-tidymodels-lda-pre-processing-tree-based-models?event=31st%20March%202026::13:30%20-%2017:00::Online#book), Virtual.
 
 ### February
+  * February 2: [Data Visualisation with ggplot2](https://www.jumpingrivers.com/training/course/r-advanced-graphics-ggplot2-plotly-themes-scaling-faceting?event=2nd%20February%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * February 9: [Programming with R](https://www.jumpingrivers.com/training/course/r-programming-functions-looping-conditionals?event=9th%20February%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * February 16: [Introduction to Python](https://www.jumpingrivers.com/training/course/python-introduction-visualisation-manipulation?event=16th%20February%202026::13:30%20-%2017:00::Online#book), Virtual.
   * February 18-19: [R!sk 2026](https://rconsortium.github.io/Risk_website/cfp.html), Virtual.
+  * February 23: [Programming with Python](https://www.jumpingrivers.com/training/course/python-programming-control-flow-functions?event=23rd%20February%202026::13:30%20-%2017:00::Online#book), Virtual.
   * February 25-26: [rainbowR conference](https://conference.rainbowr.org), Virtual.
+
+### January
+  * January 12: [Introduction to R](https://www.jumpingrivers.com/training/course/r-introduction-tidyverse-readr-ggplot2-dplyr?event=12th%20January%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * January 19: [Introduction to Bayesian Inference using RStan](https://www.jumpingrivers.com/training/course/introduction-bayesian-inference-rstan-monte-carlo?event=19th%20January%202026::13:30%20-%2017:00::Online#book), Virtual.
+  * January 26: [Data Wrangling in the Tidyverse](https://www.jumpingrivers.com/training/course/data-tidyverse-dplyr-tidyr-lubridate-forcats?event=26th%20January%202026::13:30%20-%2017:00::Online#book), Virtual.
+
 
 ## 2025 `r get_btn()` {-}
 
