@@ -18,6 +18,7 @@ The format for listing an R event is
 
 ### July
   * July 6-9: UseR! 2026. Warsaw, Poland.
+  * July 9-10: Ghana R Conference 2026. Accra, Ghana
 
 ### June
   * June 4-5: [AI in Production](https://ai-in-production.jumpingrivers.com/). Newcastle, UK.

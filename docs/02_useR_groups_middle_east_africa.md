@@ -29,6 +29,10 @@ knit: "bookdown::preview_chapter"
   * Cairo: [Cairo Bioinformatics Group](https://www.meetup.com/Cairo-Bioinformatics-Group/)
   * Cairo: [Cairo R Users Group](https://www.meetup.com/Cairo-R-Users-Group/)
 
+### Ghana <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_middle_east_africa.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+
+  * Ghana: [Ghana R Users Community](https://ghana-rusers.org/); [\@RUsersGhana](https://x.com/RUsersGhana)
+
 ### Israel <a href="https://github.com/jumpingrivers/meetingsR/blob/main/02_useR_groups_middle_east_africa.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Tel Aviv: [Israel R User Group](https://groups.google.com/group/israel-r-user-group)
