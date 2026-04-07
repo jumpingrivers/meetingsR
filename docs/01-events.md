@@ -10,6 +10,10 @@ The format for listing an R event is
 
 ## 2026 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+### November
+
+  * November 18-20: [Use of R in Official Statistics - uRos2026](https://r-project.ro/conference2026.html). Paris, France.
+
 ### September
   * September 14-16: Posit::conf(2026). Houston, USA.
 
