@@ -11,8 +11,12 @@ The format for listing an R event is
 ## 2026 `r get_btn()` {-}
 
 ### November
-
+  * November 11-13: [LatinR 2026](https://latinr.org/). Universidad de Antioquia, Medellín, Colombia.
   * November 18-20: [Use of R in Official Statistics - uRos2026](https://r-project.ro/conference2026.html). Paris, France.
+
+### October
+  * October 6-8: [EARL 2026](https://earl-conference.com/). Brighton, UK.
+  * October 20-21: [R/Pharma 2026](https://rinpharma.com/). Virtual.
 
 ### September
   * September 14-16: Posit::conf(2026). Houston, USA.
@@ -28,6 +32,7 @@ The format for listing an R event is
   * June 3-5: [EuroBioC2026](https://eurobioc2026.bioconductor.org/). Turku, Finland.
   * June 4-5: [AI in Production](https://ai-in-production.jumpingrivers.com/). Newcastle, UK.
   * June 16-18: [Rencontres R 2026](https://rr2026.sciencesconf.org/). Nantes, France.
+  * June 26-27: [Cascadia R Conf 2026](https://cascadiarconf.com/). Portland, OR, USA.
 
 ### May
   * May 4-8: [R/Medicine 2026](https://rconsortium.github.io/RMedicine_website/), Virtual.
