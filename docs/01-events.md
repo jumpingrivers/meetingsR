@@ -31,6 +31,7 @@ The format for listing an R event is
 ### June
   * June 3-5: [EuroBioC2026](https://eurobioc2026.bioconductor.org/). Turku, Finland.
   * June 4-5: [AI in Production](https://ai-in-production.jumpingrivers.com/). Newcastle, UK.
+  * June 16: [R/Pharma genAI Day](https://events.zoom.us/ev/AkKYQ7Uryr8k8HeuQ7F6rkZTHJwjHlP6gxu14Z2s1LYb0kswLdDT~ApU4J3CViJWrwmjZhnw0nwGzDFCxNGoMHJAw01NbG30yNwnVwf9IJQkvOg). Virtual.
   * June 16-18: [Rencontres R 2026](https://rr2026.sciencesconf.org/). Nantes, France.
   * June 26-27: [Cascadia R Conf 2026](https://cascadiarconf.com/). Portland, OR, USA.
 
