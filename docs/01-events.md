@@ -23,6 +23,7 @@ The format for listing an R event is
 
 ### August
   * August: 10-12: [Bioc2026](https://bioc2026.bioconductor.org/). Seattle, USA.
+  * August: 25-28: [RSLA26](https://rs-latam.org/). Research Software Latin America, Virtual.  
 
 ### July
   * July 6-9: UseR! 2026. Warsaw, Poland.
