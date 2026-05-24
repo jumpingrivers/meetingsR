@@ -26,6 +26,7 @@ The format for listing an R event is
   * August: 25-28: [RSLA26](https://rs-latam.org/). Research Software Latin America, Virtual.  
 
 ### July
+  * July 1-3: [OSS Conf](https://ossconf.fri.uniza.sk/). Žilina, Slovakia.
   * July 6-9: UseR! 2026. Warsaw, Poland.
   * July 9-10: Ghana R Conference 2026. Accra, Ghana.
 
