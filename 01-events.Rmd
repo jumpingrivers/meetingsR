@@ -8,6 +8,11 @@ The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Social Media Link.
 
+## 2027 `r get_btn()` {-}
+
+### June
+  * June 10-11: [AI in Production 2027](https://ai-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK.
+
 ## 2026 `r get_btn()` {-}
 
 ### November

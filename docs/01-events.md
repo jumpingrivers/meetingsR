@@ -8,6 +8,11 @@ The format for listing an R event is
 
   * Date: [event name & link](http://www.example.com). Town, Country. Social Media Link.
 
+## 2027 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+
+### June
+  * June 10-11: [AI in Production 2027](https://ai-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK.
+
 ## 2026 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### November
