@@ -11,7 +11,7 @@ The format for listing an R event is
 ## 2027 `r get_btn()` {-}
 
 ### June
-  * June 10-11: [AI in Production 2027](https://ai-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK. [\@jumpingrivers.com](https://bsky.app/profile/jumpingrivers.com).
+  * June 10-11: [AI in Production 2027](https://ai-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK.
 
 ## 2026 `r get_btn()` {-}
 
