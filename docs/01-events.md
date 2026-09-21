@@ -18,6 +18,7 @@ The format for listing an R event is
 ### November
   * November 11-13: [LatinR 2026](https://latinr.org/). Universidad de Antioquia, Medellín, Colombia.
   * November 18-20: [Use of R in Official Statistics - uRos2026](https://r-project.ro/conference2026.html). Paris, France.
+  * November 29: [OceaniaR 2026](https://statsocaus.github.io/oceaniar-2026/). Melbourne, Australia.  
 
 ### October
   * October 6-8: [EARL 2026](https://earl-conference.com/). Brighton, UK.
