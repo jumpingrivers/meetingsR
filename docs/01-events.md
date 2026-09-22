@@ -10,6 +10,9 @@ The format for listing an R event is
 
 ## 2027 <a href="https://github.com/jumpingrivers/meetingsR/blob/main/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
+### September
+  * September 13-15: Posit::conf(2027). Seattle, USA.
+
 ### June
   * June 10-11: [AI in Production 2027](https://ai-in-production.jumpingrivers.com/). Newcastle upon Tyne, UK.
 
@@ -28,8 +31,8 @@ The format for listing an R event is
   * September 14-16: Posit::conf(2026). Houston, USA.
 
 ### August
-  * August: 10-12: [Bioc2026](https://bioc2026.bioconductor.org/). Seattle, USA.
-  * August: 25-28: [RSLA26](https://rs-latam.org/). Research Software Latin America, Virtual.  
+  * August 10-12: [Bioc2026](https://bioc2026.bioconductor.org/). Seattle, USA.
+  * August 25-28: [RSLA26](https://rs-latam.org/). Research Software Latin America, Virtual.  
 
 ### July
   * July 1-3: [OSS Conf](https://ossconf.fri.uniza.sk/). Žilina, Slovakia.
